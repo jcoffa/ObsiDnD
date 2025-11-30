@@ -1,0 +1,10 @@
+{
+  "cssTheme": "ITS Theme",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "appearance"
+  ],
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSize": 16
+}

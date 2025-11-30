@@ -1,0 +1,22 @@
+body {
+    /* Adjust the "Readable line length" editor setting */
+    --file-line-width: 900px;
+}
+
+/* Change graph node colour for notes that don't exist */
+.graph-view.color-fill-unresolved {
+    color: #dc143c;
+}
+
+/* Center tables horizontally in Preview mode*/
+.markdown-preview-view table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Center images */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
