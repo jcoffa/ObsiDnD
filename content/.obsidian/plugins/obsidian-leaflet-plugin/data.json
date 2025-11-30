@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "Teradin",
-      "lastAccessed": 1764545181197,
+      "lastAccessed": 1764546962719,
       "markers": [
         {
           "id": "ID_19eb5848797a",
@@ -23,9 +23,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "Places/Teradin.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {

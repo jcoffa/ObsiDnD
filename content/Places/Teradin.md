@@ -28,6 +28,6 @@ darkmode: false ### marker
 >[!Tip]- Static Map Image
 > ![[Teradin.webp]]
 
-## Teradin
+# Teradin
 
 TODO!

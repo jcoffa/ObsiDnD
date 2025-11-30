@@ -40,6 +40,6 @@ darkmode: false ### marker
 >[!Tip]- Static Map Image
 > Put an embed of the map image here, like `![[Teradin.png]]`
 
-## <% tp.file.title %>
+# <% tp.file.title %>
 
 Start writing here!
