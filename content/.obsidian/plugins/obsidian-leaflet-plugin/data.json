@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "Teradin",
-      "lastAccessed": 1764388937837,
+      "lastAccessed": 1764536266317,
       "markers": [
         {
           "id": "ID_19eb5848797a",
@@ -16,6 +16,22 @@
           "command": false,
           "percent": null,
           "description": "Utopia",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_898aaaaa7af8",
+          "type": "default",
+          "loc": [
+            953.234375,
+            490.5
+          ],
+          "layer": "%5B%5BTeradin.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "My First Marker <3 -Sage",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
