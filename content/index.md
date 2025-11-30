@@ -14,6 +14,7 @@ Uses the theme [*ITS Theme* by SlRvb](https://github.com/SlRvb/Obsidian--ITS-The
 
 - Excalidraw, for drawing
 - Iconize, for adding pretty icons to folders and notes
+- Image Converter, to automatically convert images into `.webp` format to greatly reduce file sizes
 - Leaflet, for embedding images and treating them like maps
 - Meta Bind, as a requirement for Leaflet to work with maps
 - Quick Add, for streamlining creating notes and applying templates

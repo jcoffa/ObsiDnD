@@ -28,7 +28,7 @@ Outsiders don’t know much of the goings on In the frozen March, though people 
 
 ### Opening Spiel
 
-Welcome to the continents of Teradin.
+Welcome to the continents of [[Teradin]].
 
 A sweeping landscape of vastly different terrains, races, species, cultures, and magics. From the Myconid Growth of the Southern island filled with mushrooms and ancient mechanisms, to the vast frozen wasteland of untold horrors and criminals in the North. To the Scar of the Plane, spewing high doses of Arcane wild magics, making it inhospitable to most, to the volcano off the west coast, said to be controlled by a cult of fire worshippers.
 

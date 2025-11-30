@@ -2,10 +2,10 @@
   "choices": [
     {
       "id": "ea504d82-8dbc-4adb-be6d-dce12dc79218",
-      "name": "New Map",
+      "name": "New Place",
       "type": "Template",
       "command": true,
-      "templatePath": "z_Templates/Map.md",
+      "templatePath": "z_Templates/Place.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
