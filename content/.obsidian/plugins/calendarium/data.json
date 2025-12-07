@@ -1,0 +1,249 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "C3",
+      "description": "The calendar for Cameron's world, whose name I do not know yet",
+      "id": "ID_698a891b091b",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_ab3bcb18bb0a",
+            "abbreviation": " "
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_2948f879ea6a",
+            "abbreviation": " "
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_382988a92aa8",
+            "abbreviation": " "
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_2be9195909a8",
+            "abbreviation": " "
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_7b8a38895858",
+            "abbreviation": " "
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_bab8d89a1a8b",
+            "abbreviation": " "
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Growth's Dawn",
+            "length": 30,
+            "id": "ID_8a1a7838c9ab",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Growth's Dusk",
+            "length": 30,
+            "id": "ID_5828bab9c9ca",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Heat's Dawn",
+            "length": 30,
+            "id": "ID_387a5a1959b8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Heat's Dusk",
+            "length": 30,
+            "id": "ID_b90bab1a28eb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Decay's Dawn",
+            "length": 30,
+            "id": "ID_68fa0b6928a9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Decay's Dusk",
+            "length": 30,
+            "id": "ID_298b49693878",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Cold's Dawn",
+            "length": 30,
+            "id": "ID_7b4879f8d8ab",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Cold's Dusk",
+            "length": 30,
+            "id": "ID_89281aa9c968",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Greater",
+            "cycle": 30,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000",
+            "id": "ID_08dac8c82988"
+          },
+          {
+            "name": "Lesser",
+            "cycle": 30,
+            "offset": 15,
+            "faceColor": "#7d7d7d",
+            "shadowColor": "#000",
+            "id": "ID_481aba4a081a"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 1,
+        "padDays": 2
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_8b990bcb7b8b",
+            "name": "Growth",
+            "color": "#3cea6e",
+            "type": "Dated",
+            "kind": "None",
+            "month": 0,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          },
+          {
+            "id": "ID_69ea0bcaeaab",
+            "name": "Heat",
+            "color": "#ff6464",
+            "type": "Dated",
+            "kind": "None",
+            "month": 2,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          },
+          {
+            "id": "ID_c8ba7bda5b6b",
+            "name": "Decay",
+            "color": "#cecb16",
+            "type": "Dated",
+            "kind": "None",
+            "month": 4,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          },
+          {
+            "id": "ID_1ae968d959ab",
+            "name": "Cold",
+            "color": "#62bafe",
+            "type": "Dated",
+            "kind": "None",
+            "month": 6,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          }
+        ],
+        "offset": 0,
+        "type": "Dated",
+        "displayColors": true,
+        "interpolateColors": false,
+        "weather": {
+          "enabled": false,
+          "seed": 1463023456,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 1,
+        "month": 6,
+        "year": 500
+      },
+      "events": [],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "hideEra": true
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_698a891b091b",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

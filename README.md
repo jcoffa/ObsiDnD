@@ -12,17 +12,18 @@ So if you've stumbled here from elsewhere on the internet, know that any PRs, Is
 
 ## Local Setup
 
-These instructions will let you set up a local copy of the campaign notes with the intent to be able to view all of the notes in Obsidian. If you just want to look at the notes, you can go to https://jcoffa.github.io/ObsiDnD/ without needing to do any local set up.
+These instructions will let you set up a local copy of the campaign notes with the intent to be able to view all of the notes in Obsidian. If you just want to look at the notes, you can go to https://jcoffa.github.io/ObsiDnD/ without needing to do any local set up. Note that certain features (such as the Calendar and Maps) can't work on the published site and will only work within Obsidian. This is a limitation of the software we use to convert the notes into a website.
 
 If you *also* want to be able to contribute your own edits, make sure you also follow the [Contributing Setup](#contributing-setup) instructions afterwards.
 
-1. Clone this repository.
+1. Clone this repository (e.g. `git clone https://github.com/jcoffa/ObsiDnD.git` to clone via HTTPS)
 1. Install [Obsidian](https://obsidian.md/).
    - Obsidian is a program to read and write notes written in markdown. All of the campaign notes are designed to be read and written in Obsidian. For more information on how to use Obsidian, [see their help docs](https://help.obsidian.md/).
-1. In Obsidian, open the `content/` folder of this repository as your vault folder.
+1. In Obsidian, open the `content` folder of this repository as your vault folder.
 1. Open Obsidian's settings by clicking the "Gear" icon in the bottom left.
 1. On the left, click "Community Plugins" and enable them.
 1. Click "Browse" to start searching for plugins. For each of the plugins below, you must make sure to **both Install AND Enable them** (the "Install" button will become "Enable" after it finishes installing the plugin):
+   1. Calendarium
    1. Excalidraw
    1. Iconize
    1. Image Converter
@@ -52,15 +53,15 @@ Your local is now ready to be able to start contributing your own changes. See [
 
 Now that you have followed both the [Local Setup](#local-setup) and [Contributing Setup](#contributing-setup), you are ready to start making edits to your local campaign notes and contributing them back into the published site for everyone to see.
 
-Please note that deploying the campaign notes to the GitHub Pages site is the sole responsibility of me (Joseph, @jcoffa). None of you should need to worry about anything outside of the `content/` folder, which you should exclusively use Obsidian to view and edit. Basically, as long as you only edit the campaign notes inside Obsidian then you will not have to worry about anything else, and it will be very unlikely for you to break anything.
+Please note that deploying the campaign notes to the GitHub Pages site is the sole responsibility of The Loremaster (Joseph). None of you should need to worry about anything outside of the `content` folder, which you should exclusively use Obsidian to view and edit. Basically, as long as you only edit the campaign notes inside Obsidian then you will not have to worry about anything else, and it will be very unlikely for you to break anything permanently.
 
 ### TL;DR
 
-- Only edit the notes inside Obsidian. You will not need to worry about anything outside of the Obsidian Vault in the `content/` folder.
+- Only edit the notes inside Obsidian. You will not need to worry about anything outside of the Obsidian Vault in the `content` folder.
 - Keep notes focused on a single topic, and link to other notes whenever possible using `[[Name of Other Note]]`.
 - `Ctrl+O` to search for notes by their title. Search to see if a note already exists before making a new one.
 - `Ctrl+P` to open the command palette to search for Obsidian commands if you ever want to do something but don't know how to do it. If you can't find what you're looking for, Google is your friend.
-- **ALWAYS** create a new note by opening the command palette with `Ctrl+P` and search for `QuickAdd: New` to run the command that will make a new note for you. E.g. to make a new NPC note use the "New NPC" command and start editing. This ensures that the note is placed in the correct folder and will automatically apply the template for you.
+- **ALWAYS** create a new note by opening the command palette with `Ctrl+P` and search for `QuickAdd: New` to run the command that will make a new note for you. E.g. to make a new NPC note use the `QuickAdd: New NPC` command and start editing. This ensures that the note is placed in the correct folder and will automatically apply the template for you.
 - Run `npx quartz sync` in the terminal to both pull in other people's changes and upload your own at the same time.
   - If you only want to pull in other people's changes *without* uploading yours, run `npx quartz sync --no-push` instead. This can be useful if you have unfinished changes that aren't ready to be uploaded but you want to update your local vault with the new session notes.
 - Don't touch any settings in the **Core plugins** or **Comunity plugins** sections of Obsidian's settings menu to avoid breaking any of the plugins.
@@ -84,7 +85,7 @@ Whenever you make changes to the campaign notes (whether that's by editing an ex
 #### Unsure? Ask!
 
 - I am doing my best to "save you from yourselves" a little bit here. That's why there's commands to [make new notes](#making-a-new-note), and templates to ensure we're all consistent.
-- If you are confused or worried whether, just ping Joseph!
+- If you are confused or worried whether you're not doing something correctly or not, just ping Joseph!
 
 ### Useful Hotkeys and Commands
 

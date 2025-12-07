@@ -12,6 +12,7 @@ Uses the theme [*ITS Theme* by SlRvb](https://github.com/SlRvb/Obsidian--ITS-The
 
 ### Plugins
 
+- Calendarium, for tracking a custom calendar
 - Excalidraw, for drawing
 - Iconize, for adding pretty icons to folders and notes
 - Image Converter, to automatically convert images into `.webp` format to greatly reduce file sizes
