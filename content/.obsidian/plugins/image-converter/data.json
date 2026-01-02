@@ -26,9 +26,14 @@
       "customTemplate": "{notename}-{timestamp}",
       "skipRenamePatterns": "",
       "conflictResolution": "increment"
+    },
+    {
+      "name": "Imagename_Timestamp",
+      "customTemplate": "{imagename}_{date:YYYY-MM-DDTHH-mm-ss}",
+      "skipRenamePatterns": ""
     }
   ],
-  "selectedFilenamePreset": "Keep original name",
+  "selectedFilenamePreset": "Imagename_Timestamp",
   "outputFormat": "NONE",
   "quality": 100,
   "colorDepth": 1,

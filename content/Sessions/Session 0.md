@@ -110,20 +110,21 @@ An assassin who has worked for a guild named *The Clock*; a hardcore mercenary g
 - DT: Hard line at graphic maiming of children.
 - Cameron: Evil characters are fine, but working together as a party is paramount even if the exact details of each member's goals are different.
 - DT: Loves talking to weirdos. (Vennerex Tom, the Flumfs, Quasits, the Bons, etc.)
-	- Fighting big dangerous monsters. E.g. False Hydra required a lot of thinking and planning.
+- DT: Loves fighting big dangerous monsters that require out-of-the-box thinking to take down.
+	- E.g. False Hydra required a lot of thinking and planning to try fighting a monster we couldn't remember looking at.
 - Dani: Loves when backstories interact in unexpected ways.
 - Dani and Sage: More dungeons!
 - Brodie: If anyone finds a good joke with his Quasit, they are free to "take over" his Quasit briefly for roleplaying purposes.
 
 ### Campaign Expectations
 
-- From levels 1-4, critical fails will result in spectacular and problematic ways.
-- The world does not adjust itself for balance reasons to counteract our poor decisionmaking. A cave in a mountain full of gold and kobolds is likely to have a dragon in it. It will not magically rebalance itself to be a wyrmling or young dragon just because we're low level.
+- From levels 1-4, rolling a natural 1 on a D20 Test will result in a spectacular and problematic failure.
+- The world does not adjust itself for balance reasons to counteract our poor decision-making. A cave in a mountain full of gold and kobolds is likely to have a dragon in it. It will not magically rebalance itself to be a wyrmling or young dragon just because we're low level.
 - Cameron's games are very party-driven. Sage and Dani joined the last campaign late while we had a lot of things figured out already, but they missed the first ~9 levels of play.
 
 ## Recap
 
-Cameron had everyone roll a D20 and a D4 to be used in Session 1 for reasons unknown.
+Cameron had everyone roll a D20 and a D4 to be used in [[Session 1]] for reasons unknown.
 
 | Player | D20 | D4  |
 | ------ | --- | --- |
@@ -136,6 +137,3 @@ Cameron had everyone roll a D20 and a D4 to be used in Session 1 for reasons unk
 TODO (for everyone):
 - Think of 1 thing that your character doesn't know
 - Think of 1 thing that your character doesn't want anybody else to know
-
-TODO (for me specifically):
-- Think of a few spell scrolls that my player would like to hunt for
