@@ -12,7 +12,7 @@ A large and hulking Hobgoblin covered in scars, with his iconic steel hand on hi
 
 ## Relationships
 
-Directly manages The Steel Hand; the military group of mostly Hobgoblins operating out of [[Draskhrr]]. Rykor is the right-hand-man of [[Kaz the Cold]].
+Directly manages The Iron Fang; the military group of mostly Hobgoblins operating out of [[Draskhrr]]. Rykor is the right-hand-man of [[Kaz the Cold]].
 
 ## Quests and Rumours
 
