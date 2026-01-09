@@ -13,6 +13,7 @@ created: 2026-01-08 19:30
 --------------------------------------------------------------------------------------
 
 ![[The Collector_OriginalArtReduced_2026-01-09T11-09-01.webp]]
+
 Wearing a nice vest, a tie, and spectacles. His mutton chops connect with his moustache and beard, and he is accompanied by a Quasit named Son. 
 ______________________________________________________________________________________
 
