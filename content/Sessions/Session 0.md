@@ -62,7 +62,7 @@ We rolled for stats by having each of the 6 players roll the usual 4d6 drop lowe
 
 ### Characters
 
-#### Brodie - The Collector
+#### [[The Collector|Brodie - The Collector]]
 
 Someone who wants to find magic items and raise up a group of ragtag adventurers into legendary adventurers. Has goals of establishing a famous museum to detail the heroic exploits of his chosen adventurers.
 
@@ -70,7 +70,7 @@ Has a set of large spectacles and a Quasit as a pet named Son.
 
 **Potential reasons for arrest**: Possession of contraband, trespassing, grave robbery, desecrating a corpse, impersonation of authority, theft, heresy.
 
-#### Dani (Tilly) - The Lost
+#### [[Tilly|Dani (Tilly) - The Lost]]
 
 Very young Druid (18th birthday) coming into the world. Mostly used to live in a forest alone with their family. Something deeply tragic has happened, and they are seeking an answer as to why. In terms of character vibe: Femme Fatale is close (but not quite). She knows she is a young girl and can use this to get what she wants.
 
@@ -78,7 +78,7 @@ Carries a necklace in the shape of a 10-sided prism that looks to contain a gala
 
 **Potential reasons for arrest**: Accomplice, conspiracy, breaking and entering.
 
-#### Joseph - The Venerable
+#### [[Zrandovorski|Joseph - The Venerable]]
 
 While most great stories begin with a person on the first step of their own legend, this hobgoblin's grand adventure is ancient history. Having served as an advisor, sage, and oracle to the Hobgoblin empire, he has witnessed the rise and fall of his home during the Clerical War and has bore witness to its devastation ever since.
 
@@ -86,19 +86,19 @@ His farsight as an oracle gives him no insight into what may become of his broke
 
 **Potential reasons for arrest**: Clerical War.
 
-#### Justin - The Discarded
+#### [[Garrison|Justin - The Discarded]]
 
 As far as he knows, this Warforged has been wandering the Southern Isles having been dumped there and left to rust. One day, he ran into an Artificer who was able to repair him, and became indebted to him for life
 
 **Potential reasons for arrest**: Association with a criminal.
 
-#### Sage - The Executioner
+#### [[Blake|Sage - The Executioner]]
 
 An assassin who has worked for a guild named *The Clock*; a hardcore mercenary group who will do anything for the right price. They met a certain young woman who hired them for a job that went wrong.
 
 **Potential reasons for arrest**: Murder, breaking and entering.
 
-#### Thomas - The Inventor
+#### [[NG|Thomas - The Inventor]]
 
 500 years ago, he was hired as an engineer at a factory for automaton and Warforged. Since his 50's, as a form of a vanity, he leaves a maker's mark on all of his inventions. Something happens, and the rest of his days was left repairing what few robots remained. He was arrested after one (or perhaps simply an invention with his logo on it) causes a major disturbance.
 

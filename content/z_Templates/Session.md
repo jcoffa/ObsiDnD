@@ -12,12 +12,18 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 
 Who was actually here for this session?
 
-- Hodarth Magarkis
-- KremKram Fizzlebinger
+- [[Blake]]
+- [[Garrison]]
+- [[NG]]
+- [[The Collector]]
+- [[Tilly]]
+- [[Zrandovorski]]
 
 ## Recap From <%* tR += tp.user.wrap_link("Session " + (num-1), "[[", "|Last Session]]") %>
 
-!<%* tR += tp.user.wrap_link("Session " + (num-1), "[[", "#Recap]]") %>
+> [!info]- Click here to view the recap
+>
+> !<%* tR += tp.user.wrap_link("Session " + (num-1), "[[", "#Recap]]") %>
 
 ## Notes
 
