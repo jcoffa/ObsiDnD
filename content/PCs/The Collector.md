@@ -11,12 +11,10 @@ created: 2026-01-08 19:30
 - **Sessions Active:** [[Session 0]] - present
 - **Age:** a bit over 200 years old
 --------------------------------------------------------------------------------------
-
 ![[The Collector_OriginalArtReduced_2026-01-09T11-09-01.webp]]
 
 Wearing a nice vest, a tie, and spectacles. His mutton chops connect with his moustache and beard, and he is accompanied by a Quasit named Son. 
 ______________________________________________________________________________________
-
 
 ##### The Collector's Journal 
 
