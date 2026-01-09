@@ -65,11 +65,12 @@ const config: QuartzConfig = {
         keepBackground: false,
       }),
       Plugin.ObsidianFlavoredMarkdown({
-        disableBrokenWikilinks: true,
+        // This breaks every link in the site when using `markdownLinkResolution: "shortest"`
+        //disableBrokenWikilinks: true,
         enableInHtmlEmbed: false,
       }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents(),
+      Plugin.TableOfContents({ maxDepth: 6 }),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
