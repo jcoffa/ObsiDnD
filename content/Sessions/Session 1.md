@@ -88,7 +88,7 @@ Combat begins, using the [[#The Flashback|initiative rolls from earlier]].
 - He says he has been the best blacksmith in town for years, but now there are new smiths undercutting his prices named "Steelworks". The Iron Fang have entered a contract with the Steelworks. He needs the Steelworks out of the equation, stealthily. Ideally this does not trace back to him, or us.
 - For some reason, Steelworks aren't selling to the public. They are basically making weapons and stockpiling them for no discernible reason, presumably at the request of the Iron Fang.
 
-### The Steamworks
+### The Steelworks
 
 - [[NG]] and [[Garrison]] do "Get Help" to draw attention, with NG crying for help as Garrison pretends to be injured. Of course, Garrison being made of metal, they ask for permission to use the forge to repair him. After some convincing, the Goblins running the Steamworks allow them that. Son, invisible, follows them inside.
 - [[Zrandovorski]] leaves to go talk to [[Rykor Steelhand|Rykor]] and ask about the Steamworks. [[Blake]] tries to stealth and follow him but fails, so they just walk together.
