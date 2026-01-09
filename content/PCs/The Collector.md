@@ -17,18 +17,18 @@ Wearing a nice vest, a tie, and spectacles. His mutton chops connect with his mo
 
 ##### The Collector's Journal 
 
-- Entry 1 - *"A fascinating group so far Father, it happened just like the stories you use to tell. A group of capable heroes all ending up in the right place at the right time. I see potential in each and every one of them, and I have arrived in the Frozen Marches! You always said we would travel here one day, I have even met someone who knows of the Observatory you mentioned. I'm excited to explore it more, and see what treasures are hidden here that are in need of collecting."*
+- Entry 1 - *"A fascinating group so far Father, it happened just like the stories you use to tell. A group of capable heroes all ending up in the right place at the right time. I see potential in each and every one of them, and I have arrived in the Frozen Marches! You always said we would travel here one day, I have even met someone who knows of the Observatory you mentioned. I'm excited to explore it more, and see what treasures are hidden there that are in need of collecting."*
 
 
 ---
 
 
 
-### Our Future Museum 
+### The Museum Plans 
 
 - Tilly's description must have the quote she provided me on our first interaction *"I breathe the Earth, and the Earth breaths with me"* - An amazing quote from an already great and powerful druid.
 
-##### The Future Legendary Party
+##### Future Legendary Party
 
 - [[Zrandovorski]] - I would have preferred a sorcerer like Father, but a wizard is a nice surprise! Hopefully his knowledge can lead us to new heights, or better yet, forgotten lore! He's an odd fellow, but he has good in his heart and an adventurer's curiosity a perfect fit for the team I wish to build.
 - [[Tilly]] - I am curious to explore this young druids already rich backstory. That initial mission in Utopia revealed quite a bit, she reminds me of a younger version of myself after Father's passing. I hope our group can assist her in her mission. On another note, she's quite the killer, those rumors on the power of druids was no joke, Tilly packs a punch, I am not worried for any of us with her on our side.
