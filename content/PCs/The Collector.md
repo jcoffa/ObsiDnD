@@ -3,7 +3,7 @@ aliases: []
 created: 2026-01-08 19:30
 ---
 
-#  [[The Collector]]
+# [[The Collector]]
 
 - **Played By:** Brodie
 - **Class:** Warlock
@@ -15,12 +15,16 @@ created: 2026-01-08 19:30
 
 Wearing a nice vest, a tie, and spectacles. His mutton chops connect with his moustache and beard, and he is accompanied by a Quasit named Son. 
 
-
 ##### The Collector's Journal 
 
 - Entry 1 - *"A fascinating group so far Father, it happened just like the stories you use to tell. A group of capable heroes all ending up in the right place at the right time. I see potential in each and every one of them, and I have arrived in the Frozen Marches! You always said we would travel here one day, I have even met someone who knows of the Observatory you mentioned. I'm excited to explore it more, and see what treasures are hidden here that are in need of collecting."*
 
-##### For the Museum 
+
+---
+
+
+
+### Our Future Museum 
 
 - Tilly's description must have the quote she provided me on our first interaction *"I breathe the Earth, and the Earth breaths with me"* - An amazing quote from an already great and powerful druid.
 
