@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "✅",
+      "❗",
       "LiHome",
       "👥",
-      "👤",
-      "LiCode",
-      "LiMapPin"
+      "👤"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,7 @@
   "NPCs": "👥",
   "INDEX.md": "LiHome",
   "z_Assets": "LiImage",
-  "index.md": "LiHome"
+  "index.md": "LiHome",
+  "Quests": "❗",
+  "Quests/Completed": "✅"
 }

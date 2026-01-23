@@ -126,7 +126,7 @@
           {
             "name": "Lesser",
             "cycle": 30,
-            "offset": 15,
+            "offset": 3,
             "faceColor": "#7d7d7d",
             "shadowColor": "#000",
             "id": "ID_481aba4a081a"

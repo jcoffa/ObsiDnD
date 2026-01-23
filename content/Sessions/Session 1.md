@@ -40,7 +40,7 @@ Combat begins, using the [[#The Flashback|initiative rolls from earlier]].
 - Some of the party is able to use the explosion to break out of their manacles.
 - A band of 4 normal Goblins and 1 Goblin holding a recently used scroll of Fireball charges at the group from atop a nearby hill.
 - [[The Collector]]'s Quasit, Son, attempts to steal one of the scrolls from the scroll-carrying Goblin. He manages to steal one, but is unable to determine its effects.
-- [[Tilly]] uses *Ice Knife* to attack all 5 Goblins at once, missing the initial hit but delivering a devastating explosion of 8 cold damage. All 4 normal Goblins die instantly. The scroll-wielding Goblin craps his pants a little bit at the "Booyagh" that destroyed his companions.
+- [[Tilly]] uses *Ice Knife* to attack all 5 Goblins at once, missing the initial hit but delivering a devastating explosion of 8 cold damage. All 4 normal Goblins die instantly. The scroll-wielding Goblin craps his pants a little bit at the "Booyahg" that destroyed his companions.
 - The remaining Goblin frantically searches for a specific scroll that he can't seem to find. He chugs a potion instead and disappears instantly.
 - [[NG]] is able to use his Tinkerer's Tools to help him break out of his manacles. With his newfound freedom, he is able to toss [[Garrison]]'s weapons back to him.
 - [[The Collector]], searching the ruins of the cart, find an insignia of [[Utopia]] among the wreckage. It seems their jailers are loyal to this kingdom in some way.
@@ -65,17 +65,20 @@ Combat begins, using the [[#The Flashback|initiative rolls from earlier]].
 ### The City
 
 - After some more walking on Day 2, the group reaches what looks like a Bandit Camp. Wooden spike walls that go around a large open-air camp. Large wooden buildings that have been scrapped together like plywood, some of it charred as if it had been collected from similarly exploded wooden carts. Some are stilt home; small, like they would fit a bed and basic supplies. Some larger buildings and a big hole in the ground are off to the side of the camp. The largest building is in the center, like a Jarl's Longhouse.
-- After discussing with the guards, [[Zrandovorski]] tell his companions that they are now in Draskhrr; the largest city on this side of [[The Frozen Marches]]. They head out to the Everburning Chalice first; the only Tavern here.
+- After discussing with the guards, [[Zrandovorski]] tell his companions that they are now in [[Draskhrr]]; the largest city on this side of [[The Frozen Marches]]. They head out to The Everburning Chalice first; the only Tavern here.
 - Theresa, the barkeep, welcomes the group. [[Zrandovorski]] buys everyone a round of *Snow Rat Shit*; some awful Goblinoid mulled liquor served steaming hot with chunks of dried fruit.
 - [[The Collector]] checks the job board.
 
 ### Quests
 
 - Local Blacksmith, Grit Coalbelly, requests help from "Independant Contractor". Terms of payment to be discussed.
+	- [[Sabotage The Steelworks]]
 - The Iron Fang is looking for new members to join their ranks. There are a dozen of them, all drawn in charcoal.
 - Berkley Longnose is looking for wolf teef. Small teef 1 silver. Big teef 5 silver.
+	- [[Find Teef]]
 - WANTED: Torren the Red. Reward: 1000 GP. Any info or leads regarding her or her worshippers whereabouts should be delivered immediately to the Iron Fang.
 	- Depicts a vague drawing of an Orcish woman 
+	- [[WANTED - Torren the Red]]
 - [[Utopia|Utopian]] sympathizers must be brought to justice. Any [[Utopia|Utopian]] scum reported to the Iron Fang will earn you 100 GP.
 - My booze keeps going missing. I will pay you 25 GP for any returned barrels. Thanks - T
 
