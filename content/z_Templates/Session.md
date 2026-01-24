@@ -10,8 +10,6 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 
 ## Player Characters
 
-Who was actually here for this session?
-
 - [[Blake]]
 - [[Garrison]]
 - [[NG]]

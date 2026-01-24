@@ -7,8 +7,6 @@ created: 2026-01-16 18:38
 
 ## Player Characters
 
-Who was actually here for this session?
-
 - [[Blake]]
 - [[Garrison]]
 - [[The Collector]]
@@ -41,7 +39,7 @@ Who was actually here for this session?
 
 - There is a white Dragon who has a nest in the [[Sole Mountains]] who is often not in his nest due to his frequent hunting trips. We could probably find a bunch of treasure that it's left behind.
 	- [[Find The White Dragon's Nest]]
-- She mentions that [[The Hearth of Hope]] are always looking for help. It's an area here in the [[The Frozen Marches]]. Unlike [[Draskhrr]], there aren't many Goblins there and they are generally less on edge. They aren't really trying to escape and are mostly focused on survival.
+- She mentions that [[The Hearth of Hope]] are always looking for help. It's an area here in the [[The Frozen March]]. Unlike [[Draskhrr]], there aren't many Goblins there and they are generally less on edge. They aren't really trying to escape and are mostly focused on survival.
 	- [[Go To The Hearth of Hope]]
 - [[The Collector]] tries to get Son to steal from Theresa but also fails.
 

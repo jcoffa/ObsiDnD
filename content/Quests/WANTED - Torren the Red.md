@@ -7,7 +7,7 @@ created: 2026-01-23 15:28
 
 - **Status:** #pending
 - **Given by:** The job board at The Everburning Chalice in [[Draskhrr]], posted by The Iron Fang
-- **Location:** [[The Frozen Marches]]
+- **Location:** [[The Frozen March]]
 - **Reward(s):** 1000 GP
 
 ## Details

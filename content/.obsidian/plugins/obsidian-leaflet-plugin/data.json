@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "Teradin",
-      "lastAccessed": 1764546962719,
+      "lastAccessed": 1769249716414,
       "markers": [
         {
           "id": "ID_19eb5848797a",
@@ -16,9 +16,105 @@
           "command": false,
           "percent": null,
           "description": "Utopia",
-          "minZoom": null,
+          "minZoom": 0,
           "maxZoom": null,
-          "tooltip": "hover"
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_ebe93a2a89e9",
+          "type": "default",
+          "loc": [
+            1361.3125,
+            1281.4197791699582
+          ],
+          "link": "Draskhrr",
+          "layer": "%5B%5BTeradin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_08493bab7bb9",
+          "type": "default",
+          "loc": [
+            1275.25,
+            983.9388216273816
+          ],
+          "link": "The Frozen March",
+          "layer": "%5B%5BTeradin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": -0.5,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Places/Teradin.md"
+      ]
+    },
+    {
+      "id": "TheFrozenMarch",
+      "lastAccessed": 1769250746110,
+      "markers": [
+        {
+          "id": "ID_1a69dad909ba",
+          "type": "default",
+          "loc": [
+            251.328125,
+            973.75
+          ],
+          "link": "Draskhrr",
+          "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_fb086aebab79",
+          "type": "default",
+          "loc": [
+            208.328125,
+            566.75
+          ],
+          "link": "The Hearth of Hope",
+          "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_b9996abaf918",
+          "type": "default",
+          "loc": [
+            261.328125,
+            1202.75
+          ],
+          "link": "Toppelgangers",
+          "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "always"
         }
       ],
       "overlays": [],

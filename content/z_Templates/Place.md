@@ -6,7 +6,8 @@ scale_pixels_range: 25
 mapCalc1: 0.08333333333333333
 ---
 
-> [!NOTE]- Quick Calculator (delete after configuring the Leaflet map)
+> **Quick Calculator (delete after configuring the Leaflet map)**
+> 
 > Map Height in Pixels: `INPUT[number:map_height_y]`  
 > Map Width in Pixels: `INPUT[number:map_width_x]`  
 > lat: `VIEW[{map_height_y} / 2][math]`  
@@ -17,7 +18,7 @@ mapCalc1: 0.08333333333333333
 > 
 > Remember to update the Image in the leaflet block, and then delete this message!
 
-Note that the Leaflet plugin does not work on the published Campaign Notes site. To see a static image of the map (without any of the pins), click on the "Static Map Image" button below.
+*Note that the Leaflet plugin does not work on the published Campaign Notes site. To see a static image of the map (without any of the pins), click on the "Static Map Image" button below.*
 
 ```leaflet  
 id: <%* tR += tp.file.title.replaceAll(/\s+/g, "") %> ### Must be unique with no spaces  
@@ -40,6 +41,6 @@ darkmode: false ### marker
 >[!Tip]- Static Map Image
 > Put an embed of the map image here, like `![[Teradin.png]]`
 
-# <% tp.file.title %>
+# <% tp.user.wrap_link(tp.file.title) %>
 
 Start writing here!

@@ -5,7 +5,7 @@ scale_pixels: 300
 scale_pixels_range: 25
 mapCalc1: 0.08333333333333333
 ---
-Note that the Leaflet plugin does not work on the published Campaign Notes site. To see a static image of the map (without any of the pins), click on the "Static Map Image" button below.
+*Note that the Leaflet plugin does not work on the published Campaign Notes site. To see a static image of the map (without any of the pins), click on the "Static Map Image" button below.*
 
 ```leaflet  
 id: Teradin ### Must be unique with no spaces  
@@ -28,6 +28,6 @@ darkmode: false ### marker
 >[!Tip]- Static Map Image
 > ![[Teradin.webp]]
 
-# Teradin
+# [[Teradin]]
 
 TODO!
