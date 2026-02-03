@@ -5,7 +5,7 @@ created: 2026-01-24 05:32
 
 #  [[Escape The Frozen March]]
 
-- **Status:** #pending
+- **Status:** #ongoing
 - **Given by:** N/A
 - **Location:** [[The Frozen March]]
 - **Reward(s):** Freedom

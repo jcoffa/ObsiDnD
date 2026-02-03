@@ -1,11 +1,11 @@
 {
   "choices": [
     {
-      "id": "ea504d82-8dbc-4adb-be6d-dce12dc79218",
-      "name": "New Place",
+      "id": "c8923d0e-7e9c-499e-a187-f33f4f698257",
+      "name": "New Faction",
       "type": "Template",
       "command": true,
-      "templatePath": "z_Templates/Place.md",
+      "templatePath": "z_Templates/Faction.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -13,43 +13,18 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "Places"
+          "Factions"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
       },
-      "appendLink": false,
-      "openFile": true,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Nothing",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "f1fd901c-8c84-4662-9821-665ae74a028a",
-      "name": "New Session Log",
-      "type": "Template",
-      "command": true,
-      "templatePath": "z_Templates/Session.md",
-      "fileNameFormat": {
+      "appendLink": {
         "enabled": true,
-        "format": "Session ?ID?"
+        "placement": "replaceSelection",
+        "requireActiveFile": false,
+        "linkType": "link"
       },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "Sessions"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
       "openFile": true,
       "fileOpening": {
         "location": "tab",
@@ -121,6 +96,36 @@
       "setFileExistsBehavior": false
     },
     {
+      "id": "ea504d82-8dbc-4adb-be6d-dce12dc79218",
+      "name": "New Place",
+      "type": "Template",
+      "command": true,
+      "templatePath": "z_Templates/Place.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Places"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "a349b265-b101-4bb2-bfdd-0ae3a1379a43",
       "name": "New Quest",
       "type": "Template",
@@ -145,6 +150,36 @@
         "requireActiveFile": false,
         "linkType": "link"
       },
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "f1fd901c-8c84-4662-9821-665ae74a028a",
+      "name": "New Session Log",
+      "type": "Template",
+      "command": true,
+      "templatePath": "z_Templates/Session.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Session ?ID?"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Sessions"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
       "openFile": true,
       "fileOpening": {
         "location": "tab",

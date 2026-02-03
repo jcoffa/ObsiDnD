@@ -43,4 +43,4 @@ darkmode: false ### marker
 
 # <% tp.user.wrap_link(tp.file.title) %>
 
-Start writing here!
+*Start writing here after setting up the image above!*<% tp.file.cursor() %>

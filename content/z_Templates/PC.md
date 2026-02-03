@@ -5,7 +5,7 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 
 #  <% tp.user.wrap_link(tp.file.title) %>
 
-- **Played By:** Name
+- **Played By:** Name<% tp.file.cursor() %>
 - **Class:** Fighter (Champion)
 - **Species:** Human
 - **Sessions Active:** [[Session 0]] - present

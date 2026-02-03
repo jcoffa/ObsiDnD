@@ -23,14 +23,10 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 >
 > !<%* tR += tp.user.wrap_link("Session " + (num-1), "[[", "#Recap]]") %>
 
-## In-Game Dates
-
-- ?
-
 ## Notes
 
 <% tp.file.cursor() %>
 
 ## Recap
 
-What do you want to remember at the start of next session?
+*What do you want to remember at the start of next session?*

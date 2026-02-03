@@ -3,14 +3,14 @@
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "native",
+    "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🤝",
+      "LiHandshake",
       "✅",
       "❗",
-      "LiHome",
-      "👥",
-      "👤"
+      "LiHome"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "z_Assets": "LiImage",
   "index.md": "LiHome",
   "Quests": "❗",
-  "Quests/Completed": "✅"
+  "Quests/Completed": "✅",
+  "Factions": "LiHandshake"
 }

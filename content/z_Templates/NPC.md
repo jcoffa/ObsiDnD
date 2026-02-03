@@ -7,7 +7,7 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 
 ## Description
 
-*E.g. What do they look like? What's their personality?*
+*E.g. What do they look like? What's their personality?*<% tp.file.cursor() %>
 
 ## Relationships
 

@@ -5,7 +5,7 @@ created: 2026-01-23 15:26
 
 #  [[Find Teefs]]
 
-- **Status:** #pending 
+- **Status:** #ongoing
 - **Given by:** Berkley Longnose in [[Draskhrr]]
 - **Location:** [[The Frozen March]]
 - **Reward(s):**

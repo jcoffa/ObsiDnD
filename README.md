@@ -32,7 +32,7 @@ If you *also* want to be able to contribute your own edits, make sure you also f
    1. Quick Add
    1. Style Settings
    1. Templater
-1. If you ever want to update your local to read the new changes, just run a `git pull --force` to ensure that your local becomes *exactly the same* as the published Campaign Notes. This assumes you will never be making your own changes, since this will permanently delete any local changes you've made.
+1. If you ever want to update your local to read the new changes, run the command `git fetch && git reset --hard origin/v4` to ensure that your local becomes *exactly the same* as the published Campaign Notes. This assumes you will never be making your own changes, since this will permanently delete any local changes you've made.
 
 You should now have a fully working local setup to be able to properly view the campaign notes. If you also want to be able to contribute your own edits and new notes, you are now ready to follow the [Contributing Setup](#contributing-setup).
 
@@ -98,9 +98,12 @@ Whenever you make changes to the campaign notes (whether that's by editing an ex
 
 I have done my best to organize the campaign notes in a way that will make sense for all of us. I've made a bunch of folders for us to be able to more easily find what we're looking for:
 
+- `Factions` is for keeping track of various named groups, guilds, and gangs. These will likely be linked to the `NPCs` and `PCs` who belong to them in some way.
 - `NPCs` is for keeping track of all the people we meet. These can be friendly or hostile named characters who are controlled by the DM.
 - `PCs` is for keeping track of all our own characters. Think of these notes like a biography for your character. Use them however you like.
 - `Places` is for locations we visit or hear about. Each place can also contain a map that we can navigate and pin using the Leaflet plugin. Note that this does not work on the published Campaign Notes site, and is only visible within Obsidian.
+- `Quests` is for, uh, quests. They are tagged with a status (`#pending`, `#ongoing`, or `#completed`) and contain the quest-giver, location, rewards, goal, and other details about each quest. A quest does not need to be "official" and/or given by an NPC or job board; goals we make up for ourselves and rumours we hear about can also be tracked as if they were quests.
+  - `Quests/Completed` are for quests that have no more follow-up or where their main objective has been accomplished. All of their statuses should be `#completed` in this folder, and an indented bullet point underneath its status should indicate in what session (and header) that the quest was completed under.
 - `Sessions` is for session notes, like how Brodie did for Campaign 2. Each session provides an opportunity to Recap key elements that we can be reminded of at the start of the next session.
 
 The following folders are not intended to be used directly. These are folders for Obsidian to interact with and do not typicaly contain anything that we need to touch ourselves. They all begin with `z_` to make sure they appear below all of the actual folders that our notes are stored in.
