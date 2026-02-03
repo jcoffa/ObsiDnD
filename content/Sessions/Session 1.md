@@ -75,7 +75,7 @@ Combat begins, using the [[#The Flashback|initiative rolls from earlier]].
 	- [[Sabotage The Steelworks]]
 - The Iron Fang is looking for new members to join their ranks. There are a dozen of them, all drawn in charcoal.
 - Berkley Longnose is looking for wolf teef. Small teef 1 silver. Big teef 5 silver.
-	- [[Find Teef]]
+	- [[Find Teefs]]
 - WANTED: Torren the Red. Reward: 1000 GP. Any info or leads regarding her or her worshippers whereabouts should be delivered immediately to the Iron Fang.
 	- Depicts a vague drawing of an Orcish woman 
 	- [[WANTED - Torren the Red]]

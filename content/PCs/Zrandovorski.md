@@ -15,8 +15,8 @@ created: 2026-01-08 18:18
 
 - **Spell Attack Bonus:** +6
 - **Spell Save DC:** 14
-- **Spell Slots:**
-	1. Total: 3, Used: 1
+- **Spell Slots (Used/Total):**
+	1. 0/3
 
 | Prep? | Level | Name             | Casting Time | Range  |   CRVSM | Notes                        | Source                                                         |
 | :---: | :---: | ---------------- | ------------ | ------ | ------: | ---------------------------- | -------------------------------------------------------------- |

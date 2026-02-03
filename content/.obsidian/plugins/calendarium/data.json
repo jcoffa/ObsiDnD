@@ -135,7 +135,24 @@
         "displayMoons": true,
         "displayDayNumber": false,
         "leapDays": [],
-        "eras": [],
+        "eras": [
+          {
+            "id": "ID_e8c84b6b28ab",
+            "type": "era",
+            "name": "Excelcium",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": true,
+            "date": {
+              "day": 23,
+              "month": 4,
+              "year": 500
+            }
+          }
+        ],
         "padMonths": 1,
         "padDays": 2
       },
@@ -204,16 +221,51 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 23,
+        "day": 24,
         "month": 4,
-        "year": 500
+        "year": 133
       },
-      "events": [],
+      "events": [
+        {
+          "name": "Searching the Tomb of Booyahg",
+          "description": null,
+          "date": {
+            "day": 23,
+            "month": 4,
+            "year": 133
+          },
+          "id": "ID_5af9eb6a190a",
+          "note": "Sessions/Session 3.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Volo is rescued from The Tomb of Booyahg",
+          "description": null,
+          "date": {
+            "day": 24,
+            "month": 4,
+            "year": 133
+          },
+          "id": "ID_681b3858ab8b",
+          "note": "Sessions/Session 4.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
       "categories": [],
       "path": [],
       "supportInlineEvents": false,
       "inlineEventTag": "#inline-events",
-      "hideEra": true
+      "hideEra": false
     }
   ],
   "configDirectory": null,
