@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - Linus Snabberknackle
 created: 2026-01-08 19:30
 ---
 
@@ -9,7 +10,7 @@ created: 2026-01-08 19:30
 - **Class:** Warlock
 - **Species:** Gnome
 - **Sessions Active:** [[Session 0]] - present
-- **Age:** a bit over 200 years old
+- **Age:** 223 years
 ---
 ![[The Collector_OriginalArtReduced_2026-01-09T11-09-01.webp]]
 
@@ -35,3 +36,7 @@ Wearing a nice vest, a tie, and spectacles. His mutton chops connect with his mo
 - [[Blake]] - Still a lot to learn about this quiet Rogue. He doesn't talk to much, but that's perfect! A quiet rogue that's able to act when a situation requires is incredibly ideal! He has the look, and he may still have learning to do, but he's a skilled killer, one I am glad is on our side.
 - [[Garrison]] - A warforged is an amazing find. I didn't get to learn a lot about this fascinating creation, but it's clear he has a kind soul. His curiosity about son, care for the townsfolk, they fit the role of a gentle giant very well. I'm excited to see their skills in combat, and learn more about there origins, hopefully N.G and Garrison allow me to learn what makes him tick.
 - [[NG]] - Something feels familiar about this Elf. Seems to be the only member of the group I could relate my older soul with, but he's a wizard with tools. His skills are surprising me, and access to magic, I am honestly not sure what he is yet but he fits a lot of required roles. I am excited to learn more about where he comes from, perhaps we have a piece of shared history.
+
+## Trivia
+
+- Has [aphantasia](https://en.wikipedia.org/wiki/Aphantasia) (2/5).

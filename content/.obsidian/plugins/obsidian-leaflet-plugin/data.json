@@ -63,7 +63,7 @@
     },
     {
       "id": "TheFrozenMarch",
-      "lastAccessed": 1770158952441,
+      "lastAccessed": 1770429857517,
       "markers": [
         {
           "id": "ID_1a69dad909ba",
@@ -112,6 +112,22 @@
           "command": false,
           "percent": null,
           "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_1b9a29f86b4a",
+          "type": "default",
+          "loc": [
+            172.6171875,
+            1141.832926089912
+          ],
+          "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Adamantine Mine",
           "minZoom": 0,
           "maxZoom": null,
           "tooltip": "always"

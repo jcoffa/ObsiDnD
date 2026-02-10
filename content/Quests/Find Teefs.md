@@ -14,7 +14,7 @@ created: 2026-01-23 15:26
 
 ## Details
 
-Berkley Longnose is looking for wolf teef. Small teef 1 silver. Big teef 5 silver.
+Berkley Longnose is looking for ~~wolf~~ teefs of any designation. Small teef 1 silver. Big teef 5 silver.
 
 - Large Teef: 2 (SOLD)
 - Small Teef: 19 (SOLD)

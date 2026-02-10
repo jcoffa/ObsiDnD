@@ -16,7 +16,8 @@ created: 2026-01-08 18:18
 - **Spell Attack Bonus:** +6
 - **Spell Save DC:** 14
 - **Spell Slots (Used/Total):**
-	1. 0/3
+	1. 1/3
+		- Usually begins the day with 1 used due to Mage Armour
 
 | Prep? | Level | Name             | Casting Time | Range  |   CRVSM | Notes                        | Source                                                         |
 | :---: | :---: | ---------------- | ------------ | ------ | ------: | ---------------------------- | -------------------------------------------------------------- |
