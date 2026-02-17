@@ -77,6 +77,13 @@ Whenever you make changes to the campaign notes (whether that's by editing an ex
 - Linking is crazy powerful in Obsidian. Notes that link to the things they talk about will create a network of connected ideas. E.g. inside the `John Baldur` note, we can say "John Baldur was born and raised in Baldur's Gate" and then link the "Baldur's Gate" text to the `Baldur's Gate` note by typing `[[Baldur's Gate]]`. Just like a wiki!
 - If you follow the "One idea, one note" philosophy then this will be super easy because every idea will have its own note that we can easily link to!
 
+#### Prefer Live Links Over Dead Links. Prefer Dead Links Over No Links.
+
+- A "live link" is a `[[link to a note]]` where the note actually exists.
+- A "dead link" is a `[[link to a note]]` where the note *does not* exist. In Obsidian, these will look different from live links.
+- If at all possible, prefer to at least [create a new note](#making-a-new-note) and fill in the requisite information (it can be short!) to create a live link. It's ok if the information is basic and brief; it can be edited and expanded on later by anybody!
+- If you don't have the time to make a live link (e.g. while writing mid-session), prefer to at least create a dead link to make it obvious that this is a topic that probably has enough material and importance to warrant keeping track of. It can be created and expanded on later by anybody!
+
 #### Unsure? Ask!
 
 - I am doing my best to "save you from yourselves" a little bit here. That's why there's commands to [make new notes](#making-a-new-note), and templates to ensure we're all consistent.
