@@ -1,0 +1,26 @@
+#!/bin/bash
+
+echo ""
+echo "Attempting to Backup -> Pull -> Incorporate local changes -> Commit -> Push -> Delete backup"
+echo ""
+
+git pull --autostash && \
+    git add . && \
+    git commit -m "Sync by $(git config user.name) on $(date "+%B %d, %Y at %I:%M %p (%Z)")" && \
+    git push
+ret=$?
+
+if [[ $ret -ne 0 ]]; then
+    >&2 echo ""
+    >&2 echo " !! ERROR DETECTED !!"
+    >&2 echo "======================"
+    >&2 echo "You may have gotten a merge conflict in the process of incorporating local changes."
+    >&2 echo "If so, you will need to resolve these conflicts using normal git process."
+    >&2 echo "If you are a non-compsci user, ping Joseph in the group chat for help!"
+    exit 1
+fi
+
+if [[ $ret -eq 0 ]] && [[ "$(git stash list -n 1)" == "stash@{0}: autostash" ]]; then
+    echo "Backup -> Pull -> Incorporate local changes -> Commit -> Push was successful. Deleting backup."
+    git stash drop
+fi
