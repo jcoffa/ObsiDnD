@@ -221,7 +221,7 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 26,
+        "day": 25,
         "month": 4,
         "year": 133
       },
@@ -276,23 +276,6 @@
             "order": ""
           },
           "type": "Date"
-        },
-        {
-          "name": "Meeting Thorne Blackwood",
-          "description": null,
-          "date": {
-            "day": 26,
-            "month": 4,
-            "year": 133
-          },
-          "id": "ID_982b7aaa296b",
-          "note": "Sessions/Session 6.md",
-          "category": null,
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          },
-          "type": "Date"
         }
       ],
       "categories": [],
@@ -323,8 +306,8 @@
   },
   "debug": false,
   "askedToMoveFC": false,
-  "askedAboutSync": false,
-  "syncBehavior": "Ask",
+  "askedAboutSync": true,
+  "syncBehavior": "Always",
   "inlineEventsTag": null,
   "paths": [
     [

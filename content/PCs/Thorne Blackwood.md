@@ -6,7 +6,7 @@ created: 2026-02-16 22:43
 
 #  [[Thorne Blackwood]]
 
-- **Played By:** Kaitlyn
+- **Played By:** Kaitlin
 - **Class:** Cleric
 - **Species:** Wood Elf
 - **Sessions Active:** [[Session 6]] (temporary PC played for one session)
