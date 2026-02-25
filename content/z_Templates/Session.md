@@ -23,6 +23,10 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 >
 > !<%* tR += tp.user.wrap_link("Session " + (num-1), "[[", "#Recap]]") %>
 
+## Today's Bit
+
+*What was the brainrot joke/quote/meme/etc. that we really couldn't stop sayin?*
+
 ## Notes
 
 <% tp.file.cursor() %>

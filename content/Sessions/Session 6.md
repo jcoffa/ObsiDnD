@@ -44,9 +44,10 @@ created: 2026-02-14 16:05
 - With Justin wielding the DM die, he rolls the impossible. A Natural 20. [[Garrison]] facing the Bugbear who has smashed Blake up against the wall, obliterates this Goblinoid doing a massive 40+ damage dispatching the Goblin leader.
 - The group slowly dispatches the goblins, successfully stopping them from leaving to alert the archers. [[Thorne Blackwood|Thorne]] is able to dispatch the Hexer with a dark purple Guiding Bolt ending the combat.
 - LOOOOTTTT 
-	- **Bugbear's Morningstar**: ==I dunno I didn't write it down, something with grappling. ==
-	- **Goblin Hexer's Staff**: ==(Needs to be Identified)==
-	- **8 Ironfang Patches** ==(What does this mean?)
+	- **Bugbear's Morningstar**: When you are grappling someone, you perform attack rolls against them with advantage.
+	- **Goblin Hexer's Staff**: Requires attunement. Spellcasting focus. Allows the wielder to cast *Eldritch Blast* at will. The staff has 3 charges, regaining 1d3 at dawn. The wielder can use their Bonus Action and spend a charge after dropping a creature to 0 hit points with a spell (while using the staff as a spellcasting focus) to allow one of their allies to make an Opportunity Attack.
+	- **Scroll of *Comprehend Languages***
+	- **8 Ironfang Patches**
 - With a successful combat, [[Garrison]] disguises [[The Collector]] as a Goblin in case the archers come down, and the group takes a short rest.
 - [[NG]] speaks to [[Thorne Blackwood|Thorne]] learning that the item they seek is actually a person. They expect her to be within the next room of this bunker.
 - [[Blake]] opening the door for Son is noticed by a group of 3 Hobgoblins that surround a table, on the table is the body of the individual [[Thorne Blackwood|Thorne]] was searching for.
@@ -66,8 +67,8 @@ created: 2026-02-14 16:05
 - Succeeding in the bunker, the party headed upstairs to the tower and finds that the remaining Goblin archers have fled. Allowing us to LOOOOT THE TOWER PROMISED TO USS. 
 - LOOT: 
 	- **Canvas landscape artwork by "Charisma"**
-	- **Ol' Reliable**: a longsword that went to [[Garrison]]. ==Didn't write it down, oops!==
-	- **A pair of earrings** ==(name?)==: When one person wears one and another wears the other, you can choose to swap places. The character who initiates it uses their bonus action and speaks the command word, and the other player heard it in their ear. As a reaction the other player can say the response word to swap places with them. This works up to 120ft
+	- **Ol' Reliable**: a longsword that went to [[Garrison]]. +1 longsword. Any attack roll of 1 becomes a 2 instead. Once per Long Rest, you can use a Reaction to turn an attack roll from a 2-5 into a 10.
+	- **Earrings of Hither-Thither**: Requires attunement. When one person wears one and another wears the other, you can choose to swap places. The character who initiates it uses their bonus action and speaks the command word, and the other player heard it in their ear. As a reaction the other player can say the response word to swap places with them. This works up to 120ft.
 - As promised, [[Thorne Blackwood|Thorne]] gives the party the information she has about a potential exit. She worked with [[The Toppelgangers]] to get the cultists they were hunting. The group has a new general, she suspects he is a Obsidian Dragon, or Obsidian Wyrmling. Since this general came into power, they've become more active and making bigger moves. Knowing the knowledge of this kind of creature, they would know a way out of [[The Frozen March]].
 
 ### We Level Up
