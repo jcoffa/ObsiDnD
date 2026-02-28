@@ -2,7 +2,8 @@
   "cssTheme": "ITS Theme",
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "appearance"
+    "appearance",
+    "tables"
   ],
   "textFontFamily": "",
   "monospaceFontFamily": "",

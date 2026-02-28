@@ -89,7 +89,7 @@ created: 2026-02-20 19:11
 - The cave has a pool of strangely warm water. [[Tilly]] jumps in and it heals her wounds, so Disco follows and his wounds heal for good this time.
 - [[Zrandovorski]] uses Detect Magic and discovers the water is not magical, but something at the bottom of the lake is. [[Tilly]] dives down and discovers that it's surprisingly difficult to swim deeper in this water; it's as if the water is unnaturally buoyant. She finds a golden orb at the bottom, and pulls it out of the rock it was stuck to. Turns out this was plugging a hole, and she starts to get swept into a current. [[NG]] throws down a rope to try and pull her out, but the rope is slick with water and she is swept into the hole.
 
-The party gains an as-of-yet unknown amount of XP!
+The party gains 275 XP, for their total of 1330!
 
 ## Recap
 

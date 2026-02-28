@@ -1,0 +1,21 @@
+/*
+ * Allow tables to expand past the readable line limit if their content is sufficiently long enough.
+ * Retrieved from: https://forum.obsidian.md/t/display-tables-at-full-length-while-keeping-the-rest-at-readable-line-length/26458/9
+ */
+
+/* reset readable line length on reading view container */
+.markdown-preview-sizer {
+    max-width: 100% !important; /* reset max-width */
+}
+
+/* make container elements conform to readable line length except for dataview and markdown table elements */
+.markdown-preview-sizer > div > *:not(.block-language-dataview):not(table) {
+    max-width: var(--file-line-width) !important;
+    margin-left: auto !important;   /* comment or remove this line to left-align all content */
+    margin-right: auto !important;
+}
+
+/* allow markdown tables to stretch to the full width if their content is long enough */
+.markdown-preview-sizer > div > table {
+    max-width: 100% !important;
+}
