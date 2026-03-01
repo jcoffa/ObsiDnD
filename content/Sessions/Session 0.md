@@ -20,7 +20,7 @@ The full party was here, of course! Naturally, with Cameron as the DM.
 
 ### Campaign Announcement Spiel
 
-Welcome to the Frozen March.
+Welcome to [[The Frozen March]].
 
 A cold desolate wasteland north of the impassable peaks and north of utopia. This is the place where all of the undesirables are sent. From political rivals of the Grand Exelcium to war criminals from the Clerical War, to even petty thieves. If you committed a crime to the crown, if you don’t get a slap on the wrist, you’ll likely end up here.
 
@@ -124,7 +124,7 @@ An assassin who has worked for a guild named *The Clock*; a hardcore mercenary g
 
 ## Recap
 
-Cameron had everyone roll a D20 and a D4 to be used in [[Session 1]] for reasons unknown.
+Cameron had everyone (except Joseph) roll a D20 and a D4 to be used in [[Session 1]] for reasons unknown.
 
 | Player | D20 | D4  |
 | ------ | --- | --- |

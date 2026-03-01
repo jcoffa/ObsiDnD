@@ -103,7 +103,7 @@ This is a reference to a [Zach the Bold short](https://youtube.com/shorts/Sfh7em
 - [[Tilly]] investigates the blue flame in the now relatively safe empty cave, and there's an icy sword in the flame (which curiously does not burn at all).
 - The party decides to take a rest in the cave now that it's empty of wolves.
 	- [[Zrandovorski]] identifies the shortsword.
-		- **The Shortsword of Frost**: A +1 shortsword that requires attunement. It deals Cold damage instead of the normal damage type of a shortsword. Regardless of the wielder's proficiencies, they are considered proficient in the shortsword while attuned to it.
+		- **[[Shortsword of Frost]]**: A +1 shortsword that requires attunement. It deals Cold damage instead of the normal damage type of a shortsword. Regardless of the wielder's proficiencies, they are considered proficient in the shortsword while attuned to it.
 	- [[Tilly]] finds 10 [[Find Teefs|big winter wolf teefs]].
 	- The blue flame in the winter wolf's eyes and the main blue flame in the cave suddenly rise up and shoot out of the cave at great speeds off into the distance.
 

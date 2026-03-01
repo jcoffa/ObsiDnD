@@ -71,7 +71,7 @@ created: 2026-01-30 19:00
 	- Son becomes invisible and settles.
 	- [[Garrison]] also gets darkvision and settles. He grabs [[Zrandovorski]]'s hand since he can't hear the plan of when to continue and what to do in the dungeon.
 - [[NG]] uses his Manifold Tools to unlock a chest on the 2nd level. It's trapped and it explodes immediately. [[The Collector]] investigates another chest and it's also trapped. The party is starting to notice that there are burn marks and chunks of stone missing all over this room, and there are still 3 chests left. Is *every* check here trapped?
-- [[The Collector]] shoots a Fire Bolt at one of the remaining chests (after the party backs up) and the top of it pops off. Inside is a red-coloured shield that looks like a compass rose. [[Zrandovorski]] Identifies it as a **Shield of Pursuit**.
+- [[The Collector]] shoots a Fire Bolt at one of the remaining chests (after the party backs up) and the top of it pops off. Inside is a red-coloured shield that looks like a compass rose. [[Zrandovorski]] Identifies it as a **[[Shield of Pursuit]]**.
 	- +1 bonus to AC (instead of the normal +2 of a shield). When an ally within 5 ft of you is hit by a ranged attack and you can see the attacker, you can use your reaction to teleport up to 60 ft to appear 5 ft next to the attacker. If the attacker is beyond 60 ft you cannot use this.
 - [[NG]] sees that the Wild Magic fog gets much thicker into the 3rd level of the tomb. He attempts to use a trapped chest to throw it down the staircase to see if the blast can disperse the fog. He rolls a 4 on Strength and barely chucks it down the stairs at all. It detonates all of the fog and the party takes a bunch of fire damage, with [[NG]] falling unconscious from the damage. [[Tilly]] is able to "Reboot" him.
 
@@ -92,8 +92,8 @@ created: 2026-01-30 19:00
 	- [[NG]] connects the residue from the hole to the presence of a powerful aberration. [[Volo]] completes the connection that this is influenced by the [[Underdark]] and is likely the origin of this magic and the supposed aberration, but otherwise doesn't know what.
 - [[Garrison]] asks about [[the Toppelgangers]]. [[Volo]] thinks they're mostly harmless, while admitting that he doesn't know what they want with the Adamantine ore, but overall considers them to mostly be worried about protecting themselves and not causing any huge problems if nobody bothers them. He suspects they are from Limbo, Pandemonium, or The Far Realms.
 - [[The Collector]] and [[Tilly]] are interested if [[Volo]] knows anything about [[Session 2#The Night|the fuzzy tentacle creature from the other night]]. He thinks it's a Mage Ripper, but has never seen one in person.
-- [[Volo]] mentions that he has a laboratory on the Southern Island. He will have a "mountainous reward" for the party. The party manages to persuade him to come back to [[Draskhrr]] and hang out with them. He also gives them a magic dagger as a reward immediately.
-	- **Roguish Blade of Bleed**. This magic dagger allows you to use your health as a resource and deal up to 3d6 extra damage on a melee sneak attack to both you and the target enemy. After using this attack, you cannot heal by any means except via a Wish spell for the next minute.
+- [[Volo]] mentions that [[Visit Volo's Laboratory|he has a laboratory on the Southern Island. He will have a "mountainous reward" for the party]]. The party manages to persuade him to come back to [[Draskhrr]] and hang out with them. He also gives them a magic dagger as a reward immediately.
+	- **[[Rogueish Blade of Bleed]]**. This magic dagger allows you to use your health as a resource and deal up to 3d6 extra damage on a melee sneak attack to both you and the target enemy. After using this attack, you cannot heal by any means except via a Wish spell for the next minute.
 
 ### Teefs
 

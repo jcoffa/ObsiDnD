@@ -101,6 +101,7 @@ Whenever you make changes to the campaign notes (whether that's by editing an ex
 I have done my best to organize the campaign notes in a way that will make sense for all of us. I've made a bunch of folders for us to be able to more easily find what we're looking for:
 
 - `Factions` is for keeping track of various named groups, guilds, and gangs. These will likely be linked to the `NPCs` and `PCs` who belong to them in some way.
+- `Items` is for keeping track of any unique and/or important items we pick up, magical or not.
 - `NPCs` is for keeping track of all the people we meet. These are friendly or hostile named characters who are controlled by the DM.
 - `PCs` is for keeping track of all our own characters. Think of these notes like a biography for your character. Use them however you like.
 - `Places` is for locations we visit or hear about. Each place can also contain a map that we can navigate and pin using the Leaflet plugin. Note that this does not work on the published Campaign Notes site, and is only visible within Obsidian.

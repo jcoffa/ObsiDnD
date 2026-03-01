@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiKeyRound",
       "🤝",
       "LiHandshake",
       "✅",
-      "❗",
-      "LiHome"
+      "❗"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,6 @@
   "index.md": "LiHome",
   "Quests": "❗",
   "Quests/Completed": "✅",
-  "Factions": "LiHandshake"
+  "Factions": "LiHandshake",
+  "Items": "LiKeyRound"
 }

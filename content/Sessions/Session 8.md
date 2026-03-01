@@ -30,21 +30,18 @@ created: 2026-02-27 18:45
 
 - [[Tilly]] ends up falling into a small lake at the bottom of the hole, which opens up into a wide cavern. She doesn't really find anything down there, so the party thinks of how to get her out.
 - After using Son in bat form to get an extra 50 feet of rope from [[Tilly]] herself, [[NG]] is able to tie together enough rope to reach the 200 feet distance required to rescue her. After attaching it to a block and tackle, [[Garrison]] is able to pull [[Tilly]] up to rescue her from the cavern.
-- [[Zrandovorski]] identifies the golden orb that [[Tilly]] pulled out of the bottom of the hot tub.
-- **Orb of Golden Heat**: When concentrating on the orb, you can feel its warm healing energy. You can add +1 on all hit dice rolls for 1 creature when taking a short rest, and can only use this once per long rest. The orb has 3 charges, regaining 1d3 on long rest. While concentrating on the orb, you can cast the following spells:
-	- Healing Word (1 charge)
-	- Lesser Restoration (2 charges)
+- [[Zrandovorski]] identifies the golden orb that [[Tilly]] pulled out of the bottom of the hot tub, and discovers that it's a magic item named the **[[Orb of Golden Heat]]**.
 - The party takes a rest.
 	- [[NG]] asks [[Zrandovorski]] what the highest number he counted to. [[Zrandovorski]] replies with some Goblin bullshit as numbers work differently in Goblin. He says he has counted to 45 billion, after counting by billions but got bored pretty quickly. [[Zrandovorski]] then asks [[NG]] about his engineering job, and [[NG]] replies that he was the guy who would attach the foot to the leg on the robots he would work on.
 	- [[Tilly]] asks Disco if he's ever met someone who grew 6-inches overnight. Disco muses that it could be *Enlarge/Reduce*, or *True Polymorph*. He has no idea.
 
-### The Underdark?
+### [[The Underdark]]?
 
 - The party discusses whether they're in [[The Underdark]] or not, and after determining that they would be if they were to get deeper, they argue over whether to go down the ladder or fall down the hole that [[Tilly]] fell down originally. They ultimately decide to go down the hole, because [[Tilly]] found some purple grass down there.
 - Before they leave, the party spends some time asking Disco about what he knows. Disco knows of 3 cities in [[The Underdark]], none of which would be [[Investigate Underdraskhrr|Underdraskhrr]].
-	- Trefawn is a Drow city. Not friendly.
-	- Waddlewood Cove is a Halfling city. It was originally on the surface, but it fell for some reason. Very friendly unless you are a monster and then they kill you on sight.
-	- Devawn's Blade is a giant Tavern for adventurer's in [[The Underdark]]. Friendly to adventurers unless its the bi-yearly (semi-yearly?) 2/year event where they get hunted by Mind Flayers.
+	- [[Trefawn]] is a Drow city. Not friendly.
+	- [[Waddlewood Cove]] is a Halfling city. It was originally on the surface, but it fell for some reason. Very friendly unless you are a monster and then they kill you on sight.
+	- [[Devawn's Blade]] is a giant Tavern for adventurer's in [[The Underdark]]. Friendly to adventurers unless its the bi-yearly (semi-yearly?) 2/year event where they get hunted by Mind Flayers.
 - Disco recounts a few cults he knows about, none of which are the Cult of the Stars. He knows of the Cult of the Dead, Cult of the Dragon, and the Cult of Hadar. [[The Collector]] remembers adventuring with his Father and encountered the name "Hadar" before amidst a bunch of ancient writing that he could not understand.
 - [[NG]] is able to climb down the rope just fine. Literally everyone else fails to climb down, so [[Zrandovorski]] uses *Feather Fall* to save everyone from potential damage.
 - The purple grass is a large field with a few torches in it. There are some large mushrooms producing spores, and some of the stalactites on the ceiling appear to be... breathing?
@@ -86,7 +83,7 @@ created: 2026-02-27 18:45
 - [[Tilly]] understands the Gibbering Mouther and hears that it's searching for "[[The Collector|Linus]]". It immediately runs to attack [[The Collector|Linus Snabberknackle]] and crits him! Thankfully it only deals 10 damage, but [[The Collector]] suspects that if this monster downs anyone they will be absorbed into it and lost forever.
 - [[The Collector]] heals [[Tilly]] for 8 hp, then attacks the creature with Radiant Flame for... 1 radiant damage.
 - [[Garrison]], the greatest PC we have available to us, crits the monster and deals a devastating Divine Smite for 48 radiant damage. Holy fuck. This is the highest damage total dealt in a single hit so far. THE MONSTER IS NOW BLOODIED!!!
-- [[NG]] uses his map to teleport 10 feet away from the monster and casts Guiding Bolt with a natural 1. Thanks, Shadowheart! He ends up hitting [[Zrandovorski]] by accident, dealing 11 damage to him and causing the next attack against him to have advantage.
+- [[NG]] uses his map to teleport 10 feet away from the monster and casts Guiding Bolt with a natural 1 on the attack roll. Thanks, Shadowheart! He ends up hitting [[Zrandovorski]] by accident, dealing 11 damage to him and causing the next attack against him to have advantage.
 - [[Tilly]] uses Cure Wounds on [[The Collector]] to heal him for 15 hp. Her chalice starry form allows her to then heal herself for 11 hp.
 - The Gibbering Mouther takes a **Legendary Action**. One of its mouths spits out golden acid to deal 8 radiant damage (or 4 if you save). Anyone who fails is also blinded.
 - Son throws pebbles into the Gibbering Mouthers eyes to use the Help action.
