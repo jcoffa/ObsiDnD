@@ -1,3 +1,11 @@
+/* Center tables horizontally in Preview mode */
+.markdown-preview-view table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
 /*
  * Allow tables to expand past the readable line limit if their content is sufficiently long enough.
  * Retrieved from: https://forum.obsidian.md/t/display-tables-at-full-length-while-keeping-the-rest-at-readable-line-length/26458/9

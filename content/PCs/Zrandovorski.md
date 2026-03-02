@@ -11,9 +11,16 @@ created: 2026-01-08 18:18
 - **Sessions Active:** [[Session 0]] - present
 - **Age:** looks to be late 20s to early 30s, with some grey hairs
 
-## Portent Rolls
+> *There are three kinds of knowledge that the enlightened may seek; knowledge of all there was, all there is, and all there is yet to be. The truest wisdom of Savas is not found in all there is yet to be; but in all there was and is. What sort of man only looks to the sky, and does not mind his own footing or what is in front of him?*
 
-PHB Page ???
+## Foretelling Rolls
+
+> [!info]- Portent (Diviner Level 3, *[PHB 173](https://5e.tools/classes.html#wizard_xphb,state:feature=s2-0~sub_diviner_xphb=b1)*)
+> Glimpses of the future begin to press on your awareness. Whenever you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb), roll two d20s and record the numbers rolled. You can replace any [D20 Test](https://5e.tools/variantrules.html#d20%20test_xphb) made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
+> 
+> Each foretelling roll can be used only once. When you finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb), you lose any unused foretelling rolls.
+
+Every **Long Rest**, roll 2d20 and replace the numbers that are here with those new rolls.
 
 - [x] 12
 - [x] 15
@@ -27,7 +34,7 @@ PHB Page ???
 		- Usually begins the day with 1 used due to Mage Armour
 	2. 0/2
 
-| Prep | Lvl | Name                 | Casting Time | Range  |   CRVSM | Notes                              | Page                                                                |
+| Prep | Lvl | Name                 | Casting Time | Range  | `CRVSM` | Notes                              | Page                                                                |
 | :--: | :-: | -------------------- | ------------ | ------ | ------: | ---------------------------------- | ------------------------------------------------------------------- |
 |  Y*  |  0  | Fire Bolt            | Action       | 120 ft | `--VS-` |                                    | [PHB 274](https://5e.tools/spells.html#fire%20bolt_xphb)            |
 |  Y*  |  0  | Toll the Dead        | Action       | 60 ft  | `--VS-` |                                    | [PHB 334](https://5e.tools/spells.html#toll%20the%20dead_xphb)      |
@@ -51,17 +58,6 @@ PHB Page ???
 
 ## Items
 
-### Staff of Booyahg
+![[Goblin Hexer's Staff]]
 
-- Requires attunement.
-- Can be used as a spellcasting focus.
-- Allows the wielder to cast _Eldritch Blast_ at will.
-
-The staff has 3 charges, regaining 1d3 at dawn. The wielder can use their Bonus Action and spend a charge after dropping a creature to 0 hit points with a spell (while using the staff as a spellcasting focus) to allow one of their allies to make an Opportunity Attack.
-
-### Orb of Golden Heat
-
-When concentrating on the orb, you can feel its warm healing energy. You can add +1 on all hit dice rolls for 1 creature when taking a short rest, and can only use this once per long rest. The orb has 3 charges, regaining 1d3 on long rest. While concentrating on the orb, you can cast the following spells:
-
-- Healing Word (1 charge)
-- Lesser Restoration (2 charges)
+![[Orb of Golden Heat]]

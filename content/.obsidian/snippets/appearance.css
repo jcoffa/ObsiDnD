@@ -8,15 +8,14 @@ body {
     color: #dc143c;
 }
 
-/* Center tables horizontally in Preview mode*/
-.markdown-preview-view table {
-    margin-left: auto;
-    margin-right: auto;
-}
-
 /* Center images */
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+/* Remove the title for embedded notes (all our notes have their own title) */
+div.embed-title.markdown-embed-title {
+    display: none;
 }
