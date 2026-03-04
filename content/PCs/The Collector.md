@@ -53,7 +53,8 @@ Wearing a nice vest, a tie, and spectacles. His mutton chops connect with his mo
 - **Species:** Quasit (current form)
 	- **Sessions Active:** [[Session 0]] - [[Session 2]] / [[Session 2]] - present
 - **Age:** Unknown
-
+![[image_2026-03-04T00-15-27.webp]]
+Me, by Son.
 
 Father said I am a part of the the party too so that means I get to write in the journal! I am happy I get to write, I have not gotten to write before, sometimes when I think to fast, it's like I am writing words into my head.
 
