@@ -44,6 +44,12 @@ else
     git restore --staged --worktree -- content/.obsidian/plugins/
 fi
 
+if [[ ! `git status --porcelain --untracked-files=no` ]]; then
+    echo "No local changes; just pulling from remote"
+    git pull
+    exit $?
+fi
+
 echo ""
 echo "Attempting to Backup and Pull"
 echo ""
@@ -70,4 +76,3 @@ if [[ $? -eq 0 ]] && [[ "$(git stash list -n 1)" == "stash@{0}: autostash" ]]; t
     echo "Backup -> Pull -> Incorporate local changes -> Commit -> Push was successful. Deleting backup."
     git stash drop
 fi
-
