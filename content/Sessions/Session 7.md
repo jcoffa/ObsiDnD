@@ -20,7 +20,7 @@ created: 2026-02-20 19:11
 >
 > ![[Session 6#Recap]]
 
-## Today's Bit
+## Quote of the Session
 
 > 18 by the way.
 > 

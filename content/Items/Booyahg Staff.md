@@ -3,7 +3,7 @@ aliases: []
 created: 2026-03-01 00:44
 ---
 
-#  [[Goblin Hexer's Staff]]
+#  [[Booyahg Staff]]
 
 - **Type:** Staff
 - **Source:** N/A

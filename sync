@@ -1,16 +1,55 @@
 #!/bin/bash
 
+BASENAME="$(basename $0)"
+
+usage() {
+    echo "Usage: $BASENAME [OPTION...]"
+    echo
+    echo "OPTIONS:"
+    echo "  --push-plugins      Commit and push local plugin configurations to remote"
+    echo "                        instead of overwriting local with remote"
+    echo "  -h | --help         Display this message and exit"
+}
+
+push_plugins=false
+
+while [[ $# -gt 0 ]]; do
+    case "$1" in
+        -h|--help)
+            usage
+            exit 0
+            ;;
+        --push-plugins)
+            push_plugins=true
+            shift
+            ;;
+        -*|--*)
+            >&2 echo "$BASENAME: Unknown option '$1'"
+            usage
+            exit 1
+            ;;
+        *)
+            >&2 echo "$BASENAME: Unexpected positional argument '$1'"
+            usage
+            exit 1
+            ;;
+    esac
+done
+
+
+if [[ push_plugins ]]; then
+    echo "Pushing local plugin configurations to the remote"
+else
+    echo "Overwriting local plugin configurations with the remote..."
+    git restore --staged --worktree -- content/.obsidian/plugins/
+fi
+
 echo ""
-echo "Attempting to Backup -> Pull -> Incorporate local changes -> Commit -> Push -> Delete backup"
+echo "Attempting to Backup and Pull"
 echo ""
 
-git pull --autostash && \
-    git add . && \
-    git commit -m "Sync by $(git config user.name) on $(date "+%B %-d, %Y at %-I:%M %p (%Z)")" && \
-    git push
-ret=$?
-
-if [[ $ret -ne 0 ]]; then
+git pull --autostash
+if [[ $? -ne 0 ]]; then
     >&2 echo ""
     >&2 echo " !! ERROR DETECTED !!"
     >&2 echo "======================"
@@ -20,7 +59,15 @@ if [[ $ret -ne 0 ]]; then
     exit 1
 fi
 
-if [[ $ret -eq 0 ]] && [[ "$(git stash list -n 1)" == "stash@{0}: autostash" ]]; then
+echo ""
+echo "Attempting to Incorporate local changes -> Commit -> Push -> Delete backup"
+echo ""
+
+git add . && \
+    git commit -m "Sync by $(git config user.name) on $(date "+%B %-d, %Y at %-I:%M %p (%Z)")" && \
+    git push
+if [[ $? -eq 0 ]] && [[ "$(git stash list -n 1)" == "stash@{0}: autostash" ]]; then
     echo "Backup -> Pull -> Incorporate local changes -> Commit -> Push was successful. Deleting backup."
     git stash drop
 fi
+

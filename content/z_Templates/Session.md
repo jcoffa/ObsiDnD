@@ -23,9 +23,9 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 >
 > !<%* tR += tp.user.wrap_link("Session " + (num-1), "[[", "#Recap]]") %>
 
-## Today's Bit
+## Quote of the Session
 
-*What was the brainrot joke/quote/meme/etc. that we really couldn't stop sayin?*
+*What was the joke that got the most laughs, or the most memorable character moment of this session?*
 
 ## Notes
 

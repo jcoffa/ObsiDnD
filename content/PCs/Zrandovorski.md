@@ -30,17 +30,17 @@ Every **Long Rest**, roll 2d20 and replace the numbers that are here with those 
 - **Spell Attack Bonus:** +6
 - **Spell Save DC:** 14
 - **Spell Slots (Used/Total):**
-	1. 2/4
+	1. 0/4
 		- Usually begins the day with 1 used due to Mage Armour
-	2. 0/2
+	2. 1/2
 
-| Prep | Lvl | Name                 | Casting Time | Range  | `CRVSM` | Notes                              | Page                                                                |
+| Prep | Lvl | Name                 | Casting Time | Range  | `CRVSM` | Source                             | Page                                                                |
 | :--: | :-: | -------------------- | ------------ | ------ | ------: | ---------------------------------- | ------------------------------------------------------------------- |
 |  Y*  |  0  | Fire Bolt            | Action       | 120 ft | `--VS-` |                                    | [PHB 274](https://5e.tools/spells.html#fire%20bolt_xphb)            |
 |  Y*  |  0  | Toll the Dead        | Action       | 60 ft  | `--VS-` |                                    | [PHB 334](https://5e.tools/spells.html#toll%20the%20dead_xphb)      |
 |  Y*  |  0  | Mage Hand            | Action       | 30 ft  | `--VS-` |                                    | [PHB 293](https://5e.tools/spells.html#mage%20hand_xphb)            |
 |  Y*  |  0  | Mind Sliver          | Action       | 60 ft  | `--V--` |                                    | [PHB 298](https://5e.tools/spells.html#mind%20sliver_xphb)          |
-|  Y*  |  0  | Prestidigitation     | Action       | 10 ft  | `--VS-` |                                    | [PHB 307](https://5e.tools/spells.html#mind%20sliver_xphb)          |
+|  Y*  |  0  | Prestidigitation     | Action       | 10 ft  | `--VS-` |                                    | [PHB 307](https://5e.tools/spells.html#prestidigitation_xphb)       |
 |  Y*  |  0  | Eldritch Blast       | Action       | 120 ft | `--VS-` | From the [[#Goblin Hexer's Staff]] | [PHB 267](https://5e.tools/spells.html#eldritch%20blast_xphb)       |
 |      |  1  | Alarm                | 1 minute     | 30 ft  | `-RVSM` |                                    | [PHB 239](https://5e.tools/spells.html#alarm_xphb)                  |
 |      |  1  | Comprehend Languages | Action       | Self   | `-RVSM` |                                    | [PHB 252](https://5e.tools/spells.html#comprehend%20languages_xphb) |
@@ -58,6 +58,6 @@ Every **Long Rest**, roll 2d20 and replace the numbers that are here with those 
 
 ## Items
 
-![[Goblin Hexer's Staff]]
+![[Booyahg Staff]]
 
 ![[Orb of Golden Heat]]

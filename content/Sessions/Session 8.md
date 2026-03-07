@@ -20,7 +20,7 @@ created: 2026-02-27 18:45
 >
 > ![[Session 7#Recap]]
 
-## Today's Bit
+## Quote of the Session
 
 *She smites on my head til' I Quasit.*
 
@@ -57,7 +57,7 @@ created: 2026-02-27 18:45
 - [[Tilly]] uses Moonbeam to hit one of the creatures for 8 damage.
 - [[Garrison]] throws a javelin to deal 8 damage as well.
 - [[The Collector]] Hexes the damaged creature and then Eldritch Blasts it for 9 force damage + 6 necrotic damage and it fucking dies.
-- [[Zrandovorski]] hits one with Magic Missile, dealing 11 force damage. He then backs up to be in the water with [[NG]].
+- [[Zrandovorski]] hits one with *Magic Missile*, dealing 11 force damage. He then backs up to be in the water with [[NG]].
 - Two of the creatures lands on [[The Collector]]'s and [[Blake]]'s heads and wraps themselves around them like a facehugger. It looks like their heads are now the monster. They are both grappled.
 	- [[The Collector]] is able to Hellish Rebuke one of them for 8 fire damage.
 	- [[Garrison]] suggests that he could try using Divine Smite on the creature on [[The Collector]]'s head. Surely nothing could go wrong.
@@ -66,7 +66,7 @@ created: 2026-02-27 18:45
 - [[Tilly]] moves their ~~orbital laser~~  Moonbeam over four of the creatures to damage them all, dealing 10 radiant damage to one of them and 5 damage to the other three.
 - [[Garrison]] chucks a javelin at one of the creatures hovering above him, dealing 9 damage and the creatures exploding after it falls to the ground. 
 - [[The Collector]] moves his Hex to the one stuck to [[Blake]], and fires an Eldritch Blast against it to deal 10 force damage and 1 necrotic damage.
-- [[Zrandovorski]] uses his Booyahg staff to cast Eldritch Blast the monster on [[Blake]], dealing 9 force damage and killing it. He excitedly tries to use its extra effect to allow someone to make an opportunity attack, but nobody is nearby any of the remaining monsters so it doesn't matter.
+- [[Zrandovorski]] uses his [[Booyahg Staff]] to cast *Eldritch Blast* on the monster that's wrapped around [[Blake]]'s head, dealing 9 force damage and killing it. He excitedly tries to use its extra effect to allow someone to make an opportunity attack, but nobody is nearby any of the remaining monsters so it doesn't matter.
 - The monster spews ink around [[Tilly]] (casting Darkness) and crits her for 15 damage!
 - Son runs into the darkness to scare the monster around her and it rolls exactly the DC.
 - [[NG]] Fire Bolts into the darkness, and successfully triangulates the position of the one around [[Tilly]] to hit it for 7 fire damage.
@@ -98,4 +98,8 @@ The party gains 230 XP, totalling to 1560 XP!
 
 ## Recap
 
-*What do you want to remember at the start of next session?*
+The party debates for, like, an hour on how to dive into the hole that [[Tilly]] got sucked down into so that they would be able to come back up after rescuing her. They eventually set up a bolt-and-tackle to rappel down, heavily influenced by [[Tilly]] finding some purple grass at the bottom. Among the grass are various coloured mushrooms, which [[NG]] knows can have a wide variety of positive and negative effects. The party mercilessly makes Son consume to see what they do and figure out which ones are safe.
+
+[[Blake]] decides they're bored and shoots one of the stalactites on the ceiling because they look like they're breathing. These end up being a pack of *Darkmantle* taking a snooze, and combat ensues as they wake up pissed as hell that their nap was interrupted. After taking out all the monsters (and pulling the corpse of one off of [[Blake]]'s head, since *Darkmantle* are ambush hunters specializing in suffocating their targets), the party decides that a rest is in order. They head back to the [[#The Shoal That Makes You Old|the beach from the previous room]] and start a Short Rest.
+
+Unfortunately for them, [[The Collector]] starts thinking too hard and is attacked by a *Gibbering Mouther* that appears to have appeared in the lake out of thin air. It also mumbles the name [[The Collector|Linus]]; somehow knowing who [[The Collector]] is and appears to be hunting him. It's a very tough fight, and incredibly scary due to the Mouther's ability to instantly kill a person at 0 HP and permanently absorbs their corpse into its hideous form. Thanks to a nasty *Divine Smite* critical hit from [[Garrison]], becoming the highest single-hit damage number the party has seen yet (48 radiant), the creature goes down.

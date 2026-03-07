@@ -310,6 +310,40 @@
             "order": ""
           },
           "type": "Date"
+        },
+        {
+          "name": "The Gibbering Mouther appears",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 4,
+            "year": 133
+          },
+          "id": "ID_cbaa9b6839a8",
+          "note": "Sessions/Session 8.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Azhvan is ruined by an enormous stone creature",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 4,
+            "year": 133
+          },
+          "id": "ID_9b5b9bf9ea39",
+          "note": "Sessions/Session 9.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "categories": [],

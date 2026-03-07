@@ -45,7 +45,7 @@ created: 2026-02-14 16:05
 - The group slowly dispatches the goblins, successfully stopping them from leaving to alert the archers. [[Thorne Blackwood|Thorne]] is able to dispatch the Hexer with a dark purple Guiding Bolt ending the combat.
 - LOOOOTTTT 
 	- **[[Bugbear's Morningstar]]**: When you are grappling someone, you perform attack rolls against them with advantage.
-	- **[[Goblin Hexer's Staff]]**: Requires attunement. Spellcasting focus. Allows the wielder to cast *Eldritch Blast* at will. The staff has 3 charges, regaining 1d3 at dawn. The wielder can use their Bonus Action and spend a charge after dropping a creature to 0 hit points with a spell (while using the staff as a spellcasting focus) to allow one of their allies to make an Opportunity Attack.
+	- **[[Booyahg Staff]]**: Requires attunement. Spellcasting focus. Allows the wielder to cast *Eldritch Blast* at will. The staff has 3 charges, regaining 1d3 at dawn. The wielder can use their Bonus Action and spend a charge after dropping a creature to 0 hit points with a spell (while using the staff as a spellcasting focus) to allow one of their allies to make an Opportunity Attack.
 	- **Scroll of *Comprehend Languages***
 	- **8 Ironfang Patches**
 - With a successful combat, [[Garrison]] disguises [[The Collector]] as a Goblin in case the archers come down, and the group takes a short rest.

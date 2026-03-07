@@ -12,6 +12,8 @@ created: 2026-03-01 00:52
 
 ---
 
+**Current charges**: 0/3
+
 A perfectly spherical, smooth, golden orb. It's comfortably warm to the touch, and calms one's nerves after holding it for a minute or two.
 
 - When concentrating on the orb, you can feel its warm healing energy. Once per **Long Rest**, you can add +1 to all hit dice rolls for one creature when taking a **Short Rest**.
