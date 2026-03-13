@@ -8,10 +8,12 @@ usage() {
     echo "OPTIONS:"
     echo "  --push-plugins      Commit and push local plugin configurations to remote"
     echo "                        instead of overwriting local with remote"
+    echo "  -m <message>        Commit message (will be after the sync summary)"
     echo "  -h | --help         Display this message and exit"
 }
 
 push_plugins=false
+message=""
 
 while [[ $# -gt 0 ]]; do
     case "$1" in
@@ -22,6 +24,10 @@ while [[ $# -gt 0 ]]; do
         --push-plugins)
             push_plugins=true
             shift
+            ;;
+        -m)
+            message="$2"
+            shift 2
             ;;
         -*|--*)
             >&2 echo "$BASENAME: Unknown option '$1'"
@@ -69,10 +75,18 @@ echo ""
 echo "Attempting to Incorporate local changes -> Commit -> Push -> Delete backup"
 echo ""
 
+# Construct commit message
+if [[ -n "$message" ]]; then
+    message=$(printf "\n\n$message")
+fi
+message="Sync by $(git config user.name) on $(date "+%B %-d, %Y at %-I:%M %p (%Z)")$message"
+
+# Perform commit
 git add . && \
-    git commit -m "Sync by $(git config user.name) on $(date "+%B %-d, %Y at %-I:%M %p (%Z)")" && \
+    git commit -m "$message" && \
     git push
 if [[ $? -eq 0 ]] && [[ "$(git stash list -n 1)" == "stash@{0}: autostash" ]]; then
     echo "Backup -> Pull -> Incorporate local changes -> Commit -> Push was successful. Deleting backup."
     git stash drop
 fi
+
