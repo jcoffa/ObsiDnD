@@ -66,7 +66,7 @@ created: 2026-02-14 16:05
 	5. **Why?** *They believed I and our faction are connected to the beyond.*
 - Succeeding in the bunker, the party headed upstairs to the tower and finds that the remaining Goblin archers have fled. Allowing us to LOOOOT THE TOWER PROMISED TO USS. 
 - LOOT: 
-	- **Canvas landscape artwork by "Charisma"**
+	- **Canvas landscape artwork by "[[Charisma]]"**
 	- **[[Ol' Reliable]]**: a longsword that went to [[Garrison]]. +1 longsword. Any attack roll of 1 becomes a 2 instead. Once per Long Rest, you can use a Reaction to turn an attack roll from a 2-5 into a 10.
 	- **[[There and Hererings]]**: Requires attunement. When one person wears one and another wears the other, you can choose to swap places. The character who initiates it uses their bonus action and speaks the command word, and the other player heard it in their ear. As a reaction the other player can say the response word to swap places with them. This works up to 120ft.
 - As promised, [[Thorne Blackwood|Thorne]] gives the party the information she has about a potential exit. She worked with [[The Toppelgangers]] to get the cultists they were hunting. The group has a new general, she suspects he is a Obsidian Dragon, or Obsidian Wyrmling. Since this general came into power, they've become more active and making bigger moves. Knowing the knowledge of this kind of creature, they would know a way out of [[The Frozen March]].

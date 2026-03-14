@@ -12,7 +12,7 @@ usage() {
     echo "  -h | --help         Display this message and exit"
 }
 
-push_plugins=false
+push_plugins=1
 message=""
 
 while [[ $# -gt 0 ]]; do
@@ -22,7 +22,7 @@ while [[ $# -gt 0 ]]; do
             exit 0
             ;;
         --push-plugins)
-            push_plugins=true
+            push_plugins=0
             shift
             ;;
         -m)
@@ -43,7 +43,7 @@ while [[ $# -gt 0 ]]; do
 done
 
 
-if [[ push_plugins ]]; then
+if [[ $push_plugins -eq 0 ]]; then
     echo "Pushing local plugin configurations to the remote"
 else
     echo "Overwriting local plugin configurations with the remote..."

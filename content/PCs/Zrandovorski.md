@@ -22,17 +22,17 @@ created: 2026-01-08 18:18
 
 Every **Long Rest**, roll 2d20 and replace the numbers that are here with those new rolls.
 
-- [x] 12
-- [x] 15
+- [ ] 11
+- [ ] 15
 
 ## Spells
 
 - **Spell Attack Bonus:** +6
 - **Spell Save DC:** 14
 - **Spell Slots (Used/Total):**
-	1. 0/4
+	1. 1/4
 		- Usually begins the day with 1 used due to Mage Armour
-	2. 1/2
+	2. 0/2
 
 | Prep | Lvl | Name                 | Casting Time | Range  | `CRVSM` | Notes                                 | Source                      | Page                                                                |
 | :--: | :-: | -------------------- | ------------ | ------ | ------: | ------------------------------------- | --------------------------- | ------------------------------------------------------------------- |
