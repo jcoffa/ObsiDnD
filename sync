@@ -6,13 +6,19 @@ usage() {
     echo "Usage: $BASENAME [OPTION...]"
     echo
     echo "OPTIONS:"
+    echo "  --no-push           Don't push local changes after syncing from the remote"
     echo "  --push-plugins      Commit and push local plugin configurations to remote"
     echo "                        instead of overwriting local with remote"
     echo "  -m <message>        Commit message (will be after the sync summary)"
     echo "  -h | --help         Display this message and exit"
 }
 
+has_autostash() {
+    [[ "$(git stash list -n 1)" == "stash@{0}: autostash" ]]
+}
+
 push_plugins=1
+push_changes=0
 message=""
 
 while [[ $# -gt 0 ]]; do
@@ -20,6 +26,10 @@ while [[ $# -gt 0 ]]; do
         -h|--help)
             usage
             exit 0
+            ;;
+        --no-push)
+            push_changes=1
+            shift
             ;;
         --push-plugins)
             push_plugins=0
@@ -42,6 +52,21 @@ while [[ $# -gt 0 ]]; do
     esac
 done
 
+echo "Syncing process:"
+echo "================"
+echo "- Backup local changes"
+echo "- Pull changes from the remote (GitHub)"
+echo "- Incorporate local changes with new changes from the remote"
+if [[ $push_changes -eq 0 ]]; then
+    echo -n "- Push local changes to the remote"
+    if [[ $push_plugins -eq 0 ]]; then
+        echo -n " (including plugin configuration data)"
+    fi
+    echo ""
+fi
+echo "- Delete backup"
+echo ""
+
 
 if [[ $push_plugins -eq 0 ]]; then
     echo "Pushing local plugin configurations to the remote"
@@ -57,9 +82,11 @@ if [[ ! `git status --porcelain --untracked-files=no` ]]; then
 fi
 
 echo ""
-echo "Attempting to Backup and Pull"
+echo "Attempting to Backup -> Pull -> Incorporate local changes"
 echo ""
 
+# Automatically stash local changes and pop them after a successful pull.
+# This could result in a merge conflict, but in typical scenarios it won't.
 git pull --autostash
 if [[ $? -ne 0 ]]; then
     >&2 echo ""
@@ -71,8 +98,13 @@ if [[ $? -ne 0 ]]; then
     exit 1
 fi
 
+if [[ $push_changes -ne 0 ]]; then
+    echo "Sync successful"
+    exit 0
+fi
+
 echo ""
-echo "Attempting to Incorporate local changes -> Commit -> Push -> Delete backup"
+echo "Attempting to Commit -> Push -> Delete backup"
 echo ""
 
 # Construct commit message
@@ -85,8 +117,11 @@ message="Sync by $(git config user.name) on $(date "+%B %-d, %Y at %-I:%M %p (%Z
 git add . && \
     git commit -m "$message" && \
     git push
-if [[ $? -eq 0 ]] && [[ "$(git stash list -n 1)" == "stash@{0}: autostash" ]]; then
-    echo "Backup -> Pull -> Incorporate local changes -> Commit -> Push was successful. Deleting backup."
+if [[ $? -eq 0 ]] && has_autostash; then
+    echo "Sync successful. Deleting backup."
     git stash drop
 fi
+
+echo ""
+git status
 

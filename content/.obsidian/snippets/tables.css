@@ -4,6 +4,12 @@
     margin-right: auto;
 }
 
+/* Add a thin border to tables (I find the bottom cell blends in too well with
+ * the normal page colour in this theme) */
+.markdown-preview-view table, .markdown-source-view table {
+    border: 2px solid #c14343;
+}
+
 
 
 /*
