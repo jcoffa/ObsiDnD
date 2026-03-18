@@ -27,7 +27,7 @@ created: 2026-02-14 16:05
 - [[NG]] the lookout is more focused on his new invention, a Rubik's cube, as he struggles to solve it while claiming to be watching the party's back.
 - [[NG]]'s amazing perceiving skills failing to see a new comer join into the parties walking formation.
 - [[Garrison]] breaks the Rubik's cube while attempting to solve it.
-- [[Thorne Blackwood]] - a mysterious and shady wood elf cleric joins into the party. Played by Kaitlin, Thorne gives the party a new mission to distract them.
+- [[Thorne Blackwood]] - a mysterious and shady wood elf cleric joins into the party. Played by Kaitlin, [[Thorne Blackwood|Thorne]] gives the party a new mission to distract them.
 - [[Thorne Blackwood|Thorne]] tells the party of a nearby Stronghold full of Goblins that has an item she wants. She promises that the party can loot the stronghold, so long they get their item, and also mentions that they may know of a way out of [[The Frozen March]].
 - The party heads to the Goblin Stronghold in hopes for good loot stumbling upon an old tower that was once clearly in a siege as the main tower leans heavy on its side with a bunker.
 
