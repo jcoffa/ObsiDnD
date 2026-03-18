@@ -68,10 +68,7 @@ echo "- Delete backup"
 echo ""
 
 
-if [[ $push_plugins -eq 0 ]]; then
-    echo "Pushing local plugin configurations to the remote"
-else
-    echo "Overwriting local plugin configurations with the remote..."
+if [[ $push_plugins -ne 0 ]]; then
     git restore --staged --worktree -- content/.obsidian/plugins/
 fi
 
