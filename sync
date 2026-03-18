@@ -123,5 +123,4 @@ if [[ $? -eq 0 ]] && has_autostash; then
 fi
 
 echo ""
-git status
 
