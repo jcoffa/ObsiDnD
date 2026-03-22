@@ -221,7 +221,7 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 27,
+        "day": 28,
         "month": 4,
         "year": 133
       },
@@ -338,6 +338,23 @@
           },
           "id": "ID_9b5b9bf9ea39",
           "note": "Sessions/Session 9.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Meeting Cline Daffenborn",
+          "description": null,
+          "date": {
+            "day": 28,
+            "month": 4,
+            "year": 133
+          },
+          "id": "ID_c91a1b4b081a",
+          "note": "Sessions/Session 11.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,

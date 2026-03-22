@@ -23,17 +23,18 @@ created: 2026-01-08 18:18
 
 Every **Long Rest**, roll 2d20 and replace the numbers that are here with those new rolls.
 
-- [ ] 11
-- [ ] 15
+- [x] 11
+- [x] 15
 
 ## Spells
 
 - **Spell Attack Bonus:** +6
 - **Spell Save DC:** 14
 - **Spell Slots (Used/Total):**
-	1. 1/4
+	1. 2/4
 		- Usually begins the day with 1 used due to Mage Armour
-	2. 0/2
+	2. 1/2
+- [x] **Used free [*Shield*](https://5e.tools/spells.html#shield_xphb) spell from [Magic Initiate](https://5e.tools/feats.html#magic%20initiate_xphb)?**
 
 > [!abstract]- Preparing Spells ([PHB 165](https://5e.tools/classes.html#wizard_xphb,state:feature=s0-0))
 >
