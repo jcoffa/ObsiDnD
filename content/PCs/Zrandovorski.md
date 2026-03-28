@@ -23,15 +23,15 @@ created: 2026-01-08 18:18
 
 Every **Long Rest**, roll 2d20 and replace the numbers that are here with those new rolls.
 
-- [x] 11
-- [x] 15
+- [ ] 3
+- [x] 8
 
 ## Spells
 
 - **Spell Attack Bonus:** +6
 - **Spell Save DC:** 14
 - **Spell Slots (Used/Total):**
-	1. 2/4
+	1. 1/4
 		- Usually begins the day with 1 used due to Mage Armour
 	2. 1/2
 - [x] **Used free [*Shield*](https://5e.tools/spells.html#shield_xphb) spell from [Magic Initiate](https://5e.tools/feats.html#magic%20initiate_xphb)?**
@@ -75,6 +75,7 @@ Every **Long Rest**, roll 2d20 and replace the numbers that are here with those 
 |  A   |  0  | Prestidigitation     | Action       | 10 ft  | `--VS-` |                                       |                                                                                                                 | [PHB 307](https://5e.tools/spells.html#prestidigitation_xphb)       |
 |  A   |  0  | Eldritch Blast       | Action       | 120 ft | `--VS-` |                                       | [[Booyahg Staff]]                                                                                               | [PHB 267](https://5e.tools/spells.html#eldritch%20blast_xphb)       |
 |      |  1  | Alarm                | 1 minute     | 30 ft  | `-RVSM` |                                       | Copied from a spell scroll                                                                                      | [PHB 239](https://5e.tools/spells.html#alarm_xphb)                  |
+|  Y   |  1  | Chromatic Orb        | Action       | 90 ft  | `--VSM` | `M`: *Diamond worth 50+ GP*           |                                                                                                                 | [PHB 249](https://5e.tools/spells.html#chromatic%20orb_xphb)        |
 |      |  1  | Comprehend Languages | Action       | Self   | `-RVSM` |                                       |                                                                                                                 | [PHB 252](https://5e.tools/spells.html#comprehend%20languages_xphb) |
 |      |  1  | Detect Magic         | Action       | Self   | `CRVS-` |                                       |                                                                                                                 | [PHB 262](https://5e.tools/spells.html#detect%20magic_xphb)         |
 |  Y   |  1  | Feather Fall         | 1 minute     | 60 ft  | `--V-M` |                                       |                                                                                                                 | [PHB 271](https://5e.tools/spells.html#feather%20fall_xphb)         |
@@ -86,6 +87,7 @@ Every **Long Rest**, roll 2d20 and replace the numbers that are here with those 
 |      |  1  | Thunderwave          | Action       | Self   | `--VS-` |                                       |                                                                                                                 | [PHB 334](https://5e.tools/spells.html#thunderwave_xphb)            |
 |  Y   |  1  | Witch Bolt           | Action       | 60 ft  | `C-VSM` |                                       |                                                                                                                 | [PHB 343](https://5e.tools/spells.html#witch%20bolt_xphb)           |
 |      |  2  | Augury               | 1 minute     | Self   | `-RVSM` | `M`: *Divinatory tokens worth 25+ GP* | [Divination Savant](https://5e.tools/classes.html#wizard_xphb,state:feature=s2-0~sub_diviner_xphb=b1) (PHB 173) | [PHB 244](https://5e.tools/spells.html#augury_xphb)                 |
+|      |  2  | Gentle Repose        | Action       | Touch  | `-RVSM` | `M`: *2 Copper, consumed*             |                                                                                                                 | [PHB 278](https://5e.tools/spells.html#gentle%20repose_xphb)        |
 |      |  2  | Locate Object        | Action       | Self   | `C-VSM` |                                       | [Divination Savant](https://5e.tools/classes.html#wizard_xphb,state:feature=s2-0~sub_diviner_xphb=b1) (PHB 173) | [PHB 293](https://5e.tools/spells.html#locate%20object_xphb)        |
 |  Y   |  2  | Shatter              | Action       | 60 ft  | `--VSM` |                                       |                                                                                                                 | [PHB 316](https://5e.tools/spells.html#shatter_xphb)                |
 

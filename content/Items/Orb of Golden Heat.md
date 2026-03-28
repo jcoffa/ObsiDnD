@@ -12,7 +12,7 @@ created: 2026-03-01 00:52
 
 ---
 
-**Current charges**: 0/3
+**Current charges**: 3/3
 
 A perfectly spherical, smooth, golden orb. It's comfortably warm to the touch, and calms one's nerves after holding it for a minute or two.
 
