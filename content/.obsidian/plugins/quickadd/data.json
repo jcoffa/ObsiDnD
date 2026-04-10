@@ -173,7 +173,7 @@
       "templatePath": "z_Templates/Session.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "Session ?ID?"
+        "format": "Session xIDx"
       },
       "folder": {
         "enabled": true,

@@ -19,17 +19,21 @@ created: 2026-03-27 18:43
 >
 > ![[Session 11#Recap]]
 
-## Quote of the Session
+## Quotes
 
-> Dani: "You hear [[Tilly]]'s voice coming out of the Giant Badger."
-> 
-> Joseph: "That's so weird. I'd expect it to sound like a badger."
-> 
-> Dani: "What did you expect? What does a badger sound like?"
-> 
-> Justin: "mdhjkddhuiwnjkncjshd" *(use your imagination)*
+>[!quote] What Are You Badgering About?
+>
+>Dani: "You hear [[Tilly]]'s voice coming out of the Giant Badger."
+>
+>Joseph: "That's so weird. I'd expect it to sound like a badger."
+>
+>Dani: "What did you expect? What does a badger sound like?"
+>
+>Justin: "mdhjkddhuiwnjkncjshd" *(use your imagination)*
 
-> Son (after being knocked off the ceiling and crushed by a rock): "Father! I've been *127 Hours*'d, Father!"
+>[!quote] Son, after being knocked off the ceiling and crushed by a boulder
+>
+>Father! I've been *127 Hours*'d, Father!
 
 ## Notes
 
@@ -118,4 +122,14 @@ The party earns 360 XP and is now at 3,140 XP!
 
 ## Recap
 
-*What do you want to remember at the start of next session?*
+The Reconstellators, having just triumphed over a terrifying tentacle monster by shooting it with the weapons system on its own crashed spaceship, immediately turn to looting the place of its strange technology. The most important piece of treasure they find is a [[Helm]]; an incredibly rare piece of magic tech that can create flying ships. Not really having the time to worry about that at the present moment, they continue on to the Adamantine Mines after ensuring that only they will be able to access the crashed ship after [[NG]] and [[Tilly]] steal its "keys"; a pair of blank white masks that allow them to interact with the ship's onboard systems.
+
+The remainder of the journey to the mines is, thankfully, uneventful. If by uneventful you mean "they were almost found and eaten by an adult white dragon" which, by Reconstellator standards, is definitely bottom 50%. A short distance from the mines, the party discovers an enormous brute of an ogre standing guard at the entrance. After debating for 10 minutes on how to get past him, and coming up with the cover story that they were sent to the mines by The Iron Fang to investigate some disturbances, the ogre immediately trusts their story implicitly and lets them in without barely even a second thought. Or first thought, for that matter. Inside the mines, the party sees that no mining is really getting done here. All the goblins are lazily lounging about and appear too scared to even go near the main cave entrance. They find the foreman, named Tumor, who explains that goblins have been going missing in the deeper caves where the Adamantine is, and the few who came back were raving about other unaffiliated goblins who attacked them. So now everyone is too scared to go back down there.
+
+[[NG]] attempts to inspire the fearful goblins to lead them down into the mines, but none of them bite. It seems their fear outweighs any lust for glory they may have. It takes [[NG]] magically tricking one of the fearful goblins into believing he was chosen by God, and the entire party *still* had to corner him in a storeroom and force him to lead them into the deep caverns. The goblin reluctantly introduces himself as "Gilbesh", and mutters the entire time about how much he "hates being chosen". Before parting ways, [[NG]] attempts to cover the party's ass by giving Gilbesh a dagger and urging him that any other visitors claiming they're from The Iron Fang are imposters and he needs to kill them in their sleep. No biggie.
+
+The deep mines are... weird. The party meets a goblin who always looks at them perfectly straight ahead and without any emotion. [[Tilly]] is suspicious that it may be a [[The Toppelgangers|doppelganger]] and probes its mind for details. It does not appear to be a doppelganger, but it also doesn't seem like a goblin either. All of a sudden, [[The Collector]] begins to act even more strangely than usual, and turns invisible and sprints into one of the cave hallways at once. The strange goblin rapidly runs backwards at an alarming speed in the same direction without ever turning around to stop facing the party head-on. They find [[The Collector]] in another room further down, and now he's acting just like the goblin did; emotionless and always facing them straight on. [[Zrandovorski]] notices a thin translucent string coming off the back of [[The Collector]] and the goblin, and finds a huge blood-red ooze on the ceiling of the cave! This is an Oblex (although the characters don't know it); an ooze that feeds on memories and mimics their intelligent meals. Thankfully, they need to keep their food alive in order to feed off its memories, and the party quickly identifies a stony prison with a dozen goblins and [[The Collector]] trapped inside. After a risky combat and almost caving in the roof of this tunnel onto themselves (thanks for the *Shatter* [[Zrandovorski]]...), the party emerges victorious with no prisoner casualties. 
+
+The rescued goblins are endlessly thankful of being rescued, and they mention that "[[The Toppelgangers|a group of grey looking guys]]" came to check up on them a couple days ago. They were interested in knowing why they were trapped, what they're down here for, etc. and then left without rescuing them. After the goblins leave back to the surface, [[NG]] finds a crack in the wall and uncovers it as another ladder-accessible entrance to [[The Underdark]]. Son flies down to investigate, and finds a camp of Deep Gnomes at the bottom. The session ends after some debate about what to do next, as some think that this would be a good opportunity to explore the entrance before the goblins discover it on their own. There's a loose plan on what to do next, although nothing is set in stone yet.
+
+![[#The Plan]]
