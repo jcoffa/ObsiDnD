@@ -221,8 +221,8 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 28,
-        "month": 4,
+        "day": 3,
+        "month": 5,
         "year": 133
       },
       "events": [
@@ -355,6 +355,57 @@
           },
           "id": "ID_c91a1b4b081a",
           "note": "Sessions/Session 11.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Spaceship crash lands in The Frozen March",
+          "description": null,
+          "date": {
+            "day": 29,
+            "month": 4,
+            "year": 133
+          },
+          "id": "ID_6b084958fbc9",
+          "note": "Sessions/Session 12.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Spending a day at the Adamantine Mines",
+          "description": null,
+          "date": {
+            "day": 29,
+            "month": 4,
+            "year": 133
+          },
+          "id": "ID_198a5848fb78",
+          "note": "Sessions/Session 12.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Meeting The Toppelgangers and The Obsidian Dragon",
+          "description": null,
+          "date": {
+            "day": 3,
+            "month": 5,
+            "year": 133
+          },
+          "id": "ID_e9aa3b9a495b",
+          "note": "Sessions/Session 13.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,

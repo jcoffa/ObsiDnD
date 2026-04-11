@@ -63,7 +63,7 @@
     },
     {
       "id": "TheFrozenMarch",
-      "lastAccessed": 1770429857517,
+      "lastAccessed": 1775873994734,
       "markers": [
         {
           "id": "ID_1a69dad909ba",
@@ -106,7 +106,7 @@
             261.328125,
             1202.75
           ],
-          "link": "Toppelgangers",
+          "link": "The Toppelgangers",
           "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
           "mutable": true,
           "command": false,
@@ -128,6 +128,23 @@
           "command": false,
           "percent": null,
           "description": "Adamantine Mine",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_7b7a2a880a39",
+          "type": "default",
+          "loc": [
+            243.6171875,
+            446.48726828461724
+          ],
+          "link": "Fair Helm City",
+          "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
           "minZoom": 0,
           "maxZoom": null,
           "tooltip": "always"
