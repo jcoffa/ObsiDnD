@@ -46,7 +46,14 @@ created: 2026-04-10 18:17
 - [[NG]] attempts to put a band together in order to prepare for the party. He hands out some megaphones and makes some makeshift instruments. They end up doing a pretty good job!
 - At this point in the night, it's far too late for a potential other group of Iron Fang to show up to the mine, so The Reconstellators have a rare night off! They begin playing a drinking game which involves making Constitution saving throws to chug wine as quickly as possible.
 - This game is quickly abandoned after some drunk goblins approach [[Zrandovorski]] (as the only new goblinoid in this place) and asks "what his deal is". He mentions that he is a fortune teller and starts letting people pull tarot cards!
-	- ==Dani would need to fill in the details on what happened here==
+	- The goblin gets Judgement, face up
+	- [[Blake]] gets The Hermit, face up (apologies, I didn't start writing the meanings until after this)
+	- [[Garrison]] gets The Devil, face up; meaning violence & rage
+	- [[Tilly]] gets The Magician, face up; meaning diplomacy, but also great loss
+	- [[The Collector]] gets The Magician, face up; also meaning diplomacy & great loss, but more deeply represents the card puller as The Magician itself *([[Tilly]] seathes at the different meaning based on gender)*
+	- Son gets The Sun, face down; meaning minor happiness and general contentment
+	- [[NG]] chooses not to participate
+	- Many Reconstellators offer to hold the deck so [[Zrandovorski]] can also pull a card, and he explains "zat is not how zis works"
 
 ### The Tower of Toppelgangers
 
