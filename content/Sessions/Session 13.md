@@ -30,6 +30,13 @@ created: 2026-04-10 18:17
 >
 >AMAB; **A**ll **M**oms **A**re **B**eautiful!
 
+>[!quote] Garrison
+>
+>We can convince a goblin to murder people, but lying is where I draw the line.
+
+>[!quote] Zrandovorski, acronym by Thomas
+>
+>The're asking me to write it in hobgoblin, why would I not use WHMIS (Wizard Harmful Magic Information System)?
 ## Notes
 
 ### Party 'Til You're Pregnant

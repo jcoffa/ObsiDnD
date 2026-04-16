@@ -6,8 +6,8 @@ created: 2026-03-20 20:30
 
 #  [[Cline Daffenborn]]
 
-- **Played By:** Bria
-- **Class:** Cleric (Life Domain)
+- **Played By:** Brianna
+- **Class:** Cleric (Death Domain)
 - **Species:** Elf
 - **Sessions Active:** [[Session 11]] (oneshot)
 - **Age:** 72 years old

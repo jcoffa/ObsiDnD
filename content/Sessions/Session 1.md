@@ -20,6 +20,11 @@ created: 2026-01-08 18:58
 >
 > ![[Session 0#Recap]]
 
+## Quote of the Session
+>[!quote] Zrandovorski
+>
+>If you give a goblin a spear, everything becomes a moving target to kill with a spear.
+
 ## Notes
 
 The session begins by rolling initiative, before immediately jumping into a flashback of the crew meeting for the first time in a prison cart.

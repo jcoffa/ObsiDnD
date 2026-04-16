@@ -20,10 +20,24 @@ created: 2026-03-13 18:40
 >
 > ![[Session 9#Recap]]
 
-## Quote of the Session
+## Quotes
+>[!quote] The Collector after NG tells him a smart thing to do
+>
+>[[NG]], sometimes I forget how smart I am.
 
-- *If you eat chicken, you can't mend your poop to make a chicken. If you eat a bunch of corn, I'm just saying that I think there's something you can work with there.*
-- *No silly, these are my leadership pills. Look, they say "Lead" on the front!*
+>[!quote] Thomas
+>
+>If you eat chicken, you can't mend your poop to make a chicken. If you eat a bunch of corn, I'm just saying that I think there's something you can work with there.
+
+>[!quote] ?
+>
+>No silly, these are my leadership pills. Look, they say "Lead" on the front!
+
+>[!quote] His father, by the way
+>
+> [[Tilly]]: Do you think Son's ok?
+> 
+>[[The Collector]]: Who??
 
 ## Notes
 

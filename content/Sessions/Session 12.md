@@ -35,6 +35,13 @@ created: 2026-03-27 18:43
 >
 >Father! I've been *127 Hours*'d, Father!
 
+>[!quote] NG
+>
+>Gilbesh, there will be others claiming to be us, **you must slay them**.
+
+>[!quote] The Collector, regarding Son
+>
+>I should've given that little boy a bomb.
 ## Notes
 
 ### Fuck 12

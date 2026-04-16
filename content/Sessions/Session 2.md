@@ -19,6 +19,17 @@ created: 2026-01-16 18:38
 >
 > ![[Session 1#Recap]]
 
+## Quote of the Session
+>[!quote] Zrandovorski (probably)
+>
+>The old Booyahg try.
+
+>[!quote] We respect all species in this house
+>
+>Someone: Goblins are similar looking.
+>
+>Rest of the party: WOAH WOAH WOAH WOAH
+
 ## Notes
 
 ### Quests and Forgery

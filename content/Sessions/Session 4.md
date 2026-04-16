@@ -19,6 +19,11 @@ created: 2026-01-30 19:00
 >
 > ![[Session 3#Recap]]
 
+## Quote of the Session
+>[!quote] Teamwork makes the dream work
+>
+>You are a dancing elf, young and swelf, only twelf.
+
 ## Notes
 
 - [[The Collector]] investigates the sarcophagi in the 2nd layer of [[The Tomb of Booyahg]] now that we have the Amulet that lets us avoid the effects of Wild Magic. The sarcophagi are from the 80th year in the Exelcium era

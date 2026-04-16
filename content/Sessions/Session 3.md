@@ -20,6 +20,11 @@ created: 2026-01-23 19:22
 >
 > ![[Session 2#Recap]]
 
+## Quote of the Session
+>[!quote] Theoretical Human Son
+>
+>I want to study politics and gender studies, Father.
+
 ## Notes
 
 - The group decides on what to do next. After weighing their options, they decide to set out for [[The Tomb of Booyahg]].

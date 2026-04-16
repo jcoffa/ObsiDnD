@@ -20,11 +20,19 @@ created: 2026-03-20 19:24
 >
 > ![[Session 10#Recap]]
 
-## Quote of the Session
+## Quotes
 
+>[!quote] Tilly is the main character
+>
 > Cameron: [[NG]] is going to have his "[[Tilly]] moment".
+> 
+>[[NG|Thomas]]: I'm excited to have my arc in the [[Tilly]] story.
 >
 > [[Tilly|Dani]]: I'm not the main character!
+
+>[!quote] Thomas
+>
+>11 o'clock really is the *67* of hours.
 
 ## Notes
 

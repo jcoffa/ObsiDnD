@@ -22,7 +22,17 @@ created: 2026-03-06 19:34
 
 ## Quote of the Session
 
-*Did this creature do you harm? Uh, something something chicken parm.*
+>[!quote] Thomas
+>
+>Did this creature do you harm? Uh, something something chicken parm.
+
+>[!quote] Son, invisibly scouting for the party
+>
+>What are you guys talking about?
+
+>[!quote] Thomas (pretty sure)
+>
+>What if Godzilla was on his tippy toes, that's all I'm saying.
 
 ## Notes
 
