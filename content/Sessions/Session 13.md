@@ -36,7 +36,7 @@ created: 2026-04-10 18:17
 
 >[!quote] Zrandovorski, acronym by Thomas
 >
->The're asking me to write it in hobgoblin, why would I not use WHMIS (Wizard Harmful Magic Information System)?
+>They're asking me to write it in hobgoblin, why would I not use WHMIS (Wizard Harmful Magic Information System)?
 ## Notes
 
 ### Party 'Til You're Pregnant
@@ -46,14 +46,14 @@ created: 2026-04-10 18:17
 - [[NG]] attempts to put a band together in order to prepare for the party. He hands out some megaphones and makes some makeshift instruments. They end up doing a pretty good job!
 - At this point in the night, it's far too late for a potential other group of Iron Fang to show up to the mine, so The Reconstellators have a rare night off! They begin playing a drinking game which involves making Constitution saving throws to chug wine as quickly as possible.
 - This game is quickly abandoned after some drunk goblins approach [[Zrandovorski]] (as the only new goblinoid in this place) and asks "what his deal is". He mentions that he is a fortune teller and starts letting people pull tarot cards!
-	- The goblin gets Judgement, face up
-	- [[Blake]] gets The Hermit, face up (apologies, I didn't start writing the meanings until after this)
+	- The goblin gets Judgement, face up; [[Zrandovorski]] dramatically tells him that he is going to die.
+	- [[Blake]] gets The Hermit, face up; meaning that the querent is selfish and should be weary of having something important taken from them. It also means that general rogueishness and skullduggery is in their future; fitting for the party's Rogue.
 	- [[Garrison]] gets The Devil, face up; meaning violence & rage
 	- [[Tilly]] gets The Magician, face up; meaning diplomacy, but also great loss
-	- [[The Collector]] gets The Magician, face up; also meaning diplomacy & great loss, but more deeply represents the card puller as The Magician itself *([[Tilly]] seathes at the different meaning based on gender)*
+	- [[The Collector]] gets The Magician, face up; also meaning diplomacy & great loss, but more deeply represents the card puller as The Magician itself *([[Tilly]] seethes at the different meaning based on gender)*
 	- Son gets The Sun, face down; meaning minor happiness and general contentment
-	- [[NG]] chooses not to participate
-	- Many Reconstellators offer to hold the deck so [[Zrandovorski]] can also pull a card, and he explains "zat is not how zis works"
+	- [[NG]] chooses not to participate, stating that he wishes not to tempt the fates in such a way
+	- Many Reconstellators offer to hold the deck so [[Zrandovorski]] can also pull a card, and he explains "zat is not how zis works" without explaining further
 
 ### The Tower of Toppelgangers
 
@@ -90,7 +90,7 @@ The dragon presents the following two routes of leaving:
 - [[Tilly]] casts *Speak With Animals* and the creature looks up at her. The creature is canine in nature; white-grey fur with glowing blue lines down its body. It has spots on its fur, but its ears appear to have feathers on it? It says *"Hungry..."* to her.
 	- She succeeds on an Animal Handling check, and attempts to feed it a *Goodberry*. It's hesitant at first, but is motivated by the food and eats it from her hand. It teleports 2 feet forward and dives into her lap. She swaddles the creature in her cloak to warm it up.
 	- There are no parents in sight. [[Tilly]] adopts the creature, which she identifies as a Blink Dog!
-- Before their watch for the night, the party grills [[Tilly]] on her newfound species knowledge. What the hell is a Kalashtar? There is a spirit which is intertwined with their host, and these spirits are "of [[The Far Realm]]". This is not a possession or pupping type of thing, it's very much a "two become one" sort of deal.
+- Before their watch for the night, the party grills [[Tilly]] on her newfound species knowledge. What the hell is a Kalashtar? There is a spirit which is intertwined with their host, and these spirits are "of [[The Far Realm]]". This is not a possession or puppeteering type of thing, it's very much a "two become one" sort of deal.
 - [[Tilly]] feels somewhat lost with this information. Her whole deal with [[The Toppelgangers]] was that they weren't supposed to be here, and now she discovers that she isn't even really from this plane either. The party tries to cheer her up by explaining that lots of things that "seem unnatural" are still part of the natural order.
 	- [[NG]] says that doppelgangers aren't from this plane, but it doesn't mean they're not natural. Things arrive on the Material Plane all the time. The natural order isn't just one stream, one forest, one country, one biome. Nature involves the complex interactions between many systems interacting with each other. [[Tilly]] is as much a part of the natural order of things as anything else.
 	- [[Zrandovorski]] reminds her that elves aren't native to the Material Plane either; they come from the Fey Wild.
@@ -99,4 +99,12 @@ The party earns 180 XP, for a total of 3,320 XP!
 
 ## Recap
 
-*What do you want to remember at the start of next session?*
+Previously, The Reconstellators were deciding what to do about the new entrance to [[The Underdark]] that they'd found after killing an Oblex and rescuing the trapped goblins at the bottom of the Adamantine mines. They had come up with [[Session 12#The Plan|a plan]] and put it to a vote. The plan fails to pass with 2 in favour and 4 against. Instead, they cover up the entrance with a big rock and [[Zrandovorski]] indicates that the rock is meant to guard against toxic gas and dangerous Booyahg magics. That should keep the goblins away for a while. The party easily returns to the surface, claims their reward from Tumor, and throws a big party to celebrate their victory and the reopening of the mines. [[Zrandovorski]], a little tipsy from the celebrations, offers to read the party's fortune using Tarot cards. The results are either eerily accurate or an eerily significant foil, with [[Blake|the Rogue]] pulling The Hermit (a card of thievery and skullduggery), [[Garrison]] getting The Devil (meaning violence and rage), [[Tilly]] getting The Magician (meaning diplomacy and great loss), [[The Collector]] also pulling The Magician (meaning it represents himself having already lost something), and Son pulling The Sun.
+
+After that somewhat scarily accurate event, they leave for [[The Toppelgangers]] tower, which they discover is quite run-down and crumbling with some hobgoblins riding wargs to patrol the are. After some good stealth and quick thinking from [[NG]] to talk past the guards and pass themselves as Doppelgangers seeking refuge, they make it inside and are able to confront the Obsidian Dragon who leads the group. [[NG]] takes point here, and manages to deftly combat the dragon on the battlefield of conversation. The party gives up information about [[The Game Master]] and the portal to [[The Abyss]] under [[Azhvan]], the dragon tells the party that the observatory is one of the only stable ways to leave [[The Frozen March]], as long as they can get past the Lich who resides there, or they can steal a ship from [[Fair Helm City]]. These are their best chances to escape their frozen prison. However, Obsidian dragons are known for only accepting deals that are weighed in their own favour, so he tasks the party with killing [[The Game Master]] next time they see him, and plunge an obsidian fragment into his corpse. This is immensely worrying, as [[The Game Master]] has proven to be an extremely powerful being on all previous encounters. The party is forced to accept if they wish to leave the tower alive.
+
+On their way out, [[Tilly]]'s curiosity gets the better of her as she wishes to learn more about herself. She informs the dragon about the [[Session 11|crashed spaceship]] as a trade to ask about what she is (knowing that a human is not entirely accurate). The dragon, who has been in his human form this whole time, turns into his dragon form (and is much scarier this way) in order to use truesight to get a better look at [[Tilly]]. He reveals that she is a Kalashtar; a being of two souls. The party quickly scurries out of this place before the dragon's patience runs out and finds their innards becoming outtards.
+
+Having not decided whether to travel to the observatory or [[Fair Helm City]], the party agrees that they should probably just head back to the Adamantine mines to plan their next move somewhere that isn't a flat barren wasteland of snow. On the way, [[Tilly]] finds a small hole with a shivering small wolf-like creature inside. After feeding it a Goodberry and warming it up in the folds of her cloak, it seems to take comfort in her presence and a bestial bond forms. Turns out this creature is a blink dog, and it looks like it's imprinted [[Tilly]] as it's mother. The party is unable to find any evidence of what happened to it's real mother, but regardless of what happened she is nowhere near where the pup was abandoned. The party resolves to thinking of a good name for this dog, the only current suggestion is [[Zrandovorski]]'s incredibly lame "Blinky", which he seemed to think was incredibly creative and original.
+
+As the party camps out in the snow, [[Tilly]] can't help but think back to the dragon's revelation that she is a Kalashtar. She's somewhat lost by this information, and feels like she doesn't really belong anywhere anymore. [[NG]] attempts to cheer her up by reminding her that the natural world is more complicated and strange than most give it credit for. How can she and the Doppelgangers "not belong here" while he and his elven brethren are considered to be native to the material plane when Elves are only here because they left their home in the Fey Wild? [[Tilly]] is as much a part of the natural order of things as anything else. She has as much right to exist as the rest.
