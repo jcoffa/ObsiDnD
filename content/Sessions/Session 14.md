@@ -31,6 +31,14 @@ created: 2026-04-17 18:38
 >[!quote] [[Garrison]]
 >Well, you can't do good without expecting a reward!
 
+>[!quote] Top 10 Things to do in The Frozen March
+>
+>[[Zrandovorski]]: Researching snow rats' migratory patterns is one of life's great pleasures.
+>
+>[[The Collector]]: They crawl under the snow, how do you do that?
+>
+>[[Zrandovorski]]: Oh, well that is where the fun part comes in!
+
 ## Notes
 
 ### Names For The Blink Dog
@@ -66,16 +74,34 @@ As its new mother, [[Tilly]] officially decides the dog's name is BD, to represe
 ### An Uneventful Watch
 
 - After naming the dog, it's dark out so the party sets up camp and lights a fire for warmth. [[Zrandovorski]] and [[Garrison]] take the first watch, and are too busy talking about armour to notice that a group of 4 ogres and 12 goblins sneak up on the group. They "suggest" that the party should wake the fuck up and be escorted by them to a nearby town. The ogre recognizes [[Zrandovorski]], stating that their leader wants to see them (and suggests that the leader is a woman).
-- The party is escorted into a "town hall" and meets [[Toran the Red]]. She has an interesting proposition for the party.
+- The party is escorted into a "town hall" and meets [[Toran the Red]]. She's interested in the party's recent anti-Iron Fang activities, especially [[Zrandovorski]], who is a known collaborator of theirs.
+- [[Zrandovorski]] expresses his general indifference to anything happening in [[The Frozen March]], other than [[The Iron Fang]]'s plan of escape; he thinks it would make more sense to have everyone leave safely through [[The Observatory]] *(the place currently infested with a super deadly lych)* and it isn't that bad in [[The Frozen March]], leading [[Toran the Red|Toran]] to laugh at the ridiculousness of both statements. 
+- She has an interesting proposition for the party.
 	- [[Overthrow The Iron Fang]]
-- ==Thanks for filling in this bit Dani :D Feel free to edit or rewrite what I already have==
+- The welcomes the party to stay in [[The Hearth of Hope|The Hearth]] for the night to come to a decision, so they are escorted to the their local bar, [[The Mana Drop]].
 
+### BAR BAR BAR BAR
+- They enter another log-cabin looking building, [[The Mana Drop]], which is very homey and warm inside, with only 4 corner booths and a bartender with a single keg, expressing annoyance that their alcohol shipments keep getting stolen ([[Tilly]] gives him comfort by telling him [[The Iron Fang]]'s booze are also being stolen).
+- The Reconstellators take the bottom right booth and order some drinks while discussing if they should take on [[Overthrow The Iron Fang|Toran's mission]].
+	- [[Zrandovorski]] says that he knows for sure that [[Toran the Red|Toran]] would be a better option than [[The Iron Fang]], [[The Collector]] wants to make sure they get compensated, and [[Tilly]] expresses concern over [[Toran the Red|Toran]] being able to take over once [[Kaz the Cold|Kaz]] and [[Rykor Steelhand|Rykor]].
+	- [[Tilly]] proposes the plan of not killing [[Kaz the Cold|Kaz]] and [[Rykor Steelhand|Rykor]], but instead weakening them so [[Toran the Red|Toran]] can make a big show of power with a public execution, which the party approves of.
+- [[Tilly]] asks [[Zrandovorski]] why it seems like everywhere they go, people know about him; at first all he says it is just because of his own seer abilities, but after MUCH prompting he reveals his family has also been known as sages, seers, fortune and future tellers among other titles, but from his perspective they're all just liars.
+- As they wrap up their discussion, a group with a human, kenku and goblin walk in and [[Zrandovorski]] immediately recognizes the goblin; it is [[Lester the Gnarled]], a goblin he encountered on his journey within [[The Observatory]]. They shoot the shit for a while before [[Zrandovorski]] begrudgingly introduces the party after a lot of reminders from [[The Collector]]. They learn no information about the human or the kenku as the other party goes to grab drinks and they head to bed for the night.
+
+### Do Wizards Dream of Magic Sheep?
+- As everyone heads to sleep, [[Zrandovorski]] lays his head down on his pillow, but as he looks up, he sees the clear sky above him. He stands and finds himself outside [[The Observatory]] once again, retreading his steps from before he met The Reconstellators
+- He moves forward against his will, walking through the floors and revisiting his past journey; corpses of goblins, the library, corpses of clerics, the corpse of a possessed goblin he had to kill, and as he reaches the top he sees the telescope and hears the sound of a portal in another room.
+- [[Zrandovorski]] feels a compulsion to look through the scope. He has previously chosen not to after seeing the effects it had on the possessed goblin (blackened eyes and mental disorder), but decides this time he will look.
+- Constellations and stars flash before him, and he gets the sense that that is where he needs to go. He attempts to pull back but finds it very hard to do so (makes a wisdom saving throw of 22), and just for a moment as he pulls away he sees a huge chained creature with giant tusks and a horned back, and the visage of a mass of mushrooms rampaging through a city. He manages to successfully pull away.
+- As he collects himself he notices a man is now in the room, 5'10"-5'11", clean shaven and well-kempt, but eyes glassy and grey, who looks at [[Zrandovorski]] and says "curious, you're back".
+- [[Zrandovorski]] wakes up back in [[The Mana Drop]], confident he's never seen that man before, even in the history books.
+  
 ### Let's Kill the Fuckers
 
-- The Reconstellators eat some pink eggs from the Mana Drop and head over to [[Toran the Red]] to discuss the details of [[Overthrow The Iron Fang|her request]].
+- The Reconstellators eat some pink eggs from [[The Mana Drop]] and head over to [[Toran the Red]] to discuss the details of [[Overthrow The Iron Fang|her request]].
 - [[The Collector]] attempts to lead the discussion but [[Garrison]] quickly starts with "Let's kill the fuckers" to immediately show her we're on her side. [[The Collector]] suggests that, for a gold reward and some backup to help the party escape [[The Frozen March]], The Reconstellators would be willing to aid her cause. He asks why she doesn't kill them herself.
 - [[Toran the Red|Toran]] is appreciative, but explains that she can't really be expected to charge into [[Draskhrr]] since they would be on high alert for her. But she is grateful of this partnership.
-- As the party discusses a timeline, [[Toran the Red|Toran]] sheepishly informs them that [[The Hearth of Hope]] is REALLY far away from both [[Draskhrr]] and The Adamantine mines. (check the map of [[The Frozen March]]).
+- As the party discusses a timeline, [[Toran the Red|Toran]] sheepishly informs them that [[The Hearth of Hope]] is REALLY far away from both [[Draskhrr]] and The Adamantine mines (check the map of [[The Frozen March]]). They've been teleported further west than they've ever been, and since [[Toran the Red|Toran]] can't control the locations of her portals around [[The Frozen March|the March]], she can't return them and guarantee them a way back unless they take less than a day
 - [[Garrison]] pitches the idea that the party would put [[Rykor Steelhand|Rykor]] and [[Kaz the Cold]] near death and allow [[Toran the Red|Toran]] to publicly execute them as a show of strength. Goblins are chaotic, so they would love that and would quell much of the risk of potential rebellion. She agrees that it would likely work, but she's hesitant to leave [[The Hearth of Hope]] in this way since the journey to [[Draskhrr]] is 3 weeks. Also, most of the people in [[The Hearth of Hope]] aren't fighters capable enough to combat the army of [[The Iron Fang]].
 - Considering whether they can use the [[Helm]] on a building here and fly it into [[Draskhrr]], the party mulls over using [[Tilly]] as a Giant Badger to dig out the underside of a house. This is a ridiculous idea and flying a house into [[Draskhrr]] would be insane. Also, [[Fair Helm City]] has anti-air weaponry to defend themselves from [[Find The White Dragon's Nest|the white dragon]] and they could easily shoot down a flying house. So maybe not a great idea.
 - [[The Collector]] really wants some money, and the party needs some XP if they want to be able to use the [[Helm]] (level 3 spell). [[Toran the Red|Toran]] suggests that they could investigate a nearby mine which has a foul-smelling monster causing problems for the miners. 1000 GP if they solve the problem.
