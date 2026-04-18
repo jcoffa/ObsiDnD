@@ -23,8 +23,8 @@ created: 2026-01-08 18:18
 
 Every **Long Rest**, roll 2d20 and replace the numbers that are here with those new rolls.
 
-- [ ] 13
-- [ ] 3
+- [x] 10
+- [ ] 18
 
 ## Spells
 
@@ -33,7 +33,7 @@ Every **Long Rest**, roll 2d20 and replace the numbers that are here with those 
 - **Spell Slots (Used/Total):**
 	1. 1/4
 		- Usually begins the day with 1 used due to Mage Armour
-	2. 0/2
+	2. 1/2
 - [ ] **Used free [*Shield*](https://5e.tools/spells.html#shield_xphb) spell from [Magic Initiate](https://5e.tools/feats.html#magic%20initiate_xphb)?**
 
 > [!abstract]- Preparing Spells ([PHB 165](https://5e.tools/classes.html#wizard_xphb,state:feature=s0-0))
@@ -85,9 +85,9 @@ Every **Long Rest**, roll 2d20 and replace the numbers that are here with those 
 |  A   |  1  | Shield               | Reaction     | Self   | `--VS-` | 1 free cast per **Long Rest**         | *[Magic Initiate](https://5e.tools/feats.html#magic%20initiate_xphb)* feat (Wizard)                             | [PHB 316](https://5e.tools/spells.html#shield_xphb)                 |
 |  Y   |  1  | Sleep                | Action       | 60 ft  | `--VSM` |                                       |                                                                                                                 | [PHB 317](https://5e.tools/spells.html#sleep_xphb)                  |
 |      |  1  | Thunderwave          | Action       | Self   | `--VS-` |                                       |                                                                                                                 | [PHB 334](https://5e.tools/spells.html#thunderwave_xphb)            |
-|  Y   |  1  | Witch Bolt           | Action       | 60 ft  | `C-VSM` |                                       |                                                                                                                 | [PHB 343](https://5e.tools/spells.html#witch%20bolt_xphb)           |
+|      |  1  | Witch Bolt           | Action       | 60 ft  | `C-VSM` |                                       |                                                                                                                 | [PHB 343](https://5e.tools/spells.html#witch%20bolt_xphb)           |
 |      |  2  | Augury               | 1 minute     | Self   | `-RVSM` | `M`: *Divinatory tokens worth 25+ GP* | [Divination Savant](https://5e.tools/classes.html#wizard_xphb,state:feature=s2-0~sub_diviner_xphb=b1) (PHB 173) | [PHB 244](https://5e.tools/spells.html#augury_xphb)                 |
-|      |  2  | Gentle Repose        | Action       | Touch  | `-RVSM` | `M`: *2 Copper, consumed*             |                                                                                                                 | [PHB 278](https://5e.tools/spells.html#gentle%20repose_xphb)        |
+|  Y   |  2  | Gentle Repose        | Action       | Touch  | `-RVSM` | `M`: *2 Copper, consumed*             |                                                                                                                 | [PHB 278](https://5e.tools/spells.html#gentle%20repose_xphb)        |
 |      |  2  | Locate Object        | Action       | Self   | `C-VSM` |                                       | [Divination Savant](https://5e.tools/classes.html#wizard_xphb,state:feature=s2-0~sub_diviner_xphb=b1) (PHB 173) | [PHB 293](https://5e.tools/spells.html#locate%20object_xphb)        |
 |  Y   |  2  | Shatter              | Action       | 60 ft  | `--VSM` |                                       |                                                                                                                 | [PHB 316](https://5e.tools/spells.html#shatter_xphb)                |
 

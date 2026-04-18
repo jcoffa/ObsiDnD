@@ -221,7 +221,7 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 3,
+        "day": 4,
         "month": 5,
         "year": 133
       },
@@ -406,6 +406,40 @@
           },
           "id": "ID_e9aa3b9a495b",
           "note": "Sessions/Session 13.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Death of Blake",
+          "description": null,
+          "date": {
+            "day": 4,
+            "month": 5,
+            "year": 133
+          },
+          "id": "ID_a97b3b6acbb9",
+          "note": "Sessions/Session 14.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Discovery of The Hearth of Hope, and meeting Toran the Red",
+          "description": "",
+          "date": {
+            "day": 4,
+            "month": 5,
+            "year": 133
+          },
+          "id": "ID_9b8bfb99c99a",
+          "note": "Sessions/Session 14.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,

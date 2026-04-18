@@ -63,7 +63,7 @@
     },
     {
       "id": "TheFrozenMarch",
-      "lastAccessed": 1775873994734,
+      "lastAccessed": 1776476945096,
       "markers": [
         {
           "id": "ID_1a69dad909ba",
@@ -140,6 +140,23 @@
             446.48726828461724
           ],
           "link": "Fair Helm City",
+          "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_dae8a89beaa8",
+          "type": "default",
+          "loc": [
+            42.59213502303344,
+            399.6596211137191
+          ],
+          "link": "The Observatory",
           "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
           "mutable": true,
           "command": false,

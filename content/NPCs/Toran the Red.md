@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - Toran
 created: 2026-03-07 15:27
 ---
 
@@ -8,6 +9,8 @@ created: 2026-03-07 15:27
 ## Description
 
 An orcish woman who seems to be a very violent arsonist trying to send a message. Who the message or is to, or what she's trying to say, are both entirely unknown.
+
+She is taller than a normal orc, and has blue skin and black hair with a streak of red through it. She has horns, and large teeth that perfectly fit into each other (like a Jack O' Lantern).
 
 ## Relationships
 
