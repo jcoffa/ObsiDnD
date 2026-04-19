@@ -30,4 +30,4 @@ darkmode: false ### marker
 
 # [[The Frozen March]]
 
-Start writing here!
+A cold desolate wasteland north of the impassable peaks and north of [[Utopia]]. This is the place where all of the undesirables are sent. From political rivals of the Grand Exelcium to war criminals from the Clerical War, to even petty thieves. If you committed a crime to the crown, if you don’t get a slap on the wrist, you’ll likely end up here.

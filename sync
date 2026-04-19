@@ -6,10 +6,13 @@ usage() {
     echo "Usage: $BASENAME [OPTION...]"
     echo
     echo "OPTIONS:"
-    echo "  --no-push           Don't push local changes after syncing from the remote"
-    echo "  --push-plugins      Commit and push local plugin configurations to remote"
-    echo "                        instead of overwriting local with remote"
-    echo "  -m <message>        Commit message (will be after the sync summary)"
+    echo "  --no-push           Don't push local changes after syncing with GitHub"
+    echo "  --no-pull           Don't try to pull potential new changes from GitHub before"
+    echo "                        before trying to push local changes"
+    echo "  --push-plugins      Commit and push local plugin configurations to GitHub"
+    echo "                        instead of overwriting local plugins with whatever GitHub has"
+    echo '  -m "<message>"      Commit message (will be after the sync summary)'
+    echo "  --dry-run           Don't actually do anything; just output the commands that would be performed"
     echo "  -h | --help         Display this message and exit"
 }
 
@@ -17,9 +20,11 @@ has_autostash() {
     [[ "$(git stash list -n 1)" == "stash@{0}: autostash" ]]
 }
 
-push_plugins=1
+pull_changes=0
 push_changes=0
+push_plugins=1
 message=""
+dry=''
 
 while [[ $# -gt 0 ]]; do
     case "$1" in
@@ -31,8 +36,16 @@ while [[ $# -gt 0 ]]; do
             push_changes=1
             shift
             ;;
+        --no-pull)
+            pull_changes=1
+            shift
+            ;;
         --push-plugins)
             push_plugins=0
+            shift
+            ;;
+        --dry-run)
+            dry=echo
             shift
             ;;
         -m)
@@ -55,8 +68,10 @@ done
 echo "Syncing process:"
 echo "================"
 echo "- Backup local changes"
-echo "- Pull changes from the remote (GitHub)"
-echo "- Incorporate local changes with new changes from the remote"
+if [[ $pull_changes -eq 0 ]]; then
+    echo "- Pull changes from the remote (GitHub)"
+    echo "- Incorporate local changes with new changes from the remote"
+fi
 if [[ $push_changes -eq 0 ]]; then
     echo -n "- Push local changes to the remote"
     if [[ $push_plugins -eq 0 ]]; then
@@ -69,30 +84,33 @@ echo ""
 
 
 if [[ $push_plugins -ne 0 ]]; then
-    git restore --staged --worktree -- content/.obsidian/plugins/
+    $dry git restore --staged --worktree -- content/.obsidian/plugins/
 fi
 
-if [[ ! `git status --porcelain --untracked-files=no` ]]; then
-    echo "No local changes; just pulling from remote"
-    git pull
-    exit $?
-fi
+if [[ $pull_changes -eq 0 ]]; then
+    # Quit early if we only need to pull
+    if [[ ! `git status --porcelain --untracked-files=no` ]]; then
+        echo "No local changes; just pulling from remote"
+        $dry git pull
+        exit $?
+    fi
 
-echo ""
-echo "Attempting to Backup -> Pull -> Incorporate local changes"
-echo ""
+    echo ""
+    echo "Attempting to Backup -> Pull -> Incorporate local changes"
+    echo ""
 
-# Automatically stash local changes and pop them after a successful pull.
-# This could result in a merge conflict, but in typical scenarios it won't.
-git pull --autostash
-if [[ $? -ne 0 ]]; then
-    >&2 echo ""
-    >&2 echo " !! ERROR DETECTED !!"
-    >&2 echo "======================"
-    >&2 echo "You may have gotten a merge conflict in the process of incorporating local changes."
-    >&2 echo "If so, you will need to resolve these conflicts using normal git process."
-    >&2 echo "If you are a non-compsci user, ping Joseph in the group chat for help!"
-    exit 1
+    # Automatically stash local changes and pop them after a successful pull.
+    # This could result in a merge conflict, but in typical scenarios it won't.
+    $dry git pull --autostash
+    if [[ $? -ne 0 ]]; then
+        >&2 echo ""
+        >&2 echo " !! ERROR DETECTED !!"
+        >&2 echo "======================"
+        >&2 echo "You may have gotten a merge conflict in the process of incorporating local changes."
+        >&2 echo "If so, you will need to resolve these conflicts using normal git process."
+        >&2 echo "If you are a non-compsci user, ping Joseph in the group chat for help!"
+        exit 1
+    fi
 fi
 
 if [[ $push_changes -ne 0 ]]; then
@@ -111,13 +129,12 @@ fi
 message="Sync by $(git config user.name) on $(date "+%B %-d, %Y at %-I:%M %p (%Z)")$message"
 
 # Perform commit
-git add . && \
-    git commit -m "$message" && \
-    git push
+$dry git add . && \
+    $dry git commit -m "$message" && \
+    $dry git push
 if [[ $? -eq 0 ]] && has_autostash; then
     echo "Sync successful. Deleting backup."
-    git stash drop
+    $dry git stash drop
 fi
 
 echo ""
-

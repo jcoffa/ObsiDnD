@@ -11,7 +11,7 @@ created: 2026-01-08 18:18
 - **Sessions Active:** [[Session 0]] - present
 - **Age:** looks to be late 20s to early 30s, with some grey hairs
 
-> *There are three kinds of knowledge that the enlightened may seek; knowledge of all there was, all there is, and all there is yet to be. The truest wisdom of Savas is not found in all there is yet to be; but in all there was and is. What sort of man only looks to the sky, and does not mind his own footing or what is in front of him?*
+> *There are three kinds of knowledge that the enlightened may seek; knowledge of all there was, all there is, and all there is yet to be. The truest wisdom of Savras is not found in all there is yet to be; but in all there was and is. What sort of man only looks to the sky, and does not mind his own footing or what is in front of him?*
 
 ## Foretelling Rolls
 
@@ -96,3 +96,37 @@ Every **Long Rest**, roll 2d20 and replace the numbers that are here with those 
 ![[Booyahg Staff]]
 
 ![[Orb of Golden Heat]]
+
+## Secret Stuff
+
+>[!warning]- For Joseph's Eyes Only
+>
+>### Zrandovorski
+>A hobgoblin oracle who was present for the Clerical War over 100 years ago. Served the old hobgoblin society along with his family before [[Utopia]] invaded, conquered, and exiled the hobgoblins to [[The Frozen March]]. Modern [[Utopia]] is *literally* built on the bloodied soil of the old hobgoblin society; they conquered the seat of hobgoblin power and rebuilt modern-day [[Utopia]] on top of its ashes after winning the war they started. He harbours a bitter resentment toward [[Utopia|Utopian]] society for the death of his family and mass genocide of his people. He has no idea why he has barely aged since this event.
+>
+>He was 24 years old when the Clerical War conquered his home. Now he is 124.
+>
+>### Family
+>Likely all dead due to either the Clerical War and/or old age. Listed ages are during the Clerical War. Parents are confirmed dead in the Clerical War. Hobgoblins aren't exactly the nurturing sort, so bonds between siblings are far more common than bonds between parent and child.
+>
+>#### **Gedak**, the youngest sister, 14 years old.
+>- The most skilled oracle our tribe's history has seen in generations.
+>- A gentle and kind soul by human standards. Depressingly weak and cowardly by hobgoblin standards; she is the antithesis to hobgoblin society.
+>- Soft-spoken, frail, calm, and kind.
+>
+>#### **Wextil**, the younger brother, 15 years old.
+>- Still considered a bit on the gentle side of hobgoblin standards, is closest to being an "average hobgoblin" in our family.
+>- Takes more of an interest in military strategy than the "boring" teachings of Savras.
+>- Butted heads with my parents on occasion by wanting to go into the *Hobgoblin tradition* of military training instead of following the *family tradition* of becoming an oracle; a fated responsibility of our family line since millenia ago.
+>	- Didn't really matter to our parents and family history, so an oracle he became anyways (against his wishes).
+>	- Never took it very seriously and was never good at it, preferring to "waste his time with those silly weapons" instead of honing his skills in vision interpretation.
+>- Extremely close to **Gedak**, likely due to their similar age. Enormously protective over her and her gentle nature.
+>
+>#### **Ekvenur**, the oldest sister, 21 years old.
+>- Serious, determined, highly analytical, patient, loyal, and dedicated to our family and its rich history. Harbours an intense sense of duty to our family's responsibility.
+>- Somewhat above-average skills as an oracle without being super noteworthy. Considered the "poster child" of our family and its history; the dictionary definition or "mould" for the kind of oracle our family aims to produce.
+>- Left the tribe on her 18th birthday to act as an oracle for a nearby tribe, as is standard for all children in our family (except the eldest, who remains in their place of birth).
+>	- We have not seen her since she left, as is her duty and ours. We kept in touch with letters given to messengers and travelling merchants. She was proud of her position and, by her own evaluation, doing well to support her new home.
+>
+>### Savras
+>The God of wizards, divination, fate, and truth in the Faerunian pantheon. Revered by my family for as far back as our history goes (and likely earlier). Some say our lineage was blessed by Savras directly, and contributes to our divinatory abilities. Our family is largely unconcerned with this trifling gossip; our dedication to his domain matters enough.

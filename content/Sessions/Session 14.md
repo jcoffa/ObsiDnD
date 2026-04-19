@@ -31,7 +31,7 @@ created: 2026-04-17 18:38
 >[!quote] [[Garrison]]
 >Well, you can't do good without expecting a reward!
 
->[!quote] Top 10 Things to do in The Frozen March
+>[!quote] Top 10 Things to do in [[The Frozen March]]
 >
 >[[Zrandovorski]]: Researching snow rats' migratory patterns is one of life's great pleasures.
 >
@@ -61,7 +61,8 @@ created: 2026-04-17 18:38
 	- Eyeball (because he blinks)
 	- Snowlax (nobody understands the reference)
 	- BG (for "**B** **D**iddy")
-- *A disembodied voice that [[Garrison]] is weirdly close with* suggests: Guelph Ontario Canada (full name)
+- *A disembodied voice that [[Garrison]] is weirdly close with* suggests:
+	- Guelph Ontario Canada (full name)
 - [[Garrison]] suggests:
 	- Nibbit
 	- Waffles
@@ -74,22 +75,24 @@ As its new mother, [[Tilly]] officially decides the dog's name is BD, to represe
 ### An Uneventful Watch
 
 - After naming the dog, it's dark out so the party sets up camp and lights a fire for warmth. [[Zrandovorski]] and [[Garrison]] take the first watch, and are too busy talking about armour to notice that a group of 4 ogres and 12 goblins sneak up on the group. They "suggest" that the party should wake the fuck up and be escorted by them to a nearby town. The ogre recognizes [[Zrandovorski]], stating that their leader wants to see them (and suggests that the leader is a woman).
-- The party is escorted into a "town hall" and meets [[Toran the Red]]. She's interested in the party's recent anti-Iron Fang activities, especially [[Zrandovorski]], who is a known collaborator of theirs.
-- [[Zrandovorski]] expresses his general indifference to anything happening in [[The Frozen March]], other than [[The Iron Fang]]'s plan of escape; he thinks it would make more sense to have everyone leave safely through [[The Observatory]] *(the place currently infested with a super deadly lych)* and it isn't that bad in [[The Frozen March]], leading [[Toran the Red|Toran]] to laugh at the ridiculousness of both statements. 
+- The party is escorted into a log cabin building (apparently their "town hall", though it doesn't look it) and meets [[Toran the Red]]. She's interested in the party's recent anti-[[The Iron Fang|Iron Fang]] activities, especially [[Zrandovorski]], who is a known collaborator of theirs.
+- [[Zrandovorski]] expresses his general indifference to anything happening in [[The Frozen March]], other than [[The Iron Fang]]'s plan of escape; he thinks it would make more sense to have everyone leave safely through [[The Observatory]] *(the place currently infested with a super deadly lich)* and it isn't that bad in [[The Frozen March]], leading [[Toran the Red|Toran]] to laugh at the ridiculousness of both statements. 
 - She has an interesting proposition for the party.
 	- [[Overthrow The Iron Fang]]
-- The welcomes the party to stay in [[The Hearth of Hope|The Hearth]] for the night to come to a decision, so they are escorted to the their local bar, [[The Mana Drop]].
+- [[Toran the Red|Toran]] welcomes the party to stay in [[The Hearth of Hope|The Hearth]] for the night to come to a decision, so they are escorted to the their local bar, [[The Mana Drop]].
 
 ### BAR BAR BAR BAR
+
 - They enter another log-cabin looking building, [[The Mana Drop]], which is very homey and warm inside, with only 4 corner booths and a bartender with a single keg, expressing annoyance that their alcohol shipments keep getting stolen ([[Tilly]] gives him comfort by telling him [[The Iron Fang]]'s booze are also being stolen).
 - The Reconstellators take the bottom right booth and order some drinks while discussing if they should take on [[Overthrow The Iron Fang|Toran's mission]].
-	- [[Zrandovorski]] says that he knows for sure that [[Toran the Red|Toran]] would be a better option than [[The Iron Fang]], [[The Collector]] wants to make sure they get compensated, and [[Tilly]] expresses concern over [[Toran the Red|Toran]] being able to take over once [[Kaz the Cold|Kaz]] and [[Rykor Steelhand|Rykor]].
+	- [[Zrandovorski]] says that he knows for sure that [[Toran the Red|Toran]] would be a better option than [[The Iron Fang]], [[The Collector]] wants to make sure they get compensated, and [[Tilly]] expresses concern over [[Toran the Red|Toran]] being able to take over once [[Kaz the Cold|Kaz]] and [[Rykor Steelhand|Rykor]] are out of the picture.
 	- [[Tilly]] proposes the plan of not killing [[Kaz the Cold|Kaz]] and [[Rykor Steelhand|Rykor]], but instead weakening them so [[Toran the Red|Toran]] can make a big show of power with a public execution, which the party approves of.
-- [[Tilly]] asks [[Zrandovorski]] why it seems like everywhere they go, people know about him; at first all he says it is just because of his own seer abilities, but after MUCH prompting he reveals his family has also been known as sages, seers, fortune and future tellers among other titles, but from his perspective they're all just liars.
+- [[Tilly]] asks [[Zrandovorski]] why it seems like everywhere they go, people know about him; at first all he says it is just because of his own seer abilities, but after MUCH prompting he reveals his family has also been known as sages, seers, wise ones, mystics, shamans, fortune tellers, and future tellers among dozens of other titles. But from his perspective they're all just professional liars. Supposedly they are quite famous in [[The Frozen March]] as they are (for the most part) the only people in the region to have divination abilities. He doesn't elaborate on much else beyond that.
 - As they wrap up their discussion, a group with a human, kenku and goblin walk in and [[Zrandovorski]] immediately recognizes the goblin; it is [[Lester the Gnarled]], a goblin he encountered on his journey within [[The Observatory]]. They shoot the shit for a while before [[Zrandovorski]] begrudgingly introduces the party after a lot of reminders from [[The Collector]]. They learn no information about the human or the kenku as the other party goes to grab drinks and they head to bed for the night.
 
 ### Do Wizards Dream of Magic Sheep?
-- As everyone heads to sleep, [[Zrandovorski]] lays his head down on his pillow, but as he looks up, he sees the clear sky above him. He stands and finds himself outside [[The Observatory]] once again, retreading his steps from before he met The Reconstellators
+
+- As everyone heads to sleep, [[Zrandovorski]] lays his head down on his pillow, but as he looks up, he sees the clear sky above him. He stands and finds himself outside [[The Observatory]] once again, retreading his steps from before he met The Reconstellators.
 - He moves forward against his will, walking through the floors and revisiting his past journey; corpses of goblins, the library, corpses of clerics, the corpse of a possessed goblin he had to kill, and as he reaches the top he sees the telescope and hears the sound of a portal in another room.
 - [[Zrandovorski]] feels a compulsion to look through the scope. He has previously chosen not to after seeing the effects it had on the possessed goblin (blackened eyes and mental disorder), but decides this time he will look.
 - Constellations and stars flash before him, and he gets the sense that that is where he needs to go. He attempts to pull back but finds it very hard to do so (makes a wisdom saving throw of 22), and just for a moment as he pulls away he sees a huge chained creature with giant tusks and a horned back, and the visage of a mass of mushrooms rampaging through a city. He manages to successfully pull away.
@@ -110,7 +113,7 @@ As its new mother, [[Tilly]] officially decides the dog's name is BD, to represe
 ### That New Gorillaz Album, Or Something
 
 >[!info]- The Joke
->The joke is that the album is called "The Mountain" but that's a lame title.
+>The joke is that a fitting header for this section could be "The Mountain", but that's kind of a lame header. The new Gorillaz album is also called "The Mountain" and this makes for a more humorous title.
 
 - The mine is in the side of a mountain. Nobody is here, save for an orange cow-like creature with a long neck and a bony tail. The players know this is a [Catoblepas](https://forgottenrealms.fandom.com/wiki/Catoblepas), but their characters do not.
 - [[Blake]] attacks with his shortsword and hits with a 14, which is the creature's AC, and deals 21 piercing damage with a sneak attack since the creature hasn't moved yet. Using the weapon's *Nick* weapon mastery, they can make their two-weapon-fighting attack as part of the same Action. It hits with a 19 and deals 9 piercing damage.
@@ -150,7 +153,7 @@ The party gains 210 XP, for a total of 3,530 XP.
 
 ### So You're Saying There's a Chance
 
-Right before the session ends, [[Zrandovorski]] remembers that he took [*Gentle Repose*](https://5e.tools/spells.html#gentle%20repose_xphb) at Level 4 and uses it to pause the death timer at 12 seconds. The party now has 10 days and 48 seconds to find someone who can Revivify [[Blake]]. This is easier said than done.
+Right before the session ends, [[Zrandovorski]] remembers that he took [*Gentle Repose*](https://5e.tools/spells.html#gentle%20repose_xphb) at Level 4 and uses it to pause the death timer at 12 seconds. The party now has 10 days and 48 seconds to find someone who can Revivify [[Blake]]. This has brought the possibility of [[Blake]] surviving out of the pit of impossibility, but it's still easier said than done. Even finding someone capable of casting *[Revivify](https://5e.tools/spells.html#revivify_xphb)* is challenging, and the party does not currently possess a 300 GP diamond for the casting (or service of having someone else cast the spell).
 
 ## Recap
 

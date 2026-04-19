@@ -12,7 +12,7 @@ created: 2026-03-01 00:44
 
 ---
 
-**Current charges**: 2/3
+**Current charges**: 3/3
 
 - Can be used as a [spellcasting focus](https://5e.tools/variantrules.html#spellcasting%20focus_xphb).
 - Allows the wielder to cast [Eldritch Blast](https://5e.tools/spells.html#eldritch%20blast_xphb) at will.

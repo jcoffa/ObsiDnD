@@ -22,9 +22,9 @@ The full party was here, of course! Naturally, with Cameron as the DM.
 
 Welcome to [[The Frozen March]].
 
-A cold desolate wasteland north of the impassable peaks and north of utopia. This is the place where all of the undesirables are sent. From political rivals of the Grand Exelcium to war criminals from the Clerical War, to even petty thieves. If you committed a crime to the crown, if you don’t get a slap on the wrist, you’ll likely end up here.
+A cold desolate wasteland north of the impassable peaks and north of [[Utopia]]. This is the place where all of the undesirables are sent. From political rivals of the Grand Exelcium to war criminals from the Clerical War, to even petty thieves. If you committed a crime to the crown, if you don’t get a slap on the wrist, you’ll likely end up here.
 
-Outsiders don’t know much of the goings on In the frozen March, though people have their theories. Some people say that the prisoners go there and either freeze to death or starve to death. Some think that it’s filled with monsters and abominations designed to kill the people who go there. But the most common buzz is that there are camps there… cities even! All filled with the types of people the crown hates. And if that’s true… if these people are powerful enough and organized enough to have cities in the frozen march… then the crown of Utopia is in serious trouble.
+Outsiders don’t know much of the goings on in [[The Frozen March]], though people have their theories. Some people say that the prisoners go there and either freeze to death or starve to death. Some think that it’s filled with monsters and abominations designed to kill the people who go there. But the most common buzz is that there are camps there… cities even! All filled with the types of people the crown hates. And if that’s true… if these people are powerful enough and organized enough to have cities in [[The Frozen March]]… then the crown of [[Utopia]] is in serious trouble.
 
 ### Opening Spiel
 
@@ -32,9 +32,9 @@ Welcome to the continents of [[Teradin]].
 
 A sweeping landscape of vastly different terrains, races, species, cultures, and magics. From the Myconid Growth of the Southern island filled with mushrooms and ancient mechanisms, to the vast frozen wasteland of untold horrors and criminals in the North. To the Scar of the Plane, spewing high doses of Arcane wild magics, making it inhospitable to most, to the volcano off the west coast, said to be controlled by a cult of fire worshippers.
 
-What you all plan to do here once you have escaped the frozen March (if you do) is up to you and your character. The world is vast, and at the center of it all is the City of Utopia, the capital of the empire who won the Clerical War nearly 100 years ago. Some love the powerful justice they inflict on law breakers, while others find they are a necessary evil, and even some whisper of rebellion... But no one would ever dare to admit it.
+What you all plan to do here once you have escaped [[The Frozen March]] (if you do) is up to you and your character. The world is vast, and at the center of it all is the City of Utopia, the capital of the empire who won the Clerical War nearly 100 years ago. Some love the powerful justice they inflict on law breakers, while others find they are a necessary evil, and even some whisper of rebellion... But no one would ever dare to admit it.
 
-By the time [[Session 1]] starts, you will all be condemned to "life" in the Frozen March as a punishment for your crimes. What they were, whether you actually did it or if you were framed, who you were with, and everything else is up to you.
+By the time [[Session 1]] starts, you will all be condemned to "life" in [[The Frozen March]] as a punishment for your crimes. What they were, whether you actually did it or if you were framed, who you were with, and everything else is up to you.
 
 ### Player Questions and Discussion
 
@@ -42,23 +42,27 @@ By the time [[Session 1]] starts, you will all be condemned to "life" in the Fro
 
 Knowledge of GGG and the Scarthettes is not common knowledge, but some people definitely know.
 
-The Clerical War was against a bunch of major city states. Mostly 2 main factions, the Utopian Empire, and the old Hobgoblin Empire (yet unnamed) were originally just city states but their leaderships started pushing for power. When they weren't met with enough resistance to stop them, they were able to start.
+The Clerical War was against a bunch of major city states. Mostly 2 main factions, the [[Utopia|Utopian Empire]], and the old Hobgoblin Empire (yet unnamed) were originally just city states but their leaderships started pushing for power. When they weren't met with enough resistance to stop them, they were able to start.
 
-Utopia is a bit of an ironic name. It looks great from the outside, but conditions are not great inside. There are definitely too many mouths to feed in a lot of places. The Utopian Guard have become very fast-and-loose with who they're sending to the Frozen Marches. Anything from murder to vandalism gets sent to the Frozen Marches for life.
+[[Utopia]] is a bit of an ironic name. It looks great from the outside, but conditions are not great inside. There are definitely too many mouths to feed in a lot of places. The Utopian Guard have become very fast-and-loose with who they're sending to [[The Frozen March|The Frozen Marches]]. Anything from murder to vandalism gets sent to [[The Frozen March|The Frozen Marches]] for life.
 
-The king of Utopia is deified. People in the city of Utopia are loyal to the Utopian Empire, but the conquered city states whisper of rebellion.
+The king of [[Utopia]] is deified. People in the city of [[Utopia]] are loyal to the [[Utopia|Utopian Empire]], but the conquered city states whisper of rebellion.
 
 ### Rolls
 
-We rolled for stats by having each of the 6 players roll the usual 4d6 drop lowest a single time. Each of our totals becomes 1 of our ability scores, for a total of all 6 stats.
+We rolled for our 6 stats by having each of the 6 players roll the usual "4d6 drop lowest" a single time. Each of our totals becomes 1 of our ability scores, for a total of all 6 stats.
 
-- Dani: 16
-- Joseph: 11
-- Sage: 15
-- DT: 7
-- Justin: 13
-- ~~Brodie: 15~~
-- Brodie: 7 (which was replaced by Cameron's secret number after unanimous decision)
+| Player     | Roll   |
+| ---------- | ------ |
+| Dani       | 16     |
+| Joseph     | 11     |
+| Sage       | 15     |
+| DT         | 7      |
+| Justin     | 13     |
+| ~~Brodie~~ | ~~15~~ |
+| Brodie     | 7\*    |
+
+\*Cameron offered a "secret number" to replace our final stat roll (Brodie's 15). We unanimously decided to take it, and the number was revealed to be a 7. We jokingly attribute this to only being Brodie's decision despite the unanimity. In reality, we discussed as a group and all came to the conclusion that a secret number was more fun! Although some players were more enthusiastic about the idea than others.
 
 ### Characters
 
