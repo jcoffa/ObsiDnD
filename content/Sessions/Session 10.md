@@ -21,7 +21,8 @@ created: 2026-03-13 18:40
 > ![[Session 9#Recap]]
 
 ## Quotes
->[!quote] The Collector after NG tells him a smart thing to do
+
+>[!quote] [[The Collector]] after [[NG]] tells him a smart thing to do
 >
 >[[NG]], sometimes I forget how smart I am.
 
@@ -29,7 +30,7 @@ created: 2026-03-13 18:40
 >
 >If you eat chicken, you can't mend your poop to make a chicken. If you eat a bunch of corn, I'm just saying that I think there's something you can work with there.
 
->[!quote] ?
+>[!quote] *Unknown* (Thomas?)
 >
 >No silly, these are my leadership pills. Look, they say "Lead" on the front!
 

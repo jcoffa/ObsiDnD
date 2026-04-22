@@ -20,7 +20,8 @@ created: 2026-02-20 19:11
 >
 > ![[Session 6#Recap]]
 
-## Quote of the Session
+## Quotes
+
 >[!quote] In reference to [[Tilly]], which we kept accidentally making euphemisms at.
 >
 >18 by the way.

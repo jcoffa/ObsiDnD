@@ -22,7 +22,7 @@ created: 2026-03-20 19:24
 
 ## Quotes
 
->[!quote] Tilly is the main character
+>[!quote] [[Tilly]] is the main character
 >
 > Cameron: [[NG]] is going to have his "[[Tilly]] moment".
 > 

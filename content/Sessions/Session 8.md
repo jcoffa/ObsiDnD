@@ -20,11 +20,15 @@ created: 2026-02-27 18:45
 >
 > ![[Session 7#Recap]]
 
-## Quote of the Session
+## Quotes
 
-*She smites on my head til' I Quasit.*
+>[!quote] [[Garrison]]
+>
+>She smites on my head til' I Quasit.
 
-*The shoal that makes you old.*
+>[!quote] *Unknown* (Thomas or Justin?)
+>
+>The shoal that makes you old.
 
 ## Notes
 

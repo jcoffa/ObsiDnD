@@ -19,10 +19,11 @@ created: 2026-01-30 19:00
 >
 > ![[Session 3#Recap]]
 
-## Quote of the Session
+## Quotes
+
 >[!quote] Teamwork makes the dream work
 >
->You are a dancing elf, young and swelf, only twelf.
+>(To the tune of *"Dancing Queen"* by *ABBA*): You are a dancing elf, young and swelf, only twelf.
 
 ## Notes
 

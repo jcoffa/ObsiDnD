@@ -20,8 +20,9 @@ created: 2026-01-08 18:58
 >
 > ![[Session 0#Recap]]
 
-## Quote of the Session
->[!quote] Zrandovorski
+## Quotes
+
+>[!quote] [[Zrandovorski]]
 >
 >If you give a goblin a spear, everything becomes a moving target to kill with a spear.
 

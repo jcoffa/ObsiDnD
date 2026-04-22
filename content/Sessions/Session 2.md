@@ -19,8 +19,9 @@ created: 2026-01-16 18:38
 >
 > ![[Session 1#Recap]]
 
-## Quote of the Session
->[!quote] Zrandovorski (probably)
+## Quotes
+
+>[!quote] [[Zrandovorski]] (probably)
 >
 >The old Booyahg try.
 

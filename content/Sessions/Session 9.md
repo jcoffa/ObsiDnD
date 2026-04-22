@@ -20,7 +20,7 @@ created: 2026-03-06 19:34
 >
 > ![[Session 8#Recap]]
 
-## Quote of the Session
+## Quotes
 
 >[!quote] Thomas
 >
