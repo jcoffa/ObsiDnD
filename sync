@@ -89,7 +89,7 @@ fi
 
 if [[ $pull_changes -eq 0 ]]; then
     # Quit early if we only need to pull
-    if [[ ! `git status --porcelain --untracked-files=no` ]]; then
+    if [[ ! `git status --porcelain` ]]; then
         echo "No local changes; just pulling from remote"
         $dry git pull
         exit $?
