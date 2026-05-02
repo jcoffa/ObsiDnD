@@ -9,7 +9,7 @@ created: 2026-01-08 18:18
 - **Class:** Wizard (Divination)
 - **Species:** Hobgoblin
 - **Sessions Active:** [[Session 0]] - present
-- **Age:** looks to be late 20s to early 30s, with some grey hairs
+- **Age:** 124 (unnaturally long for a Hobgoblin; although they're not known to die of old age anyways so who can really be sure)
 
 > *There are three kinds of knowledge that the enlightened may seek; knowledge of all there was, all there is, and all there is yet to be. The truest wisdom of Savras is not found in all there is yet to be; but in all there was and is. What sort of man only looks to the sky, and does not mind his own footing or what is in front of him?*
 
@@ -23,8 +23,8 @@ created: 2026-01-08 18:18
 
 Every **Long Rest**, roll 2d20 and replace the numbers that are here with those new rolls.
 
-- [x] 10
-- [ ] 18
+- [ ] 12
+- [ ] 12
 
 ## Spells
 
@@ -33,7 +33,7 @@ Every **Long Rest**, roll 2d20 and replace the numbers that are here with those 
 - **Spell Slots (Used/Total):**
 	1. 1/4
 		- Usually begins the day with 1 used due to Mage Armour
-	2. 1/2
+	2. 0/2
 - [ ] **Used free [*Shield*](https://5e.tools/spells.html#shield_xphb) spell from [Magic Initiate](https://5e.tools/feats.html#magic%20initiate_xphb)?**
 
 > [!abstract]- Preparing Spells ([PHB 165](https://5e.tools/classes.html#wizard_xphb,state:feature=s0-0))

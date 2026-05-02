@@ -8,6 +8,6 @@ created: 2026-01-08 19:28
 - **Played By:** Sage
 - **Class:** Rogue
 - **Species:** Human
-- **Sessions Active:** [[Session 0]] - [[Session 14#^blake-death|Session 14]] (Gentle Repose)
+- **Sessions Active:** [[Session 0]] - [[Session 14#^blake-death|Session 14]]
 
 A 5'9" rogue-looking person with a dark black cloak and neck scarf to cover their face from view. All that is visible from behind the hood is his black hair and eyes.
