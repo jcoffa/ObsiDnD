@@ -22,6 +22,10 @@ created: 2026-05-01 18:27
 
 ## Quotes
 
+>[!quote] Brodie
+>
+>I've touched them all.
+
 >[!quote] [[The Collector]]
 >
 >Well, [[Tilly]]'s a drunk teen in a crypt... I can't move.
@@ -44,9 +48,21 @@ created: 2026-05-01 18:27
 >
 >Man, they are having the *weirdest* sex ever down there.
 
+>[!quote] [[Garrison]] (Justin?)
+>
+>I'm the expert... *[stars at picture of female dragonborn]* Those are boobs.
+
+>[!quote] Dani
+>
+>So dragonborn titties are ditties... WAIT DON'T WRITE THAT DOWN!
+
 >[!quote] Justin
 >
 >If you can milk an almond, you can milk a Dragonborn. That's all I'm saying.
+
+>[!quote] Cameron
+>
+>I cast *Remove Pussy* on myself. It just removes Hinge from my phone.
 
 >[!quote] Son, to [[Tilly]]
 >
