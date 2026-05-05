@@ -7,7 +7,7 @@ created: 2026-03-01 00:40
 
 - **Type:** [Shortsword](https://5e.tools/items.html#shortsword_xphb)
 - **Source:** N/A
-- **Currently Carried By:** ???
+- **Currently Carried By:** [[NG]]
 - **Requires Attunement?** Yes
 
 ---

@@ -132,7 +132,7 @@ He had a late day at work, so [[Garrison]] has been missing thus far.
 	- It muses that [[The Collector]] is still keeping father "so close to his chest".
 	- It appears to be unable to gaze into [[Garrison]]'s inner psyche.
 	- It questions [[Zrandovorski]] about why "he still hasn't told them", and "why he still continues to lie".
-	- ==I forgot what he said about Tilly==.
+	- It also finds itself unable to gaze into [[Tilly]]'s inner psyche.
 - After that unpleasantry, [[Tilly]] asks to un-modify her memory. The creature warns that she will certainly come to regret this. [[Tilly]] is unwavering, and the creature scratches a mark into her forehead, and she trances.
 
 #### [[Tilly]]'s Trance
@@ -176,7 +176,7 @@ Wanting to continue the Weird train, the party urges [[Kolvar]] to do it too. He
 
 As the creature touches [[Kolvar]], his skin briefly turns transparent before returning to normal.
 
-He stands in an incomprehensible forest. Trees taller than the skyline. Rabbits with wings, bugs with human bodoes. He stands before a clearing, and as he walks in he sees a mass of swirling smoke and faces and eyes and... beauty. Unending, unceasing beauty. [[Kolvar]] looks down, and can't stare straight on. It's impossible to stare at; truly incomprehensible. And yet he ispulled toward it. He **MUST** have what **IT** has. That beauty. To always be what is *needed*.
+He stands in an incomprehensible forest. Trees taller than the skyline. Rabbits with wings, bugs with human bodies. He stands before a clearing, and as he walks in he sees a mass of swirling smoke and faces and eyes and... beauty. Unending, unceasing beauty. [[Kolvar]] looks down, and can't stare straight on. It's impossible to stare at; truly incomprehensible. And yet he is pulled toward it. He **MUST** have what **IT** has. That beauty. To always be what is *needed*.
 
 He grovels.
 
@@ -194,9 +194,18 @@ Eyes opening in another moment. The bathroom, looking in a polished silver mirro
 
 #### [[Zrandovorski]]'s Trance
 
-==Thanks Dani!==
+As promised, [[Zrandovorski]]'s up next. He stands in the foyer of his parent's home, sun shining into his face through the stain glass window. This is no small cabin; it's a large manor, and [[Zrandovorski]] is heading to his parents' living quarters to ask them for advice. He tells them he knows he's not The Sworn Oracle, and his sister, [[Wextil]], shows signs of being more powerful than he is. 
 
-Even before the Clerical War was in full swing, the [[Utopia|Utopian Empire]] existed, but they were not a superpower by any means. Simply one of the many empires in the area. But The Clerical War changed all of that; their bloodily claimed land and natural resources did much to 
+Before they can discuss, further, the sounds of a siege rings through the halls. [[Utopia|The Utopian Army]] has arrived, smashing in their walls and breaking through their defenses. [[Zrandovorski]] prepares to arm himself, but his parents stop him, saying he must protect his siblings. 
+
+Now [[Zrandovorski]] is running with his siblings through the siege, but loses track of some of them in the chaos. He's left with just one of his brothers, but that doesn't last long as he dies in [[Zrandovorski]]'s arms.
+
+Before he exits the trance, the heat of battle disappears, and he recalls much later on. He's on his knees in the snowy [[The Frozen March|Frozen March]], a wizard forever set to lie in the snow.
+
+[[Zrandovorski]] awakes from his trance, sharing the tragic destruction of his family. 
+Even before the Clerical War was in full swing, the [[Utopia|Utopian Empire]] existed, but they were not a superpower by any means. Simply one of the many empires in the area. But The Clerical War changed all of that; their bloodily claimed land and natural resources did much to
+
+[[Wextil]] was a stronger oracle than he was and foresaw the coming conflict, but couldn't do anything to prepare or change the outcome; the future is not so easily seen nor changed.
 
 To lighten the mood a bit before [[Tilly]] gets another shot, the party decides Son should go next.
 
