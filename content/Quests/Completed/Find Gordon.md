@@ -5,7 +5,8 @@ created: 2026-01-23 15:13
 
 #  [[Find Gordon]]
 
-- **Status:** #pending
+- **Status:** #completed
+	- [[Session 16#Now Arriving The Tower That Makes You Loredump]]
 - **Given by:** Theresa, at The Everburning Chalice in [[Draskhrr]]
 - **Location:** The tower West of [[Draskhrr]]
 - **Reward(s):** ???

@@ -5,7 +5,8 @@ created: 2026-01-23 15:18
 
 #  [[Go To The Hearth of Hope]]
 
-- **Status:** #pending
+- **Status:** #completed
+	- [[Session 14#An Uneventful Watch]]: The party is escorted to [[The Hearth of Hope]] by scouts loyal to [[Toran the Red]]
 - **Given by:** Theresa, at The Everburning Chalice in [[Draskhrr]]
 - **Location:** [[The Frozen March]]
 - **Reward(s):** ???

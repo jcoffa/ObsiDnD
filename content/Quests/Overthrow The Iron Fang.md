@@ -5,7 +5,7 @@ created: 2026-04-17 21:16
 
 #  [[Overthrow The Iron Fang]]
 
-- **Status:** #pending
+- **Status:** #ongoing
 - **Given by:** [[Toran the Red]] in [[The Hearth of Hope]]
 - **Location:** [[Draskhrr]]
 - **Reward(s):** Loyalty from [[Toran the Red]] and her followers. Potentially the might of [[The Iron Fang]].

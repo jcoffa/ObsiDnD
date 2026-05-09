@@ -9,6 +9,7 @@ created: 2026-05-01 21:54
 - **Source:** N/A
 - **Currently Carried By:** [[Tilly]]
 - **Requires Attunement?** No
+- **Quantity:** 2
 
 ---
 

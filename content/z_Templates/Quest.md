@@ -5,7 +5,7 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 
 #  <% tp.user.wrap_link(tp.file.title) %>
 
-- **Status:** #pending / #ongoing / #completed
+- **Status:** #pending / #ongoing / #completed / #abandoned
 - **Given by:** *who? and from where? (e.g. <% tp.user.wrap_link("John Baldur") %> in <% tp.user.wrap_link("Baldur's Gate") %> at the Leaky Cauldron tavern)*<% tp.file.cursor() %>
 - **Location:** *where do we need to go to actually perform the terms of the quest? (e.g. The Elven forest near <%tp.user.wrap_link("Westfront") %>)*
 - **Reward(s):** *gold? renown? a favour? Feel free to make a sub-level bullet point list for quests with multiple rewards.*

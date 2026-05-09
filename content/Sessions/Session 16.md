@@ -241,8 +241,21 @@ With the saddest thing to have ever existed in The Material Plane out of the way
 
 [[Tilly]] exits the trance, and enters another instantly. But she sees through the eyes of a tiefling man, tilling the ground next to a mountain billowing smoke. Near [[The Scar of the Plane]]. [[Tilly]] thinks he might "be like her".
 
-==The party forgot to ask about XP at the end of this session.==
+The party receives 300 XP, for a total of 4,150 XP!
 
 ## Recap
 
-*What do you want to remember at the start of next session?*
+As [[The Lady of the White]] quickly exits the crypt with her corpse (courtesy of [[Tilly]]), the rest of the corpses rise alongside a couple spectres and attack the party! [[NG]] grabs the [[Cursed Amulet of the Farsighted One|black amulet]] that the undead are clearly after and books it out of the crypt with both spectres chasing him. The other Reconstellators hold the undead at bay to allow him to escape. Thanks to the abilities granted to him by his map, and Expeditious Retreat, [[NG]] is able to run all the way back to [[The Hearth of Hope]], bursts into [[The Mana Drop]], and warns the unarmed civilians that he has brought the spectres here and needs help killing them. Thanks to the help of a mysterious individual cloaked in brown, the pair stall long enough for the remaining Reconstellators to make it back and finish off the fight. The spectres go down and [[Cursed Amulet of the Farsighted One|the amulet]] is officially safe.
+
+After a much-needed night's rest, the party sheepishly admits to some light grave-robbing in the crypt to [[Toran the Red|Toran]], and then use her portal magic to get to the tower that's approximately halfway between [[The Hearth of Hope|The Hearth]] and [[Draskhrr]]. This is the tower that [[Find Gordon|Gordon]], a creature capable of unlocking memories, is rumoured to be residing in.
+
+The Reconstellators ascend the tower and are met with [[Find Gordon|Gordon]]; a Nothic dressed in a fedora and trench coat. This meeting quickly turns into a series of lore dumps as the party is nervously enticed by the Nothic's promise of knowledge (juxtaposed with the player's *very strong excitement* for the loredump). The Reconstellators discover the following:
+
+1. [[Tilly]] was the one who led the group of brigands to her home and appears to be the reason why her parents have disappeared.
+2. [[NG]] was possessed by mushrooms and is likely responsible for the destruction of his factory.
+3. [[Garrison]] was created to hunt down [[NG]] in revenge for the destruction of their factory.
+4. [[The Collector]] discovers that Father is maybe not a good guy, and they are potentially a herald for Hadar.
+5. [[Kolvar]] made a deal with a Fae to be able to change their appearance, and was turned into a Changeling.
+6. [[Zrandovorski]] was a royal advisor to the old Hobgoblin empire, which was conquered by [[Utopia]] and lost his family in The Clerical War. [[The Frozen March]] is full of hobgoblins because any survivors were exiled there.
+7. Son had 22 memories of him failing the get his desired item from a series of vending machines in [[The Abyss]].
+8. [[Tilly]] goes again and experiences ego death; this time seeing a memory from the perspective of her Kalashtar partner. She feels that if she were to meet more Kalashtar, her power would grow. She sees a tiefling man near [[The Scar of the Plane]], and suspects he is a Kalashtar like her.

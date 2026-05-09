@@ -7,8 +7,9 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 
 - **Type:** *Mundane/Ring/Cape/Armour/Weapon/Wondrous Item/etc.*
 - **Source:** *If it's official content, link its book and page number to [5e.tools](https://5e.tools/items.html) if possible! E.g. for The Apparatus of Kwalish: [DMG 229](https://5e.tools/items.html#apparatus%20of%20kwalish_xdmg). If it's not official, just put N/A here*
-- **Currently Carried By:** *Link to a PC*
+- **Currently Carried By:** *Link to a PC or [[Bag of Holding]]*
 - **Requires Attunement?** Yes/No
+- **Quantity:** *Remove if there's only 1*
 
 ---
 
