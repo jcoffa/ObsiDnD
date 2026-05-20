@@ -31,6 +31,16 @@ created: 2026-05-08 18:09
 >
 >Cameron (jokingly, as the baby): I HUNGER, MOTHER. I MUST FEAST.
 
+>[!quote] It's concerning how much cradle snatching is coming up these days
+>Son: *Licks the baby*
+>
+>Cameron: Whose the cradle snatcher here?
+
+>[!quote] The quote speaks for itself
+>Brodie: I'm going to cradle the baby.
+>
+>Cameron: Make an animal handling check.
+
 >[!quote] Son
 >The vending machine has babies in it now...
 
