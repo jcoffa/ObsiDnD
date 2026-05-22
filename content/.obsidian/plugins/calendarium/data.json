@@ -221,7 +221,7 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 4,
+        "day": 8,
         "month": 5,
         "year": 133
       },
@@ -440,6 +440,74 @@
           },
           "id": "ID_9b8bfb99c99a",
           "note": "Sessions/Session 14.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Blake's Funeral",
+          "description": null,
+          "date": {
+            "day": 5,
+            "month": 5,
+            "year": 133
+          },
+          "id": "ID_0ab87ac809fb",
+          "note": "Sessions/Session 15.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Kolvar joins The Reconstellators",
+          "description": null,
+          "date": {
+            "day": 5,
+            "month": 5,
+            "year": 133
+          },
+          "id": "ID_7a489b2a1968",
+          "note": "Sessions/Session 15.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Tower That Makes You Loredump",
+          "description": "Actually, I think it's the Nothic in the tower that makes you loredump.",
+          "date": {
+            "day": 6,
+            "month": 5,
+            "year": 133
+          },
+          "id": "ID_5a9baaf9992a",
+          "note": "Sessions/Session 16.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Acquiring a Baby",
+          "description": null,
+          "date": {
+            "day": 8,
+            "month": 5,
+            "year": 133
+          },
+          "id": "ID_1be85a4ad898",
+          "note": "Sessions/Session 17.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,

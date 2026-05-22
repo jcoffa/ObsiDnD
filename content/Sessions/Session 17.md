@@ -47,9 +47,9 @@ created: 2026-05-08 18:09
 ## Notes
 
 - The Reconstellators discuss their findings post-[[Session 16#Now Arriving The Tower That Makes You Loredump|loredump]].
-- [[Tilly]] inquires about Gordon's flaming tree that keeps the tower warm. The Nothic doesn't really care to answer, unfortunately.
-- [[The Collector]] asks why Gordon's interested in seeking other people's memories. Gordon likens it to a sort of compulsion; he doesn't know why he needs to do it but he feels that it's something he must do. It's not based on any logic or reason.
-	- [[The Collector]] follows up for more clarification. Does he feel like he's getting closer to his goal? Gordon knows he makes progress, but how much progress can one make towards an infinite goal?
+- [[Tilly]] inquires about [[Find Gordon|Gordon]]'s flaming tree that keeps the tower warm. The Nothic doesn't really care to answer, unfortunately.
+- [[The Collector]] asks why [[Find Gordon|Gordon]]'s interested in seeking other people's memories. [[Find Gordon|Gordon]] likens it to a sort of compulsion; he doesn't know why he needs to do it but he feels that it's something he must do. It's not based on any logic or reason.
+	- [[The Collector]] follows up for more clarification. Does he feel like he's getting closer to his goal? [[Find Gordon|Gordon]] knows he makes progress, but how much progress can one make towards an infinite goal?
 	- *"Infinity isn't that big when you have forever."*
 - After some deliberation, the party decides to start their journey to head back to [[Draskhrr]].
 
@@ -129,4 +129,10 @@ The party gains 500 XP, totalling 4,650 XP!
 
 ## Recap
 
-*What do you want to remember at the start of next session?*
+The Reconstellators mull over their collective loredumps from [[Find Gordon|The Nothic That Makes You Loredump]], ultimately deciding that they have more pressing issues to worry about than dealing with all their tragic backstories at the moment. After a brief follow-up conversation with [[Find Gordon|Gordon]], the party ventures out on their 7-day journey back to [[Draskhrr]]. On only the second day of travel, they encounter a cloaked figure clutching an unidentified object in the middle of the snow. [[The Collector]] sends in Son to investigate, and discovers that the figure is holding a baby swaddled in a blanket. It immediately sees Son, even though he is invisible, and a combat breaks out.
+
+It is a tense and dangerous combat as this man has supernatural powers gifted to him by Hadar; a Great Old One. The Reconstellators desperately try to wrench the baby from the man's clutches at the cost of their own safety, as heroes are want to do. The man does not make this task easy, as he controls tentacles to move them around the battlefield, keep himself out of harm's way, and create areas of magical darkness that no light can pierce. After a great deal of effort, the baby is pulled from the man's grasp and a final deadly blow is struck to him by [[The Collector]] who used a spell scroll of *Arms of Hadar* to seal his fate. Before the party can have a moment to react to their victory, the man's body is violently grabbed by a tentacle reaching out of a portal which wrenches all of his internal organs out from under his skin and the whole mass is sent through the portal, which then immediately closes. The Reconstellators are left in stunned silence near the man's mutilated corpse and the swaddled baby.
+
+On the body, they find a [[Bag of Holding]] which contains a number of spell scrolls and a peculiar magic item called an [[Iron Flask]]; a powerful prison that holds an unknown creature that will be sent into a blood-rage madness if it is ever released.
+
+What the hell are they going to do with this baby?
