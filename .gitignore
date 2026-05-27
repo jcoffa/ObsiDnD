@@ -4,13 +4,15 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-#.obsidian
+#.obsidian  # See comment below
 .quartz-cache
 private/
 .replit
 replit.nix
+.quartz/
+quartz/cli/tui/dist/
 
-# We actually do want to track some of the .obsidian folder so that setup
+# We actually do want to track *some* of the .obsidian folder so that setup
 # becomes very easy for any of my friends who want to contribute.
 **/.obsidian/workspace.json
 **/.obsidian/plugins/*/*
