@@ -7,8 +7,8 @@ created: 2026-05-01 18:27
 
 ## Player Characters
 
-- [[Blake]]
 - [[Garrison]]
+- [[Kolvar]]
 - [[NG]]
 - [[The Collector]]
 - [[Tilly]]

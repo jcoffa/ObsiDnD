@@ -221,7 +221,7 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 8,
+        "day": 12,
         "month": 5,
         "year": 133
       },
@@ -508,6 +508,40 @@
           },
           "id": "ID_1be85a4ad898",
           "note": "Sessions/Session 17.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Encounter with a White Dragon",
+          "description": null,
+          "date": {
+            "day": 9,
+            "month": 5,
+            "year": 133
+          },
+          "id": "ID_c82bc98af9ba",
+          "note": "Sessions/Session 18.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Reconstellators arrive back in Draskhrr",
+          "description": null,
+          "date": {
+            "day": 12,
+            "month": 5,
+            "year": 133
+          },
+          "id": "ID_499aea0bb96b",
+          "note": "Sessions/Session 18.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,

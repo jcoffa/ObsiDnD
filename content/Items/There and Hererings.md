@@ -7,7 +7,7 @@ created: 2026-03-01 00:48
 
 - **Type:** Earrings
 - **Source:** N/A
-- **Currently Carried By:** [[Blake]] and [[Garrison]]
+- **Currently Carried By:** [[Garrison]] and [[Kolvar]]
 - **Requires Attunement?** Yes, by two different creatures (one earring each)
 
 ---

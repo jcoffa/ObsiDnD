@@ -10,8 +10,8 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 
 ## Player Characters
 
-- [[Blake]]
 - [[Garrison]]
+- [[Kolvar]]
 - [[NG]]
 - [[The Collector]]
 - [[Tilly]]
