@@ -44,7 +44,7 @@ created: 2026-02-06 18:26
 	- [[Zrandovorski]] has lived his entire life in [[The Frozen March]] and wants to see the world. He did not say anything more than that.
 	- [[NG]] would like to make it back to his factory again.
 	- [[Garrison]] also wants to see the world.
-	- [[Blake]] wants to leave [[The Frozen March]]. Also to get a lot of money for their mother and themselves. They really miss their mom in [[Bellsview]]. They really love Son. Not at all related to their goals, but they are SUPER drunk.
+	- [[Blake]] wants to leave [[The Frozen March]]. Also to get a lot of money for their mother and themselves. They really miss their mom in [[Bellsview]]. They really love [[Son]]. Not at all related to their goals, but they are SUPER drunk.
 	- [[Tilly]] wants to make sure [[Blake]] kills the guy she paid him for. Also they really miss their mom and dad. They also want to map the stars.
 	
 > Justin's goal for 2026: Use the other half of his D20 at least once.
@@ -64,7 +64,7 @@ created: 2026-02-06 18:26
 	- [[Blake]] gets a black widow spider
 	- [[Garrison]] gets a dung beetle
 	- [[The Collector]] gets a ladybug
-	- Son gets a dust mite
+	- [[Son]] gets a dust mite
 	- [[Tilly]] gets a stick bug
 	- [[NG]] gets a spider
 	- [[Zrandovorski]] gets a small army of fire ants
@@ -74,9 +74,9 @@ created: 2026-02-06 18:26
 - Pursuing their quest to investigate the Adamantine Mines, The Reconstellators set out on the week-long journey.
 - The first 2 days of travel are uneventful.
 - On day 3, the party notices that the wind is picking up and stirring the snow into the air. It makes it difficult to travel. They notice that, in the treeline to the south, there is a glowing cave that they might be able to use to take shelter from the weather conditions.
-	- [[The Collector]] sends in Son as a bat to scope it out. The cave is made entirely out of ice, and in the center when the cave opens up is an icy blue flame of ice. There are frozen waterfalls, 5 wolves, and a horse-sized wolf with glowing blue eyes.
+	- [[The Collector]] sends in [[Son]] as a bat to scope it out. The cave is made entirely out of ice, and in the center when the cave opens up is an icy blue flame of ice. There are frozen waterfalls, 5 wolves, and a horse-sized wolf with glowing blue eyes.
 	- [[Zrandovorski]] doesn't know much about the blue flame, but recognizes the large wolf is likely a Winter Wolf. He doesn't know much about them, though.
-	- [[NG]] can make a hunting trap and [[Tilly]] can figure out where the wolves would leave the cave to go hunting. Son sets up the trap 100 feet away from the cave entrance, and the party mostly sets up 120 feet from the trap itself.
+	- [[NG]] can make a hunting trap and [[Tilly]] can figure out where the wolves would leave the cave to go hunting. [[Son]] sets up the trap 100 feet away from the cave entrance, and the party mostly sets up 120 feet from the trap itself.
 	- One of the wolves makes its way out from the cave, and the rest of them follow. The largest one takes up the rear. It speaks to the smaller wolves in Giant (what the fuck) and [[Blake]] is able to understand that it's warning the smaller wolves to beware of traps because it can smell people nearby. Uh oh.
 	- [[NG]] quickly crafts a bell with his tinker's kit, and chucks it in the opposite direction. 2 of the wolves chase it, while 3 gun it for [[NG]]. The winter wolf goes after [[Garrison]] and [[Tilly]] who are nearest the trap. Combat ensues!
 
@@ -85,7 +85,7 @@ created: 2026-02-06 18:26
 This is a reference to a [Zach the Bold short](https://youtube.com/shorts/Sfh7ema6_3Q).
 
 - [[Blake]] shoots the winter wolf with an arrow, and notices it freezes when it comes into contact with its skin. It still hurts, but not as much as he hoped.
-- [[The Collector]] misses with Eldritch Blast, and Son fails to fear one of the normal wolves.
+- [[The Collector]] misses with Eldritch Blast, and [[Son]] fails to fear one of the normal wolves.
 - [[Zrandovorski]] rolls a nat 1 on Fire Bolt, instead setting off the trap after completely missing the winter wolf.
 - [[Tilly]] casts Ice Knife on the group of wolves, hitting 3 normal wolves. The winter wolf takes no damage from the Cold damage (shocker). She tries to talk to the wolves with Speak With Animals, but the winter wolf reinforces that they should kill her.
 - The winter wolf dashes up to the group and does a "cold breath". It is a devastating blow to much of the party.

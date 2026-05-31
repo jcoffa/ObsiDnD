@@ -70,7 +70,7 @@ We rolled for our 6 stats by having each of the 6 players roll the usual "4d6 dr
 
 Someone who wants to find magic items and raise up a group of ragtag adventurers into legendary adventurers. Has goals of establishing a famous museum to detail the heroic exploits of his chosen adventurers.
 
-Has a set of large spectacles and a Quasit as a pet named Son.
+Has a set of large spectacles and a Quasit as a pet named [[Son]].
 
 **Potential reasons for arrest**: Possession of contraband, trespassing, grave robbery, desecrating a corpse, impersonation of authority, theft, heresy.
 

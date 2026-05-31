@@ -34,7 +34,7 @@ created: 2026-05-29 18:24
 >
 >[[Tilly]]: What about the name "Aurora"?
 >
->[[The Collector]] and [[Kolvar]]: No, the baby is a boy.
+>[[The Collector]] and [[Kolvar]]: No, [[the baby]] is a boy.
 >
 >[[Tilly]]: Yeah, Aurora. What's the problem? Oh wait yeah it's a boy.
 
@@ -56,8 +56,8 @@ created: 2026-05-29 18:24
 
 ### So What Do We Do With This Baby?
 
-- [[NG]] starts off the day by crafting [[the baby]] a warm fur coat so that it may survive the cold.
-- [[Tilly]] hands [[The Collector]] a Goodberry to crush up and feed to [[the baby]]. [[Zrandovorski]] is able to cast Detect Magic and confirm the baby is nonmagical.
+- [[NG]] starts off the day by crafting [[The Baby]] a warm fur coat so that it may survive the cold.
+- [[Tilly]] hands [[The Collector]] a Goodberry to crush up and feed to [[The Baby]]. [[Zrandovorski]] is able to cast Detect Magic and confirm [[the baby]] is nonmagical.
 - After letting [[Garrison]] and [[Kolvar]] attune to the [[There and Hererings]], the party sets off on day 3/7 to [[Draskhrr]].
 
 ### On the Road Again
@@ -82,12 +82,12 @@ created: 2026-05-29 18:24
 ### End of Day 3/7
 
 - [[NG]], [[Kolvar]], and [[The Collector]] take first watch. They discuss the plan to [[Overthrow The Iron Fang]] and their uncertainty of its success. [[NG]] in particular is worried that they're "just replacing one tyrant with another" and not really changing anything.
-	- In a lighter conversation, they decide what to name [[the baby]] after much debate and land on "Knull" to relate it to the constellation of the void.
-- On their watch, [[Garrison]] immediately says that they should come up with a name for the baby. [[Zrandovorski]] confidently claims that they should name it ***HHGGUUUUKKK*** (like coughing up phlegm) as that is how you say "Snow" in Goblin. The party reluctantly agrees because that's hilarious.
+	- In a lighter conversation, they decide what to name [[The Baby]] after much debate and land on "Knull" to relate it to the constellation of the void.
+- On their watch, [[Garrison]] immediately says that they should come up with a name for [[the baby]]. [[Zrandovorski]] confidently claims that they should name it ***HHGGUUUUKKK*** (like coughing up phlegm) as that is how you say "Snow" in Goblin. The party reluctantly agrees because that's hilarious.
 
 ### Baby Null HHGGUUUUKKK In [[Draskhrr]]
 
-- The next morning, both of the watch groups proudly confront the other group with their names, and decide to combine them. And thus [[The baby|Null HHGGUUUUKKK]] is born. Well, he was born 3-9 months ago, but you get the point.
+- The next morning, both of the watch groups proudly confront the other group with their names, and decide to combine them. And thus [[The Baby|Null HHGGUUUUKKK]] is born. Well, he was born 3-9 months ago, but you get the point.
 - The next 4 days of travel are uneventful, save for some discussion about whether the party should switch sides if [[Draskhrr]] has created a city-sized cannon since they've last been in the city.
 - While there is no cannon, the military presence has increased *dramatically*. They meet [[Grit Coalbelly]] in [[The Deep Forge]] and get their 25% share of his profits (43 GP each!)
 - The Reconstellators ask [[Grit Coalbelly|Grit]] what's up with the increased military presence. He explains that [[The Iron Fang]] has heavily subsidized weaponry at his forge, so there's essentially a 70% discount on weapons and armour. The citizens of [[Draskhrr]] are buying them since they're cheap and [[The Frozen March]] is dangerous. There isn't a definitive and direct order from [[The Iron Fang]] that people must arm themselves; it's just the subsidy.

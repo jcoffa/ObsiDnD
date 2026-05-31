@@ -5,6 +5,8 @@ created: 2026-05-26 14:46
 
 # [[The Baby]]
 
+- **Parents:** Unknown
+- **Species:** Half-Elf
 - **Type:** Mundane
 - **Source:** N/A
 - **Currently Carried By:** [[The Collector|Linus Snabberknackle]]

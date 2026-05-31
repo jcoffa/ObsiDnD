@@ -45,15 +45,15 @@ Combat begins, using the [[#The Flashback|initiative rolls from earlier]].
 - Turns out the D20 rolls from the [[Session 0|previous session]] was a Dexterity Saving Throw to escape the cart as it explodes! And the D4 was the damage roll for failing.
 - Some of the party is able to use the explosion to break out of their manacles.
 - A band of 4 normal Goblins and 1 Goblin holding a recently used scroll of Fireball charges at the group from atop a nearby hill.
-- [[The Collector]]'s Quasit, Son, attempts to steal one of the scrolls from the scroll-carrying Goblin. He manages to steal one, but is unable to determine its effects.
+- [[The Collector]]'s Quasit, [[Son]], attempts to steal one of the scrolls from the scroll-carrying Goblin. He manages to steal one, but is unable to determine its effects.
 - [[Tilly]] uses *Ice Knife* to attack all 5 Goblins at once, missing the initial hit but delivering a devastating explosion of 8 cold damage. All 4 normal Goblins die instantly. The scroll-wielding Goblin craps his pants a little bit at the "Booyahg" that destroyed his companions.
 - The remaining Goblin frantically searches for a specific scroll that he can't seem to find. He chugs a potion instead and disappears instantly.
 - [[NG]] is able to use his Tinkerer's Tools to help him break out of his manacles. With his newfound freedom, he is able to toss [[Garrison]]'s weapons back to him.
 - [[The Collector]], searching the ruins of the cart, find an insignia of [[Utopia]] among the wreckage. It seems their jailers are loyal to this kingdom in some way.
 - With the group agreeing to attempt to hunt down the fleeing Goblin, [[Blake]] uses his Thieve's Tools to pick the lock on [[Tilly]]'s manacles (thanks to learning the rules of Tool Proficiencies in the 2024 rules on page 220 to gain Advantage on the roll).
 - Hunting the fleeing Goblin, [[Garrison]] has absolutely no idea where the invisible Goblin is and completely whiffs a Javelin throw in the complete opposite direction thanks to some hilariously bad rolls.
-- Son is able to find the tracks that the Goblin is leaving in the snow, and points out its location to the rest of the group.
-- [[Tilly]] uses their Starry Wisp ability to aim at the invisible Goblin that Son is pointing at, earning her the Ace for this combat encounter by being responsible for every kill. She does not seem happy about this, and begins having a panic attack.
+- [[Son]] is able to find the tracks that the Goblin is leaving in the snow, and points out its location to the rest of the group.
+- [[Tilly]] uses their Starry Wisp ability to aim at the invisible Goblin that [[Son]] is pointing at, earning her the Ace for this combat encounter by being responsible for every kill. She does not seem happy about this, and begins having a panic attack.
 
 ### Aftermath
 
@@ -99,7 +99,7 @@ Combat begins, using the [[#The Flashback|initiative rolls from earlier]].
 
 ### The Steelworks
 
-- [[NG]] and [[Garrison]] do "Get Help" to draw attention, with NG crying for help as Garrison pretends to be injured. Of course, Garrison being made of metal, they ask for permission to use the forge to repair him. After some convincing, the Goblins running the Steamworks allow them that. Son, invisible, follows them inside.
+- [[NG]] and [[Garrison]] do "Get Help" to draw attention, with NG crying for help as Garrison pretends to be injured. Of course, Garrison being made of metal, they ask for permission to use the forge to repair him. After some convincing, the Goblins running the Steamworks allow them that. [[Son]], invisible, follows them inside.
 - [[Zrandovorski]] leaves to go talk to [[Rykor Steelhand|Rykor]] and ask about the Steamworks. [[Blake]] tries to stealth and follow him but fails, so they just walk together.
 - Inside, [[NG]] looks for opportunities of sabotage. He sees an enormous crucible for melting down metals that is expensive and irreplaceable. A perfect thing to break that would put a huge wrench in their operations.
 - [[Tilly]] distracts the Goblins working the Steamworks so that [[NG]] can jam an iron rod into a mechanism controlling the sun roof so that it is permanently.

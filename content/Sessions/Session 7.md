@@ -60,10 +60,10 @@ created: 2026-02-20 19:11
 - [[Tilly]] attempts to Thunderwave the remaining Gargoyle to push it off its perch. Gargoyles are vulnerable to Thunder damage, so it takes a whopping 21 damage and then an additional 6 as it smacks into the ground. She heals [[Zrandovorski]] for 8 HP.
 - [[NG]] sinks into a puddle of black ink and uses his new *Portal Jump* feature to teleport next to a map-holder (in this case [[Garrison]]). He then Guiding Bolts the remaining Gargoyle and deals 11 radiant damage to it.
 - [[Zrandovorski]], functionally affected by the *Confusion* spell, he rolls a d8 to determine who to randomly attack. He rolls a 5, and casts Toll the Dead on [[Tilly]]. Thankfully, he rolls like trash and only deals 1 necrotic damage.
-- The Spectator fires 4 more beams, hitting Son twice, [[The Collector]] once, and [[Tilly]] once.
+- The Spectator fires 4 more beams, hitting [[Son]] twice, [[The Collector]] once, and [[Tilly]] once.
 	- [[Tilly]] takes ~~7~~ 3 psychic damage on account of her natural resistance, and is *Confused*.
 	- [[The Collector]] dodges his beam.
-	- Son takes ~~2~~ 1 psychic damage from the first beam, and then takes 26 damage from the second one. He is completely eviscerated.
+	- [[Son]] takes ~~2~~ 1 psychic damage from the first beam, and then takes 26 damage from the second one. He is completely eviscerated.
 - [[The Collector]] hits the Gargoyles with Eldritch Blast, dealing 6 force damage and 1 necrotic damage from Hex.
 - The Gargoyle flies over to [[NG]] and deals 6 slashing damage.
 - [[Garrison]] manages to un-paralyze and un-fear himself.

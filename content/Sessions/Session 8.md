@@ -35,7 +35,7 @@ created: 2026-02-27 18:45
 ### Saving Private Tilly
 
 - [[Tilly]] ends up falling into a small lake at the bottom of the hole, which opens up into a wide cavern. She doesn't really find anything down there, so the party thinks of how to get her out.
-- After using Son in bat form to get an extra 50 feet of rope from [[Tilly]] herself, [[NG]] is able to tie together enough rope to reach the 200 feet distance required to rescue her. After attaching it to a block and tackle, [[Garrison]] is able to pull [[Tilly]] up to rescue her from the cavern.
+- After using [[Son]] in bat form to get an extra 50 feet of rope from [[Tilly]] herself, [[NG]] is able to tie together enough rope to reach the 200 feet distance required to rescue her. After attaching it to a block and tackle, [[Garrison]] is able to pull [[Tilly]] up to rescue her from the cavern.
 - [[Zrandovorski]] identifies the golden orb that [[Tilly]] pulled out of the bottom of the hot tub, and discovers that it's a magic item named the **[[Orb of Golden Heat]]**.
 - The party takes a rest.
 	- [[NG]] asks [[Zrandovorski]] what the highest number he counted to. [[Zrandovorski]] replies with some Goblin bullshit as numbers work differently in Goblin. He says he has counted to 45 billion, after counting by billions but got bored pretty quickly. [[Zrandovorski]] then asks [[NG]] about his engineering job, and [[NG]] replies that he was the guy who would attach the foot to the leg on the robots he would work on.
@@ -52,7 +52,7 @@ created: 2026-02-27 18:45
 - [[NG]] is able to climb down the rope just fine. Literally everyone else fails to climb down, so [[Zrandovorski]] uses *Feather Fall* to save everyone from potential damage.
 - The purple grass is a large field with a few torches in it. There are some large mushrooms producing spores, and some of the stalactites on the ceiling appear to be... breathing?
 - [[NG]] knows that these mushrooms are not native to this area. There are 3 kinds of spores in [[The Underdark]]; ones that grant positive effects, ones that grant negative effects, and ones that connect you to the hivemind of the Myconids.
-- Son is easily convinced to go up to one of the mushrooms and eat it. He chooses a yellow one, and mildly glows in the dark. Son puts the entire thing in his mouth, and it emits spores in a 10 foot radius around him as he devours it. His eyes dilate, like a cat that has eaten catnip. Son finds that his speed has increased by 10 feet. After 1 minute, his speed returned to normal and he gained a a level of exhaustion.
+- [[Son]] is easily convinced to go up to one of the mushrooms and eat it. He chooses a yellow one, and mildly glows in the dark. [[Son]] puts the entire thing in his mouth, and it emits spores in a 10 foot radius around him as he devours it. His eyes dilate, like a cat that has eaten catnip. [[Son]] finds that his speed has increased by 10 feet. After 1 minute, his speed returned to normal and he gained a a level of exhaustion.
 	- He decides to eat a second mushroom, this time a purple one. He eats a second one and gains 2d6 temporary hitpoints plus another level of exhaustion.
 - [[Blake]] shoots one of the stalactites to see what happens. Turns out these are like spooky hermit-crab monsters using stalactites as shells, and THERE'S 8 OF THEM OH GOD OH FUCK. At least he does 7 damage to it in the process. Roll initiative!
 
@@ -74,7 +74,7 @@ created: 2026-02-27 18:45
 - [[The Collector]] moves his Hex to the one stuck to [[Blake]], and fires an Eldritch Blast against it to deal 10 force damage and 1 necrotic damage.
 - [[Zrandovorski]] uses his [[Booyahg Staff]] to cast *Eldritch Blast* on the monster that's wrapped around [[Blake]]'s head, dealing 9 force damage and killing it. He excitedly tries to use its extra effect to allow someone to make an opportunity attack, but nobody is nearby any of the remaining monsters so it doesn't matter.
 - The monster spews ink around [[Tilly]] (casting Darkness) and crits her for 15 damage!
-- Son runs into the darkness to scare the monster around her and it rolls exactly the DC.
+- [[Son]] runs into the darkness to scare the monster around her and it rolls exactly the DC.
 - [[NG]] Fire Bolts into the darkness, and successfully triangulates the position of the one around [[Tilly]] to hit it for 7 fire damage.
 - [[Tilly]] moves the ~~orbital laser~~ Moonbeam to target the creature above her and the one on her head... and herself. The beam instantly kills both of them, ending the combat.
 
@@ -92,19 +92,19 @@ created: 2026-02-27 18:45
 - [[NG]] uses his map to teleport 10 feet away from the monster and casts Guiding Bolt with a natural 1 on the attack roll. Thanks, Shadowheart! He ends up hitting [[Zrandovorski]] by accident, dealing 11 damage to him and causing the next attack against him to have advantage.
 - [[Tilly]] uses Cure Wounds on [[The Collector]] to heal him for 15 hp. Her chalice starry form allows her to then heal herself for 11 hp.
 - The Gibbering Mouther takes a **Legendary Action**. One of its mouths spits out golden acid to deal 8 radiant damage (or 4 if you save). Anyone who fails is also blinded.
-- Son throws pebbles into the Gibbering Mouthers eyes to use the Help action.
+- [[Son]] throws pebbles into the Gibbering Mouthers eyes to use the Help action.
 - [[Zrandovorski]] fails on his Wisdom saving throw and must roll a d8. On a result of 2, he ends his turn immediately, doing nothing.
 - [[Blake]] jumps over the ball bearings that [[NG]] left in the hallways on the opposite side of the beach, then fires an arrow into the Gibbering Mouther. It strikes true into a mouth-inside-a-mouth for 15 damage and it dies.
 
 ### Linus Tech Tips
 
-- With the creature dead, the party can catch their breath. This encounter does beg the question; why was the monster hunting for [[The Collector|Linus]] so badly? [[The Collector]] turns Son into a toad and has it explore the lake to check where the monster came from. There is no discernible location underwater where it would have made sense for the monster to have come from.
+- With the creature dead, the party can catch their breath. This encounter does beg the question; why was the monster hunting for [[The Collector|Linus]] so badly? [[The Collector]] turns [[Son]] into a toad and has it explore the lake to check where the monster came from. There is no discernible location underwater where it would have made sense for the monster to have come from.
 
 The party gains 230 XP, totalling to 1560 XP!
 
 ## Recap
 
-The party debates for, like, an hour on how to dive into the hole that [[Tilly]] got sucked down into so that they would be able to come back up after rescuing her. They eventually set up a bolt-and-tackle to rappel down, heavily influenced by [[Tilly]] finding some purple grass at the bottom. Among the grass are various coloured mushrooms, which [[NG]] knows can have a wide variety of positive and negative effects. The party mercilessly makes Son consume to see what they do and figure out which ones are safe.
+The party debates for, like, an hour on how to dive into the hole that [[Tilly]] got sucked down into so that they would be able to come back up after rescuing her. They eventually set up a bolt-and-tackle to rappel down, heavily influenced by [[Tilly]] finding some purple grass at the bottom. Among the grass are various coloured mushrooms, which [[NG]] knows can have a wide variety of positive and negative effects. The party mercilessly makes [[Son]] consume to see what they do and figure out which ones are safe.
 
 [[Blake]] decides they're bored and shoots one of the stalactites on the ceiling because they look like they're breathing. These end up being a pack of *Darkmantle* taking a snooze, and combat ensues as they wake up pissed as hell that their nap was interrupted. After taking out all the monsters (and pulling the corpse of one off of [[Blake]]'s head, since *Darkmantle* are ambush hunters specializing in suffocating their targets), the party decides that a rest is in order. They head back to the [[#The Shoal That Makes You Old|the beach from the previous room]] and start a Short Rest.
 

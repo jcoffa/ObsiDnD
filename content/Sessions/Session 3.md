@@ -22,7 +22,7 @@ created: 2026-01-23 19:22
 
 ## Quotes
 
->[!quote] Theoretical Human Son
+>[!quote] Theoretical Human [[Son]]
 >
 >I want to study politics and gender studies, Father.
 
@@ -37,8 +37,8 @@ created: 2026-01-23 19:22
 
 ### The Tomb
 
-- [[The Collector]] attempts to send Son into the tomb as a bat, but there's a door so he bashes his face into it instead. After returning to Quasit form, he is able to open the door without issue as it is not locked.
-- The tomb is made of stone, and has many archways between its rooms. It forms a long hallway of square rooms every 30 feet. Son delves 100 ft into the tomb and finds... a rainbow-coloured cat with wings resting on the ground.
+- [[The Collector]] attempts to send [[Son]] into the tomb as a bat, but there's a door so he bashes his face into it instead. After returning to Quasit form, he is able to open the door without issue as it is not locked.
+- The tomb is made of stone, and has many archways between its rooms. It forms a long hallway of square rooms every 30 feet. [[Son]] delves 100 ft into the tomb and finds... a rainbow-coloured cat with wings resting on the ground.
 	- [[Zrandovorski]] is able to identify this as a Sphinx of Wonder. They typically bond to scholars and act as their familiars since they are knowledge-obsessed. So there's either a scholar inside and its familiar is here, or its scholar *sent it* here to investigate, or it doesn't have a master and is here of its own free will.
 - [[NG]] and [[Tilly]] walk in and approach the cat, which speaks in Common and enthusiastically approaches. It asks what we're doing and we say "we're looking for friends". The cat seems very friendly.
 - The sphinx says that Goblins were digging deeper into the tomb to bury more of their dead, and hit a moat of Wild Magic that's been causing problems. The sphinx's partner has disappeared deeper into the tomb and hasn't returned. The 3rd level is where shit starts to get weird. It agrees to follow us for at least the 1st level, and reveals that its name is Luca, and his partner is [[Volo]]. Yeah, ***the*** [[Volo]].
@@ -66,8 +66,8 @@ created: 2026-01-23 19:22
 - [[Tilly]] goes back to go check out the mirror from earlier. She briefly sees the man with the white eyes, and then sees [[Volo]] stuck in a hole. [[Garrison]] rips the mirror off the wall so we can see what's behind it. There's nothing.
 - [[Zrandovorski]] takes 10 minutes to cast Detect Magic, and is nearly blinded by how intense the magic is. The entire tomb is radiating with Wild Magic. The hallway to the 2nd layer is extremely intense.
 - [[NG]] sends down a Fire Bolt and it turns into ice upon hitting the floor.
-- [[The Collector]] sends Son to scout it out, and discovers he becomes blind upon leaving the stairwell. He comes back up, and regains his sight. Back down again, and now he is deaf. Seems like the wild magic is strong enough on this layer to apply random debuffs and other harmful effects.
-- [[The Collector]] uses Son to communicate with an Imp that he can now see on the next layer. The imp offers the party a deal; it will give us an amulet that would allow them to resist the effects of the wild magic for a time. [[NG]] clutches up and offers to trade one of his magic items that he made as an Artificer that morning. With a good Deception roll, the imp has no idea that magic items made by Artificers lose their magic if they go unmaintained for a day.
+- [[The Collector]] sends [[Son]] to scout it out, and discovers he becomes blind upon leaving the stairwell. He comes back up, and regains his sight. Back down again, and now he is deaf. Seems like the wild magic is strong enough on this layer to apply random debuffs and other harmful effects.
+- [[The Collector]] uses [[Son]] to communicate with an Imp that he can now see on the next layer. The imp offers the party a deal; it will give us an amulet that would allow them to resist the effects of the wild magic for a time. [[NG]] clutches up and offers to trade one of his magic items that he made as an Artificer that morning. With a good Deception roll, the imp has no idea that magic items made by Artificers lose their magic if they go unmaintained for a day.
 	- The amulet has 3 charges. On activation, it emanate a 5-foot radius aura that protects against the effects of wild magic for 1 hour. After all 3 charges are used, the item will shatter and become unusable.
 - We gain 100 XP for this session, totalling to 425!
 
@@ -75,4 +75,4 @@ created: 2026-01-23 19:22
 
 After weighing their options, the group decides to head to [[The Tomb of Booyahg]] to check out all the weird rumours of people growing limbs and going blind. Surely this will go well. After travelling past a goodberry tree and a den of wolves, the party arrives at the tomb where they meet a Sphinx of Wonder named Luca. A winged feline with a coat of rainbow, Luca is friendly, brilliant, and engages in conversation without issue. The sphinx explains that this tomb is used by Goblins to bury their dead, but they dug too deep and hit a vein of Wild Magic. Luca reveals that he has a master who is lost deeper into the tomb, and his name is [[Volo]]. Yeah, the famous guy who wrote [[Volo]]'s Guide to Monsters.
 
-The party fucks around in the tomb for a solid hour and a half, during which they inspect a mirror on the wall and [[Tilly]] sees [[Volo]] stuck in a hole. They send Son in to scout, discovering that the deeper levels of the tomb have a much thicker Wild Magic fog and cause a myriad of random effects to anyone ~~stupid~~ brave enough to go down there. After forcing Son to take the hit 3 separate times by having him walk in and out of the stairwell to the next level, [[The Collector]] speaks through Son to barter with an Imp offering an amulet that protects against the Wild Magic. [[NG]] absolutely swindles the hell out of the little devil by offering up one of his magic items that he crafted that same morning... neglecting to inform his negotiator that the item loses all its magic the next time he takes a nap. The party prepares to delve ever deeper into the tomb, and thinks on a plan to find and save [[Volo]].
+The party fucks around in the tomb for a solid hour and a half, during which they inspect a mirror on the wall and [[Tilly]] sees [[Volo]] stuck in a hole. They send [[Son]] in to scout, discovering that the deeper levels of the tomb have a much thicker Wild Magic fog and cause a myriad of random effects to anyone ~~stupid~~ brave enough to go down there. After forcing [[Son]] to take the hit 3 separate times by having him walk in and out of the stairwell to the next level, [[The Collector]] speaks through [[Son]] to barter with an Imp offering an amulet that protects against the Wild Magic. [[NG]] absolutely swindles the hell out of the little devil by offering up one of his magic items that he crafted that same morning... neglecting to inform his negotiator that the item loses all its magic the next time he takes a nap. The party prepares to delve ever deeper into the tomb, and thinks on a plan to find and save [[Volo]].

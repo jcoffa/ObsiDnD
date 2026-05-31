@@ -31,7 +31,7 @@ created: 2026-03-27 18:43
 >
 >Justin: "mdhjkddhuiwnjkncjshd" *(use your imagination)*
 
->[!quote] Son, after being knocked off the ceiling and crushed by a boulder
+>[!quote] [[Son]], after being knocked off the ceiling and crushed by a boulder
 >
 >Father! I've been *127 Hours*'d, Father!
 
@@ -39,18 +39,18 @@ created: 2026-03-27 18:43
 >
 >Gilbesh, there will be others claiming to be us, **you must slay them**.
 
->[!quote] [[The Collector]], regarding Son
+>[!quote] [[The Collector]], regarding [[Son]]
 >
 >I should've given that little boy a bomb.
 ## Notes
 
 ### Fuck 12
 
-- The group awakens in the ship surrounded by dead maggots which Son is happily gobbling up. That's going to hurt his tummy later.
+- The group awakens in the ship surrounded by dead maggots which [[Son]] is happily gobbling up. That's going to hurt his tummy later.
 - [[Tilly]] finds the second mask (like the one [[NG]] found in the ship previously) and discovers that she (unlike [[NG]]) can read the descriptive text that it allows her to see. She sees that [[NG]]'s mask identifies him as the "First Mate", and suspects that would make her the "Captain".
 - She searches for if a Captain's Log is present in the ship somewhere, and finds one a sheet of metal in the cockpit. It's unreadable as its missing some component to make the text visible.
 - [[Zrandovorski]] identifies the [[Helm]] and discovers that it can be used to cast a special spell that makes an Airship or SpellJammer. Can't do that until level 5 though!
-	- They confirm Son found 1000 Electrum in the ship previously, and [[Zrandovorski]] thinks that EP has a 1:1 conversion rate to GP. So currently, the party is able to afford the material cost to make an airship.
+	- They confirm [[Son]] found 1000 Electrum in the ship previously, and [[Zrandovorski]] thinks that EP has a 1:1 conversion rate to GP. So currently, the party is able to afford the material cost to make an airship.
 - The party decides to leave the ship alone after confirming it will refuse to open its doors for anyone without a mask (and there are only 2 in the ship, one held by [[NG]] and the other by [[Tilly]]).
 
 ### The Mines
@@ -74,9 +74,9 @@ created: 2026-03-27 18:43
 - The party reaches an opening after trekking down the narrow mining passageways, and finds another Goblin sitting on the ground. It appears eerily calm and uninterested, but maintains conversation without issue. It asks if the party is here to find the Goblins. Something seems very off about it.
 - [[Tilly]] asks in its mind if "[[Session 2#The Creature|its friend has made it back recently]]". The Goblin doesn't appear to know what she's talking about, stating it only has friends in [[Draskhrr]] and they don't usually visit the mines.
 - All of a sudden, [[The Collector]] becomes very determined to navigate through the crack in the wall which this Goblin is sitting near. He goes invisible, and the goblin stands up and rapidly walks backwards down a hallway with terrifying speed and unnatural alacrity.
-- The remaining party debates what to do, ultimately deciding to chase after [[The Collector]] and Son down the crack.
+- The remaining party debates what to do, ultimately deciding to chase after [[The Collector]] and [[Son]] down the crack.
 - Following them down the crack hallway, another room opens up and [[The Collector]] now has a docile and stoic demeanour as the goblin. He also refuses to turn around and only faces the party straight ahead, just like the Goblin. [[Zrandovorski]] notices some kind of translucent tether trailing off behind him. Again, just like the Goblin, he rapidly walks backward down a hallway with terrifying speed.
-- The party continues to follow, and finds [[The Collector]] floating in mid-air with an enormous gelatenous mass on the ceiling. The translucent trail can now be seen to connect to this mass. Nearby, a large boulder blocks the entrance to what might be a prison cell as the voices of [[The Collector]], Son, and many Goblins can be heard from behind it.
+- The party continues to follow, and finds [[The Collector]] floating in mid-air with an enormous gelatenous mass on the ceiling. The translucent trail can now be seen to connect to this mass. Nearby, a large boulder blocks the entrance to what might be a prison cell as the voices of [[The Collector]], [[Son]], and many Goblins can be heard from behind it.
 
 Roll initiative!
 
@@ -91,7 +91,7 @@ Roll initiative!
 - The Oblex shuffles down the ceiling to the wall and attacks [[Zrandovorski]], rolling a natural 1 and accidentally kills one of the new Goblins it created. Its second attack would hit with a 16, but he *Shields* the attack so it misses anyways.
 - [[The Collector]], now free  uses *Eldritch Blast* on The Oblex and deals 10 force damage.
 - [[Zrandovorski]] uses *Shatter* on the 3 slimy Goblins and kills all of them. The Oblex does NOT like the loud noise that was made, and quickly shuffles up the wall to get back onto the ceiling. It appears to be going towards a crack in the ceiling.
-- Son follows the Oblex to the ceiling as a bat and squeezes into the ceiling hole. He finds that the ceiling opens up into a network of tunnels that expands throughout the mines.
+- [[Son]] follows the Oblex to the ceiling as a bat and squeezes into the ceiling hole. He finds that the ceiling opens up into a network of tunnels that expands throughout the mines.
 - [[NG]] casts *Faerie Fire* on the Oblex and it fails the save with a 13 Dex roll.
 - [[Tilly]] moves her *Moonbeam* to attack the Oblex again and deals 6 radiant damage.
 - [[Garrison]] throws a Javelin at advantage thanks to the *Faerie Fire* and deals 8 piercing damage. This also slows it by 10 feet thanks to his *Slow* weapon mastery with the Javelin.
@@ -99,7 +99,7 @@ Roll initiative!
 	- In his head, [[Zrandovorski]] hears "You have so many delicious memories to eat."
 	- The Oblex strikes at [[Garrison]] twice and misses both times. Like a bitch.
 - [[The Collector]] leaves the prison and attacks the Oblex with *Eldritch Blast* at Advantage thanks to the *Faerie Fire*. He still misses anyways with an attack roll of 10. He then uses *Healing Light* to restore 10 HP to [[Zrandovorski]].
-- [[Zrandovorski]] attempts to cave in the cracked ceiling by using *Shatter* just barely past the crack. [[Garrison]] would be caught by the ceiling collapse, but he nods to [[Zrandovorski]] and says "I can take it". He lets the spell fly, and knocks the Oblex (and Son) off the ceiling. [[Garrison]] uses his new *Shield Master* feat to block all the damage. The Oblex makes a satisfying **SPLAT!** as it hits the ground, and loses its shape and form.
+- [[Zrandovorski]] attempts to cave in the cracked ceiling by using *Shatter* just barely past the crack. [[Garrison]] would be caught by the ceiling collapse, but he nods to [[Zrandovorski]] and says "I can take it". He lets the spell fly, and knocks the Oblex (and [[Son]]) off the ceiling. [[Garrison]] uses his new *Shield Master* feat to block all the damage. The Oblex makes a satisfying **SPLAT!** as it hits the ground, and loses its shape and form.
 
 ### Returning to the Surface
 
@@ -107,7 +107,7 @@ Roll initiative!
 - The Goblins mention that "[[The Toppelgangers|a group of grey looking guys]]" came to check up on them a couple days ago. They were asking questions about why they're trapped here, what they're looking for, etc. After getting their questions answered, they left without helping the Goblins escape at all.
 - [[Zrandovorski]] starts losing memories of [[#The Oblex|the fight]] even though it just ended. The party decides to take a Short Rest to cure him of the "memory-drained" status.
 - [[NG]] notices a chunk of stone in one of the shorter hallways. After moving it aside, he finds a blocked off entrance to [[The Underdark]] and a makeshift ladder that's been lowered down into a hole. The party has officially found a second entrance to [[The Underdark]].
-- [[The Collector]] and [[Tilly]] instruct Son to fly down the hole and report back on what he found. He clumsily explains that there are "grey guys in a forest camp" at the bottom of the ladder. It's unclear if he was describing [[The Toppelgangers]] or normal Deep Gnomes. After much difficulty, the party determines these are Medium creatures and therefore cannot be Deep Gnomes.
+- [[The Collector]] and [[Tilly]] instruct [[Son]] to fly down the hole and report back on what he found. He clumsily explains that there are "grey guys in a forest camp" at the bottom of the ladder. It's unclear if he was describing [[The Toppelgangers]] or normal Deep Gnomes. After much difficulty, the party determines these are Medium creatures and therefore cannot be Deep Gnomes.
 
 ### The Plan
 
@@ -137,6 +137,6 @@ The remainder of the journey to the mines is, thankfully, uneventful. If by unev
 
 The deep mines are... weird. The party meets a goblin who always looks at them perfectly straight ahead and without any emotion. [[Tilly]] is suspicious that it may be a [[The Toppelgangers|doppelganger]] and probes its mind for details. It does not appear to be a doppelganger, but it also doesn't seem like a goblin either. All of a sudden, [[The Collector]] begins to act even more strangely than usual, and turns invisible and sprints into one of the cave hallways at once. The strange goblin rapidly runs backwards at an alarming speed in the same direction without ever turning around to stop facing the party head-on. They find [[The Collector]] in another room further down, and now he's acting just like the goblin did; emotionless and always facing them straight on. [[Zrandovorski]] notices a thin translucent string coming off the back of [[The Collector]] and the goblin, and finds a huge blood-red ooze on the ceiling of the cave! This is an Oblex (although the characters don't know it); an ooze that feeds on memories and mimics their intelligent meals. Thankfully, they need to keep their food alive in order to feed off its memories, and the party quickly identifies a stony prison with a dozen goblins and [[The Collector]] trapped inside. After a risky combat and almost caving in the roof of this tunnel onto themselves (thanks for the *Shatter* [[Zrandovorski]]...), the party emerges victorious with no prisoner casualties. 
 
-The rescued goblins are endlessly thankful of being rescued, and they mention that "[[The Toppelgangers|a group of grey looking guys]]" came to check up on them a couple days ago. They were interested in knowing why they were trapped, what they're down here for, etc. and then left without rescuing them. After the goblins leave back to the surface, [[NG]] finds a crack in the wall and uncovers it as another ladder-accessible entrance to [[The Underdark]]. Son flies down to investigate, and finds a camp of Deep Gnomes at the bottom. The session ends after some debate about what to do next, as some think that this would be a good opportunity to explore the entrance before the goblins discover it on their own. There's a loose plan on what to do next, although nothing is set in stone yet.
+The rescued goblins are endlessly thankful of being rescued, and they mention that "[[The Toppelgangers|a group of grey looking guys]]" came to check up on them a couple days ago. They were interested in knowing why they were trapped, what they're down here for, etc. and then left without rescuing them. After the goblins leave back to the surface, [[NG]] finds a crack in the wall and uncovers it as another ladder-accessible entrance to [[The Underdark]]. [[Son]] flies down to investigate, and finds a camp of Deep Gnomes at the bottom. The session ends after some debate about what to do next, as some think that this would be a good opportunity to explore the entrance before the goblins discover it on their own. There's a loose plan on what to do next, although nothing is set in stone yet.
 
 ![[#The Plan]]

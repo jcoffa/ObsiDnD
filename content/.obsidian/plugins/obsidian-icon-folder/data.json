@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⚠",
+      "🐶",
+      "💀",
       "🚪",
-      "LiDoorOpen",
-      "LiKeyRound",
-      "🤝",
-      "LiHandshake"
+      "LiDoorOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,8 @@
   "Quests/Completed": "✅",
   "Factions": "LiHandshake",
   "Items": "LiKeyRound",
-  "PCs/Guests": "🚪"
+  "PCs/Guests": "🚪",
+  "PCs/Deceased": "💀",
+  "NPCs/Companions": "🐶",
+  "Quests/Abandoned": "⚠"
 }

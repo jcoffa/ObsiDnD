@@ -64,7 +64,7 @@ created: 2026-05-01 18:27
 >
 >I cast *Remove Pussy* on myself. It just removes Hinge from my phone.
 
->[!quote] Son, to [[Tilly]]
+>[!quote] [[Son]], to [[Tilly]]
 >
 >Technically I'm only 8 days old, so really *you're* the cradle snatcher here.
 
@@ -80,36 +80,36 @@ created: 2026-05-01 18:27
 
 - The party watches as [[The Lady of the White]] tosses down a few platinum coins and retreats into the business card portal with the body.
 - The lids of several caskets fly off and shatter against the walls and floor. The screeches of spectres can be heard further down the long, dark hallway. There are 7 zombies surrounding the party and 2 spectres 40 feet down the hallway, in front of the exit.
-- [[The Collector]] goes first! For the first time, he commands Son to make a *Rend* attack and barely hits the Zombie with an 8 to deal 4 slashing damage. They're immune to the poisoned condition, but otherwise they would be poisoned. He ends his turn by casting *Lesser Restoration* to cure [[NG]] of his poison.
-- Son turns invisible and backs up 10 feet, further away from both the spectres and the exit.
+- [[The Collector]] goes first! For the first time, he commands [[Son]] to make a *Rend* attack and barely hits the Zombie with an 8 to deal 4 slashing damage. They're immune to the poisoned condition, but otherwise they would be poisoned. He ends his turn by casting *Lesser Restoration* to cure [[NG]] of his poison.
+- [[Son]] turns invisible and backs up 10 feet, further away from both the spectres and the exit.
 - [[Kolvar]] looks around at the zombies and laughs to himself, saying "You guys *are* really interesting!". He unsheathes his eldritch blade and hits a different zombie with a 23 and deals 13 radiant damage. He uses a special version of *Misty Step* to cause nearby zombies to have disadvantage on any attack roll that's *not* made against [[Kolvar]].
 - Both spectres take their turn and attack [[Zrandovorski]] since he would've entered the crypt last. He takes 5 necrotic damage and his maximum HP is reduced by the same amount. The second spectre does the same thing for 5 more damage with the same HP reduction. He feels an icy grip clutch his heart as it skips a beat every time he gets hit.
-- [[NG]] picks up the amulet from Son and teleports towards the entrance of the crypt. He holds up the amulet and taunts the undead, attempting to bait them into following him. Then he dashes 45 feet away from the spectres.
+- [[NG]] picks up the amulet from [[Son]] and teleports towards the entrance of the crypt. He holds up the amulet and taunts the undead, attempting to bait them into following him. Then he dashes 45 feet away from the spectres.
 - [[Tilly]], still pretty drunk but not terribly so, fumbles into her Archer starry form with some exasperated hand movements. She hits a spectre with a 17 and deals 5 radiant damage with a starry bolt. She then casts *Moonbeam* against the nearly-dead zombie and kills it! It appears like it may have had the ability to shake off death one last time
-- [[Zrandovorski]] uses *Misty Step* to get 20 feet past the zombies and then runs 30 feet further into the crypt to make as much distance between him and the undead as possible. He hurls a *Fire Bolt* to hit the same zombie Son hit with a 13 to deal 5 fire damage.
+- [[Zrandovorski]] uses *Misty Step* to get 20 feet past the zombies and then runs 30 feet further into the crypt to make as much distance between him and the undead as possible. He hurls a *Fire Bolt* to hit the same zombie [[Son]] hit with a 13 to deal 5 fire damage.
 - Some of the zombies run towards [[NG]] to follow the amulet that he's baiting them with. [[Kolvar]] and [[Tilly]] hit one of the fleeing zombies with their attacks of opportunity and kills one of them. There are 4 zombies remaining.
 - A zombie attacks [[Tilly]] with disadvantage and misses with a 10. A second zombie attacks and hits with a 16 and takes 7 points of bludgeoning damage. A third zombie attacks [[The Collector]] and hits with a 13 despite its disadvantage, and deals 4 bludgeoning damage. The fourth and final zombie attacks [[Kolvar]] and hits with a 15, and deals 4 bludgeoning damage.
 - [[The Collector]] uses *Sacred Flame* against the bloodied zombie and deals 5 radiant damage. The zombie is barely alive with a trickle of health left. He stays put to avoid leaving [[Tilly]] alone.
-- Son, mildly upset that [[NG]] "stole" the necklace (that he willingly gave to him) and uses the Help action on the bloodied zombie to grant advantage to the next attack roll against it.
-- [[Kolvar]] takes advantage of Son's distraction to hit the zombie with a 24 and deals 12 radiant damage. The zombie burns with holy flame and drops to the ground, dead for the final time. There are 3 zombies remaining. He uses his special *Misty Step* again, this time granting himself 7 temporary HP.
+- [[Son]], mildly upset that [[NG]] "stole" the necklace (that he willingly gave to him) and uses the Help action on the bloodied zombie to grant advantage to the next attack roll against it.
+- [[Kolvar]] takes advantage of [[Son]]'s distraction to hit the zombie with a 24 and deals 12 radiant damage. The zombie burns with holy flame and drops to the ground, dead for the final time. There are 3 zombies remaining. He uses his special *Misty Step* again, this time granting himself 7 temporary HP.
 - The spectres fly 50 feet towards [[NG]], purposefully cutting him off from the exit. They look at him and howl *"Drop the pendant..."* and attack! The first hits with a 16 and deals 7 necrotic damage (lowering his max HP again). The second hits with a 14 (his AC) and deals 5 necrotic damage (max HP too). He uses his map teleportation to teleport 15 feet away, then casts *Expeditious Retreat* and his action to run 70 feet down the hall, and is able to leave the crypt entirely.
 	- *"Droooooppp iiiiiitt....."* the spectres moan once more as he runs away with great speed.
 - [[Tilly]], still concentrating on her previous *Moonbeam*, lasers all 3 remaining zombies. 2 zombies fail the saving throw, and max-rolls damage to deal 20 radiant damage! One zombie is instantly burnt to a crisp of silvery lunar flames, and the 2 remaining zombies are looking worse for wear. She casts *Shillelegh*
 - [[Zrandovorski]] casts *Magic Missile* and hits a zombie, which kills it, except it doesn't die due to *Undead Fortitude*, then deals 4 force damage to the second zombie, which doesn't kill it, then deals 3 force damage to the first one again, which kills it, except it doesn't die *AGAIN* due to *Undead Fortitude* not having a cap in 2024 D&D.
 - The zombies are still in [[Tilly]] moonbeam on their turn, so they take 13 radiant damage and fries one of the zombies still inside it.
 - [[The Collector]] looks at [[Tilly]]'s twinkling stars from the constellations orbiting her and plucks it off to cast *Sacred Flame*. The zombie passes its save and avoids all incoming damage. [[The Collector]] pukes.
-- Son says "Holy shit. Well! I guess Father is right. He's telling me I must dash." and dashes 80 feet towards [[NG]] while taking 3 attacks of opportunity along the way.
+- [[Son]] says "Holy shit. Well! I guess Father is right. He's telling me I must dash." and dashes 80 feet towards [[NG]] while taking 3 attacks of opportunity along the way.
 	- Zombie 1: misses with 11.
 	- Spectre 1: misses with 12.
 	- Spectre 2: hits with a 14 and deals 7 necrotic damage (max HP). He's still alive!
 - [[Kolvar]], deciding that the remaining zombies aren't enough of a threat anymore, *Misty Step*s past the zombies (gaining 1 temp hp). He attacks one of the spectres, hits with a 20, and deals 14 radiant damage. The spectre is now bloodied!
-- Speaking of which, it's the spectre's turns. One of them hits [[Kolvar]] with a 23 and deals 6 necrotic damage (max hp btw). It attempts to run away, so [[Kolvar]] attempts to take an attack of opportunity and misses with an 11. It floats past Son and ends its turn near the exit. The second one dashes *through the wall and ceiling* (the party had forgotten it's incorporeal...) and ends next to [[NG]] on the surface.
+- Speaking of which, it's the spectre's turns. One of them hits [[Kolvar]] with a 23 and deals 6 necrotic damage (max hp btw). It attempts to run away, so [[Kolvar]] attempts to take an attack of opportunity and misses with an 11. It floats past [[Son]] and ends its turn near the exit. The second one dashes *through the wall and ceiling* (the party had forgotten it's incorporeal...) and ends next to [[NG]] on the surface.
 	- *"Give us the necklace..."* it moans.
 - [[NG]] says "If you want the necklace, you'll have to come and get it." and uses his action to dash, his movement, and his bonus action (thanks to *Expeditious Retreat*) to absolutely book it **105 feet** towards town. [[NG]] and both spectres will effectively leave initiative order due to how far away they'll be from the rest of combat.
 - [[Tilly]] moves the orbital moonbeam laser once more and kills one zombie while dealing 6 radiant damage to the other. She uses her starry form archery bolt to hit with a 20 and deal 7 radiant damage.
 - [[Zrandovorski]] pulls off a pathetic *Fire Bolt* against the remaining zombie and deals 2 fire damage. This is exactly how much health it had left.
 
-Combat ends with the remaining party counting up the 19 platinum coins, and 1 weird looking coin that's black and glowing red. It's also somewhat larger than a normal coin. [[Tilly]] attempts to drunkenly put [[The Lady of the White]]'s calling card on top of a zombie, but all of [[The Collector]], [[Zrandovorski]], and Son physically stop her. This is a [[Soul Coin]].
+Combat ends with the remaining party counting up the 19 platinum coins, and 1 weird looking coin that's black and glowing red. It's also somewhat larger than a normal coin. [[Tilly]] attempts to drunkenly put [[The Lady of the White]]'s calling card on top of a zombie, but all of [[The Collector]], [[Zrandovorski]], and [[Son]] physically stop her. This is a [[Soul Coin]].
 
 ### WHY THE FUCK AREN'T THEY COMING TO GET ME???
 
@@ -223,13 +223,13 @@ Even before the Clerical War was in full swing, the [[Utopia|Utopian Empire]] ex
 
 [[Wextil]] was a stronger oracle than he was and foresaw the coming conflict, but couldn't do anything to prepare or change the outcome; the future is not so easily seen nor changed.
 
-To lighten the mood a bit before [[Tilly]] gets another shot, the party decides Son should go next.
+To lighten the mood a bit before [[Tilly]] gets another shot, the party decides [[Son]] should go next.
 
-#### Son's Trance
+#### [[Son]]'s Trance
 
 The worst 22 moment of his life. Standing in front of a vending machine in [[The Abyss]], his stubby arms too short to reach the box of *Milk Duds* on C3. He tried to climb in and is awkwardly crushed by the anti-tamper door. Every item does that thing where it gets caught on the rotating ring just barely before it drops, except for the glass bottles of coke on the top row which shatter when they plummet to the bottom. This is life in [[The Abyss]] for a measly Quasit.
 
-Son awakens from his trance in a state of pure, unbridled agony.
+[[Son]] awakens from his trance in a state of pure, unbridled agony.
 
 > ***NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!***
 
@@ -257,5 +257,5 @@ The Reconstellators ascend the tower and are met with [[Find Gordon|Gordon]]; a 
 4. [[The Collector]] discovers that Father is maybe not a good guy, and they are potentially a herald for Hadar.
 5. [[Kolvar]] made a deal with a Fae to be able to change their appearance, and was turned into a Changeling.
 6. [[Zrandovorski]] was a royal advisor to the old Hobgoblin empire, which was conquered by [[Utopia]] and lost his family in The Clerical War. [[The Frozen March]] is full of hobgoblins because any survivors were exiled there.
-7. Son had 22 memories of him failing the get his desired item from a series of vending machines in [[The Abyss]].
+7. [[Son]] had 22 memories of him failing the get his desired item from a series of vending machines in [[The Abyss]].
 8. [[Tilly]] goes again and experiences ego death; this time seeing a memory from the perspective of her Kalashtar partner. She feels that if she were to meet more Kalashtar, her power would grow. She sees a tiefling man near [[The Scar of the Plane]], and suspects he is a Kalashtar like her.

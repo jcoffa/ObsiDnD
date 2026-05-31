@@ -37,7 +37,7 @@ created: 2026-03-20 19:24
 ## Notes
 
 - The reconstellators find themselves in the vast expanse of [[The Frozen March]], at the bottom of a pit, with the leader of the cult of Larizadune. [[Zrandovorski]] recalls that Larizadune is an old God, not one in the current pantheon. In fact, he only knows of Larizadune from his time of going into deep research. He knows that Larizadune has a constellation, called The Void, which depicts a swirling emptiness. Larizadune was, for a time, the God of darkness, decay, and entropy.
-- Son is desperate to eat this man. The party prevents him from doing this.
+- [[Son]] is desperate to eat this man. The party prevents him from doing this.
 - The cult leader says he gave up his name long ago, and reminds the party that he really wants them to free him. The party is really not into that, so [[NG]] plans to build a brick wall around him.
 - The leader mentions that Larizadune is imprisoned in the Astral Sea. [[NG]] mentions he can take the party there at any time by constructing 2 bags of holding and making them kiss.
 - [[The Collector]] notices an insignia on the underside of the man's arm. He walks into the binding circle to move the man's cloak out of the way, and he feels his hand touch his underarm. He recoils in pain as he feels the sharp point of a bone fracture stab into his hand, and the man whips his head around to look at him. He drops the torch and begins attempting to wrench himself out of his chains while swiping at [[The Collector]]. It's initiative!
@@ -83,7 +83,7 @@ Uuuh, combat's over?
 	- It hits [[The Collector]] with a 17, misses [[Zrandovorski]] with a 15 due to him using *Shield*, hits [[Blake]] with a 23, misses [[Cline Daffenborn|Cline]] with a 10, and misses [[Tilly]] with an 11.
 	- [[The Collector]] takes 5 bludgeoning, 2 psychic, and passes the Con save with a 13.
 	- [[Blake]] takes 8 slashing, 4 psychic, and fails the Con save with a 6 and becomes Stunned.
-- Son shovels Electrum into a sack he borrowed from [[NG]] and collects 150 EP.
+- [[Son]] shovels Electrum into a sack he borrowed from [[NG]] and collects 150 EP.
 - [[Zrandovorski]] casts *Magic Missile* at 2nd level to deal 14 force damage.
 - [[The Collector]] leaves he range of the stalker to run towards the injured creature on the other side of the structure. Its opportunity attack deals 10 bludgeoning and 2 psychic, allowing [[The Collector]] to use *Hellish Rebuke* to deal 6 damage, and he fails his Con save with a 9 which stops him in his tracks.
 - [[Cline Daffenborn|Cline]] casts *Blindness/Deafness* on the stalker, and [[Zrandovorski]] uses a *Foretelling Roll* to force it to take an 11 instead of making a roll. The creature is now blinded, allowing [[Cline Daffenborn|Cline]] to run away.
@@ -93,14 +93,14 @@ Uuuh, combat's over?
 	- Everyone on the outside watches as slits open up on the outside of the ship, and small white pellets fly out in a bunch of different directions and converge on the wounded creature crawling away. It absolutely obliterates it, and [[NG]] hears in the mask *Kill confirmed*.
 	- He teleports into a hidden door that leads to the cockpit of the ship. It looks like the pilot attempted to eject and avoid the crashlanding but something went wrong. Instead, there is a mass of maggot guts, scraps of robes, and blood.
 - [[The Collector]] is stunned, but the stalker is blind so it's normal rolling. He hits with a 14 and deals 7 damage. [[The Collector]] goes down. It attacks [[Zrandovorski]] with disadvantage and misses with a 16 (also because he uses *Shield* again).
-- Son collects another 150 EP.
+- [[Son]] collects another 150 EP.
 - [[Zrandovorski]] casts *Sleep* and the creature fails with an 11. It's incapacitated until the end of its next turn. He then runs 30 feet outside the crater to create space between him and the rest of the party.
 - [[Cline Daffenborn|Cline]] is able to make it to [[The Collector]] and, because he is dying and [[Cline Daffenborn|Cline]] is a Grave Domain Cleric, max heals [[The Collector]] with 3d8+3 (27 hp restored).
 - [[Blake]] runs 60 feet and, thanks to *Pass Without Trace*, is able to sneak out of the combat.
 - [[Tilly]] follows [[Blake]]'s example and runs 60 feet and, also thanks to *Pass Without Trace*, is able to sneak out of the combat as well.
 - [[NG]] honks the horn on the ship a couple times as he figures out all the controls. He's able to close the doors on  the ship and then use the ship's weapon to *Lightning Bolt* the creature, dealing 34 lightning damage. The stalker is now bloodied, and hears through the mask *"The creature is now bloodied."*
 - The stalker, now no longer blinded or incapacitated, lumbers over to [[Cline Daffenborn|Cline]] and crits him to knock him to 0 hp. It then attacks [[The Collector]] to deal 9 bludgeoning and 3 psychic.
-- Son collects another 150 EP.
+- [[Son]] collects another 150 EP.
 - [[Zrandovorski]] uses one of his *Foretelling Rolls* to hit the stalker with a 15 on *Witch Bolt*, which is his AC, and deals 12 lightning damage. The stalker looks like it's nearing death.
 - [[The Collector]] is able to use his *Healing Light* ability to heal [[Cline Daffenborn|Cline]] for 7 hp, then *Eldritch Blast*s the stalker and misses with a 7 on the attack roll.
 - [[Cline Daffenborn|Cline]] casts *Guiding Bolt* on the stalker as it approaches him, hitting the creature with a 16 and dealing 13 radiant damage. THIS KILLS THE STALKER! The bolt of light strikes the stalker, and it looks around briefly as cracks appear along its body as beams of light pour out of the cracks. It explodes in a fantastic display of blood and viscera, ending the combat.

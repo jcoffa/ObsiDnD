@@ -34,7 +34,7 @@ created: 2026-01-30 19:00
 ### The Party Fights a Mimic
 
 - It's a Mimic.
-- Son tries to scare the Mimic as it begins to try to eat [[Garrison]]. He fails, since he isn't very scary.
+- [[Son]] tries to scare the Mimic as it begins to try to eat [[Garrison]]. He fails, since he isn't very scary.
 - A second Mimic appears as one of the chests and begins to make its way over to us, as the first one attacks [[The Collector]] and sticks its tongue to his face. He's able to launch a Hellish Rebuke at it in punishment. He is pulled in to the Wild Magic fog and receives 120 feet of Darkvision.
 - [[NG]] launches a Fire Bolt onto the chest Mimic and casts Sanctuary to make it more difficult to hit us.
 - [[Garrison]] takes a devastating critical hit and is reduced to 5 HP.
@@ -59,9 +59,9 @@ created: 2026-01-30 19:00
 
 - As [[Garrison]] is taking the last watch and attempts to fix himself from the Mimic fight, he feels a connection to the Ethereal. He is taken out of the tomb and experiences a hellscape of terrifying fractal creatures, mounds of flesh, and the void.
 	- Off in the distance, he sees a [[Session 2#The Night|the fluff ball from earlier]]. And he inexplicably feels the presence of [[Tilly]] before snapping out of the vision.
-- After waking, he talks to Son about his vision. Son is incredibly unhelpful and does not understand the experience or why [[Garrison]] is so confused (as he cannot dream normally).
+- After waking, he talks to [[Son]] about his vision. [[Son]] is incredibly unhelpful and does not understand the experience or why [[Garrison]] is so confused (as he cannot dream normally).
 - In the morning, [[NG]] wakes in a panic as a stream of consciousness as he feels a wave of fear and sadness. He remembers *the white eyes. the white eyes. those piercing white eyes.*
-- [[Garrison]], [[Tilly]] and [[NG]] talk about [[Garrison]]'s dream and [[NG]] emotions in the morning. None of them really know what's going on. Son is able to tell that he did not dream of the Abyss.
+- [[Garrison]], [[Tilly]] and [[NG]] talk about [[Garrison]]'s dream and [[NG]] emotions in the morning. None of them really know what's going on. [[Son]] is able to tell that he did not dream of the Abyss.
 
 ### Justin Rolls a Nat 20
 
@@ -74,7 +74,7 @@ created: 2026-01-30 19:00
 	- [[Tilly]] gets poisoned, then asleep, then Fear, and settles on darkvision.
 	- [[Zrandovorski]] rolls into deafness and settles on that.
 	- [[The Collector]] got darkvision and settles.
-	- Son becomes invisible and settles.
+	- [[Son]] becomes invisible and settles.
 	- [[Garrison]] also gets darkvision and settles. He grabs [[Zrandovorski]]'s hand since he can't hear the plan of when to continue and what to do in the dungeon.
 - [[NG]] uses his Manifold Tools to unlock a chest on the 2nd level. It's trapped and it explodes immediately. [[The Collector]] investigates another chest and it's also trapped. The party is starting to notice that there are burn marks and chunks of stone missing all over this room, and there are still 3 chests left. Is *every* check here trapped?
 - [[The Collector]] shoots a Fire Bolt at one of the remaining chests (after the party backs up) and the top of it pops off. Inside is a red-coloured shield that looks like a compass rose. [[Zrandovorski]] Identifies it as a **[[Shield of Pursuit]]**.
@@ -104,7 +104,7 @@ created: 2026-01-30 19:00
 ### Teefs
 
 - The party checks the trap that they put outside the wolf den and find a wolf that got trapped and bled out. [[Tilly]] skins it, removes the teefs, and performs a Druidic prayer.
-- The party visits Berkley Longnose to turn in the teefs for [[Find Teefs|his quest]]. He is incredible. [[The Collector]] buys a mug cozy for Son to use as a hat.
+- The party visits Berkley Longnose to turn in the teefs for [[Find Teefs|his quest]]. He is incredible. [[The Collector]] buys a mug cozy for [[Son]] to use as a hat.
 
 +180 XP, to a total of 605 XP.
 

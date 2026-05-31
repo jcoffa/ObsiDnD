@@ -12,9 +12,10 @@ created: 2026-01-08 19:30
 - **Sessions Active:** [[Session 0]] - present
 - **Age:** 223 years
 ---
+
 ![[The Collector_OriginalArtReduced_2026-01-09T11-09-01.webp]]
 
-Wearing a nice vest, a tie, and spectacles. His mutton chops connect with his moustache and beard, and he is accompanied by a Quasit named Son. 
+Wearing a nice vest, a tie, and spectacles. His mutton chops connect with his moustache and beard, and he is accompanied by a Quasit named [[Son]]. 
 
 ##### The Collector's Journal 
 
@@ -42,36 +43,10 @@ Wearing a nice vest, a tie, and spectacles. His mutton chops connect with his mo
 - [[Zrandovorski]] - I would have preferred a sorcerer like Father, but a wizard is a nice surprise! Hopefully his knowledge can lead us to new heights, or better yet, forgotten lore! He's an odd fellow, but he has good in his heart and an adventurer's curiosity a perfect fit for the team I wish to build. Being able to survive an encounter with a Lich and is a part of a line of fortune tellers? Incredible! He'll only become stronger in this group, and I cannot wait to see the power he will wield.
 - [[Tilly]] - I am curious to explore this young druids already rich backstory. That initial mission in Utopia revealed quite a bit, she reminds me of a younger version of myself after Father's passing. I hope our group can assist her in her mission. On another note, she's quite the killer, those rumors on the power of druids was no joke, Tilly packs a punch, I am not worried for any of us with her on our side. She's not even human! Some sort of rare species I've only heard rumors about, adds to the legendary nature of this group, how exciting!
 - [[Blake]] - Still a lot to learn about this quiet Rogue. He doesn't talk to much, but that's perfect! A quiet rogue that's able to act when a situation requires is incredibly ideal! He has the look, and he may still have learning to do, but he's a skilled killer, one I am glad is on our side. In memory, he will be a shadow amongst our silhouettes , without you Blake we wouldn't have been able to get where we are. You will not be forgotten in our museum halls, and in our legendary story.
-- [[Garrison]] - A warforged is an amazing find. I didn't get to learn a lot about this fascinating creation, but it's clear he has a kind soul. His curiosity about son, care for the townsfolk, they fit the role of a gentle giant very well. I'm excited to see their skills in combat, and learn more about their origins, hopefully N.G and Garrison allow me to learn what makes him tick. Garrison continues to fight for both monsters and humanoids alike, he is constantly asking, learning and making me question my own morals on what it means to fight a monster .vs. accept that they're just another creature a part of this world. I could sell this!
+- [[Garrison]] - A warforged is an amazing find. I didn't get to learn a lot about this fascinating creation, but it's clear he has a kind soul. His curiosity about [[son]], care for the townsfolk, they fit the role of a gentle giant very well. I'm excited to see their skills in combat, and learn more about their origins, hopefully N.G and Garrison allow me to learn what makes him tick. Garrison continues to fight for both monsters and humanoids alike, he is constantly asking, learning and making me question my own morals on what it means to fight a monster .vs. accept that they're just another creature a part of this world. I could sell this!
 - [[NG]] - I knew something felt familiar about this Elf! It was that symbol on the blanket he drew. It's *his* marking! I've seen his creations, I know his craftsmanship. I knew that NG was good but I did not know he was already legendary, I've seen his crest throughout Teradin! To know such a legendary craftsman is already in our group! I am excited to learn more about his history throughout the land, and see what crafts he can create that could end up as displays in the museum. 
 
 
 ## Trivia
 
 - Has [aphantasia](https://en.wikipedia.org/wiki/Aphantasia) (2/5).
-
-
-# Son
-
-- **Played By:** Brodie with party commentary
-- **Class:** The Coolest little guy
-- **Species:** Quasit (current form)
-	- **Sessions Active:** [[Session 0]] - [[Session 2]] / [[Session 2]] - [[Session 7]] / [[Session 7]] - [[Session 9]] / [[Session 9]] - present
-- **Age:** Unknown
-
-![[image_2026-03-04T00-15-27.webp]]
-~ Me, by Son.
-
-Father said I am a part of the the party too so that means I get to write in the journal! I am happy I get to write, I have not gotten to write before, sometimes when I think to fast, it's like I am writing words into my head.
-
-##### The people that Father follows
-
-- [[Zrandovorski]] - He's really red. I thought he was bleeding, or just really embarrassed but I think that's just his face. He told me about the rats in the snow, so I like him. Apparently not bleeding just his face, also he said I was green. I don't think that's true.
-- [[Tilly]] - I like Tilly, she let me climb onto her back and rubbed my head funny. She keeps feeding me dead bugs, they're not that good. 
-- [[Blake]] - He is like a shadow, I get scared when I remember he is still there. Very quiet man, not like Father, which is a good thing. It was really weird to see him drunk, it reminded me of Father's father but less mean.
-- [[Garrison]] - I wonder what he would taste like. I failed to eat him last night, I'll try again soon, I think he's on to me.
-- [[NG]] - Elf. Tall Elf.
-- [[Kolvar]] - Another Elf.
-- B.D - It stole my sleeping spot. I'll get them, I just hope Tilly doesn't catch me.
-- [[The Collector|Father]] - Father is a kind man. He told me to write that, so I did... haha. Linus.
-- [[The Baby]] - Tastes bad. Not like normal.

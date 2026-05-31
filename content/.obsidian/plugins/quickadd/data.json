@@ -1,6 +1,41 @@
 {
   "choices": [
     {
+      "id": "bef0e64e-954a-4a48-a91e-f3fb15a44a6d",
+      "name": "New Companion",
+      "type": "Template",
+      "command": true,
+      "templatePath": "z_Templates/Companion.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "NPCs/Companions"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": {
+        "enabled": true,
+        "placement": "replaceSelection",
+        "requireActiveFile": false,
+        "linkType": "link"
+      },
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "c8923d0e-7e9c-499e-a187-f33f4f698257",
       "name": "New Faction",
       "type": "Template",
@@ -14,6 +49,41 @@
         "enabled": true,
         "folders": [
           "Factions"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": {
+        "enabled": true,
+        "placement": "replaceSelection",
+        "requireActiveFile": false,
+        "linkType": "link"
+      },
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "4b03c6ff-f8fb-47b4-85eb-2a4e4e38ab30",
+      "name": "New Item",
+      "type": "Template",
+      "command": true,
+      "templatePath": "z_Templates/Item.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Items"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -185,41 +255,6 @@
         "chooseFromSubfolders": false
       },
       "appendLink": false,
-      "openFile": true,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "4b03c6ff-f8fb-47b4-85eb-2a4e4e38ab30",
-      "name": "New Item",
-      "type": "Template",
-      "command": true,
-      "templatePath": "z_Templates/Item.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "Items"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": {
-        "enabled": true,
-        "placement": "replaceSelection",
-        "requireActiveFile": false,
-        "linkType": "link"
-      },
       "openFile": true,
       "fileOpening": {
         "location": "tab",

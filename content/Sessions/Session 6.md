@@ -50,7 +50,7 @@ created: 2026-02-14 16:05
 	- **8 Ironfang Patches**
 - With a successful combat, [[Garrison]] disguises [[The Collector]] as a Goblin in case the archers come down, and the group takes a short rest.
 - [[NG]] speaks to [[Thorne Blackwood|Thorne]] learning that the item they seek is actually a person. They expect her to be within the next room of this bunker.
-- [[Blake]] opening the door for Son is noticed by a group of 3 Hobgoblins that surround a table, on the table is the body of the individual [[Thorne Blackwood|Thorne]] was searching for.
+- [[Blake]] opening the door for [[Son]] is noticed by a group of 3 Hobgoblins that surround a table, on the table is the body of the individual [[Thorne Blackwood|Thorne]] was searching for.
 - The 3 Hobgoblins fight the group in their incredible armour, surrounding the door as the 2 groups face off. 
 - Thankfully for the group, [[Garrison]] and the Hobgoblins go AC vs. AC and are dispatched by the group.
 

@@ -50,7 +50,7 @@ created: 2026-04-17 18:38
 	- Snow Runt (nobody understands the reference)
 	- Kanye North (nobody understands the reference)
 	- Cat
-- Son suggests:
+- [[Son]] suggests:
 	- Dinner!
 	- Ooga Booga!
 	- Snow Rat
@@ -68,9 +68,9 @@ created: 2026-04-17 18:38
 	- Waffles
 - [[Tilly]] suggests:
 	- Bagel
-	- BD (for "**B**link **D**og")
+	- [[BD]] (for "**B**link **D**og")
 
-As its new mother, [[Tilly]] officially decides the dog's name is BD, to represent an indeterminate acronym for whatever is funniest in the moment.
+As its new mother, [[Tilly]] officially decides the dog's name is [[BD]], to represent an indeterminate acronym for whatever is funniest in the moment.
 
 ### An Uneventful Watch
 
@@ -108,7 +108,7 @@ As its new mother, [[Tilly]] officially decides the dog's name is BD, to represe
 - [[Garrison]] pitches the idea that the party would put [[Rykor Steelhand|Rykor]] and [[Kaz the Cold]] near death and allow [[Toran the Red|Toran]] to publicly execute them as a show of strength. Goblins are chaotic, so they would love that and would quell much of the risk of potential rebellion. She agrees that it would likely work, but she's hesitant to leave [[The Hearth of Hope]] in this way since the journey to [[Draskhrr]] is 3 weeks. Also, most of the people in [[The Hearth of Hope]] aren't fighters capable enough to combat the army of [[The Iron Fang]].
 - Considering whether they can use the [[Helm]] on a building here and fly it into [[Draskhrr]], the party mulls over using [[Tilly]] as a Giant Badger to dig out the underside of a house. This is a ridiculous idea and flying a house into [[Draskhrr]] would be insane. Also, [[Fair Helm City]] has anti-air weaponry to defend themselves from [[Find The White Dragon's Nest|the white dragon]] and they could easily shoot down a flying house. So maybe not a great idea.
 - [[The Collector]] really wants some money, and the party needs some XP if they want to be able to use the [[Helm]] (level 3 spell). [[Toran the Red|Toran]] suggests that they could investigate a nearby mine which has a foul-smelling monster causing problems for the miners. 1000 GP if they solve the problem.
-- The party likes this idea, and [[Tilly]] leaves BD with [[Toran the Red|Toran]] who gladly agrees to take care of the pup. Maybe she's a bit of a dog mom?
+- The party likes this idea, and [[Tilly]] leaves [[BD]] with [[Toran the Red|Toran]] who gladly agrees to take care of the pup. Maybe she's a bit of a dog mom?
 
 ### That New Gorillaz Album, Or Something
 
@@ -126,7 +126,7 @@ As its new mother, [[Tilly]] officially decides the dog's name is BD, to represe
 - [[Tilly]] uses her starry form to invoke the constellation of the archer. She misses the monster with a 7, and sheepishly uses Moonbeam as a follow up. The monster fails the save with a natural 1, and suffers 12 radiant damage.
 - [[Zrandovorski]] fails his Constitution save to resist the poison with a 12. He uses Magic Missile at 2nd level and deals 11 force damage.
 - The monster uses a Legendary Action to hit [[Blake]] for 24 bludgeoning damage, and he rolls an 18 on a Constitution saving throw to avoid being stunned or paralyzed (the party is not sure). [[Blake]] is now down, and the monster is drooling as it hunches over the passed out adventurer.
-- Son uses the Help action to give the next attack roll on the monster to have advantage.
+- [[Son]] uses the Help action to give the next attack roll on the monster to have advantage.
 - [[The Collector]] uses Healing Light to heal 13 to [[Blake]], bringing him back up. He then casts Dissonant Whispers on the monster, and [[Zrandovorski]] uses his portent rolls to force it to take a 10 as its roll, failing the save. It deals 6 psychic damage and forces the monster to run away using its reaction.
 	- The 4 Reconstellators surrounding the monster get to opportunity attack it. [[Blake]] hits with a 22 and deals 6 piercing damage. [[Zrandovorski]] rolls a 9 and misses. [[Tilly]] has disadvantage due to poison and misses with a 6. [[The Collector]] hits with a 19 and deals 2 piercing damage; the lowest he could roll.
 	- The monster finishes fleeing and ends next to [[Garrison]] on the other side of the cave.
@@ -145,7 +145,7 @@ As its new mother, [[Tilly]] officially decides the dog's name is BD, to represe
 - [[Tilly]], furious and distraught at the death of [[Blake]], angrily moves her Moonbeam onto the monster and deals ~~10~~ 5 radiant damage after the monster passes the save. She then fires a starry bolt at the monster and hits with a 15 to deal 11 radiant damage. She ends her turn after failing to end her poisoned condition.
 - The monster takes another Legendary Action to attack [[Garrison]] and misses with an 18 thanks to his high AC of 19.
 - [[Zrandovorski]], against his better judgment and giving in to the suggestions of [[Blake]] post-mortem, he doesn't use his final 18 portent roll and tries to attack the monster with a 2nd-level Chromatic Orb. Unfortunately, he rolls a 4 and misses with an 11.
-- Son uses Help on the monster again, admonishing that the monster "took his lunch". Has he wanted to eat [[Blake]] this whole time?
+- [[Son]] uses Help on the monster again, admonishing that the monster "took his lunch". Has he wanted to eat [[Blake]] this whole time?
 - [[The Collector]] hits the monster with a 25 on a 2nd-level Guiding Bolt which deals 19 radiant damage. This is enough to kill the monster!
 	- As he thinks about the monster about to eat his lost Rogue, he tears up while bringing about a ray of divine energy. He sends his Guiding Bolt between Sons legs to strike the monster directly in the skull, knocking it down for good. He wipes the tears from his eyes while nobody was looking.
 
@@ -157,7 +157,7 @@ Right before the session ends, [[Zrandovorski]] remembers that he took [*Gentle 
 
 ## Recap
 
-We return to the Reconstellators debating what to name their new blink dog, which Tilly is *fairly* certain is a girl. After some discussion, [[Tilly]] decides to name the pup BD (for whatever is funniest in the moment). The party settles in for the night and have a completely uneventful watch... until [[Zrandovorski]] notices they are surrounded by an ogre accompanied by many goblins, telling them their leader would like to see them.
+We return to the Reconstellators debating what to name their new blink dog, which Tilly is *fairly* certain is a girl. After some discussion, [[Tilly]] decides to name the pup [[BD]] (for whatever is funniest in the moment). The party settles in for the night and have a completely uneventful watch... until [[Zrandovorski]] notices they are surrounded by an ogre accompanied by many goblins, telling them their leader would like to see them.
 
 Having successfully failed at sleeping once again, The Reconstellators are escorted to [[The Hearth of Hope]] where they are introduced to [[Toran the Red]], an infamous name they had once heard in [[Draskhrr]]. She is interested in the party's recent anti-[[The Iron Fang|Iron Fang]] activity and has a request for them; to assassinate their leaders, [[Kaz the Cold|Kaz]] and [[Rykor Steelhand|Rykor]] so she can lead the goblins and give [[The Frozen March]] some peace.
 
