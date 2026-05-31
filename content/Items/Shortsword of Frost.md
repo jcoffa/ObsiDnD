@@ -12,4 +12,4 @@ created: 2026-03-01 00:40
 
 ---
 
-This [+1 shortsword](https://5e.tools/items.html#%2b1%20shortsword_xdmg) It deals Cold damage instead of the normal damage type of a shortsword. Regardless of the wielder's weapon proficiencies, they are considered proficient with shortswords while attuned to this weapon.
+This [+1 shortsword](https://5e.tools/items.html#%2b1%20shortsword_xdmg)  deals Cold damage instead of the normal damage type of a shortsword. Regardless of the wielder's weapon proficiencies, they are considered proficient with shortswords while attuned to this weapon.

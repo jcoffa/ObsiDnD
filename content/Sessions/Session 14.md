@@ -157,7 +157,7 @@ Right before the session ends, [[Zrandovorski]] remembers that he took [*Gentle 
 
 ## Recap
 
-We return to the Reconstellators debating what to name their new blink dog, which Tilly is *fairly* certain is a girl. After some discussion, [[Tilly]] decides to name the pup [[BD]] (for whatever is funniest in the moment). The party settles in for the night and have a completely uneventful watch... until [[Zrandovorski]] notices they are surrounded by an ogre accompanied by many goblins, telling them their leader would like to see them.
+We return to the Reconstellators debating what to name their new blink dog, which [[Tilly]] is *fairly* certain is a girl. After some discussion, [[Tilly]] decides to name the pup [[BD]] (for whatever is funniest in the moment). The party settles in for the night and have a completely uneventful watch... until [[Zrandovorski]] notices they are surrounded by an ogre accompanied by many goblins, telling them their leader would like to see them.
 
 Having successfully failed at sleeping once again, The Reconstellators are escorted to [[The Hearth of Hope]] where they are introduced to [[Toran the Red]], an infamous name they had once heard in [[Draskhrr]]. She is interested in the party's recent anti-[[The Iron Fang|Iron Fang]] activity and has a request for them; to assassinate their leaders, [[Kaz the Cold|Kaz]] and [[Rykor Steelhand|Rykor]] so she can lead the goblins and give [[The Frozen March]] some peace.
 

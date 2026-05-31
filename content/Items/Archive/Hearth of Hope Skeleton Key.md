@@ -7,7 +7,7 @@ created: 2026-05-01 18:30
 
 - **Type:** Mundane (Key)
 - **Source:** N/A
-- **Currently Carried By:** [[Toran the Red]] (not in the party's posession)
+- **Currently Carried By:** [[Toran the Red]] (not in the party's possession)
 - **Requires Attunement?** No
 
 ---

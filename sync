@@ -7,13 +7,22 @@ usage() {
     echo
     echo "OPTIONS:"
     echo "  --no-push           Don't push local changes after syncing with GitHub"
-    echo "  --no-pull           Don't try to pull potential new changes from GitHub before"
-    echo "                        before trying to push local changes"
-    echo "  --push-plugins      Commit and push local plugin configurations to GitHub"
-    echo "                        instead of overwriting local plugins with whatever GitHub has"
+    echo "  --no-pull           Don't pull potential new changes from GitHub before trying to push local changes"
+    echo "  --push-plugins      Commit and push local plugin configurations to GitHub instead of overwriting"
+    echo "                        local plugins with whatever GitHub has. YOU SHOULDN'T NEED TO DO THIS UNLESS"
+    echo "                        LOREMASTER TELLS YOU TO"
     echo '  -m "<message>"      Commit message (will be after the sync summary)'
     echo "  --dry-run           Don't actually do anything; just output the commands that would be performed"
     echo "  -h | --help         Display this message and exit"
+    echo
+    echo
+    echo "Terminology for the non-programmers:"
+    echo "  push = Take the changes you've made on your computer and send them to GitHub so that"
+    echo "         other people can see them. Every time you push to GitHub, the published site will"
+    echo "         also re-generate itself with your new changes after about 30 seconds."
+    echo
+    echo "  pull = Take the changes that other people have pushed to GitHub and copy them into the"
+    echo "         vault on your own computer."
 }
 
 has_autostash() {
@@ -69,11 +78,11 @@ echo "Syncing process:"
 echo "================"
 echo "- Backup local changes"
 if [[ $pull_changes -eq 0 ]]; then
-    echo "- Pull changes from the remote (GitHub)"
-    echo "- Incorporate local changes with new changes from the remote"
+    echo "- Pull new changes from GitHub"
+    echo "- Incorporate any local changes with the new changes from GitHub"
 fi
 if [[ $push_changes -eq 0 ]]; then
-    echo -n "- Push local changes to the remote"
+    echo -n "- Push local changes to GitHub"
     if [[ $push_plugins -eq 0 ]]; then
         echo -n " (including plugin configuration data)"
     fi
@@ -84,7 +93,11 @@ echo ""
 
 
 if [[ $push_plugins -ne 0 ]]; then
-    $dry git restore --staged --worktree -- content/.obsidian/plugins/
+    if [[ "$(git config get --global user.name)" == "Joseph Coffa" ]]; then
+        echo "OVERRIDE: Loremaster always pushes plugin configuration"
+    else
+        $dry git restore --staged --worktree -- content/.obsidian/plugins/
+    fi
 fi
 
 if [[ $pull_changes -eq 0 ]]; then
@@ -108,7 +121,7 @@ if [[ $pull_changes -eq 0 ]]; then
         >&2 echo "======================"
         >&2 echo "You may have gotten a merge conflict in the process of incorporating local changes."
         >&2 echo "If so, you will need to resolve these conflicts using normal git process."
-        >&2 echo "If you are a non-compsci user, ping Joseph in the group chat for help!"
+        >&2 echo "If you are a non-compsci user, ping The Loremaster in the group chat for help!"
         exit 1
     fi
 fi

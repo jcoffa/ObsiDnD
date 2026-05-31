@@ -7,7 +7,7 @@ created: 2026-03-01 00:38
 
 - **Type:** [Dagger](https://5e.tools/items.html#dagger_xphb)
 - **Source:** N/A
-- **Currently Carried By:** [[Blake]]
+- **Currently Carried By:** ??? (formerly [[Blake]], but they're dead now)
 - **Requires Attunement?** Yes?
 
 ---

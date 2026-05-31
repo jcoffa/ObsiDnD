@@ -117,7 +117,7 @@ Combat is now over as the man has died, and both the portal and his giant tentac
 - [[The Collector]] attempts to calm [[The Baby]] down, and Cameron *hilariously* asks to perform an Animal Handling check (which he succeeds on) and [[The Baby]] goes to sleep after being comforted.
 - [[Zrandovorski]] investigating the corpse, and finds a bag with an intricate face sewn on the outside of it.
 	- ++[[Bag of Holding]]
-- Exhausted after combat, the party takes a rest after dicking around with the bag of holding and pulling out a black emerald and a [[Soul Coin]] by correctly guessing some of its contents by ~~random chance~~ expert sleuthing and rigorous pattern analysis.
+- Exhausted after combat, the party takes a rest after dicking around with the [[bag of holding]] and pulling out a black emerald and a [[Soul Coin]] by correctly guessing some of its contents by ~~random chance~~ expert sleuthing and rigorous pattern analysis.
 - After feeling renewed from their rest, the party stands 60 feet away from [[Son]] who is instructed to turn the bag inside out so that it will spew its content into the snow. The party feared traps and monsters, but turns out it was just some normal items.
 	- Scroll of [*Hunger of Hadar*](https://5e.tools/spells.html#hunger%20of%20hadar_xphb) (now held by [[The Collector]])
 	- Scroll of [*Darkness*](https://5e.tools/spells.html#darkness_xphb)

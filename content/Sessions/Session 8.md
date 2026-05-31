@@ -32,7 +32,7 @@ created: 2026-02-27 18:45
 
 ## Notes
 
-### Saving Private Tilly
+### Saving Private [[Tilly]]
 
 - [[Tilly]] ends up falling into a small lake at the bottom of the hole, which opens up into a wide cavern. She doesn't really find anything down there, so the party thinks of how to get her out.
 - After using [[Son]] in bat form to get an extra 50 feet of rope from [[Tilly]] herself, [[NG]] is able to tie together enough rope to reach the 200 feet distance required to rescue her. After attaching it to a block and tackle, [[Garrison]] is able to pull [[Tilly]] up to rescue her from the cavern.

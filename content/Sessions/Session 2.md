@@ -70,7 +70,7 @@ created: 2026-01-16 18:38
 	- 17 Platinum
 	- An unidentified scroll, which he immediately goes inside the tavern to *Identify* (Disguise Self)
 	- A contract written in Undercommon, which none of us can understand
-- The creature reads [[Tilly]]'s mind and asks her why she thinks she will ever find her family. It says "They died like dogs in the wild. And you will too". Tilly smacks him with a *Shillelagh* for the comment.
+- The creature reads [[Tilly]]'s mind and asks her why she thinks she will ever find her family. It says "They died like dogs in the wild. And you will too". [[Tilly]] smacks him with a *Shillelagh* for the comment.
 - The Doppelganger is able to get up and leave after easily escaping its bonds. It warns the party not to follow or interrupt it, which they immediately do anyways of course.
 - [[Tilly]] uses *Starry Wisp* to get [[Zrandovorski]]'s attention from within the tavern, as the Doppelganger is kind of rocking their shit.
 - [[Garrison]] ends up non-lethally striking the monster so we can interrogate it; landing the final blow for the combat. He interrogates it to get the location of where his clan comes from, on the condition that he will be able to leave with his life. 

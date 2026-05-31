@@ -62,7 +62,7 @@ Combat begins, using the [[#The Flashback|initiative rolls from earlier]].
 - They see a plume of smoke off in the distance, and decide to head there as it means at least someone is there. Where there's smoke, there's fire. [[NG]] strikes up a torch and investigates the corpses of the guards who were escorting them in the cart, stealing their weapons, armour, and other possessions. After sorting out their gear, they set out for the smoke plume.
 - After an hour of travel, they crest a pile of snow and see [[Zrandovorski|a meditating Hobgoblin in a tent]]. After exchanging names, the Hobgoblin introduces himself as [[Zrandovorski]]. After a god-tier level visual gag involving a fakeout cooking pot that was actually a laundry pot. After some discussion, they agree to head out to the city together and make camp halfway there.
 - [[The Collector]] sees [[Zrandovorski]] setting up an Alarm spell around their camp, and asks if he is a Wizard and hands him 3 scrolls to be identified. The Hobgoblin agrees, knowing that he can copy any Wizard spells into his spellbook.
-- [[Tilly]] appears to be interested in the constellations, noticing that The Dryad is quite bright tonight. Her and [[Zrandovorski]] have a small chat, as he asks her if she knows what it means. Tilly replies that she thinks it means The Dryad is waiting for her.
+- [[Tilly]] appears to be interested in the constellations, noticing that The Dryad is quite bright tonight. Her and [[Zrandovorski]] have a small chat, as he asks her if she knows what it means. [[Tilly]] replies that she thinks it means The Dryad is waiting for her.
 - The 3 scrolls are:
 	- Arms of Hadar
 	- Alarm
