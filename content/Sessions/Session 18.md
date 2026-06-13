@@ -82,7 +82,7 @@ created: 2026-05-29 18:24
 ### End of Day 3/7
 
 - [[NG]], [[Kolvar]], and [[The Collector]] take first watch. They discuss the plan to [[Overthrow The Iron Fang]] and their uncertainty of its success. [[NG]] in particular is worried that they're "just replacing one tyrant with another" and not really changing anything.
-	- In a lighter conversation, they decide what to name [[The Baby]] after much debate and land on "Knull" to relate it to the constellation of the void.
+	- In a lighter conversation, they decide what to name [[The Baby]] after much debate and land on "Null" to relate it to the constellation of the void.
 - On their watch, [[Garrison]] immediately says that they should come up with a name for [[the baby]]. [[Zrandovorski]] confidently claims that they should name it ***HHGGUUUUKKK*** (like coughing up phlegm) as that is how you say "Snow" in Goblin. The party reluctantly agrees because that's hilarious.
 
 ### Baby Null HHGGUUUUKKK In [[Draskhrr]]

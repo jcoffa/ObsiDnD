@@ -7,5 +7,6 @@
   ],
   "textFontFamily": "",
   "monospaceFontFamily": "",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "showRibbon": true
 }
