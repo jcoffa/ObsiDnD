@@ -36,7 +36,7 @@ created: 2026-06-12 19:40
 
 >[!quote] Joseph
 >
->No, it wasn't my turn. The Blowjob Brothers get to jack each other off when one of them dies.
+>No, it wasn't my turn. [The Blowjob Brothers](https://x.com/dril/status/1464841223215083523) get to jack each other off when one of them dies.
 
 >[!quote] Dani and Cameron
 >
@@ -72,7 +72,12 @@ created: 2026-06-12 19:40
 
 >[!quote] [[The Collector|Linus Snabberknackle]]
 >
->Maybe we can put a quote of the speech here?
+>Attention civilians of [[Draskhrr]] I am - *(A slight hesitation as the Collector thinks back to father. Father telling him a name must remain secret a name must remain unknown.)* - I am [[The Collector|Linus Snabberknackle]], party member of The Reconstellators, a group of heroes containing the legendary oracle [[Zrandovorski]] and we are here to tell you, today is [[The Iron Fang]]'s final day. No longer will you live in fear of their boot.
+>
+>[[Rykor Steelhand|Rykor]]and [[Kaz the Cold|Kaz]] plan to send you all to your deaths. An assault on the wall brings your people right back to where you were. At war with a power you cannot defeat. Where you have struggled and fought to survive they have gained power and will stop at nothing until you're eradicated and gone. Make no mistake I am no friend to [[Utopia]], I am no fan of what they did to your people which is why we Reconstellators are here to change the fates.
+>
+>[[Rykor Steelhand|Rykor]], it is clear to me you care for your people. It is clear you love your home, even if it is a hell because I see the fight in you to bring change. You are not the first I have met to claim their home is hell, I am here to teach you home is not the place, it is the people. This is not the answer, you must see that this is suicide, you will lose and realize you are responsible for your people losing their home once again. If you still cannot accept that the Reconstellators are here to prove that just the 5 of us, can defeat you and [[Kaz the Cold|Kaz]]. Our small numbers are nothing to the power [[Utopia]] has cultivated. And if I am being honest, I do not want to see you dead. There is a fight coming, I can see it in the stars that change is coming for all of [[Teradin]] and I fear we will need protectors for those that cannot protect themselves. So I will give you this opportunity, will you yield and be a protector for your people or die at the hands of those that pity your decision making.
+^LinusSpeech
 
 - While [[The Collector]] fails to convince [[Rykor Steelhand|Rykor]], his message has touched the hearts of the people of [[Draskhrr]]. The Reconstellators present watch as the crowd beams at [[The Collector]], including the guards of [[The Iron Fang]].
 - As [[Rykor Steelhand|Rykor]]  unsheathes his sword to dispatch swift justice, his guards look *shocked*. They lower their weapons in disagreement, and [[Rykor Steelhand|Rykor]] yells "*SWINE!*" and goes to swing on one of them.
@@ -153,4 +158,30 @@ Cameron divulged that there was an original draft of [[Draskhrr]] where the Obsi
 
 ## Recap
 
-*What do you want to remember at the start of next session?*
+A momentous day is upon [[Draskhrr]] at the hands of The Reconstellators... who begin the session by debating their own plan for about half an hour. This proves to be a somewhat fruitful discussion to get everyone on the same page about what they need to do and when they need to do it, in order to close up as many holes as possible. No plan survives contact with the enemy, but a second of planning is never wasted.
+
+Here's a play-by-play of how it went down.
+
+1. [[Garrison]] and [[Zrandovorski]] stage a fight near [[Kaz the Cold|Kaz]]'s longhouse office with the intent to bring him out into the open street.
+2. [[Kolvar]], shape-changed into an [[The Iron Fang|Iron Fang]] guard, is able to get [[Kaz the Cold|Kaz]] out to look at the fight, just as The Reconstellators planned.
+3. Back at [[The Everburning Chalice]], a crowd gathers around [[The Collector]] - I mean - [[The Collector|Linus Snabberknackle]] as he unleashes [[#^LinusSpeech|a truly inspiring speech]] to bring the citizens of [[Draskhrr]] onto their side. Proving that big things come in small sizes, he has the courage to do all of this in front of (and partially directed straight to) [[Rykor Steelhand]]; the military strategist of [[The Iron Fang]]. It's a truly inspiring speech, and the citizens begin cheering for The Reconstellators, but [[Rykor Steelhand|Rykor]] is just barely unconvinced.
+4. [[Rykor Steelhand|Rykor]], unable and unwilling to control his fury at what has occurred, unsheathes his sword to swing at his own men who have laid down their swords following the speech. The Reconstellators will allow no unnecessary bloodshed at the hands of tyrants, and [[Tilly]] thinks (and runs) quickly to cast *Barkskin* on the [[The Iron Fang|Iron Fang]] guard. [[Rykor Steelhand|Rykor]] strike bounces harmlessly off his target's hardened skin, and he is abandoned to rage by himself as [[The Collector|Linus Snabberknackle]] and [[Tilly]] lead the chanting civilians out of [[The Everburning Chalice]] and towards the longhouse.
+5. Back at the longhouse, [[Kaz the Cold]] taunts [[Zrandovorski]] for "betraying his family and [[The Frozen March|The March]]", and attempts to cast *Hold Person* on him while his guards move in to seize the betrayer. [[Kolvar]], still in their perfect disguise, is the one to grab him in combination with [[NG]] who has just arrived.
+6. [[Zrandovorski]], despite looking like he's in a rough position, spares no expense to put [[Kaz the Cold]] and [[The Iron Fang]] in their place. He fires back at [[Kaz the Cold|Kaz]]'s initial taunts, scolding him for so quickly turning to risky military maneuvers to escape [[The Frozen March]], knowing full well that it's merely a convenient way to amass military power.
+7. In the distance, a crowd is charging towards the longhouse. [[Garrison]], [[Zrandovorski]], [[Kolvar]], and [[NG]] have stalled long enough for [[Tilly]] and [[The Collector|Linus Snabberknackle]] to bring over the crowd of [[Draskhrr]] citizens. The people "seizing [[Zrandovorski]] the betrayer" let him go, and The Reconstellators face off against [[Kaz the Cold]] and [[Rykor Steelhand|Rykor]] who has caught up with them.
+8. [[NG]] starts the most important fight of the campaign by shouting "Countrymen! To Arms Against the Tyrants!" (or something like that, I don't know if Loremaster wrote it down exactly right)
+9. The battle is bloody. [[Kaz the Cold]] is a powerful wielder of Ice Booyagh to control the battlefield with blizzards and ice shards, even going so far as to hit some bystanders in the process. There's a lot that went on here but some highlights include:
+	1.  [[Tilly]] 1-v-1s [[Rykor Steelhand|Rykor]] and almost kills him on her own for the first 2 rounds by casting *Heat Metal* on his steel arm attachment (which [[Rykor Steelhand|Rykor]] is incapable of removing on his own mid-combat).
+	2. [[The Collector|Linus Snabberknackle]] and [[Zrandovorski]] ecstatic that their plans actually worked.
+	3. [[Son]] enters an intense debate with himself on whether to blow himself up for no reason throughout the entire combat.
+	4. [[Garrison]] absolutely thashes [[Kaz the Cold]] with 2 *Divine Smites* over the course of the fight. He deals a total of 47 damage to [[Kaz the Cold|Kaz]] by himself.
+	5. [[Kaz the Cold]] is so pissed off when he dies that he decides to blow himself up with Booyagh instead.
+	6. [[NG]] lands the killing blow against [[Rykor Steelhand|Rykor]] with a 6 damage *Firebolt* cantrip, having been brought very low by [[Tilly]]'s repeated *Heat Metal* triggers and a lucky double-hit from [[Zrandovorski]]'s *Chromatic Orb*.
+
+Their plan successful, The Reconstellators and the citizens of [[Draskhrr]] rejoice back at [[The Everburning Chalice]] with a new  lease on life, and a fresh perspective on their situation in [[The Frozen March]]. After waking up super hungover, The Reconstellators waste no time to check what's in the spooky basement of the longhouse that [[Garrison]] had found earlier in the week. What they find is a gruesome sight; a *very* well-preserved body of the Marquis of [[The Frozen March]] is sitting upright on the ground, a few feet away from almost 900 GP worth of taxpayer dollars. [[Zrandovorski]] discovers that he is preserved by an amulet around his neck, and it will allow them to cast *Speak With Dead* on the body for free once every 10 days.
+
+The party debates what to ask him, and [[NG]] comes up with the genius idea to ask the Marquis what the last 5 questions he was asked were. This essentially gives the party what [[Kaz the Cold]] had most recently asked him. All 5 questions were about [[Zrandovorski]] and his family, which is a bit unsettling.
+
+They end up discovering that the Marquis was a [[Utopia]] sympathizer planted in [[The Frozen March]] by the [[Utopia|Utopian]] royalty where he would spy on their behalf. [[Kaz the Cold]] and [[Rykor Steelhand]] killed him after finding this out, and began making plans to rebel against [[Utopia]]; ultimately landing on their notorious plot to break through the southern gates. Additionally, they learn that [[Zrandovorski]]'s family crest (along with many other former goblin house crests) are being held in the castle rebuilt on their ancestral homeland; the main keep of [[Utopia]].
+
+[[#Brodie's Prediction|Also, Brodie thought Kaz might have been a dragon.]]

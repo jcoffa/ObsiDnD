@@ -5,7 +5,8 @@ created: 2026-04-17 21:16
 
 #  [[Overthrow The Iron Fang]]
 
-- **Status:** #ongoing
+- **Status:** #completed 
+	- [[Session 19#Countrymen! To Arms Against The Tyrants!]]
 - **Given by:** [[Toran the Red]] in [[The Hearth of Hope]]
 - **Location:** [[Draskhrr]]
 - **Reward(s):** Loyalty from [[Toran the Red]] and her followers. Potentially the might of [[The Iron Fang]].
