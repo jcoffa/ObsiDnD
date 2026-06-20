@@ -2,22 +2,25 @@
   "mapMarkers": [
     {
       "id": "Teradin",
-      "lastAccessed": 1770158949940,
+      "lastAccessed": 1781923552236,
       "markers": [
         {
           "id": "ID_19eb5848797a",
           "type": "default",
           "loc": [
-            1089.0625,
-            843
+            1071.2667734976194,
+            878.9337290148785
           ],
           "layer": "%5B%5BTeradin.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.48293062033784534,
+            -0.7619251589599
+          ],
           "description": "Utopia",
           "minZoom": 0,
-          "maxZoom": null,
+          "maxZoom": -0.5,
           "tooltip": "always"
         },
         {
@@ -41,17 +44,54 @@
           "id": "ID_08493bab7bb9",
           "type": "default",
           "loc": [
-            1275.25,
-            983.9388216273816
+            1246,
+            1032.0296154764746
           ],
           "link": "The Frozen March",
+          "layer": "%5B%5BTeradin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5670492392727883,
+            -0.8862019914651493
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": -0.5,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_2908aae8aa79",
+          "type": "default",
+          "loc": [
+            1089.8125,
+            841.5257114511951
+          ],
+          "link": "Utopia",
           "layer": "%5B%5BTeradin.webp%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
           "description": null,
           "minZoom": null,
-          "maxZoom": -0.5,
+          "maxZoom": 0,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_aa5aa92b7b0a",
+          "type": "default",
+          "loc": [
+            689.4375,
+            1275.5
+          ],
+          "link": "The Scar of the Plane",
+          "layer": "%5B%5BTeradin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
           "tooltip": "always"
         }
       ],
@@ -63,7 +103,7 @@
     },
     {
       "id": "TheFrozenMarch",
-      "lastAccessed": 1776574825892,
+      "lastAccessed": 1781923555710,
       "markers": [
         {
           "id": "ID_1a69dad909ba",
@@ -165,11 +205,47 @@
           "minZoom": 0,
           "maxZoom": null,
           "tooltip": "always"
+        },
+        {
+          "id": "ID_98ca19c84a29",
+          "type": "default",
+          "loc": [
+            154.6171875,
+            293.99751979570465
+          ],
+          "link": "The Stony Veil",
+          "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Suspected to be connected to the elemental plane of earth, and is rumoured to contain a ton of gems.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bbaadb1b4bc8",
+          "type": "default",
+          "loc": [
+            191.1171875,
+            173.51489041171394
+          ],
+          "link": "? Star Marking ?",
+          "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The Iron Fang has marked this location with a star.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
-      "files": []
+      "files": [
+        "Places/The Frozen March.md"
+      ]
     }
   ],
   "defaultMarker": {

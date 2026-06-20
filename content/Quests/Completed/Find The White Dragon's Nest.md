@@ -5,7 +5,8 @@ created: 2026-01-23 15:16
 
 #  [[Find The White Dragon's Nest]]
 
-- **Status:** #pending
+- **Status:** #completed
+	- [[Session 18#On the Road Again]]
 - **Given by:** Theresa, at The Everburning Chalice in [[Draskhrr]]
 - **Location:** [[Sole Mountains]]
 - **Reward(s):** Whatever we find there

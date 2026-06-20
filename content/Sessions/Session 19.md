@@ -126,6 +126,7 @@ created: 2026-06-12 19:40
 	- He follow this up with asking [[Tilly]] what she thinks about delivering bodies to [[The Lady of the White]]. She says she doesn't really care and feels she has no reason to doubt the hag's intentions.
 - The party wakes up the next morning pretty hungover. As their first order of business, they decide to investigate the basement of the longhouse.
 - [[Zrandovorski]] uses *Detect Magic* and finds that there's necromantic magic in the sketchy basement that [[Garrison]] found the last time he was here. They send [[Son]] in to scope it out, and he finds a corpse in *very* good condition wearing a sketchy necklace. [[Zrandovorski]] recognizes this is the Marquis who founded [[Draskhrr]] and went missing 5-8 years ago.
+- Also there is a mound of 896 GP of taxpayer dollars.
 - The corpse's eyes glow red along with the hobgoblin face carved into the necklace, and it tells the party that they have 5 questions. It seems like the necklace preserves the corpse and allows *Speak With Dead* to be cast on it automatically.
 - The party decides on which questions to ask the Marquis.
 
@@ -174,7 +175,7 @@ Here's a play-by-play of how it went down.
 	1.  [[Tilly]] 1-v-1s [[Rykor Steelhand|Rykor]] and almost kills him on her own for the first 2 rounds by casting *Heat Metal* on his steel arm attachment (which [[Rykor Steelhand|Rykor]] is incapable of removing on his own mid-combat).
 	2. [[The Collector|Linus Snabberknackle]] and [[Zrandovorski]] ecstatic that their plans actually worked.
 	3. [[Son]] enters an intense debate with himself on whether to blow himself up for no reason throughout the entire combat.
-	4. [[Garrison]] absolutely thashes [[Kaz the Cold]] with 2 *Divine Smites* over the course of the fight. He deals a total of 47 damage to [[Kaz the Cold|Kaz]] by himself.
+	4. [[Garrison]] absolutely thrashes [[Kaz the Cold]] with 2 *Divine Smites* over the course of the fight. He deals a total of 47 damage to [[Kaz the Cold|Kaz]] by himself.
 	5. [[Kaz the Cold]] is so pissed off when he dies that he decides to blow himself up with Booyagh instead.
 	6. [[NG]] lands the killing blow against [[Rykor Steelhand|Rykor]] with a 6 damage *Firebolt* cantrip, having been brought very low by [[Tilly]]'s repeated *Heat Metal* triggers and a lucky double-hit from [[Zrandovorski]]'s *Chromatic Orb*.
 
@@ -182,6 +183,6 @@ Their plan successful, The Reconstellators and the citizens of [[Draskhrr]] rejo
 
 The party debates what to ask him, and [[NG]] comes up with the genius idea to ask the Marquis what the last 5 questions he was asked were. This essentially gives the party what [[Kaz the Cold]] had most recently asked him. All 5 questions were about [[Zrandovorski]] and his family, which is a bit unsettling.
 
-They end up discovering that the Marquis was a [[Utopia]] sympathizer planted in [[The Frozen March]] by the [[Utopia|Utopian]] royalty where he would spy on their behalf. [[Kaz the Cold]] and [[Rykor Steelhand]] killed him after finding this out, and began making plans to rebel against [[Utopia]]; ultimately landing on their notorious plot to break through the southern gates. Additionally, they learn that [[Zrandovorski]]'s family crest (along with many other former goblin house crests) are being held in the castle rebuilt on their ancestral homeland; the main keep of [[Utopia]].
+They end up discovering that the Marquis was a [[Utopia]] sympathizer planted in [[The Frozen March]] by the [[Utopia|Utopian]] royalty where he would spy on their behalf. [[Kaz the Cold]] and [[Rykor Steelhand]] killed him after finding this out, and began making plans to rebel against [[Utopia]]; ultimately landing on their notorious plot to break through the southern gates. Additionally, they learn that [[Zrandovorski]]'s family crest (along with many other former goblin house crests) are being held in the castle rebuilt on their ancestral homeland; one of the keeps in [[Utopia]].
 
 [[#Brodie's Prediction|Also, Brodie thought Kaz might have been a dragon.]]
