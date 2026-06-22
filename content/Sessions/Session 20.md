@@ -114,7 +114,7 @@ created: 2026-06-19 18:26
 - The party discusses their long-term goals after they leave [[The Frozen March]].
 	- ==Thanks for putting them here Dani haha! :D==
 
-The party gains 175 XP for a total of 5,750 XP!
+The party gains 175 XP for a total of 5,755 XP!
 
 ## Recap
 
