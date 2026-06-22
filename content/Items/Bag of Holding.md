@@ -12,7 +12,7 @@ created: 2026-05-08 22:27
 
 ---
 
-A patchy leather bag with a face sewn into it. This was [[Session 17#The Party Lives!|taken from the corpse of a Larizadune cultist]] who tried to kill The Reconstellators.
+A patchy leather bag with a face sewn into it. This was [[Session 17#The Party Lives!|taken from the corpse of a Larizadune cultist]] who tried to kill The Reconstellators. The black emerald and topmost spell scrolls were already in the bag when they received it.
 
 ## Contents
 

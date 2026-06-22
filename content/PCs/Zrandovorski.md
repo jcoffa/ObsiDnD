@@ -32,7 +32,7 @@ Every **Long Rest**, roll 2d20 and replace the numbers that are here with those 
 - **Spell Save DC:** 14
 - **Spell Slots (Used/Total):**
 	1. 1/4
-		- Usually begins the day with 1 used due to Mage Armour
+		- Usually begins the day with 1 used due to *[Mage Armour](https://5e.tools/spells.html#mage%20armor_xphb)*.
 	2. 0/2
 - [ ] **Used free [*Shield*](https://5e.tools/spells.html#shield_xphb) spell from [Magic Initiate](https://5e.tools/feats.html#magic%20initiate_xphb)?**
 

@@ -20,7 +20,7 @@ While worn, it grants a -1 penalty to all attack rolls, ability checks, and savi
 - [Hunger of Hadar](https://5e.tools/spells.html#hunger%20of%20hadar_xphb) (1 cast per Long Rest)
 - [Animate Dead](https://5e.tools/spells.html#animate%20dead_xphb) (1 cast per Long Rest)
 
-Any location you sleep while wearing the amulet becomes desecrated. Finally, it's a key component of a ritual to commune with a higher being in [[The Far Realm]].
+Any area you sleep on while wearing the amulet becomes desecrated. Finally, it's a key component of a ritual to commune with a higher being in [[The Far Realm]].
 
 >[!warning] Desecrated Ground
 >

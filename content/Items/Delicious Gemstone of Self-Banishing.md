@@ -12,4 +12,4 @@ created: 2026-03-07 15:18
 
 ---
 
-A fist-sized ruby gemstone worth about 500 GP. If a creature consumed the gemstone whole, they can cast the [*Banishment*](https://5e.tools/spells.html#banishment_xphb) spell on themselves.
+A fist-sized ruby gemstone worth about 500 GP. If a creature consumes the gemstone whole, they can cast the [*Banishment*](https://5e.tools/spells.html#banishment_xphb) spell on themselves.
