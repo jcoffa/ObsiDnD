@@ -34,7 +34,7 @@ created: 2026-06-12 19:40
 >
 >[[Son]]: What?
 
->[!quote] Garrison
+>[!quote] [[Garrison]]
 >
 >No, my phlegm dispensers!
 

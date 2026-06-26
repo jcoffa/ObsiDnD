@@ -37,7 +37,7 @@ created: 2026-06-19 18:26
 >
 >Taxidermist is the skin on the taxi.
 
->[!quote] Son
+>[!quote] [[Son]]
 >
 >It's like having a safe word; we don't know what it is but we'll know it when we hear it!
 
@@ -71,7 +71,7 @@ created: 2026-06-19 18:26
 
 ### Exploring the Rest of the Longhouse
 
-- The Reconstellators 
+- The Reconstellators, still a bit unsettled with finding [[Session 19#Speak With Dead Marquis|the preserved corpse of the Marquis in the longhouse basement]], decide to continue searching their new residence in less... morbid areas.
 - The map of [[The Frozen March]] is built into the war table, so it can't be carried with the party. A few differences are added to the map [[The Frozen March|that note]], including a star, a mountain linked to the Earthen Elemental plane, and a lumberyard near [[The Hearth of Hope]] is identified as not being controlled by either the goblins or [[The Hearth of Hope]].
 - [[Kaz the Cold]] had a coinpurse with 100 GP in it, and a scroll of *Ice Storm*.
 	- [[Zrandovorski]] also finds a carving on the side of [[Kaz the Cold]]'s side table. Scratched in with a knife or dagger, is the phrase *"Gobbo was here"*.
@@ -80,7 +80,7 @@ created: 2026-06-19 18:26
 ### The Prison
 
 - A bugbear, Warden Stefan, is guarding the entrance. He says that everyone in the jail are spies for [[Utopia]].
-- The Reconstellators figure out a Good Cop/Bad Cop routine that involves all of them.
+- The Reconstellators figure out a Good Cop/Bad Cop routine that can somehow involve all six of them.
 	- [[Tilly]]: Good Cop, a.k.a. Raven
 	- [[NG]]: Bad Cop who is old, a.k.a. Crow
 	- [[Zrandovorski]]: Dad Cop, a.k.a. Owl
@@ -146,7 +146,7 @@ created: 2026-06-19 18:26
 ### Where Do You See Yourself In 5 Years?
 
 - The party discusses their long-term goals after they leave [[The Frozen March]].
-	- [[Tilly]] would like to find the other Kalashtar at the scar of the plane she saw in [[Session 16#Tilly 's Trance, Again|her vision]], show the party her home in The Hexes and find out what happened to her parents.
+	- [[Tilly]] would like to find the other Kalashtar at the scar of the plane she saw in [[Session 16#Tilly 's Trance, Again|her vision]], show the party her home in The Hexes, and find out what happened to her parents.
 	- [[Zrandovorski]] would like to visit [[Session 16#Zrandovorski 's Trance|his old home in the Utopian Empire]], but isn't confident they could go there right away after escaping [[The Frozen March]].
 	- [[The Collector]] wants to figure out his mission from [[Larizadune]], and open his museum ~~which may or may not involve overthrowing the [[Utopia|The Utopian Empire]].~~
 	- [[NG]] wants to return to his factory and cleanse it of the mycelium infection.
@@ -159,4 +159,5 @@ The party gains 175 XP for a total of 5,775 XP!
 *What do you want to remember at the start of next session?*
 
 TODO:
+
 - Get 50 GP of ruby dust for [[Tilly]] to cast *Continual Flame* on the walls of [[Draskhrr]]
