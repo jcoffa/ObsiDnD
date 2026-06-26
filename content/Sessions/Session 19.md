@@ -22,6 +22,10 @@ created: 2026-06-12 19:40
 
 ## Quotes
 
+>[!quote] Thomas
+>
+>I can't wait to hit up the Coca-cloaca.
+
 >[!quote] Is he cooking or cooked? You decide.
 >
 >[[Son]]: Okay. So. I'm going to take [[Gunpowder Bomb|this bomb]]. And then blow it up.
@@ -29,6 +33,10 @@ created: 2026-06-12 19:40
 >[[NG]]: And then?
 >
 >[[Son]]: What?
+
+>[!quote] Garrison
+>
+>No, my phlegm dispensers!
 
 >[!quote] [[NG]] to [[Kaz the Cold]]
 >

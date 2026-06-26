@@ -21,13 +21,47 @@ created: 2026-06-19 18:26
 
 ## Quotes
 
+>[!quote] Cameron
+>
+>Lawn clippings was at least palatable.
+
+>[!quote] Doctors don't want you to know!
+>
+>The sun must penetrate your body to activate the D in you.
+
 >[!quote] Thomas
 >
 >Get that toddler a pickaxe and a Molson!
 
+>[!quote] Thomas
+>
+>Taxidermist is the skin on the taxi.
+
+>[!quote] Son
+>
+>It's like having a safe word; we don't know what it is but we'll know it when we hear it!
+
+>[!quote] Not the phlegm dispensers!
+>
+>[[Zrandovorski]]: He can't clog his throat and it's making him grumpy.
+>
+> [[Garrison]]: Guys, I NEED TO CLOG MY THROAT.
+
 >[!quote] [[NG]]
 >
 >If not Sir or Miss, then... Swiss.
+
+>[!quote] The best defense against a gun is a bigger gun
+>
+>[[Zrandovorski]]: Gun violence will be off the charts!
+>
+>[[The Collector]]: DUH.
+
+>[!quote] The DnD-fice
+>
+>Dani: I'm Jim-ing the camera, you're the camera.
+>
+>Cameron: You're Jim-ing the Cameron.
 
 >[!quote] [[Garrison]] to [[The Collector]]
 >
@@ -71,7 +105,7 @@ created: 2026-06-19 18:26
 - [[Tilly]] enlists [[NG]] and [[Grit Coalbelly]] to help her gild an acorn (an expensive spell component for *Summon Beast*). She also melted some of the snow to reveal the roads underneath the snow. Turns out there's a complex network of inter-woven stonework covered with fossilized moss.
 - [[The Collector]] and [[Zrandovorski]] have a joint venture where they hold.
 	- Some goblin asks for "more bacon".
-	- [[NG]] and [[Garrison]] ask for 
+	- [[NG]] and [[Garrison]] ask for regular oil changes. [[Zrandovorski]] asks what needs them, and they immediately flee.
 	- A goblin guard, named Dezi, has a proposal. He says that [[Utopia]] is very militarist and greedy, and some people still want to leave [[The Frozen March]]. He proposes that an excursion go to [[The Stony Veil]] to get gems and use them to barter with [[Utopia]] to let some people out. [[The Collector]] and [[Zrandovorski]] are uncertain that [[Utopia]] would hold up their end of the hypothetical bargain.
 	- [[Tilly]] suggests casting *Continual Flame* on the walls around [[Draskhrr]] to provide light, make it easy to find from far away (for travelers), and scare the shit out of potential invaders.
 	- A group of goblins ask for every goblin in [[Draskhrr]] to be given both a personal gun and a personal cannon.
@@ -94,7 +128,7 @@ created: 2026-06-19 18:26
 	- *You may not remember doing it. Would you like to see?*
 	- [[The Collector]]: "... I do".
 		- The constellation that [[The Baby]] was pointing at grows, and now [[The Collector]] finds himself standing above his fallen Father, on his deathbed. He reflects; *I don't think I had these abilities before Father died. I knew cantrips and basics, but not magic like this.*
-		- He recalls the moments where Father was able to bring him back from the dead. He begs and pleads in his mind, can anyone help, can anything save my Father like he saved me? And then he felt it, for the first time. The presence of a Celestial. But, he was not strong enough at this time to save him.
+		- He recalls the moments where Father was able to bring him back from the dead. He begs and pleads in his mind, can anyone help, can anything save my Father like he saved me? "Please, let me carry on his legacy, don't let me lose him." And then he felt it, for the first time. The presence of a Celestial. But, he was not strong enough at this time to save him.
 	- *You will carry on your Father's mission. You will do as he willed, and I will bring him back for you.*
 	- [[The Collector]]: "But why?"
 	- *Because you asked.*
@@ -112,9 +146,13 @@ created: 2026-06-19 18:26
 ### Where Do You See Yourself In 5 Years?
 
 - The party discusses their long-term goals after they leave [[The Frozen March]].
-	- ==Thanks for putting them here Dani haha! :D==
+	- [[Tilly]] would like to find the other Kalashtar at the scar of the plane she saw in [[Session 16#Tilly 's Trance, Again|her vision]], show the party her home in The Hexes and find out what happened to her parents.
+	- [[Zrandovorski]] would like to visit [[Session 16#Zrandovorski 's Trance|his old home in the Utopian Empire]], but isn't confident they could go there right away after escaping [[The Frozen March]].
+	- [[The Collector]] wants to figure out his mission from [[Larizadune]], and open his museum ~~which may or may not involve overthrowing the [[Utopia|The Utopian Empire]].~~
+	- [[NG]] wants to return to his factory and cleanse it of the mycelium infection.
+	- [[Garrison]] wants to find out who did this to the factory and figure out the spore situation. [[NG]] proposes he could also find [[Session 16#Garrison 's Trance|his creator]], which isn't off the table but not a priority.
 
-The party gains 175 XP for a total of 5,755 XP!
+The party gains 175 XP for a total of 5,775 XP!
 
 ## Recap
 
