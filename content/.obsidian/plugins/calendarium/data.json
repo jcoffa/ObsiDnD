@@ -221,7 +221,7 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 26,
+        "day": 29,
         "month": 5,
         "year": 133
       },
@@ -576,6 +576,40 @@
           },
           "id": "ID_18597afa0b59",
           "note": "Sessions/Session 19.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Draskhrr is peacefully handed over to Toran the Red",
+          "description": null,
+          "date": {
+            "day": 26,
+            "month": 5,
+            "year": 133
+          },
+          "id": "ID_f85beb79fbc8",
+          "note": "Sessions/Session 21.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Reconstellators arrive at The Stony Veil",
+          "description": null,
+          "date": {
+            "day": 29,
+            "month": 5,
+            "year": 133
+          },
+          "id": "ID_8a48e84b499b",
+          "note": "Sessions/Session 21.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,

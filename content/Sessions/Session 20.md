@@ -103,7 +103,7 @@ created: 2026-06-19 18:26
 - The party does a little 20 minute detour to [[The Everburning Chalice]] to speak with Theresa about [[The Baby]]. Theresa is really not into taking care of it. But she calls over one of the cooks, a Kenku named Arvind, who has lost a child recently and seems receptive to taking care of him. [[The Collector]] is not sure he's ready to part with [[The Baby]] just yet, so he keeps him for now.
 - [[Garrison]]'s training goes decently well! He rolls an Athletic and a Performance check for each week. The first week is a measly Athletics check but a pretty good Performance check. More of a "do as I say not as I do" sort of deal. For the second week he rolls an incredible Athletics check and a subpar Performance check, so he mostly just beats up goblins during sparring. Overall, lots of the goblins do feel more confident in battle. So we call that a success!
 - [[Tilly]] enlists [[NG]] and [[Grit Coalbelly]] to help her gild an acorn (an expensive spell component for *Summon Beast*). She also melted some of the snow to reveal the roads underneath the snow. Turns out there's a complex network of inter-woven stonework covered with fossilized moss.
-- [[The Collector]] and [[Zrandovorski]] have a joint venture where they hold.
+- [[The Collector]] and [[Zrandovorski]] have a joint venture where they hold a public forum to solicit requests from the populous of [[Draskhrr]] for things they're looking for and ways to improve the city.
 	- Some goblin asks for "more bacon".
 	- [[NG]] and [[Garrison]] ask for regular oil changes. [[Zrandovorski]] asks what needs them, and they immediately flee.
 	- A goblin guard, named Dezi, has a proposal. He says that [[Utopia]] is very militarist and greedy, and some people still want to leave [[The Frozen March]]. He proposes that an excursion go to [[The Stony Veil]] to get gems and use them to barter with [[Utopia]] to let some people out. [[The Collector]] and [[Zrandovorski]] are uncertain that [[Utopia]] would hold up their end of the hypothetical bargain.
@@ -148,7 +148,7 @@ created: 2026-06-19 18:26
 - The party discusses their long-term goals after they leave [[The Frozen March]].
 	- [[Tilly]] would like to find the other Kalashtar at the scar of the plane she saw in [[Session 16#Tilly 's Trance, Again|her vision]], show the party her home in The Hexes, and find out what happened to her parents.
 	- [[Zrandovorski]] would like to visit [[Session 16#Zrandovorski 's Trance|his old home in the Utopian Empire]], but isn't confident they could go there right away after escaping [[The Frozen March]].
-	- [[The Collector]] wants to figure out his mission from [[Larizadune]], and open his museum ~~which may or may not involve overthrowing the [[Utopia|The Utopian Empire]].~~
+	- [[The Collector]] wants to figure out his mission from [[Larizadune]], and open his museum ~~which may or may not involve overthrowing the [[Utopia|The Utopian Empire]]~~.
 	- [[NG]] wants to return to his factory and cleanse it of the mycelium infection.
 	- [[Garrison]] wants to find out who did this to the factory and figure out the spore situation. [[NG]] proposes he could also find [[Session 16#Garrison 's Trance|his creator]], which isn't off the table but not a priority.
 
@@ -156,7 +156,18 @@ The party gains 175 XP for a total of 5,775 XP!
 
 ## Recap
 
-*What do you want to remember at the start of next session?*
+The Reconstellators, having now liberated The People's Democratic Republic of [[Draskhrr]] from its tyrannical overlords, debate whether to also liberate its taxes into their coinpurses. They instead investigate the former room of [[Kaz the Cold]] and liberate *his* personal funds into their coinpurses. The rest of the room is unremarkable, including a strange carving into his nightstand *"Gobbo was here"* (whoever that is).
+
+Afterwards they go to the prison to see if there are any spies for [[Utopia]]. They interrogate the oldest guy there, give him a bedroll, and leave without bothering to talk to anybody else. There's still 2 weeks left until [[Toran the Red|Toran]] makes it to [[Draskhrr]], so there's plenty of time for the party to ~~fuck around~~ perform well-thought out downtime activities.
+
+- [[Garrison]] trains the populous how to defend themselves.
+- [[NG]] gets [[Tilly]] and [[Grit Coalbelly]] to help him forge a flintlock pistol. He ends up being able to enchant it into a +1 pistol. This is quite an incredible achievement, since the knowledge of artificing magic items has been lost to the sands of time.
+- [[Tilly]] gets [[NG]] and [[Grit Coalbelly]] to help her gild an acorn using [[Find Dead Bodies for The Lady of the White|Hag platinum]], and uses *Flaming Sphere* to clear the roads of [[Draskhrr]]. Oddly, there are intricate cobblestone pathways covered in fossilized moss. Why would there be moss in an entire region perpetually covered in intense blizzards and snow?
+- [[The Collector]] and [[Zrandovorski]] implement a democratic forum to solicit requests from the citizens to improve their lives.
+	- [[Tilly]] suggests lighting the walls of [[Draskhrr]] on fire with *Continual Flame*, which is kind of genius.
+	- [[NG]] and [[Garrison]] ask for guns for everyone. They cannot articulate a reason why.
+
+During all of this, The Reconstellators debate what to do with [[The Baby]]. They see if Theresa will take it, but she is not into taking care of a baby. Instead, one of her cooks, a kenku with a heart of gold, is interested but [[The Collector]] is unwilling to part with [[The Baby]]. He holds a seance in the dark and [[The Baby]] stops time to lead [[The Collector]] outside of [[The Everburning Chalice]]. Outside, he meets an eldritch entity descending from the stars. Turns out this is Hadar (or [[Larizadune]]; apparently they're the same guy???) is the Patron of [[The Collector]]'s Father. In return for power, he was given a mission that he could not complete before his death. This means it's now [[The Collector]]'s responsibility to uphold his Father's end of the bargain. After this, The Reconstellators decide they may need to keep the baby.
 
 TODO:
 
