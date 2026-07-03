@@ -22,6 +22,14 @@ created: 2026-06-26 19:23
 
 ## Quotes
 
+>[!quote] Thomas
+>
+>It's got that initial Shrek juice, *Shrek juice is bad*.
+
+>[!quote] Dani
+>
+>What soul? I'm a woman.
+
 >[!quote] [[NG]] after the Marquis turns into a pile of dust.
 >
 >Hey! I'll go get a dustpan!
@@ -56,11 +64,21 @@ created: 2026-06-26 19:23
 >
 >[[NG]]: For fuck's sake.
 
+>[!quote] Joseph
+>
+>I would never want to dead name a magic item!
+
 >[!quote] [[Session 20#Quotes|Good callback]]
 >
 >Joseph: Oh, can you make like a "Prospector's Kit" or something?
 >
 >Dani: He doesn't need one, he has an indentured servant and a Molson.
+
+>[!quote] The Return of the Phlegm
+>
+>[[Zrandovorski]]: Holy shit, you got hit so hard the phlegm receptors came back online!
+>
+>[[NG]]: I've been trying to teach him the benefits of percussive maintenance for decades.
 
 ## Notes
 
@@ -70,7 +88,7 @@ created: 2026-06-26 19:23
 
 - [[Kolvar]] spends their downtime while waiting for [[Toran the Red|Toran]] talking to people in [[The Everburning Chalice]] and eavesdropping on their conversations.
 - They roll an 11 for Deception (with advantage) and fail to increase their skill bonus. However, the next time they attempt this they will receive a bonus to the roll.
-- They don't have any particular goals when they leave [[The Frozen March]]. They plan to stick with the party 
+- They don't have any particular goals when they leave [[The Frozen March]]. They plan to stick with the party since they go to cool places and are fun to be around. 
 
 ### Talking Heads
 
