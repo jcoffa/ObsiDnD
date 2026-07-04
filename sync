@@ -6,14 +6,14 @@ usage() {
     echo "Usage: $BASENAME [OPTION...]"
     echo
     echo "OPTIONS:"
-    echo "  --no-push           Don't push local changes after syncing with GitHub"
-    echo "  --no-pull           Don't pull potential new changes from GitHub before trying to push local changes"
-    echo "  --push-plugins      Commit and push local plugin configurations to GitHub instead of overwriting"
-    echo "                        local plugins with whatever GitHub has. YOU SHOULDN'T NEED TO DO THIS UNLESS"
-    echo "                        LOREMASTER TELLS YOU TO"
-    echo '  -m "<message>"      Commit message (will be after the sync summary)'
-    echo "  --dry-run           Don't actually do anything; just output the commands that would be performed"
-    echo "  -h | --help         Display this message and exit"
+    echo "  --no-push                   Don't push local changes after syncing with GitHub"
+    echo "  --no-pull                   Don't pull potential new changes from GitHub before trying to push local changes"
+    echo "  --push-plugins              Commit and push local plugin configurations to GitHub instead of overwriting"
+    echo "                                local plugins with whatever GitHub has. YOU SHOULDN'T NEED TO DO THIS UNLESS"
+    echo "                                LOREMASTER TELLS YOU TO"
+    echo '  -m | --message "<message>"  Commit message (will be after the sync summary)'
+    echo "  --dry-run                   Don't actually do anything; just output the commands that would be performed"
+    echo "  -h | --help                 Display this message and exit"
     echo
     echo
     echo "Terminology for the non-programmers:"
@@ -25,8 +25,16 @@ usage() {
     echo "         vault on your own computer."
 }
 
+err() {
+    >&2 echo "$@"
+}
+
 has_autostash() {
     [[ "$(git stash list -n 1)" == "stash@{0}: autostash" ]]
+}
+
+user_is_loremaster() {
+    [[ "$(git config get --global user.name)" == "Joseph Coffa" ]]
 }
 
 pull_changes=0
@@ -57,43 +65,25 @@ while [[ $# -gt 0 ]]; do
             dry=echo
             shift
             ;;
-        -m)
+        -m|--message)
             message="$2"
             shift 2
             ;;
         -*|--*)
-            >&2 echo "$BASENAME: Unknown option '$1'"
+            err "$BASENAME: Unknown option '$1'"
             usage
             exit 1
             ;;
         *)
-            >&2 echo "$BASENAME: Unexpected positional argument '$1'"
+            err "$BASENAME: Unexpected positional argument '$1'"
             usage
             exit 1
             ;;
     esac
 done
 
-echo "Syncing process:"
-echo "================"
-echo "- Backup local changes"
-if [[ $pull_changes -eq 0 ]]; then
-    echo "- Pull new changes from GitHub"
-    echo "- Incorporate any local changes with the new changes from GitHub"
-fi
-if [[ $push_changes -eq 0 ]]; then
-    echo -n "- Push local changes to GitHub"
-    if [[ $push_plugins -eq 0 ]]; then
-        echo -n " (including plugin configuration data)"
-    fi
-    echo ""
-fi
-echo "- Delete backup"
-echo ""
-
-
 if [[ $push_plugins -ne 0 ]]; then
-    if [[ "$(git config get --global user.name)" == "Joseph Coffa" ]]; then
+    if user_is_loremaster; then
         echo "OVERRIDE: Loremaster always pushes plugin configuration"
     else
         $dry git restore --staged --worktree -- content/.obsidian/plugins/
@@ -116,12 +106,12 @@ if [[ $pull_changes -eq 0 ]]; then
     # This could result in a merge conflict, but in typical scenarios it won't.
     $dry git pull --autostash
     if [[ $? -ne 0 ]]; then
-        >&2 echo ""
-        >&2 echo " !! ERROR DETECTED !!"
-        >&2 echo "======================"
-        >&2 echo "You may have gotten a merge conflict in the process of incorporating local changes."
-        >&2 echo "If so, you will need to resolve these conflicts using normal git process."
-        >&2 echo "If you are a non-compsci user, ping The Loremaster in the group chat for help!"
+        err ""
+        err " !! ERROR DETECTED !!"
+        err "======================"
+        err "You may have gotten a merge conflict in the process of incorporating local changes."
+        err "If so, you will need to resolve these conflicts using normal git process."
+        err "If you are a non-compsci user, ping The Loremaster in the group chat for help!"
         exit 1
     fi
 fi
@@ -129,6 +119,19 @@ fi
 if [[ $push_changes -ne 0 ]]; then
     echo "Sync successful"
     exit 0
+fi
+
+if user_is_loremaster; then
+    echo ""
+    echo "Attempting to upgrade quartz packages"
+    echo ""
+    npx quartz upgrade
+
+    if [[ $? -ne 0 ]]; then
+        err ""
+        err " !! ERROR DETECTED !! Quitting $BASENAME script."
+        exit 1
+    fi
 fi
 
 echo ""
