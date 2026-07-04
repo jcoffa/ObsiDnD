@@ -13,8 +13,12 @@ marker:
 views:
   - type: leaflet-map
     name: The_Frozen_March
-	mapName: The_Frozen_March
-    image: [[The Frozen March_2026-01-24T04-57-45.webp]]
+    mapName: The_Frozen_March
+    filters:
+      and:
+        - file.hasProperty("marker")
+        - '!marker.filter(value.mapName == "The_Frozen_March").isEmpty()'
+    image: The Frozen March_2026-01-24T04-57-45.webp
     height: 300
     minZoom: -0.1
     maxZoom: 1

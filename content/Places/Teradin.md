@@ -7,9 +7,13 @@ marker:
 views:
   - type: leaflet-map
     name: Teradin
-	mapName: Teradin
-	image: [[z_Assets/Teradin.webp]]
-    height: 700
+    mapName: Teradin
+    filters:
+      and:
+        - file.hasProperty("marker")
+        - '!marker.filter(value.mapName == "Teradin").isEmpty()'
+    image: Teradin.webp
+    height: 703
     minZoom: -1
     maxZoom: 1
     defaultZoom: -1

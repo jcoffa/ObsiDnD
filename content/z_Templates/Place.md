@@ -13,8 +13,13 @@ views:
   - type: leaflet-map
     name: <% MAP_NAME %>
 	mapName: <% MAP_NAME %>
-    # You MUST set an image below for the map to work.
-	image: [[z_Assets/PLACE_TEMPLATE.webp]]
+	filters:
+		and:
+			- file.hasProperty("marker")
+			- '!marker.filter(value.mapName == "<% MAP_NAME %>").isEmpty()'
+    # You MUST set an image below for the map to work. DO NOT include the [[ and ]]
+    # (although you can use them to search and then delete them after).
+	image: PLACE_TEMPLATE.webp
 	# Feel free to change the properties below this line to make the map look nice!
     height: 900
     minZoom: 0

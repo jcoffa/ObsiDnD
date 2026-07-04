@@ -253,6 +253,7 @@ plugins:
         - description
         - tags
         - aliases
+        - marker
       excludedProperties: []
       hidePropertiesView: true
       delimiters: ---
