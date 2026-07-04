@@ -1,17 +1,17 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Schooner D&D Campaign 3
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
   locale: en-US
   baseUrl: jcoffa.github.io/ObsiDnD
   ignorePatterns:
     - private
     - templates
     - .obsidian
+    - z_Templates
+    - z_Scripts
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -40,6 +40,7 @@ configuration:
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
+
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -79,6 +80,8 @@ plugins:
     order: 40
   - source: github:quartz-community/table-of-contents
     enabled: true
+    options:
+      maxDepth: 6
     order: 50
     layout:
       position: right
@@ -87,6 +90,7 @@ plugins:
     enabled: true
     options:
       markdownLinkResolution: shortest
+      disableBrokenWikilinks: true
     order: 60
   - source: github:quartz-community/description
     enabled: true
@@ -158,7 +162,7 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -222,7 +226,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: github:quartz-community/footer
-    enabled: true
+    enabled: false
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
@@ -277,6 +281,7 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+
 layout:
   groups:
     toolbar:
