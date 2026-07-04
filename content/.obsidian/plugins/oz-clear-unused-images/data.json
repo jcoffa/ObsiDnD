@@ -1,0 +1,7 @@
+{
+  "deleteOption": "system-trash",
+  "logsModal": true,
+  "excludedFolders": "Factions,NPCs,PCs,Places,Quests,Sessions,z_Scripts,z_Templates",
+  "ribbonIcon": false,
+  "excludeSubfolders": true
+}

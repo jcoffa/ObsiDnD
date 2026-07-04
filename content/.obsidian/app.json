@@ -1,0 +1,16 @@
+{
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": true,
+  "foldIndent": false,
+  "showLineNumber": true,
+  "attachmentFolderPath": "z_Assets",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "z_Scripts/",
+    "z_Templates/"
+  ]
+}

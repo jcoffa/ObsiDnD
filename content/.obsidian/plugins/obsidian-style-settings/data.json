@@ -1,0 +1,14 @@
+{
+  "ITS@@select": "wotc-beyond",
+  "ITS@@paper": true,
+  "ITS@@lig": true,
+  "ITS@@heading-indicator": false,
+  "ITS@@alt-chkbx-off": false,
+  "ITS@@check-strike": false,
+  "ITS@@ITS-Note-Title-Styling": "none",
+  "ITS@@font": "'MrsEavesSmallCaps'",
+  "ITS@@writing": false,
+  "ITS@@disable-source-styling": false,
+  "ITS@@default-font": "'TT Jenevers Trl'",
+  "ITS@@writing-document": false
+}

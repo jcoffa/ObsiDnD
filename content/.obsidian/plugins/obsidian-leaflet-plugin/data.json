@@ -1,0 +1,284 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Teradin",
+      "lastAccessed": 1781923552236,
+      "markers": [
+        {
+          "id": "ID_19eb5848797a",
+          "type": "default",
+          "loc": [
+            1071.2667734976194,
+            878.9337290148785
+          ],
+          "layer": "%5B%5BTeradin.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.48293062033784534,
+            -0.7619251589599
+          ],
+          "description": "Utopia",
+          "minZoom": 0,
+          "maxZoom": -0.5,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_ebe93a2a89e9",
+          "type": "default",
+          "loc": [
+            1361.3125,
+            1281.4197791699582
+          ],
+          "link": "Draskhrr",
+          "layer": "%5B%5BTeradin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_08493bab7bb9",
+          "type": "default",
+          "loc": [
+            1246,
+            1032.0296154764746
+          ],
+          "link": "The Frozen March",
+          "layer": "%5B%5BTeradin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5670492392727883,
+            -0.8862019914651493
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": -0.5,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_2908aae8aa79",
+          "type": "default",
+          "loc": [
+            1089.8125,
+            841.5257114511951
+          ],
+          "link": "Utopia",
+          "layer": "%5B%5BTeradin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 0,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_aa5aa92b7b0a",
+          "type": "default",
+          "loc": [
+            689.4375,
+            1275.5
+          ],
+          "link": "The Scar of the Plane",
+          "layer": "%5B%5BTeradin.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Places/Teradin.md"
+      ]
+    },
+    {
+      "id": "TheFrozenMarch",
+      "lastAccessed": 1783129546850,
+      "markers": [
+        {
+          "id": "ID_1a69dad909ba",
+          "type": "default",
+          "loc": [
+            251.328125,
+            973.75
+          ],
+          "link": "Draskhrr",
+          "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_fb086aebab79",
+          "type": "default",
+          "loc": [
+            208.328125,
+            566.75
+          ],
+          "link": "The Hearth of Hope",
+          "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_b9996abaf918",
+          "type": "default",
+          "loc": [
+            261.328125,
+            1202.75
+          ],
+          "link": "The Toppelgangers",
+          "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_1b9a29f86b4a",
+          "type": "default",
+          "loc": [
+            172.6171875,
+            1141.832926089912
+          ],
+          "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Adamantine Mine",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_7b7a2a880a39",
+          "type": "default",
+          "loc": [
+            243.6171875,
+            446.48726828461724
+          ],
+          "link": "Fair Helm City",
+          "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_dae8a89beaa8",
+          "type": "default",
+          "loc": [
+            42.59213502303344,
+            399.6596211137191
+          ],
+          "link": "The Observatory",
+          "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_98ca19c84a29",
+          "type": "default",
+          "loc": [
+            154.6171875,
+            293.99751979570465
+          ],
+          "link": "The Stony Veil",
+          "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_bbaadb1b4bc8",
+          "type": "default",
+          "loc": [
+            191.1171875,
+            173.51489041171394
+          ],
+          "link": "? Star Marking ?",
+          "layer": "%5B%5BThe%20Frozen%20March_2026-01-24T04-57-45.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The Iron Fang has marked this location with a star.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

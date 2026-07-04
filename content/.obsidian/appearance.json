@@ -1,0 +1,12 @@
+{
+  "cssTheme": "ITS Theme",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "appearance",
+    "tables"
+  ],
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSize": 16,
+  "showRibbon": true
+}
