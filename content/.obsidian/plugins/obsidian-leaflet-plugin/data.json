@@ -103,7 +103,7 @@
     },
     {
       "id": "TheFrozenMarch",
-      "lastAccessed": 1781923555710,
+      "lastAccessed": 1783129546850,
       "markers": [
         {
           "id": "ID_1a69dad909ba",
@@ -218,10 +218,10 @@
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Suspected to be connected to the elemental plane of earth, and is rumoured to contain a ton of gems.",
-          "minZoom": null,
+          "description": "",
+          "minZoom": 0,
           "maxZoom": null,
-          "tooltip": "hover"
+          "tooltip": "always"
         },
         {
           "id": "ID_bbaadb1b4bc8",
@@ -243,9 +243,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "Places/The Frozen March.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {

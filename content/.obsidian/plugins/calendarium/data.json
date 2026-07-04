@@ -221,8 +221,8 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 29,
-        "month": 5,
+        "day": 2,
+        "month": 6,
         "year": 133
       },
       "events": [
@@ -610,6 +610,23 @@
           },
           "id": "ID_8a48e84b499b",
           "note": "Sessions/Session 21.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Infiltrating The Cult of the Stars and finding Caelia",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 6,
+            "year": 133
+          },
+          "id": "ID_f828d89b09c9",
+          "note": "Sessions/Session 22.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,

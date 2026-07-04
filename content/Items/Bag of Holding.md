@@ -30,3 +30,7 @@ A patchy leather bag with a face sewn into it. This was [[Session 17#The Party L
 - Marquis *Speak With Dead* pendant
 - Sapphire (50 GP) - [[Garrison]]
 - A few small diamonds (100 GP total) - [[NG]]
+- 50 GP worth of sapphire ([[Session 22#Our Reward is Getting The Fuck Out Of There|from Session 22]])
+- 350 GP worth of ruby ([[Session 22#Our Reward is Getting The Fuck Out Of There|from Session 22]])
+- 100 GP worth of diamond ([[Session 22#Our Reward is Getting The Fuck Out Of There|from Session 22]])
+- 200 GP worth of obsidian ([[Session 22#Our Reward is Getting The Fuck Out Of There|from Session 22]])
