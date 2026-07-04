@@ -14,4 +14,4 @@ created: 2026-02-06 20:51
 
 Luca wants the party to collect information on a small town just below the surface, in the upper levels of the [[Underdark]].
 
-The town, which we affectionately call "Underdraskhrr", has an artifact that was recently stolen by The Cult of the Stars (they think).
+The town, which we affectionately call "Underdraskhrr", has an artifact that was recently stolen by [[The Cult of the Stars]] (they think).

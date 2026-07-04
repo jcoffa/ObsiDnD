@@ -1,3 +1,12 @@
+---
+aliases:
+marker:
+  - mapName: The_Frozen_March
+    coordinates: 42, 400
+    icon: lucide-telescope
+    colour: "#7623a5"
+---
+
 # [[The Observatory]]
 
 A somewhat run-down observatory in the southern mountains along the border between [[The Frozen March]] and the [[Utopia|Utopian Empire]]. It's an enormous structure with multiple floors, its own dedicated sewage system, a library, multiple storage rooms, and likely much more that the party has yet to know about. Currently inhabited by a lich of unknown name and origin; a somewhat recent development as the structure was abandoned for decades.

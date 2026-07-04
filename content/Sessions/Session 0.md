@@ -30,9 +30,9 @@ Outsiders don’t know much of the goings on in [[The Frozen March]], though peo
 
 Welcome to the continents of [[Teradin]].
 
-A sweeping landscape of vastly different terrains, races, species, cultures, and magics. From the Myconid Growth of the Southern island filled with mushrooms and ancient mechanisms, to the vast frozen wasteland of untold horrors and criminals in the North. To the Scar of the Plane, spewing high doses of Arcane wild magics, making it inhospitable to most, to the volcano off the west coast, said to be controlled by a cult of fire worshippers.
+A sweeping landscape of vastly different terrains, races, species, cultures, and magics. From the Myconid Growth of the Southern island filled with mushrooms and ancient mechanisms, to the vast frozen wasteland of untold horrors and criminals in the North. To [[The Scar|the Scar of the Plane]], spewing high doses of Arcane wild magics, making it inhospitable to most, to the volcano off the west coast, said to be controlled by a cult of fire worshippers.
 
-What you all plan to do here once you have escaped [[The Frozen March]] (if you do) is up to you and your character. The world is vast, and at the center of it all is the City of Utopia, the capital of the empire who won the Clerical War nearly 100 years ago. Some love the powerful justice they inflict on law breakers, while others find they are a necessary evil, and even some whisper of rebellion... But no one would ever dare to admit it.
+What you all plan to do here once you have escaped [[The Frozen March]] (if you do) is up to you and your character. The world is vast, and at the center of it all is the City of [[Utopia]], the capital of the empire who won the Clerical War nearly 100 years ago. Some love the powerful justice they inflict on law breakers, while others find they are a necessary evil, and even some whisper of rebellion... But no one would ever dare to admit it.
 
 By the time [[Session 1]] starts, you will all be condemned to "life" in [[The Frozen March]] as a punishment for your crimes. What they were, whether you actually did it or if you were framed, who you were with, and everything else is up to you.
 

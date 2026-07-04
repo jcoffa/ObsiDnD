@@ -146,7 +146,7 @@ created: 2026-06-19 18:26
 ### Where Do You See Yourself In 5 Years?
 
 - The party discusses their long-term goals after they leave [[The Frozen March]].
-	- [[Tilly]] would like to find the other Kalashtar at the scar of the plane she saw in [[Session 16#Tilly 's Trance, Again|her vision]], show the party her home in The Hexes, and find out what happened to her parents.
+	- [[Tilly]] would like to find the other Kalashtar at [[The Scar|The Scar of the Plane]] she saw in [[Session 16#Tilly 's Trance, Again|her vision]], show the party her home in The Hexes, and find out what happened to her parents.
 	- [[Zrandovorski]] would like to visit [[Session 16#Zrandovorski 's Trance|his old home in the Utopian Empire]], but isn't confident they could go there right away after escaping [[The Frozen March]].
 	- [[The Collector]] wants to figure out his mission from [[Larizadune]], and open his museum ~~which may or may not involve overthrowing the [[Utopia|The Utopian Empire]]~~.
 	- [[NG]] wants to return to his factory and cleanse it of the mycelium infection.

@@ -96,7 +96,7 @@ created: 2026-05-29 18:24
 ### Sleuthing and Stalking
 
 - The Reconstellators all split up to discover more about [[Rykor Steelhand|Rykor]] and [[Kaz the Cold]]'s schedules to help them plan the assassination.
-- [[NG]] opts to stay behind and use the Adamantine they got from [[Session 13#Party 'Til You're Pregnant|the Adamantine mines]] to start crafting [[Garrison]] a set of Adamantine Plate Armour, and also a normal Lance (or Halberd?)
+- [[NG]] opts to stay behind and use the Adamantine they got from [[Session 13#Party 'Til You're Pregnant|the Adamantine Mine]] to start crafting [[Garrison]] a set of Adamantine Plate Armour, and also a normal Lance (or Halberd?)
 - [[Zrandovorski]] relays information about them, since he has lived in [[Draskhrr]] for most of his life.
 	- They know that [[Rykor Steelhand|Rykor]] patrols the streets to basically behave like a police captain or warden. He has an aura of authority and intimidation around him that naturally quells criminal activity and people subconsciously act on their best behaviour around him.
 	- [[Kaz the Cold]] is much more reclusive. He mostly hangs out in his longhouse and engages in the planning and administrative side of [[The Iron Fang]]. He is the true leader, after all.

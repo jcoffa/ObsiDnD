@@ -1,6 +1,11 @@
 ---
 aliases:
   - The Hearth
+marker:
+  - coordinates: 210, 567
+    icon: lucide-flame
+    mapName: The_Frozen_March
+    colour: "#f44546"
 ---
 
 # [[The Hearth of Hope]]

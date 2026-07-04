@@ -23,7 +23,7 @@ created: 2026-02-14 16:05
 
 ### Thou shalt get side tracked by bullshit every goddamn time
 
-- The party continues onwards to the Adamantine Mines.
+- The party continues onwards to the [[Adamantine Mine]].
 - [[NG]] the lookout is more focused on his new invention, a Rubik's cube, as he struggles to solve it while claiming to be watching the party's back.
 - [[NG]]'s amazing perceiving skills failing to see a new comer join into the parties walking formation.
 - [[Garrison]] breaks the Rubik's cube while attempting to solve it.

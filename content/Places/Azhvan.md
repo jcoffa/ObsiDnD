@@ -1,3 +1,8 @@
+---
+aliases:
+marker:
+---
+
 # [[Azhvan]]
 
 A city in [[The Underdark]] acting as the capital for [[The Scholars of the Deep]]; a group of investigators and scientists who are committed to learning things about the world regardless of any personal danger, morality, or usefulness. This city was originally a research outpost for [[The Scholars of the Deep]], but over time it evolved into a fully-fledged city.

@@ -48,7 +48,7 @@ created: 2026-02-27 18:45
 	- [[Trefawn]] is a Drow city. Not friendly.
 	- [[Waddlewood Cove]] is a Halfling city. It was originally on the surface, but it fell for some reason. Very friendly unless you are a monster and then they kill you on sight.
 	- [[Devawn's Blade]] is a giant Tavern for adventurer's in [[The Underdark]]. Friendly to adventurers unless its the bi-yearly (semi-yearly?) 2/year event where they get hunted by Mind Flayers.
-- Disco recounts a few cults he knows about, none of which are the Cult of the Stars. He knows of the Cult of the Dead, Cult of the Dragon, and the Cult of Hadar. [[The Collector]] remembers adventuring with his Father and encountered the name "Hadar" before amidst a bunch of ancient writing that he could not understand.
+- Disco recounts a few cults he knows about, none of which are [[The Cult of the Stars]]. He knows of [[The Cult of the Dead]], [[The Cult of the Dragon]], and [[The Cult of Hadar]]. [[The Collector]] remembers adventuring with his Father and encountered the name "[[Hadar]]" before amidst a bunch of ancient writing that he could not understand.
 - [[NG]] is able to climb down the rope just fine. Literally everyone else fails to climb down, so [[Zrandovorski]] uses *Feather Fall* to save everyone from potential damage.
 - The purple grass is a large field with a few torches in it. There are some large mushrooms producing spores, and some of the stalactites on the ceiling appear to be... breathing?
 - [[NG]] knows that these mushrooms are not native to this area. There are 3 kinds of spores in [[The Underdark]]; ones that grant positive effects, ones that grant negative effects, and ones that connect you to the hivemind of the Myconids.

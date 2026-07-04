@@ -1,6 +1,5 @@
 [
   "obsidian-style-settings",
-  "obsidian-leaflet-plugin",
   "obsidian-meta-bind-plugin",
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
@@ -8,5 +7,6 @@
   "obsidian-icon-folder",
   "image-converter",
   "calendarium",
-  "oz-clear-unused-images"
+  "oz-clear-unused-images",
+  "leaflet-bases"
 ]

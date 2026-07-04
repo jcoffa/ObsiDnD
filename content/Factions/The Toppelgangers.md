@@ -1,6 +1,11 @@
 ---
 aliases: []
 created: 2026-02-14 18:48
+marker:
+  - mapName: The_Frozen_March
+    coordinates: 262, 1202
+    icon: lucide-tower-control
+    colour: "#e48873"
 ---
 
 #  [[The Toppelgangers]]

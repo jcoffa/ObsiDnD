@@ -27,7 +27,7 @@ Note that certain features (such as the Calendar and Maps) can't work on the pub
    1. Excalidraw
    1. Iconize
    1. Image Converter
-   1. Leaflet
+   1. Leaflet Bases
    1. Meta Bind
    1. Quick Add
    1. Style Settings
