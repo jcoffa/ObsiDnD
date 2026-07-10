@@ -132,4 +132,4 @@ The party receives 324 XP, for a total of 6,499 XP! We are 1 XP away from level 
 
 ## Recap
 
-*What do you want to remember at the start of next session?*
+*What do you want to remember at the start of next session*
