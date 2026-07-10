@@ -22,6 +22,10 @@ created: 2026-07-03 18:11
 
 ## Quotes
 
+>[!quote] Sage
+>
+>When Justin's not here, I'm the Justin. When Justin IS here, I'm STILL the Justin!
+
 >[!quote] Her last character was named "DB"
 >
 >Dani: I'm not good with names! The last familiar I got I just named [[BD|the reverse of my last character]]!
@@ -30,9 +34,19 @@ created: 2026-07-03 18:11
 >
 >Joseph: Da Big Da Cat
 
+>[!quote] All Quiet on The Frozen March
+>
+>[[Tilly]]: So, like, have you read any books recently?
+>
+>[[Zrandovorski]]: I've memorized them all.
+>
+>[[Tilly]]: Oh, cool, cool... the cat's name is Stella by the way.
+>
+>[[Zrandovorski]]: Oh.
+
 >[!quote] It's just called "The March" now
 >
->Dani(?): I think they'd be more interested that a spider has actually survived in the march. Like, yo! What is up with this spider???
+>Dani: I think they'd be more interested that a spider has actually survived in the march. Like, yo! What is up with this spider???
 >
 >Joseph: The spiders are returning! Their migration is successful!
 >
@@ -42,9 +56,25 @@ created: 2026-07-03 18:11
 >
 >It's like having Chiropractis performed on you. I don't like *the bone noises*.
 
+>[!quote] So much for that plan
+>
+>Thomas (*referring to [[Tilly]] and [[Zrandovorski]]'s very in-the-city map markers*): Take a look, doesn't matter what channel.
+>
+>Joseph: Sir, this is a map.
+
 >[!quote] Cameron
 >
 >A 1 in 6 chance to get a brain aneurysm? That's kind of fire actually...
+
+>[!quote] Double Standards
+>
+>Dani: Why can't [[Tilly]] get swole without being sexualized??
+>
+>Sage: No, she's 6'3"!!!
+
+>[!quote] Sage
+>
+>No [[Tilly]], don't kill yourself, you need to get taller!
 
 ## Notes
 
