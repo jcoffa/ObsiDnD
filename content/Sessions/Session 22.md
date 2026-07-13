@@ -22,6 +22,10 @@ created: 2026-07-03 18:11
 
 ## Quotes
 
+>[!quote] Sage
+>
+>When Justin's not here, I'm the Justin. When Justin is here I'm STILL the Justin!
+
 >[!quote] Her last character was named "DB"
 >
 >Dani: I'm not good with names! The last familiar I got I just named [[BD|the reverse of my last character]]!
@@ -29,6 +33,16 @@ created: 2026-07-03 18:11
 >Thomas: So then name this one after your last character.
 >
 >Joseph: Da Big Da Cat
+
+>[!quote] All Quiet on [[The Frozen March]]
+>
+>[[Tilly]]: So, like, have you read any book recently?
+>
+>[[Zrandovorski]]: I've memorized them all.
+>
+>[[Tilly]]: Oh, cool, cool... the cat's name is [[Stella]] by the way.
+>
+>[[Zrandovorski]]: Oh.
 
 >[!quote] It's just called "The March" now
 >
@@ -38,9 +52,25 @@ created: 2026-07-03 18:11
 >
 >Thomas: THE WARMING IS COMING! LOOLOOLOOLOOLOOLOOLOO
 
+>[!quote] So much for that plan
+>
+>Thomas: Take a look, doesn't matter what channel.
+>
+>Joseph: Sir, this is a map.
+
 >[!quote] Thomas
 >
 >It's like having Chiropractis performed on you. I don't like *the bone noises*.
+
+
+>[!quote] Double Standards
+>Dani: Why can't [[Tilly]] get swole without being sexualized??
+>
+>Sage: No, she's 6'3"!!
+>
+><*5 minutes later*>
+>
+>Sage: No [[Tilly]], don't kill yourself, you need to get taller!
 
 >[!quote] Cameron
 >
@@ -132,4 +162,27 @@ The party receives 324 XP, for a total of 6,499 XP! We are 1 XP away from level 
 
 ## Recap
 
-*What do you want to remember at the start of next session*
+After their [[Session 21#Rock Monster!|battle with the Xorn]], The Reconstellators decide that fleeing is the best option. Before they can escape, another Xorn breaks through the floor, blocking their path. With some quick thinking from [[Kolvar]] and some not quick moving from [[Son]] (RIP Session 9 - Session 22 Son), they manage to tempt the Xorn away with fake gems made by [[Kolvar]]'s [Phantasmal Force](https://5e.scrunko.monster/spells.html#phantasmal%20force_xphb) and manage to all escape the cave.
+
+However, the newly saved NPC seems uninterested in stopping his fleeing attempt, and begins running down the mountain with the Reconstellators in pursuit. [[NG]] catches up easily and manages to cut the straps on his backpack leaving them with all of his jewels, while the man continues to flee. After failed attempts to stop him, [[The Collector]] stops him the only way possible; a gun (an [Eldritch Blast](https://5e.scrunko.monster/spells.html#eldritch%20blast_xphb)). Not wanting to deal with the man's body, the party does not stop [[Tilly]] from placing [[The Lady of The White]]'s card on the corpse and the hag takes the corpse but seems troubled. "Saying this is a 'human' is a pretty strong choice of words…". She gives the party 25 SP since it can't be used for her normal purposes, and leaves.
+
+As they descend the mountaintop and [[The Collector]] debates bringing [[Son]] back right away, [[Tilly]] reveals her familiar, a cat made from the constellation of stars on her necklace. 15 real life minutes pass debating the many dumb possible names for this cat before Dani decides she's not taking suggestions and the cat remains unnamed for now while [[Son]] is summoned back.
+
+After a short rest, the party begins their 9-day journey back to [[Fair Helm City]], but quickly encounter a pair of travelers. [[The Collector]] eavesdrops on them and hears them discussing "an upcoming ritual", so [[Kolvar]] shapeshifts into the man they just murdered to approach them, with [[NG]] joining him. [[Kolvar|Disguised Kolvar]] manages to pass the dap check and they discover the NPC's name was Kev, and the travelers fully believe [[Kolvar]] is Kev, and convinces them to bring [[NG]] along with them, while the party follows distantly.
+
+While they travel, [[NG]] manages to learn that they are [[The Cult of the Stars]] but are totally not a cult. Their leader is [[The Soul Sage]], and their ritual is meant to commune with otherwordly beings to gain knowledge beyond mortal means; the more people the better. They decide to have [[The Collector]] and [[Garrison]] join them on their travels, while [[Tilly]] and [[Zrandovorski]] stay back outside of their base in case they need additional support ~~or an escape route~~.
+
+The cultist group arrives at a ruined town, but a secret passage leads them underground into an enormous underground shopping district in an expansive cave; this is [[Caelia]], a place so old that it has been here since before the March was frozen! It is bustling with people of many different species, the most diverse they've seen in [[The Frozen March]].
+
+[[NG]] manages to send a smoke signal to [[Tilly]] and [[Zrandovorski]] and leaves a note for them while leaving the door ajar, stating [[Caelia]] knows [[The Collector]] and [[Garrison]], and they're suspicious of [[Kolvar]]. They decide this is a very good reason to ignore the plan and head inside, with [[Zrandovorski]] jumping into the bag of holding and [[Tilly]] turning into a spider to sneak them in.
+
+The cultists figure out pretty quickly that [[Kolvar]] is not Kev, but
+ [[Zrandovorski]] comes up with a brilliant plan; he uses [Disguise Self](https://5e.scrunko.monster/spells.html#disguise%20self_xphb) to look like a cultist, urgently knocks on the door, and tells the cultists that [[Toran the Red]], the known terrorist, has found the city and is coming to attack, putting the entire city on high alert but manages to get the cultists out of the room before they discover [[Kolvar]].
+
+[[NG]] decides that at this point they should reconvene. [[Zrandovorski]] and [[Tilly]] reveals they are the reason for the alarm, [[NG]] reveals that [[The Collector]] and [[Garrison]] are apparently enemies of this state, and [[Kolvar]] reveals that they could definitely tell he wasn't Kev and they'll definitely come looking for them once they realize [[Toran the Red|Toran]] is not here.
+
+They decide the best course is to fake Kev's disappearance and hide right under their noses, one room over. They put the jewels in the bag of holding and leave the empty bag and fake Kev's death by having [[Son]] hold his badge while [[NG]] kills him (RIP [[Son]] Session 22 - Session 22). They debate whether to stay for this ritual,  which they do, but they need some additional details, which they can gain tomorrow.
+
+While they rest for the night, [[Tilly]] has a vision where she is [[The Soul Sage]] who is apparently also a Kalashtar, who is holding a ceremony where they are handing out badges to everyone in [[Caelia]], and their ritual is to reach [[The Abberant]]. After waking up and sharing this info, The Reconstellators decide, once again, the best plan is to split up; [[Garrison]] and [[The Collector]] will stay in the room, [[NG]] and [[Tilly]] will go to the ritual to get badges of their own, and [[Zrandovorski]] and [[Kolvar]] will go blend with the populace.
+
+With just [[Garrison]] and [[The Collector]] left in the room, [[The Collector]] feels a knife press to his throat as [[Gobbo|Gobbo, the God of Good]], says that he needs their help.
