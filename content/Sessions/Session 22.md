@@ -107,7 +107,7 @@ created: 2026-07-03 18:11
 	- 350 GP worth of ruby
 	- 100 GP worth of diamond
 	- 200 GP worth of obsidian
-- [[Tilly]] hurriedly puts the [[Lady of the White]] calling card on the body. The card turns into a door and the Lady walks through. She looks somewhat troubled, claiming that the body doesn't belong to a human ("Saying this is a 'human' is a pretty strong choice of words..."). She tastes the sludge and makes a sour face. "Rancid...", she says. Claiming that it's unusable for her *normal purposes*, she pays only 25 SP before leaving.
+- [[Tilly]] hurriedly puts [[The Lady of the White]] calling card on the body. The card turns into a door and the Lady walks through. She looks somewhat troubled, claiming that the body doesn't belong to a human ("Saying this is a 'human' is a pretty strong choice of words..."). She tastes the sludge and makes a sour face. "Rancid...", she says. Claiming that it's unusable for her *normal purposes*, she pays only 25 SP before leaving.
 - Because [[Son]] is dead, [[Tilly]] summons her cat familiar for the first time by constructing it out of the stars in her necklace. The players (not characters) debate its name for 15 real-life minutes before Dani dismisses it while [[The Collector]] brings back [[Son]].
 - After a short rest, the party sets out for [[Fair Helm City]].
 
