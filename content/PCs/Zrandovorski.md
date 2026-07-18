@@ -23,18 +23,28 @@ created: 2026-01-08 18:18
 
 Every **Long Rest**, roll 2d20 and replace the numbers that are here with those new rolls.
 
-- [ ] 14
+- [x] 14
 - [x] 19
 
-## Spells
+## Spellcasting
 
 - **Spell Attack Bonus:** +6
 - **Spell Save DC:** 14
 - **Spell Slots (Used/Total):**
-	1. 2/4
+	1. 4/4
 		- Usually begins the day with 1 used due to *[Mage Armour](https://5e.tools/spells.html#mage%20armor_xphb)*.
-	2. 0/2
+	2. 1/3
+	3. 0/2
 - [ ] **Used free [*Shield*](https://5e.tools/spells.html#shield_xphb) spell from [Magic Initiate](https://5e.tools/feats.html#magic%20initiate_xphb)?**
+
+### Extra Spell Sources
+
+- [Expanding And Replacing a Spellbook (PHB 167)](https://5e.tools/classes.html#wizard_xphb,state:feature=s0-0~sub_diviner_xphb=b1) > **Copying a Spell into the Book**. Can copy Wizard spells of level 1+ into my spellbook to permanently learn that spell. Must be of a level that I currently have access to. Costs 50 GP and takes 2 hours to copy per level of the copying spell.
+	- Can find Wizard spells from spell scrolls, or other Wizard's spellbooks.
+- *[Magic Initiate (PHB 201)](https://5e.tools/feats.html#magic%20initiate_xphb)* feat (Wizard) grants two Wizard cantrips and one level 1 Wizard spell that I can cast once for free per Long Rest.
+- [Divination Savant (PHB 173)](https://5e.tools/classes.html#wizard_xphb,state:feature=s2-0~sub_diviner_xphb=b1) allows me to learn a divination spell whenever I gain access to a new spell level. These spells are marked as such in the **Source** column and are separate from the usual +2 Wizard spells learned each level up.
+
+### Spell List
 
 > [!abstract]- Preparing Spells ([PHB 165](https://5e.tools/classes.html#wizard_xphb,state:feature=s0-0))
 >
@@ -51,7 +61,7 @@ Every **Long Rest**, roll 2d20 and replace the numbers that are here with those 
 > - Y = **Y**es, this spell is prepared
 > - A = This spell is **A**lways prepared and doesn't count towards the amount of spells I can prepare
 > 	- The spell is either a cantrip or received as part of a feature which specifies the spell doesn't count against the prepared limit
-> - (empty) = This spell is not prepared and can therefore only be cast as a Ritual if the spell allows
+> - (empty) = This spell is not prepared and can therefore only be cast as a Ritual if the spell has the `R`itual tag.
 >
 > **`CRVSM`:**
 > - `C` = Requires Concentration
@@ -66,30 +76,35 @@ Every **Long Rest**, roll 2d20 and replace the numbers that are here with those 
 >
 > **Page** is for tracking what rulebook and page the spell's details can be found on. Bonus points for hyperlinking to somewhere online (such as [5Etools](https://5e.tools)) to easily pull up the spell's details with a single click.
 
-| Prep | Lvl | Name                 | Casting Time | Range  | `CRVSM` | Notes                                 | Source                                                                                                          | Page                                                                |
-| :--: | :-: | -------------------- | ------------ | ------ | ------: | ------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-|  A   |  0  | Fire Bolt            | Action       | 120 ft | `--VS-` |                                       | *[Magic Initiate](https://5e.tools/feats.html#magic%20initiate_xphb)* feat (Wizard)                             | [PHB 274](https://5e.tools/spells.html#fire%20bolt_xphb)            |
-|  A   |  0  | Toll the Dead        | Action       | 60 ft  | `--VS-` |                                       | *[Magic Initiate](https://5e.tools/feats.html#magic%20initiate_xphb)* feat (Wizard)                             | [PHB 334](https://5e.tools/spells.html#toll%20the%20dead_xphb)      |
-|  A   |  0  | Mage Hand            | Action       | 30 ft  | `--VS-` |                                       |                                                                                                                 | [PHB 293](https://5e.tools/spells.html#mage%20hand_xphb)            |
-|  A   |  0  | Mind Sliver          | Action       | 60 ft  | `--V--` |                                       |                                                                                                                 | [PHB 298](https://5e.tools/spells.html#mind%20sliver_xphb)          |
-|  A   |  0  | Prestidigitation     | Action       | 10 ft  | `--VS-` |                                       |                                                                                                                 | [PHB 307](https://5e.tools/spells.html#prestidigitation_xphb)       |
-|  A   |  0  | Eldritch Blast       | Action       | 120 ft | `--VS-` |                                       | [[Booyahg Staff]]                                                                                               | [PHB 267](https://5e.tools/spells.html#eldritch%20blast_xphb)       |
-|      |  1  | Alarm                | 1 minute     | 30 ft  | `-RVSM` |                                       | Copied from a spell scroll                                                                                      | [PHB 239](https://5e.tools/spells.html#alarm_xphb)                  |
-|  Y   |  1  | Chromatic Orb        | Action       | 90 ft  | `--VSM` | `M`: *Diamond worth 50+ GP*           |                                                                                                                 | [PHB 249](https://5e.tools/spells.html#chromatic%20orb_xphb)        |
-|      |  1  | Comprehend Languages | Action       | Self   | `-RVSM` |                                       |                                                                                                                 | [PHB 252](https://5e.tools/spells.html#comprehend%20languages_xphb) |
-|      |  1  | Detect Magic         | Action       | Self   | `CRVS-` |                                       |                                                                                                                 | [PHB 262](https://5e.tools/spells.html#detect%20magic_xphb)         |
-|  Y   |  1  | Feather Fall         | 1 minute     | 60 ft  | `--V-M` |                                       |                                                                                                                 | [PHB 271](https://5e.tools/spells.html#feather%20fall_xphb)         |
-|      |  1  | Identify             | 1 minute     | Touch  | `-RVSM` | `M`: *Pearl worth 100+ GP*            |                                                                                                                 | [PHB 287](https://5e.tools/spells.html#identify_xphb)               |
-|  Y   |  1  | Mage Armour          | Action       | Touch  | `--VSM` |                                       |                                                                                                                 | [PHB 293](https://5e.tools/spells.html#mage%20armor_xphb)           |
-|  Y   |  1  | Magic Missile        | Action       | 120 ft | `--VS-` |                                       |                                                                                                                 | [PHB 295](https://5e.tools/spells.html#magic%20missile_xphb)        |
-|  A   |  1  | Shield               | Reaction     | Self   | `--VS-` | 1 free cast per **Long Rest**         | *[Magic Initiate](https://5e.tools/feats.html#magic%20initiate_xphb)* feat (Wizard)                             | [PHB 316](https://5e.tools/spells.html#shield_xphb)                 |
-|  Y   |  1  | Sleep                | Action       | 60 ft  | `--VSM` |                                       |                                                                                                                 | [PHB 317](https://5e.tools/spells.html#sleep_xphb)                  |
-|      |  1  | Thunderwave          | Action       | Self   | `--VS-` |                                       |                                                                                                                 | [PHB 334](https://5e.tools/spells.html#thunderwave_xphb)            |
-|      |  1  | Witch Bolt           | Action       | 60 ft  | `C-VSM` |                                       |                                                                                                                 | [PHB 343](https://5e.tools/spells.html#witch%20bolt_xphb)           |
-|      |  2  | Augury               | 1 minute     | Self   | `-RVSM` | `M`: *Divinatory tokens worth 25+ GP* | [Divination Savant](https://5e.tools/classes.html#wizard_xphb,state:feature=s2-0~sub_diviner_xphb=b1) (PHB 173) | [PHB 244](https://5e.tools/spells.html#augury_xphb)                 |
-|  Y   |  2  | Gentle Repose        | Action       | Touch  | `-RVSM` | `M`: *2 Copper, consumed*             |                                                                                                                 | [PHB 278](https://5e.tools/spells.html#gentle%20repose_xphb)        |
-|      |  2  | Locate Object        | Action       | Self   | `C-VSM` |                                       | [Divination Savant](https://5e.tools/classes.html#wizard_xphb,state:feature=s2-0~sub_diviner_xphb=b1) (PHB 173) | [PHB 293](https://5e.tools/spells.html#locate%20object_xphb)        |
-|  Y   |  2  | Shatter              | Action       | 60 ft  | `--VSM` |                                       |                                                                                                                 | [PHB 316](https://5e.tools/spells.html#shatter_xphb)                |
+| Prep | Lvl | Name                 | Casting Time | Range  | `CRVSM` | Notes                                                 | Source                                                                                                | Page                                                                |
+| :--: | :-: | -------------------- | ------------ | ------ | ------: | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+|  A   |  0  | Fire Bolt            | Action       | 120 ft | `--VS-` |                                                       | *[Magic Initiate](https://5e.tools/feats.html#magic%20initiate_xphb)*                                 | [PHB 274](https://5e.tools/spells.html#fire%20bolt_xphb)            |
+|  A   |  0  | Toll the Dead        | Action       | 60 ft  | `--VS-` |                                                       | *[Magic Initiate](https://5e.tools/feats.html#magic%20initiate_xphb)*                                 | [PHB 334](https://5e.tools/spells.html#toll%20the%20dead_xphb)      |
+|  A   |  0  | Mage Hand            | Action       | 30 ft  | `--VS-` |                                                       |                                                                                                       | [PHB 293](https://5e.tools/spells.html#mage%20hand_xphb)            |
+|  A   |  0  | Mind Sliver          | Action       | 60 ft  | `--V--` |                                                       |                                                                                                       | [PHB 298](https://5e.tools/spells.html#mind%20sliver_xphb)          |
+|  A   |  0  | Prestidigitation     | Action       | 10 ft  | `--VS-` |                                                       |                                                                                                       | [PHB 307](https://5e.tools/spells.html#prestidigitation_xphb)       |
+|  A   |  0  | Light                | Action       | Touch  | `--V-M` | `M`: *firefly or phosphorescent moss*<br>Lasts 1 hour |                                                                                                       | [PHB 292](https://5e.tools/spells.html#light_xphb)                  |
+|  A   |  0  | Eldritch Blast       | Action       | 120 ft | `--VS-` |                                                       | [[Booyahg Staff]]                                                                                     | [PHB 267](https://5e.tools/spells.html#eldritch%20blast_xphb)       |
+|      |  1  | Alarm                | 1 minute     | 30 ft  | `-RVSM` |                                                       | Copied from scroll                                                                                    | [PHB 239](https://5e.tools/spells.html#alarm_xphb)                  |
+|  Y   |  1  | Chromatic Orb        | Action       | 90 ft  | `--VSM` | `M`: *Diamond worth 50+ GP*                           |                                                                                                       | [PHB 249](https://5e.tools/spells.html#chromatic%20orb_xphb)        |
+|      |  1  | Comprehend Languages | Action       | Self   | `-RVSM` |                                                       |                                                                                                       | [PHB 252](https://5e.tools/spells.html#comprehend%20languages_xphb) |
+|      |  1  | Detect Magic         | Action       | Self   | `CRVS-` |                                                       |                                                                                                       | [PHB 262](https://5e.tools/spells.html#detect%20magic_xphb)         |
+|  Y   |  1  | Feather Fall         | 1 minute     | 60 ft  | `--V-M` |                                                       |                                                                                                       | [PHB 271](https://5e.tools/spells.html#feather%20fall_xphb)         |
+|      |  1  | Identify             | 1 minute     | Touch  | `-RVSM` | `M`: *Pearl worth 100+ GP*                            |                                                                                                       | [PHB 287](https://5e.tools/spells.html#identify_xphb)               |
+|  Y   |  1  | Mage Armour          | Action       | Touch  | `--VSM` |                                                       |                                                                                                       | [PHB 293](https://5e.tools/spells.html#mage%20armor_xphb)           |
+|      |  1  | Magic Missile        | Action       | 120 ft | `--VS-` |                                                       |                                                                                                       | [PHB 295](https://5e.tools/spells.html#magic%20missile_xphb)        |
+|  A   |  1  | Shield               | Reaction     | Self   | `--VS-` | 1 free cast per **Long Rest**                         | *[Magic Initiate](https://5e.tools/feats.html#magic%20initiate_xphb)*                                 | [PHB 316](https://5e.tools/spells.html#shield_xphb)                 |
+|  Y   |  1  | Sleep                | Action       | 60 ft  | `--VSM` |                                                       |                                                                                                       | [PHB 317](https://5e.tools/spells.html#sleep_xphb)                  |
+|      |  1  | Thunderwave          | Action       | Self   | `--VS-` |                                                       |                                                                                                       | [PHB 334](https://5e.tools/spells.html#thunderwave_xphb)            |
+|      |  1  | Witch Bolt           | Action       | 60 ft  | `C-VSM` |                                                       |                                                                                                       | [PHB 343](https://5e.tools/spells.html#witch%20bolt_xphb)           |
+|      |  2  | Augury               | 1 minute     | Self   | `-RVSM` | `M`: *Divinatory tokens worth 25+ GP*                 | [Divination Savant](https://5e.tools/classes.html#wizard_xphb,state:feature=s2-0~sub_diviner_xphb=b1) | [PHB 244](https://5e.tools/spells.html#augury_xphb)                 |
+|  Y   |  2  | Gentle Repose        | Action       | Touch  | `-RVSM` | `M`: *2 Copper, consumed*                             |                                                                                                       | [PHB 278](https://5e.tools/spells.html#gentle%20repose_xphb)        |
+|      |  2  | Locate Object        | Action       | Self   | `C-VSM` |                                                       | [Divination Savant](https://5e.tools/classes.html#wizard_xphb,state:feature=s2-0~sub_diviner_xphb=b1) | [PHB 293](https://5e.tools/spells.html#locate%20object_xphb)        |
+|  Y   |  2  | Misty Step           | Bonus        | Self   | `--V--` | Teleport 30 ft                                        | Copied from scroll                                                                                    | [PHB 299](https://5e.tools/spells.html#misty%20step_xphb)           |
+|  Y   |  2  | Shatter              | Action       | 60 ft  | `--VSM` |                                                       |                                                                                                       | [PHB 316](https://5e.tools/spells.html#shatter_xphb)                |
+|  Y   |  3  | Counterspell         | Reaction     | 60 ft  | `---S-` |                                                       |                                                                                                       | [PHB 258](https://5e.tools/spells.html#counterspell_xphb)           |
+|  Y   |  3  | Fireball             | Action       | 150 ft | `--VSM` | `M`: *Bat guano and sulfur*                           |                                                                                                       | [PHB 274](https://5e.tools/spells.html#fireball_xphb)               |
+|      |  3  | Sending              | Action       | Inf    | `--VSM` | `M`: *Copper wire*                                    | [Divination Savant](https://5e.tools/classes.html#wizard_xphb,state:feature=s2-0~sub_diviner_xphb=b1) | [PHB 314](https://5e.tools/spells.html#sending_xphb)                |
 
 ## Items
 
