@@ -1,5 +1,6 @@
 ---
-aliases: [2026-05-01]
+aliases:
+  - 2026-05-01
 created: 2026-05-01 18:27
 ---
 
@@ -202,7 +203,7 @@ A wish granted.
 
 Eyes opening in another moment. The bathroom, looking in a polished silver mirror. And he sees nothing. A faceless individual staring back. It reeks of metaphor, and yet it could not be more literal.
 
-> [[Kolvar]] "I really thought this would go on longer before I needed to explain this"
+> [[Kolvar]]: "I really thought this would go on longer before I needed to explain this"
 
 [[Kolvar]] asks the party what *they* think he is. [[NG]] knows that Doppelgangers are the only *confirmed* creature that can shapechange in this manner. However, there are stories of the *Unseely Fae*; fulfilling on promises in abnormal ways. When you ask for "everyone to find them beautiful", deciding that they look different to everyone who sees them would be the answer. The legends call these creatures marred by the warping promises of Fae as *Changelings*.
 
@@ -219,7 +220,7 @@ Now [[Zrandovorski]] is running with his siblings through the siege, but loses t
 Before he exits the trance, the heat of battle disappears, and he recalls much later on. He's on his knees in the snowy [[The Frozen March|Frozen March]], a wizard forever set to lie in the snow.
 
 [[Zrandovorski]] awakes from his trance, sharing the tragic destruction of his family. 
-Even before the Clerical War was in full swing, the [[Utopia|Utopian Empire]] existed, but they were not a superpower by any means. Simply one of the many empires in the area. But The Clerical War changed all of that; their bloodily claimed land and natural resources did much to
+Even before the Clerical War was in full swing, the [[Utopia|Utopian Empire]] existed, but they were not a superpower by any means. Simply one of the many empires in the area. But The Clerical War changed all of that; their bloodily claimed land and natural resources did much to empower their forces, and ultimately won them the war.
 
 [[Wextil]] was a stronger oracle than he was and foresaw the coming conflict, but couldn't do anything to prepare or change the outcome; the future is not so easily seen nor changed.
 

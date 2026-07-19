@@ -21,6 +21,12 @@ created: 2026-07-17 18:29
 
 ## Quotes
 
+>[!quote] The self-meta is strong with this one
+>
+>Dani: I think Sage did an excellent [[Tilly]] impression.
+>
+>Sage: Yes, I, too, was a teenage girl once.
+
 >[!quote] Bring back that 2024 woke
 >
 >Brodie: And [[Gobbo]]'s like, the oldest Goblin ever except for *this guy*! (points to Joseph / [[Zrandovorski]])
@@ -34,6 +40,16 @@ created: 2026-07-17 18:29
 >[[The Collector]]: Oh my, have you never heard of the Warforged before?
 >
 >Brodie: I go on a tangent.
+
+>[!quote] He's outta line, but he's right
+>
+>[[Kolvar]]: Oh yeah, the eater of worlds, we can TOTALLY kill that.
+>
+>[[Zrandovorski]]: It's not an eater of worlds, it's an eater of *realities*.
+
+>[!quote] Joseph's profound thoughts on *Gnomish*
+>
+>Because they are the tinkerers of the multiverse, perhaps it is the language of engines.
 
 ## Notes
 
@@ -62,6 +78,7 @@ created: 2026-07-17 18:29
 #### Round 1
 
 - The guards attempt to close and bar the door, so [[Garrison]] has a contested Strength check to see who closes or keeps the door open. Both roll 22 at first, then reroll and both roll a 19, but unfortunately the 3rd time is NOT the charm as the guards beat his 15 with their 17.
+- The other guard moves towards [[The Soul Sage]]'s room and fires a crossbow bolt at [[Tilly]], landing a hit and dealing 6 piercing damage. [[Tilly]] barely manages to maintain her concentration on *Hold Person* with an 11.
 - [[The Collector]] has [[Son]] ask [[Tilly]] if she thinks [[The Soul Sage]] is cursed (planning to potentially use [[Son]] to cast *Remove Curse* through him as it is a touch spell). She has no idea. So [[The Collector]] uses *Eldritch Blast* to blast down the door, now that he's level 5 he gets two blasts, and misses with a 9 (roll 2) and barely hits with a 10 (roll 3). He makes a quasit-sized hole in the middle of the door. He uses *Misty Step* through the hole to get into the room.
 	- He is attacked by one of the guards who hits with a 15 to deal 8 slashing damage.
 - [[Tilly]] casts *Ice Knife* and throws it down the stairs to hit one of the guards. She hits with a 19 and the guard fails his Dexterity save with an 11. He takes 6 piercing damage and 7 cold damage. She then activates her *Starry Form: Dragon*.
@@ -88,11 +105,11 @@ created: 2026-07-17 18:29
 
 - The crack tears open, and the party watches a tiny dot in the distance become larger and larger as it moves closer to the new portal. A gargantuan worm-like create bursts through the portal at **immense** speed! The ferret is instantly eviscerated.
 	- [[Zrandovorski]]'s held Action triggers, and rolls 19 to throw the [[Delicious Gemstone of Self-Banishing]] at [[Garrison]] who bats it with [[Ol' Reliable]] and it flies right into the mouth of the wurm. It looks like it's going to miss, but the wurm's terrifyingly fast approach causes it to barrel directly into the tiny orb at mach 2 and swallows it without even noticing it was there. It continues barreling through the building, tearing through it like a hot knife through butter.
-	- The creature SMASHES right into the ceiling of [[Caelia]]'s cave system in an instant. The underground city becomes incredibly unstable and starts caving in!
+	- The creature SMASHES right through the ceiling of [[Caelia]]'s cave system in an instant. The underground city becomes incredibly unstable and starts caving in!
 - It's now [[Caelia]]'s turn as all of the citizens are *instantly* convinced of the imminent threat and everyone starts rushing to leave the underground city. Unfortunately their only way out is a single-file ladder.
 - [[Son]] is able to fly out the hole that the wurm created in the ceiling and lands beside the ass of the wurm.
 - [[The Collector]] attempts to climb a pile or rubble next to the hole that the wurm created in the ceiling in order to make it to the surface. He fails the DC 10 Athletics and only makes it to the top of the pile.
-- [[Tilly]], on the other hand, is able to make it out of the hole by just barely poking her head out. She casts *Spike Growth* on the mid-section of the wurm. It fails the save with a 12 and becomes entangled in the plants.
+- [[Tilly]], on the other hand, is able to make it out of the hole by just barely poking her head out. She casts *Entangle* on the mid-section of the wurm. It fails the save with a 12 and becomes entangled in the plants.
 - [[Zrandovorski]] rolls a 13 on the Acrobatics check to leave through the ceiling and is able to make it within 10 feet of the surface (within the exit of the hole). He casts *Sleep* thanks to its 60 foot range and the wurm fails the saving throw with a 15. It is now Incapacitated and trapped in the Spike growth.
 - [[Kolvar]] casts *Plant Growth* on the worm and creates a mass growth of plants to stop the creature's movement. Every 1 foot of distance takes 4 feet of movement.
 - It's the wurm's turn. Thanks to being Incapacitated and in difficult terrain, it can't do anything but re-attempt the save against *Sleep*, which it passes at a 17.

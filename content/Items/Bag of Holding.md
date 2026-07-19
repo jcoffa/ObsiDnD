@@ -34,3 +34,4 @@ A patchy leather bag with a face sewn into it. This was [[Session 17#The Party L
 - 350 GP worth of ruby ([[Session 22#Our Reward is Getting The Fuck Out Of There|from Session 22]])
 - 100 GP worth of diamond ([[Session 22#Our Reward is Getting The Fuck Out Of There|from Session 22]])
 - 200 GP worth of obsidian ([[Session 22#Our Reward is Getting The Fuck Out Of There|from Session 22]])
+- [[The Soul Sage]], stable with ~7 minutes and 42 seconds of oxygen left

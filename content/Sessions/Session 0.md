@@ -92,7 +92,7 @@ His farsight as an oracle gives him no insight into what may become of his broke
 
 #### [[Garrison|Justin - The Discarded]]
 
-As far as he knows, this Warforged has been wandering the Southern Isles having been dumped there and left to rust. One day, he ran into an Artificer who was able to repair him, and became indebted to him for life
+As far as he knows, this Warforged has been wandering the Southern Isles having been dumped there and left to rust. One day, he ran into an Artificer who was able to repair him, and became indebted to him for life.
 
 **Potential reasons for arrest**: Association with a criminal.
 
