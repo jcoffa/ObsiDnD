@@ -129,6 +129,26 @@ The party gains 1,000 XP for a total of 7,900 XP!
 
 ## Recap
 
-*What do you want to remember at the start of next session?*
+Having recently found their elusive XP and cooked up what turns out to be way too many backup plans, The Reconstellators first discuss their new powers before going to meet [[The Soul Sage]]. [[Son]] flies now, [[Zrandovorski]] can blow things up with his mind, and [[Garrison]] has finally found a steed he can ride, a giant ferret named Furret.
+
+Empowered by their new party member, they head to [[The Soul Sage]]'s sex dungeon, I mean bedroom, to enact their scheme to get a badge on him. Despite [[Tilly]]'s robes of authority and righteous anger at being charmed, she (and an invisible floating [[Son]])is the only one allowed in to confront [[The Soul Sage]], while the rest of the party waits outside.
+
+An exact quote from the actual session notes: "[[The Soul Sage]] performs some classic Male Manipulator Cult Leader mumbo jumbo bullshit against an impressionable 18 year old in his bedroom". Their discussion leads [[The Soul Sage]] to reveal that he will be the only one hurt by the ritual, acting as a conduit for the voice of [[The Abberant]]. Unable to let another person she's come to know die, [[Tilly]] tells [[Son]] to begin Plan C and casts *Hold Person* on [[The Soul Sage|The Sage]], alerting the guards and sending them into combat.
+
+**Round 1**: Despite the guards shutting the door, The Reconstellators quickly break it down and start fighting off the guards while [[Son]] manages to get the badge onto [[The Soul Sage]]. He screeches and his body begins to contort unnaturally, sending beams of light shooting from the floor and causing ALL the attuned badges across [[Caelia]] to glow brighter (oopsie, might have activated the ritual in an effort to stop it). 
+
+**Round 2**: Before whatever is happening can go any further, [[The Collector]] uses [[Son]] as a conduit to cast *Remove Curse* on [[The Soul Sage]], releasing him from whatever effect the badge had started, and at the same moment a crack appears in the wall and grows in size. [[Tilly]] stabilizes [[The Soul Sage]]'s ragged body and [[Zrandovorski]] stores him in the [[Bag of Holding]] for further questioning later. 
+
+ [[Zrandovorski]] investigates the crack in the wall and can immediately tell they're turbo-fucked. This is the rift of a *Fiendwurm*, a kind of infernal worm that burrows through realities and travels to different planes with a portal in its stomach infernals use for transportation to other realms. Notably this one seems more like an *Abberationwurm*. While [[Tilly]] and [[Kolvar]], disguised as [[The Soul Sage]], go to get the people of [[Caelia]] to flee, The Reconstellators come up with one of their most hair-brained schemes yet; feed the [[Delicious Gemstone of Self-Banishing]] to the wurm and have [[The Collector]] cast *Suggestion* to get it to banish itself.
+
+**Round 3**: What starts as a tiny speck in the crack bursts through the wall as the GARGANTUAN Fiendwurm appears. [[Zrandovorski]] takes his shot, throwing the gemstone to [[Garrison]] who just barely bats it into the Fiendwurm's mouth with [[Ol' Reliable]]. However before they can do anything else the creature smashes right through the ceiling of [[Caelia]] and out into [[The Frozen March]] in one fell swoop, and the underground city starts caving in on itself. Safe to say the people are convinced! They immediately start trying to flee to the 1 single person ladder out of this place.
+
+The Reconstellators attempt to follow the fiendwurm out through the ceiling. It's massive body means its head is nowhere close for the first turn of combat, but thanks to [[Tilly]]'s *Entangle*, [[Zrandovorski]]'s *Sleep* and [[Kolvar]]'s *Plant Growth*, the worm is now restrained, incapacited, and has a quarter of its movement speed. Some small flying eyeballs still manage to seep out of its mouth as The Reconstellators gain a better position.
+
+**Round 4**: Thanks to [[Garrison]]'s glorious new steed, [[The Collector]] is able to make it close enough to the front of the worm in the next round and begins casting *Suggestion* on the worm, with a guaranteed failure coming from [[Zrandovorski]]'s 1 remaining foretelling role of 14. However, the DM tells us the language used here matters, and out of the 3 languages [[The Collector]] speaks (Elvish, Common, and Gnomish), at least 1 is known by the creature. After much real-life pontificating, [[Zrandovorski]] recalls that " a fiendwurm is an infernal **engine**". 
+
+As Furret Akira-slides [[The Collector]] into position he casts *Suggestion* in Gnomish, instructing the wurm to banish itself and maintain the spell for its whole duration. The fiendwurm disappears with a satisfying *pop!*, and MY GOD THEY REALLY DID IT.
+
+Before they can celebrate the city continues to collapse behind them, and The Reconstellators enter a mad sprint to get away from the falling ground. [[Garrison]], [[Tilly]] and [[Zrandovorski]] don't make it and nearly fall to their deaths, but *Feather Fall* comes in clutch, allowing them to slowly descend into the ruins of [[Caelia]] with no damage. The session ends with The Reconstellators going to assist the surviving 275 citizens of [[Caelia]], with everyone who didn't sleep the night taking 1 level of exhaustion.
 
 - We need to take [[The Soul Sage]] out of the [[Bag of Holding]]. He only has ~7 minutes and 42 seconds of oxygen remaining.
