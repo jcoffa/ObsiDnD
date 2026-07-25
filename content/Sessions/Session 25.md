@@ -41,7 +41,7 @@ created: 2026-07-24 18:23
 
 >[!quote] Hail the Flail Snail Fail So We Can Prevail
 >
-><*Cameron makes the Hail Hydra hand signs and Sage responds with a Hail Hitler motion*
+><*Cameron makes the Hail Hydra hand signs and Sage responds with a Hail Hitler motion*>
 >
 >Dani: NO! Just because that white guy hailed does not mean that this white guy can hail!
 
@@ -57,7 +57,7 @@ created: 2026-07-24 18:23
 - [[Tilly]] tells him that she has no regrets and is happy that he's alive. She says he tried to take the easy way out; by sacrificing himself for the betterment of his people and [[The Frozen March]] he would have left [[Caelia]] without a leader. She tells him that now all he can do is take on the responsibility he thought he had, to truly lead the people of [[Caelia]] that have nowhere to go. He admits that she's right and agrees to lead his people to safety, and both [[NG]] and [[Tilly]] are granted Heroic Inspiration for their empassioned speeches.
 - After building a jumbo tent to fit Furret inside, The Reconstellators discuss what to do with the people of [[Caelia]], and [[The Soul Sage]] with his new lease on life. [[The Collector]] is a bit embarrassed that they actually did cause trouble just like he said he would, and they express concern about them just trying the ritual again once they're separated.
 
-### (1) Unread Message(s)
+### [Loud Sounds from Another Continent](https://open.spotify.com/playlist/3palnwrPKfV8xoDsSVWnvF)
 - The Reconstellators decide to rest to relieve them from exhaustion, but only a few hours pass before [[The Collector]] feels a tap on his shoulder as [[Gobbo]] reappears to provide the information they asked the Kuo-Toa for. Sadly, they've already accomplished what he wanted, and he's glad that they stopped the ritual, while The Reconstellators don't feel great about how stopping it all went. [[Gobbo]] reveals he is currently at home in Bastrilixia, but he's not there very often. Only [[The Collector]] has heard of this city on the other side of the world that hosts a special event called "The Abberant Games".
 - [[Kolvar]] asks [[Gobbo]] when he killed [[The Abberant]] and it was only 10 years ago, despite this ritual having been worked towards for 100 years. [[The Collector]] asks for a boon for accomplishing their task, and [[Gobbo]] offers gold if they come to him physically On another continent. This also leads into an extensive discussion about his wishes for infinite bacon and an infinite drumsticks.
 - They try to grill [[Gobbo]] for additional details, but he reveals he doesn't know much outside of this ritual. He hasn't heard about a lich in [[The Observatory]], or any other activity from the many cults in [[The Frozen March]] despite being a God of Good. The Reconstellators quickly grow tired of his shenanigans and he leaves, allowing them to finish their long rest.

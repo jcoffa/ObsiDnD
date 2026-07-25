@@ -22,3 +22,5 @@ A somewhat run-down observatory in the southern mountains along the border betwe
 [[Session 15#++ Kolvar|The Reconstellators were told by Toran the Red]] that there are rumors of clerics residing in [[The Observatory]] with unknown loyalties, but strong enough magic to bring people back from the dead.
 
 [[Session 21#Talking Heads|The Reconstellators attempted asking the dead Marquis of Draskhrr]] what he knew about [[The Observatory]], but all he could add was that the wizard who resides there was old beyond normal age (aka a lich) and knows more booyagh than anyone in the old Hobgolbin Empire.
+
+[[Session 25#Wait, Where's The Main Quest Marker Again?|According to The Soul Sage]], [[The Cult of the Stars]] has no direct connection with [[The Observatory]], or any lich residing within. He suggests that if he was someone looking to control the location, a rumour of him being a lich would be very advantageous to keep people away.
