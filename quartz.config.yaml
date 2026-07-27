@@ -51,7 +51,7 @@ plugins:
         - git
         - filesystem
     order: 10
-  - source: github:quartz-community/syntax-highlighting
+  - source: "@quartz-community/syntax-highlighting"
     enabled: true
     options:
       theme:
