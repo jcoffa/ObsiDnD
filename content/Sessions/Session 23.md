@@ -145,4 +145,33 @@ The party receives 401 XP, for a total of 6,900 XP! We have officially reached l
 
 ## Recap
 
-*What do you want to remember at the start of next session?*
+Having any possible semblance of a plan decimated by [[Session 22#Rule 34 Is Being Written Before Our Very Eyes|Tilly's vision]], The Reconstellators disperse into their separate plans; [[Tilly]] and [[NG]], with [[Son]] as his hand, head to the badge ceremony, [[Kolvar]] disperses into the city to find more information on the ritual, and [[Garrison]] and [[The Collector]] stay in their tavern room to avoid immediate arrest, only to get immediately threatened with a knife to the neck. 
+
+Unfortunately for most people but her, [[Tilly]] and [[NG]] are immediately separated at the badge ceremony. [[NG]] manages to successfully acquire his badge through [[Son]], while [[Tilly]] accepts her no thoughts, head empty, immediately falling under a charm making her think [[The Soul Sage]] is the beacon of light who will save the world. Despite persistent arguments to the contrary, she opens a Mind Link with [[The Soul Sage]] revealing her Kalashtar nature and catching his interest, getting an invite backstage to talk in more detail.
+
+Back in their room, [[The Collector]] learn more about this supposed [[Gobbo|God of Good]]; a naked, elderly goblin in a toupèe and a cape claiming that the ritual being run here is not to summon [[The Abberant]], but bring him back to life, and will kill everything within a 100 mile radius unless he is stopped. 
+
+Kolvar discovers that the people here are not universally sold on [[The Soul Sage]]; though vague, some aren't willing to make "the necessary sacrifice" and "put their body on the line".
+
+Back with [[Tilly]] (being secretly watched by an invisible [[Son]]), she is completely rolling with everything [[The Soul Sage|The Sage]] is saying; she reveals that the party is there for the elusive 'XP' before heading to [[Fair Helm City]]. He wants [[Tilly]] to remove anyone from [[Caelia]] who is against the ritual, aka The Reconstellators, and she quickly agrees, so he answers any questions she can think of. Things of note she learned:
+	[[The Frozen March]] became frozen because of a wave of elemental magic long ago, and that some people can access and use this elemental magic.
+	[[The Soul Sage]]'s name is Vicci, and he knew 1 other kalashtar who he killed when he was an adventurer, after a disagreement on [[The Soul Sage]]'s opinions and actions in [[Caelia]].
+
+With everyone collecting back in the room (except [[Tilly]], who is delayed with [[The Soul Sage|The Sage]]), they get recapped on what they've learned. [[Kolvar]] offers to cast Calm Emotions on [[Tilly]] so the charmed effect will be dropped, and [[NG]] will take that opportunity to touch the badge and cast Identify to learn to undo the effects. 
+
+As soon as [[Tilly]] arrives Calm Emotions goes off, with [[NG]] choosing to fail and [[Tilly]] unfortunately passing. Since the badges auto-attune when someone touches them, [[NG]] learns from Identify the only way to disconnect someone from their badge is to put lead between them and their badge. [[NG]] then immediately falls under the effects of the charm when Calm Emotions ends, forcing the party to stall [[NG]] and [[Tilly]] until [[Kolvar]] can cast Calm Emotions again; this time [[Tilly]] is uncharmed, and tells them to use her authority to convince the people the ritual will kill them, or to report to [[The Soul Sage]] about the deadly consequences of the ritual. 
+
+It is, uhhh, questionable amongst the party whether they believe [[The Soul Sage]] actually doesn't know the ritual will summon [[The Abberant]], but it's worth a shot. [[The Collector]] casts Suggestion on [[NG]] to "come up with a plan before taking action and leaving this room", which temporarily relieves him of the badge charm, and they convince [[Tilly]] to just go to bed since they are easy pickings.
+
+[[The Collector]] and [[Garrison]] head out to find lead, but [[The Collector|Linus]] is immediately arrested and brought to [[The Soul Sage]], at the same time [[Kolvar]] is visiting [[The Soul Sage|The Sage]] disguised as [[Tilly]] to inform him of the deadly nature of the ritual. Luckily, [[Garrison]] is the GOAT, and finds a lead sign outside the local smithy. With a brilliant display of athletics and acrobatics no one can see because he's invisible, he manages to rip the sign from the wall and bring it back to the room undetected using Solid Snake tactics.
+
+[[The Collector]] and [[Kolvar|Tilvar]] are not doing great at winning over [[The Soul Sage]], who can immediately tell [[Kolvar]] is not [[Tilly]] and knows The Reconstellators are trying to stop the ritual. [[The Collector]] manages to accept a badge without being charmed; it is notable that [[The Soul Sage]] does not touch the badge. [[The Soul Sage|The Sage]] gives them an ultimatum; they can stay and investigate the nature of the ritual as long as they accept his badges, otherwise they must leave [[Caelia]] by dawn.
+
+They manage to uncharm everyone, and through some badge testing, learns that the badges are one person use; whoever activates it initially is the only person who can attune and be charmed by them. But are still left with what to do about the ritual. 
+[[Garrison]]'s fervent prayers manage to reach a follower of [[Gobbo]], a Kuo-Toa, who provides no information that could help them at all. [[Tilly]] and [[Kolvar]] both don't want to just kill [[The Soul Sage]] outright; [[Kolvar]] thinks he genuinely is unaware that the spell will kill everyone and would stop if he knew, and [[Tilly]] is hesitant to kill another Kalashtar.
+
+Since it was a bit sketchy that [[The Soul Sage]] wouldn't touch the badge, they make several layers of redundant plans to get [[The Soul Sage|The Sage]] to wear a badge, hoping to gleam more information about his relationship with the ritual (good god please Portent Rolls);
+	[[Tilly]] casts Hold Person while they put a badge on him
+	[[Garrison]] casts Command while they put a badge on him
+	[[Son]], invisibly transformed as a bat, untransforms and drops a badge on him
+	[[The Collector]] casts Suggestion to make him put on the badge

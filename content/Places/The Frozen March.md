@@ -36,3 +36,5 @@ views:
 A cold desolate wasteland north of the impassable peaks and north of [[Utopia]]. This is the place where all of the undesirables are sent. From political rivals of the Grand Exelcium to war criminals from the Clerical War, to even petty thieves. If you committed a crime to the crown, if you don’t get a slap on the wrist, you’ll likely end up here.
 
 There are rumours and weird moments that hint the [[The Frozen March]] were not always frozen over. [[Tilly]] found by chance that [[Session 20#Downtime Time|the roads under the snow of Draskhrr have fossilized moss]], and [[The Cult of the Stars]] mention that [[Caelia]] has existed from "before the march was frozen" ([[Session 22#Stone Road Mall|in Session 22]]).
+
+[[Tilly]] learned from [[The Soul Sage]] ([[Session 23#Backstage Passes|in Session 23]]) that a massive wave of elemental magic froze [[The Frozen March|The March]] long ago, causing the flash-frozen state it is in now. There are even some creatures that can access and use this elemental magic (like [[Toran the Red|Toran]], or possibly [[Session 5#The Most Horrific Encounter in D&D History|the winter wolf]]).

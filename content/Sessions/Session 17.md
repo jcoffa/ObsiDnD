@@ -115,7 +115,7 @@ Combat is now over as the man has died, and both the portal and his giant tentac
 - [[The Collector]] spends a minute to regain a spell slot, and uses it to cast *Lesser Restoration* on [[The Baby]] to cure its paralysis. [[The Baby]] immediately begins crying loudly, freaking out [[Son]] in the process.
 - [[Tilly]] recounts the thing that the man said in her mind during combat. She says the man told her that [[The Baby]] isn't important at all; he intentionally used it as bait to lure in The Reconstellators knowing that they would feel compelled to save it. What the fuck, man!
 - [[The Collector]] attempts to calm [[The Baby]] down, and Cameron *hilariously* asks to perform an Animal Handling check (which he succeeds on) and [[The Baby]] goes to sleep after being comforted.
-- [[Zrandovorski]] investigating the corpse, and finds a bag with an intricate face sewn on the outside of it.
+- [[Zrandovorski]] investigates the corpse, and finds a bag with an intricate face sewn on the outside of it.
 	- ++[[Bag of Holding]]
 - Exhausted after combat, the party takes a rest after dicking around with the [[bag of holding]] and pulling out a black emerald and a [[Soul Coin]] by correctly guessing some of its contents by ~~random chance~~ expert sleuthing and rigorous pattern analysis.
 - After feeling renewed from their rest, the party stands 60 feet away from [[Son]] who is instructed to turn the bag inside out so that it will spew its content into the snow. The party feared traps and monsters, but turns out it was just some normal items.

@@ -633,6 +633,40 @@
             "order": ""
           },
           "type": "Date"
+        },
+        {
+          "name": "The Reconstellators meet the Soul Sage",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 6,
+            "year": 133
+          },
+          "id": "ID_7b780a7bfb58",
+          "note": "Sessions/Session 23.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Fiendwurm destroys the ancient city of Caelia",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 6,
+            "year": 133
+          },
+          "id": "ID_789b8b6baa2b",
+          "note": "Sessions/Session 24.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "categories": [],
