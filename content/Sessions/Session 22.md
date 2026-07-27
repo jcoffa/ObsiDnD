@@ -154,9 +154,9 @@ created: 2026-07-03 18:11
 	- [[Zrandovorski]] and [[Kolvar]] who are also present.
 - As they all split up, with [[The Collector]] and [[Garrison]] alone in the tavern room, [[The Collector]] feels something sharp poke at the back of his neck.
 
->[!quote] Gobbo
+>[!quote] [[Gobbo]]
 >
->Hi, I'm Gobbo; the God of Good. I'm gonna need your help with something.
+>Hi, I'm [[Gobbo|Gobbo; the God of Good]]. I'm gonna need your help with something.
 
 The party receives 324 XP, for a total of 6,499 XP! We are 1 XP away from level 5.
 

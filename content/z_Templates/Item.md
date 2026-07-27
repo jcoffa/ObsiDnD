@@ -5,7 +5,7 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 
 #  <% tp.user.wrap_link(tp.file.title) %>
 
-- **Type:** *Mundane/Ring/Cape/Armour (Chain Mail)/Weapon (Sword)/Wondrous Item/etc.*
+- **Type:** *Mundane/Ring/Armour (Chain Mail)/Weapon (Sword)/Wondrous Item/Monster Parts/etc.*
 - **Source:** *If it's official content, link its book and page number to [5e.tools](https://5e.tools/items.html) if possible! E.g. for The Apparatus of Kwalish: [DMG 229](https://5e.tools/items.html#apparatus%20of%20kwalish_xdmg). If it's not official, just put N/A here*
 - **Currently Carried By:** *Link to a PC or [[Bag of Holding]]*
 - **Requires Attunement?** *Yes/No*

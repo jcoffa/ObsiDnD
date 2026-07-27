@@ -2,6 +2,10 @@
 aliases:
 created: 2026-07-13 12:17
 marker:
+  - coordinates: 190, 174
+    icon: lucide-stars
+    colour: "#e2c505"
+    mapName: The_Frozen_March
 ---
 
 # [[Caelia]]

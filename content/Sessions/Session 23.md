@@ -52,7 +52,7 @@ created: 2026-07-10 23:45
 - [[NG]]'s plan to use [[Son]] as his hand is successful as he manages to accept the badge with no issues and feeling no adverse effects. [[Tilly]], on the other hand, can tell when she receives it that she has immediately become attuned to the magical badge, and she feels a sense of connection to everyone in the room. She can tell exactly 400 people have received a badge and can intuit their locations. She also feels an overwhelming appreciation and love for [[The Soul Sage]], as if he is a beacon of light who will save the world with his plan, *which has nothing to do with her being charmed upon receiving the badge*.
 - Through [[Tilly]]'s [Mind Link](https://5e.scrunko.monster/races.html#kalashtar_efa), [[NG]] gets in contact with [[Tilly]] to see where she went, and she points straight forward at [[The Soul Sage]] and says she's going to talk to them. [[NG]] tries to convince her to not approach [[The Soul Sage|The Sage]], but she is now more determined than ever under the effects of the badge's charm, so he decides the best course of action is to find a way to get backstage for when [[Tilly]] inevitably gets taken.
 
-### The God of Good? This Guy?
+### [[Gobbo|The God of Good]]? This Guy?
 
 - Back with [[The Collector]] and [[Garrison]], [[Gobbo]] asks if they're going to help him, but they'd both like more information and to see this mysterious god before they agree to anything. 
 - The knife leaves [[The Collector]]'s throat, and invisibility deactivates as the goblin, [[Gobbo]] appears before them. Appearing older and wiser than most goblins, he is wearing nothing but a cape and a ~~toupée~~ very real full head of hair. 

@@ -17,7 +17,7 @@ created: 2026-04-28 20:47
 #### Backstory
 During an encounter with a creature in [[Session 16#Now Arriving The Tower That Makes You Loredump|The Tower That Makes You Loredump]] (it's actually the creature in the tower that makes you loredump), [[Kolvar]] was shown [[Session 16#Kolvar 's Trance|a vision of his past]]. Through this, the party discovered that he was a Changeling - not only that, but that part of his warlock pact was to turn him into one. He can't remember what he used to be or what his previous life was. He gave everything up to be everyone, and no one. 
 
-The entity he made a pact with was some kind of fae. In that vision of the past, he wasn't able to look directly at it, but it was described as beautiful, in a weird, gross sort of way. [[Kolvar]] seemed pretty obsessed with it. What a weirdo...
+The entity he made a pact with was [[Unseelie Queen|some kind of fae]]. In that vision of the past, he wasn't able to look directly at it, but it was described as beautiful, in a weird, gross sort of way. [[Kolvar]] seemed pretty obsessed with it. What a weirdo...
 
 #### Trivia
 - The party met him in the mountains near [[The Hearth of Hope]] while walking through a blizzard, though [[Kolvar]] was seemingly unaffected by the cold.

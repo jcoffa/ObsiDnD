@@ -24,7 +24,7 @@ A patchy leather bag with a face sewn into it. This was [[Session 17#The Party L
 - [[Iron Flask]]
 - Still beating heart in a jar
 - [[Cursed Amulet of the Farsighted One]]
-- Impression of *"Gobbo was here"*; charcoal on parchment
+- Impression of *"[[Gobbo]] was here"*; charcoal on parchment
 - Scroll of *[Ice Storm](https://5e.tools/spells.html#ice%20storm_xphb)*
 - The metal arm of [[Rykor Steelhand]]
 - Marquis *Speak With Dead* pendant

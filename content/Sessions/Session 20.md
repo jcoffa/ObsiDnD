@@ -74,7 +74,7 @@ created: 2026-06-19 18:26
 - The Reconstellators, still a bit unsettled with finding [[Session 19#Speak With Dead Marquis|the preserved corpse of the Marquis in the longhouse basement]], decide to continue searching their new residence in less... morbid areas.
 - The map of [[The Frozen March]] is built into the war table, so it can't be carried with the party. A few differences are added to the map [[The Frozen March|that note]], including a star, a mountain linked to the Earthen Elemental plane, and a lumberyard near [[The Hearth of Hope]] is identified as not being controlled by either the goblins or [[The Hearth of Hope]].
 - [[Kaz the Cold]] had a coinpurse with 100 GP in it, and a scroll of *Ice Storm*.
-	- [[Zrandovorski]] also finds a carving on the side of [[Kaz the Cold]]'s side table. Scratched in with a knife or dagger, is the phrase *"Gobbo was here"*.
+	- [[Zrandovorski]] also finds a carving on the side of [[Kaz the Cold]]'s side table. Scratched in with a knife or dagger, is the phrase *"[[Gobbo]] was here"*.
 	- He isn't sure where he's heard this, maybe a story from someone who was dropped in [[The Frozen March]], but there was an adventurer from across the ocean who dreamed of becoming a God. Supposedly, he had a calling card of writing this exact phrase wherever he went. The question is, was this authentic? Or just a follower or copycat imitating their idol?
 
 ### The Prison
@@ -156,7 +156,7 @@ The party gains 175 XP for a total of 5,775 XP!
 
 ## Recap
 
-The Reconstellators, having now liberated The People's Democratic Republic of [[Draskhrr]] from its tyrannical overlords, debate whether to also liberate its taxes into their coinpurses. They instead investigate the former room of [[Kaz the Cold]] and liberate *his* personal funds into their coinpurses. The rest of the room is unremarkable, including a strange carving into his nightstand *"Gobbo was here"* (whoever that is).
+The Reconstellators, having now liberated The People's Democratic Republic of [[Draskhrr]] from its tyrannical overlords, debate whether to also liberate its taxes into their coinpurses. They instead investigate the former room of [[Kaz the Cold]] and liberate *his* personal funds into their coinpurses. The rest of the room is unremarkable, including a strange carving into his nightstand *"[[Gobbo]] was here"* (whoever that is).
 
 Afterwards they go to the prison to see if there are any spies for [[Utopia]]. They interrogate the oldest guy there, give him a bedroll, and leave without bothering to talk to anybody else. There's still 2 weeks left until [[Toran the Red|Toran]] makes it to [[Draskhrr]], so there's plenty of time for the party to ~~fuck around~~ perform well-thought out downtime activities.
 

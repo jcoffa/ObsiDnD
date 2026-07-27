@@ -221,7 +221,7 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 2,
+        "day": 4,
         "month": 6,
         "year": 133
       },
@@ -661,6 +661,23 @@
           },
           "id": "ID_789b8b6baa2b",
           "note": "Sessions/Session 24.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Reconstellators arrive in Fair Helm City",
+          "description": null,
+          "date": {
+            "day": 4,
+            "month": 6,
+            "year": 133
+          },
+          "id": "ID_6b7978b87858",
+          "note": "Sessions/Session 25.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,
