@@ -11,13 +11,10 @@ private/
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
-<<<<<<< HEAD
+.turbo/
 
 # We actually do want to track *some* of the .obsidian folder so that setup
 # becomes very easy for any of my friends who want to contribute.
 **/.obsidian/workspace.json
 **/.obsidian/plugins/*/*
 !**/.obsidian/plugins/*/data.json
-=======
-.turbo/
->>>>>>> 74b3fc9efd0caafea3dbcd846ddf1f06855b6d2a
