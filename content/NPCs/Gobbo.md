@@ -9,7 +9,7 @@ created: 2026-07-26 23:04
 
 >[!info]- Dramatic Irony - What the players know that the characters don't
 >
-> [[Gobbo]] is actually a character that the *players* know a **lot** about, even though to the *characters* he is steeped in mystery. [[Gobbo]] is the character played by Brodie (of [[The Collector]] fame) during "Campaign 2"; the campaign that followed "Triple G" which ended before this "Campaign 3" following The Reconstellators. Same goes for the [[Philip]] that he mentions; referencing the character played by Joseph (of [[Zrandovorski]] fame) in that same campaign.
+> [[Gobbo]] is actually a character that the *players* know a **lot** about, even though to the *characters* he is steeped in mystery. [[Gobbo]] is the character played by Brodie (of [[The Collector]] fame) during "Campaign 2"; the campaign that followed "Triple G" which ended before this "Campaign 3" following The Reconstellators. Same goes for the [[Philip Fisher|Philip]] that he mentions; referencing the character played by Joseph (of [[Zrandovorski]] fame) in that same campaign.
 
 ## Description
 
@@ -21,4 +21,4 @@ He refers to himself as "The God of Good" and does not elaborate much on what th
 
 ## Relationships
 
-- Self-stated friendship with someone named "[[Philip]]" who lives on a different continent (i.e. not [[Teradin]]). From how [[Gobbo]] speaks about him, he sounds like a powerful magic user with a somewhat flippant personality.
+- Self-stated friendship with someone named "[[Philip Fisher|Philip]]" who lives on a different continent (i.e. not [[Teradin]]). From how [[Gobbo]] speaks about him, he sounds like a powerful magic user with a somewhat flippant personality.

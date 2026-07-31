@@ -71,7 +71,7 @@ Combat begins, using the [[#The Flashback|initiative rolls from earlier]].
 ### The City
 
 - After some more walking on Day 2, the group reaches what looks like a Bandit Camp. Wooden spike walls that go around a large open-air camp. Large wooden buildings that have been scrapped together like plywood, some of it charred as if it had been collected from similarly exploded wooden carts. Some are stilt home; small, like they would fit a bed and basic supplies. Some larger buildings and a big hole in the ground are off to the side of the camp. The largest building is in the center, like a Jarl's Longhouse.
-- After discussing with the guards, [[Zrandovorski]] tell his companions that they are now in [[Draskhrr]]; the largest city on this side of [[The Frozen March]]. They head out to The Everburning Chalice first; the only Tavern here.
+- After discussing with the guards, [[Zrandovorski]] tell his companions that they are now in [[Draskhrr]]; the largest city on this side of [[The Frozen March]]. They head out to [[The Everburning Chalice]] first; the only Tavern here.
 - Theresa, the barkeep, welcomes the group. [[Zrandovorski]] buys everyone a round of *Snow Rat Shit*; some awful Goblinoid mulled liquor served steaming hot with chunks of dried fruit.
 - [[The Collector]] checks the job board.
 
@@ -110,7 +110,7 @@ Combat begins, using the [[#The Flashback|initiative rolls from earlier]].
 
 - The main goal is to render the forge useless for a long time, so that [[The Iron Fang]] has to go to Grit for their blacksmithing needs. We also have to find a way to destroy all the weapons they're stockpiling.
 - Water expands into steam when boiled, which has an increased volume and will create pressure if enclosed in something strong, like metal. Containers under high pressure will explode violently if even a small fault on its structural integrity occurs. If we create a big metal ball of water and chuck it into the crucible, then top it off with all the swords to melt it down into raw iron. Hopefully, this encases the water bomb underneath a bunch of metal so that when its container fails and explodes it will break a hole in the bottom of the crucible. A forge can't make anything without a crucible to melt metals!
-- We need to find a way in to the Steamworks with enough time to make a mess of things in there. We try to forge a document from [[Rykor Steelhand|Rykor]] but we need his handwriting. Theresa at the Everburning Chalice has a note from [[Rykor Steelhand|Rykor]] to tell her to ask [[Zrandovorski]] about the announcement he has to make. He brushes off this request, but the group fails to get the note from her for now.
+- We need to find a way in to the Steamworks with enough time to make a mess of things in there. We try to forge a document from [[Rykor Steelhand|Rykor]] but we need his handwriting. Theresa at [[the Everburning Chalice]] has a note from [[Rykor Steelhand|Rykor]] to tell her to ask [[Zrandovorski]] about the announcement he has to make. He brushes off this request, but the group fails to get the note from her for now.
 
 ## Recap
 

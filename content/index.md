@@ -49,15 +49,7 @@ For more information on proper vault management and contributing, see [the vault
 
 Non-note files (e.g. images) that exist but are not linked anywhere.
 
-```base
-views:
-  - type: table
-    name: Orphaned Files
-	filters:
-		and:
-			- "!file.links"
-			- "!file.backlinks"
-```
+![[Orphaned Files.base]]
 
 #### Broken Links
 
@@ -65,21 +57,4 @@ Links to notes that don't actually exist (yet!) and which note the links come fr
 
 Remember to always create new notes by opening the *Command Palette* with `Ctrl+P`, searching for `QuickAdd: New`, and then selecting the appropriate note type.
 
-```base
-formulas:
-  Broken Links: file.links.filter(!value.asFile().isTruthy()).unique().map(value.replace(/\[+|\|.*/, "")).join(", ")
-views:
-  - type: list
-    name: Broken Links
-    filters:
-      and:
-        - formula["Broken Links"]
-        - file.name != "index"
-    order:
-      - file.name
-      - formula.Broken Links
-    markers: bullet
-    separator: "  ⟶ "
-    indentProperties: false
-
-```
+![[Broken Links.base]]

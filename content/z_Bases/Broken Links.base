@@ -1,0 +1,13 @@
+formulas:
+  Broken Links: file.links.filter(!value.asFile().isTruthy()).map(value.replace(/\[+|\|.*/, "")).unique().join(", ")
+views:
+  - type: list
+    name: Broken Links
+    filters:
+      and:
+        - formula["Broken Links"]
+        - file.name != "index"
+    order:
+      - file.name
+      - formula.Broken Links
+    separator: "  ⟶ "

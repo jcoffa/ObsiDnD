@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDatabase",
       "LiArchive",
       "💨",
       "⚠",
-      "🐶",
-      "💀"
+      "🐶"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,5 +51,6 @@
   "PCs/Deceased": "💀",
   "NPCs/Companions": "🐶",
   "Quests/Abandoned": "⚠",
-  "Items/Archive": "LiArchive"
+  "Items/Archive": "LiArchive",
+  "z_Bases": "LiDatabase"
 }

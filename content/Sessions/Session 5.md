@@ -22,7 +22,7 @@ created: 2026-02-06 18:26
 
 ## Notes
 
-- The party leaves Berkley's to go drink at The Everburning Chalice and figure out their next move.
+- The party leaves Berkley's to go drink at [[The Everburning Chalice]] and figure out their next move.
 - After deciding that it would be theoretically safe for [[Garrison]] to try alcohol, the party orders a round of ~~Smirnoff Ice~~ Globon Chills to get them wasted as [[Volo]] has offered to pay for all their drinks for the night in thanks for saving his life.
 - The party workshops names to call themselves by.
 	- [[The Collector]] and The Collectettes
@@ -111,7 +111,7 @@ This is a reference to a [Zach the Bold short](https://youtube.com/shorts/Sfh7em
 
 ## Recap
 
-After a brief conversation with Berkley Longnose now that they are safely back in [[Draskhrr]], the party returns to The Everburning Chalice to get shitfaced after almost dying in [[The Tomb of Booyahg]] earlier that day. [[Volo]], as thanks for being saved by the party, graciously pays for their drinks that night. [[NG]] decides that it's technically safe for [[Garrison]] to drink alcohol, and the group fears that he may have developed something of an addiction to it.
+After a brief conversation with Berkley Longnose now that they are safely back in [[Draskhrr]], the party returns to [[The Everburning Chalice]] to get shitfaced after almost dying in [[The Tomb of Booyahg]] earlier that day. [[Volo]], as thanks for being saved by the party, graciously pays for their drinks that night. [[NG]] decides that it's technically safe for [[Garrison]] to drink alcohol, and the group fears that he may have developed something of an addiction to it.
 
 While deep in their cups, the party discusses the most important decision of their adventure yet; their party name. Among a laundry list of generally kind of junk ideas (*because we were fooling around a lot and making lots of dumb jokes*), [[NG]] suggests "The Reconstellators". This came from some inspiration on how multiple characters (namely [[Tilly]] and [[Zrandovorski]]) have been talking about how the stars have been behaving strangely as of late, and also the symbology of how "each member of the party is an individual star and together we are reconstellating". It has a nice ring to it, so "the party" becomes "The Reconstellators".
 

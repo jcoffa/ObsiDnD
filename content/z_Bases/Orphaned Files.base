@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Orphaned Files
+    filters:
+      and:
+        - "!file.links"
+        - "!file.backlinks"
