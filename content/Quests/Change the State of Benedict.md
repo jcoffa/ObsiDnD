@@ -5,7 +5,7 @@ created: 2026-07-25 00:25
 
 #  [[Change the State of Benedict]]
 
-- **Status:** #ongoing 
+- **Status:** #completed ?
 - **Given by:** Unseelie Shopkeeper outside of [[Fair Helm City]], on behalf of The [[Unseelie Queen]]
 - **Location:** [[Fair Helm City]]
 - **Reward(s):** Entrance into [[Fair Helm City]] (received)

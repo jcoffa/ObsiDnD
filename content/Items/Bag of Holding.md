@@ -34,3 +34,14 @@ A patchy leather bag with a face sewn into it. This was [[Session 17#The Party L
 - 350 GP worth of ruby ([[Session 22#Our Reward is Getting The Fuck Out Of There|from Session 22]])
 - 100 GP worth of diamond ([[Session 22#Our Reward is Getting The Fuck Out Of There|from Session 22]])
 - 200 GP worth of obsidian ([[Session 22#Our Reward is Getting The Fuck Out Of There|from Session 22]])
+- Other heart in a jar ([[Session 26#The Utopian Spectator|from Session 26]])
+- Pulsating guts from a dead Hobgoblin ([[Session 26#The Utopian Spectator|from Session 26]])
+- "Gem of the night sky" ([[Session 26#The Utopian Spectator|from Session 26]])
+- *A dozen jars with rocks in them* ([[Session 26#The Utopian Spectator|from Session 26]])
+	- [[The Collector]] and [[Son]] are the only ones who know this is in the bag.
+- *Severed head of half-mummified hobgoblin* ([[Session 26#The Utopian Spectator|from Session 26]])
+	- [[The Collector]] and [[Son]] are the only ones who know this is in the bag.
+- [[Iocane Potion]]
+- [[Cloak of the Crowd]]
+- [[Box With a Coin Slot]]
+- [[Gem of the Night Sky]]

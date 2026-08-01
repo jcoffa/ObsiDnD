@@ -7,7 +7,7 @@ created: 2026-03-07 15:22
 
 - **Type:** Mundane (Consumable)
 - **Source:** N/A
-- **Currently Carried By:** [[The Collector]]
+- **Currently Carried By:** Nobody ([[Son]] blew it up in [[Session 26#Lights, Bombs, Action|Session 26]])
 - **Requires Attunement?** No
 
 ---
