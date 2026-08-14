@@ -121,19 +121,6 @@ if [[ $push_changes -ne 0 ]]; then
     exit 0
 fi
 
-if user_is_loremaster; then
-    echo ""
-    echo "Attempting to upgrade quartz packages"
-    echo ""
-    npx quartz upgrade
-
-    if [[ $? -ne 0 ]]; then
-        err ""
-        err " !! ERROR DETECTED !! Quitting $BASENAME script."
-        exit 1
-    fi
-fi
-
 echo ""
 echo "Attempting to Commit -> Push -> Delete backup"
 echo ""

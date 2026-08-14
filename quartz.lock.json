@@ -157,6 +157,12 @@
       "commit": "530a519b224c8495d0adabc0ea038a62613a659e",
       "installedAt": "2026-07-27T01:33:35.980Z"
     },
+    "its-theme.ttrpg-dnd": {
+      "source": "github:quartz-themes/its-theme.ttrpg-dnd",
+      "resolved": "https://github.com/quartz-themes/its-theme.ttrpg-dnd.git",
+      "commit": "ee643380fddc484544d6596f5c86cd88258901ce",
+      "installedAt": "2026-08-14T16:33:02.260Z"
+    },
     "latex": {
       "source": "github:quartz-community/latex",
       "resolved": "https://github.com/quartz-community/latex.git",

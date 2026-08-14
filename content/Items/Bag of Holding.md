@@ -38,9 +38,9 @@ A patchy leather bag with a face sewn into it. This was [[Session 17#The Party L
 - Pulsating guts from a dead Hobgoblin ([[Session 26#The Utopian Spectator|from Session 26]])
 - "Gem of the night sky" ([[Session 26#The Utopian Spectator|from Session 26]])
 - *A dozen jars with rocks in them* ([[Session 26#The Utopian Spectator|from Session 26]])
-	- [[The Collector]] and [[Son]] are the only ones who know this is in the bag.
+	- *[[The Collector]] and [[Son]] are the only ones who know this is in the bag.*
 - *Severed head of half-mummified hobgoblin* ([[Session 26#The Utopian Spectator|from Session 26]])
-	- [[The Collector]] and [[Son]] are the only ones who know this is in the bag.
+	- *[[The Collector]] and [[Son]] are the only ones who know this is in the bag.*
 - [[Iocane Potion]]
 - [[Cloak of the Crowd]]
 - [[Box With a Coin Slot]]

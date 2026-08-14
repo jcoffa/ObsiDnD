@@ -17,8 +17,8 @@ A metal chain with a black gemstone set into the pendant. The symbol of [[Lariza
 While worn, it grants a -1 penalty to all attack rolls, ability checks, and saving throws. It also provides access to the following spells:
 
 - [Eldritch Blast](https://5e.tools/spells.html#eldritch%20blast_xphb) (at will)
-- [Hunger of Hadar](https://5e.tools/spells.html#hunger%20of%20hadar_xphb) (1 cast per Long Rest)
-- [Animate Dead](https://5e.tools/spells.html#animate%20dead_xphb) (1 cast per Long Rest)
+- [Hunger of Hadar](https://5e.tools/spells.html#hunger%20of%20hadar_xphb) (1 free cast per **Long Rest**)
+- [Animate Dead](https://5e.tools/spells.html#animate%20dead_xphb) (1 free cast per **Long Rest**)
 
 Any area you sleep on while wearing the amulet becomes desecrated. Finally, it's a key component of a ritual to commune with a higher being in [[The Far Realm]].
 

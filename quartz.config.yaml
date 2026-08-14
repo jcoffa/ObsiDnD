@@ -40,7 +40,6 @@ configuration:
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
-
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -267,14 +266,6 @@ plugins:
     enabled: true
     options:
       enableCopyTool: false
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: true
-    options:
-      theme: its-theme
-      variation: ttrpg-dnd
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
@@ -282,7 +273,11 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
-
+  - source: "@quartz-themes/core"
+    enabled: true
+    options:
+      theme: its-theme
+      variation: ttrpg-dnd
 layout:
   groups:
     toolbar:
