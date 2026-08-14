@@ -24,6 +24,10 @@ This session was hosted at Thomas' new apartment; the first time the group has s
 
 ## Quotes
 
+>[!quote] Thomas
+>
+>You know before and after photos? Elon looks like the after and then the even further after.
+
 >[!quote] [[NG]]
 >
 >Hey, hey, hey. It's OK. People have done worse and lived.
