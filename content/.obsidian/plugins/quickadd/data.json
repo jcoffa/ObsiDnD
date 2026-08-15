@@ -277,18 +277,13 @@
   "inputPrompt": "single-line",
   "persistInputPromptDrafts": true,
   "useSelectionAsCaptureValue": true,
-  "searchNestedChoices": true,
-  "templateFolderLauncherRow": "bottom",
   "devMode": false,
-  "templateFolderPaths": [
-    "z_Templates"
-  ],
+  "templateFolderPath": "",
   "announceUpdates": "major",
-  "version": "2.22.0",
+  "version": "2.12.3",
   "globalVariables": {},
   "onePageInputEnabled": false,
   "disableOnlineFeatures": true,
-  "enableUriCallbacks": false,
   "enableRibbonIcon": false,
   "showCaptureNotification": true,
   "showInputCancellationNotification": false,
@@ -482,5 +477,11 @@
     "refreshStaleDefaultModelSeeds": true,
     "pinAiModelRefs": true
   },
+  "searchNestedChoices": true,
+  "templateFolderLauncherRow": "bottom",
+  "templateFolderPaths": [
+    "z_Templates"
+  ],
+  "enableUriCallbacks": false,
   "macros": []
 }

@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - Vicci
 created: 2026-07-13 11:57
 ---
 

@@ -23,8 +23,8 @@ created: 2026-01-08 18:18
 
 Every **Long Rest**, roll 2d20 and replace the numbers that are here with those new rolls.
 
-- [ ] 6
-- [ ] 9
+- [x] 20
+- [ ] 14
 
 ## Spellcasting
 
