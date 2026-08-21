@@ -31,6 +31,7 @@ views:
 >[!Tip]- Static Map Image
 >![[The Frozen March_2026-01-24T04-57-45.webp]]
 
+- _Note for the map calculations: it's currently measured by days of travel (1 day = 2 tiles by walking). The airship gives 3 tiles per day by flight. So you just multiply the ruler's "days" output by 2/3 to get the "days by flight"._
 ---
 
 A cold desolate wasteland north of the impassable peaks and north of [[Utopia]]. This is the place where all of the undesirables are sent. From political rivals of the Grand Exelcium to war criminals from the Clerical War, to even petty thieves. If you committed a crime to the crown, if you don’t get a slap on the wrist, you’ll likely end up here.

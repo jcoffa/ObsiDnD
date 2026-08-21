@@ -50,7 +50,7 @@ created: 2026-05-29 18:24
 
 >[!quote] [[Tilly]]
 >
->Do goblins have perspective in the age of consent? They don't even think that long.
+>Do goblins have perspective on the age of consent? They don't even think that long.
 
 ## Notes
 

@@ -22,6 +22,26 @@ created: 2026-08-14 18:11
 
 ## Quotes
 
+>[!quote] Joseph
+>
+>Gun to my head, I would pull the trigger.
+
+>[!quote] Thomas
+>
+>![[image_2026-08-21T13-03-41.webp]]
+>
+>Serving gunt.
+
+>[!quote] Everyone (we all started talking and it was good)
+>
+>The baby has lair actions in the uterus.
+
+>[!quote] Son's Side Quests Vol. 1
+>
+>The party: *Discusses the possibility of returning to [[The Stony Veil]], but are unsure because of the Xorn*
+>
+>[[Son]]: I'm gonna be honest, when I went back there I killed, like, 4.
+
 >[!quote] What are we?
 >
 >[[Tilly]]: I should get the Captain's Quarters, I'm the only girl!
@@ -113,7 +133,7 @@ The party still takes watches because it's possible that a dragon can still show
 #### What's Up With [[Zrandovorski]]?
 
 - [[Zrandovorski]] has a dream, which begins in the stars looking up to the sky, wondering *is anyone else looking up at the same one?*
-- He sees a feminin figure with a blade at their side, unclear whether its the past, present, or future. This is the most vivid vision he's had in over 100 years; typically theyre cryptic riddles. The last time this happened was when.. he was with his family.
+- He sees a feminine figure with a blade at their side, unclear whether its the past, present, or future. This is the most vivid vision he's had in over 100 years; typically they're cryptic riddles. The last time this happened was when.. he was with his family.
 - The figure walks through the dark streets of [[Utopia]], slicing down guards with her blade, yelling something on repeat; *"Where is [[Gedak]]?!?!"*
 - As the blade drips with the blood of the [[Utopia]] guard, and she screams in the air. The perspective changes and her face becomes visible; the face of [[Zrandovorski]]'s sister [[Ekvenur]]. Around her neck, a pendant with the symbol of [[Savras]].
 

@@ -36,7 +36,7 @@ created: 2026-07-03 18:11
 
 >[!quote] All Quiet on [[The Frozen March]]
 >
->[[Tilly]]: So, like, have you read any book recently?
+>[[Tilly]]: So, like, have you read any books recently?
 >
 >[[Zrandovorski]]: I've memorized them all.
 >

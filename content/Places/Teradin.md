@@ -25,6 +25,8 @@ views:
 >[!Tip]- Static Map Image
 > ![[Teradin.webp]]
 
+- _Note for the map calculations: it's currently measured by days of travel (1 day = 2 tiles by walking). The airship gives 3 tiles per day by flight. So you just multiply the ruler's "days" output by 2/3 to get the "days by flight"._
+
 # [[Teradin]]
 
 TODO! *Dani: DOING!*
