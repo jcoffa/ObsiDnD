@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - Baby Null
 created: 2026-05-26 14:46
 ---
 

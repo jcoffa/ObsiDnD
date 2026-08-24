@@ -6,6 +6,7 @@ created: 2026-07-25 00:25
 #  [[Change the State of Benedict]]
 
 - **Status:** #completed ?
+	- [[Session 26#Lights, Bombs, Action]]
 - **Given by:** Unseelie Shopkeeper outside of [[Fair Helm City]], on behalf of The [[Unseelie Queen]]
 - **Location:** [[Fair Helm City]]
 - **Reward(s):** Entrance into [[Fair Helm City]] (received)

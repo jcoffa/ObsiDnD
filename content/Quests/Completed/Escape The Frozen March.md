@@ -5,7 +5,8 @@ created: 2026-01-24 05:32
 
 #  [[Escape The Frozen March]]
 
-- **Status:** #ongoing
+- **Status:** #completed
+	- [[Session 28#The Everburning City]]
 - **Given by:** N/A
 - **Location:** [[The Frozen March]]
 - **Reward(s):** Freedom

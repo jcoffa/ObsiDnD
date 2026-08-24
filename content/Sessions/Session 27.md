@@ -79,9 +79,9 @@ created: 2026-08-14 18:11
 
 #### What Should the Shop Be Named?
 
-Polaris, by unanimous decision.
+[[Polaris]], by unanimous decision. That was easy!
 
-#### What to Do With the Bomb?
+#### Some Days You Just Can't Get Rid of a Bomb!
 
 - The bomb was set to go off when it was *impacted* by something (mainly, the door closing or opening). So it is live, but if handled carefully it should be OK.
 - [[NG]] casts *Enlarge/Reduce* on the bomb to make it half as big. He, with [[The Collector]]'s help and *Guidance*, is able to roll a 4+4+4=12 total for Sleight of Hand. The bomb begins arming and [[NG]] only rolls a 5-2=3 for Athletics so he is unable to make it to the edge fast enough. Instead, he throws the bomb upwards to get it as far away from the ship as possible. With a 15 DC, he gets it away from the ship but the explosion still clips him and he takes 22 force damage.
@@ -130,7 +130,7 @@ The party still takes watches because it's possible that a dragon can still show
 	- [[Kolvar]] mentions the flash of their past that they saw. The patron asks, *"How certain do you consider it to not be of your future?"*
 	- [[Kolvar]] thanks their patron for the wisdom, and they receive a dandelion. When they awake from their trance, they are holding the dandelion; the same flower they saw in their previous vision.
 
-#### What's Up With [[Zrandovorski]]?
+##### What's Up With [[Zrandovorski]]?
 
 - [[Zrandovorski]] has a dream, which begins in the stars looking up to the sky, wondering *is anyone else looking up at the same one?*
 - He sees a feminine figure with a blade at their side, unclear whether its the past, present, or future. This is the most vivid vision he's had in over 100 years; typically they're cryptic riddles. The last time this happened was when.. he was with his family.
@@ -192,4 +192,19 @@ The party gains 400 XP, for a total of 8,900 XP!
 
 ## Recap
 
-*What do you want to remember at the start of next session?*
+The Reconstellators, hot off their escape from [[Fair Helm City]] aboard their shiny new flying airship (which they name [[Polaris]]), take stock of their current situation and tackle a few pressing concerns.
+
+1. [[NG]] attempts to remove the bomb that is trapping a door in the cargo hold. He fumbles a Sleight of Hand check and arms the bomb. With some quick thinking, he casts *Enlarge/Reduce* to shrink the bomb so that it only kind of blows up on him.
+2. [[NG]] goes to check up on [[Garrison]], who, for some indescribable reason, is kind of upset that The Reconstellators fucked up the lives of two guys and then set a city on fire. They have a heart-to-heart, [[Garrison]] assures the party that he'll be fine and just needs to atone for his actions alone, and the two reaffirm their time-tested friendship. It's very cute!
+3. [[The Collector]], [[Son]], [[Zrandovorski]], and [[Tilly]] look at the weird corpse in the cargo hold. They discover that the heart is emanating Necromancy, Enchantment, and Divination (which is kind of concerning). They also discover that it belongs to the corpse but it has a different blood type (which is pretty concerning).
+4. The party discusses where to go next, and decides that they should go to [[The Hearth of Hope]] and pick up the stray [[Caelia|Caelians]], then head to [[Draskhrr]] to pick up the people who want to leave, and then leave [[The Frozen March]].
+
+The party decides to keep up their watches for the night in case they get attacked by dragons. [[NG]] and [[Kolvar]] discuss what [[Kolvar]]'s goals are once they make it out of [[The Frozen March|the March]]. They have no idea. When they're alone, [[Kolvar]] entreats with the [[Unseelie Queen]] (their patron) to double-check that they're happy with the results of [[Change the State of Benedict]]. Queen's happy and says they had fun, gives them a minor existential crisis by suggesting their visions of the past are actually visions of the future, and gives them a dandelion. [[Zrandovorski]] has a nightmare about his older sister, who appears to be in [[Utopia]] and is looking for his *younger* sister.
+
+On the next watch, [[The Collector]] confirms to [[Tilly]] that he would totally try to sell them out to [[Hadar]] if it could bring his Father back, but wants [[Tilly]] and The Reconstellators to try and stop him.
+
+On the flight back in the morning, they are attacked by a pack of 5 white dragon wyrmlings. Hesitant to kill them as they suspect these are the newborn babies of the white dragon eggs they found previously. They're able to scare them off by stabbing them in the face a couple times, although they do overdo it for one of them and it falls to the snowy wastes below. [[Son]] reclaims a dragon scale for his queen, [[Tilly]].
+
+The Reconstellators make it to [[The Hearth of Hope]] and [[The Collector]] explains the situation to [[The Soul Sage|Vicci]]. They end up taking 200 [[Caelia|Caelians]] onto the ship and will bring them back to [[Draskhrr]], leaving 105 of them here in [[The Hearth of Hope|The Hearth]] to help establish more than one viable city in [[The Frozen March]].
+
+To end the session, [[Tilly]] and [[Kolvar]] visit the grave of [[Blake]] and [[Son]] stomps on his burial mound.

@@ -221,7 +221,7 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 6,
+        "day": 13,
         "month": 6,
         "year": 133
       },
@@ -712,6 +712,57 @@
           },
           "id": "ID_7aab68fa690a",
           "note": "Sessions/Session 26.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Reconstellators fly in to The Hearth of Hope on their airship; Polaris",
+          "description": null,
+          "date": {
+            "day": 7,
+            "month": 6,
+            "year": 133
+          },
+          "id": "ID_d95a98da9819",
+          "note": "Sessions/Session 27.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Everburning Draskhrr is established",
+          "description": null,
+          "date": {
+            "day": 12,
+            "month": 6,
+            "year": 133
+          },
+          "id": "ID_3a4aab5b5a2a",
+          "note": "Sessions/Session 28.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Reconstellators leave The Frozen March",
+          "description": null,
+          "date": {
+            "day": 13,
+            "month": 6,
+            "year": 133
+          },
+          "id": "ID_fbfb39e8983a",
+          "note": "Sessions/Session 28.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,

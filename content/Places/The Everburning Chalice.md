@@ -6,7 +6,7 @@ marker:
 
 # [[The Everburning Chalice]]
 
-The de-facto tavern in [[Draskhrr]], run by the bartender Theresa and the head chef Arvind. The tavern gets its name from a large brazier in the center of the establishment which has never been extinguished (it may even be lit via [Continual Flame](https://5e.tools/spells.html#continual%20flame_xphb)).
+The de-facto tavern in [[Draskhrr]], run by the bartender Theresa and the head chef Arvind. The tavern gets its name from a large brazier in the center of the establishment which has never been extinguished (it may even be lit via [Continual Flame](https://5e.tools/spells.html#continual%20flame_xphb)). Its floor-plan is a perfect circle, meaning there are no corner booths.
 
 The establishment is always at least a little busy thanks to the tendency for Goblinoids to prefer drinking to working even if they have real work to be doing. This makes the tavern a popular gathering spot for the entire city every night regardless of whether there's any special reason or event that would make it particularly busy.
 

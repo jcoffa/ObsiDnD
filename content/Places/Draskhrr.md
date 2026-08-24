@@ -7,7 +7,7 @@ marker:
   - coordinates: 1364, 1280
     mapName: Teradin
     icon: lucide-home
-    minZoom: 0.5
+    minZoom: -0.5
 ---
 
 # [[Draskhrr]]

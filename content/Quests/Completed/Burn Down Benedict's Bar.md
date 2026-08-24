@@ -6,6 +6,7 @@ created: 2026-07-31 21:11
 #  [[Burn Down Benedict's Bar]]
 
 - **Status:** #completed
+	- [[Session 26#Lights, Bombs, Action]]
 - **Given by:** [[Ben Benedict|Captain Benedict]] on *The SS Benedict*
 - **Location:** [[Fair Helm City]]
 - **Reward(s):** A lucky magic box?

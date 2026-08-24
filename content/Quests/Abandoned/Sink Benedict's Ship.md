@@ -6,6 +6,7 @@ created: 2026-07-31 20:17
 #  [[Sink Benedict's Ship]]
 
 - **Status:** #abandoned
+	- [[Session 26#Lights, Bombs, Action]]
 - **Given by:** Benedict at *Benedict's* bar
 - **Location:** [[Fair Helm City]]
 - **Reward(s):**
