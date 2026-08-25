@@ -1,3 +1,7 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Fix a questionable colour choice of broken links in the TTRPG-WOTC theme that
+// makes broken links borderline un-readable against the background colour.
+a.broken {
+    color: #500;
+}

@@ -38,7 +38,7 @@ created: 2026-08-21 19:24
 
 >[!quote] [[The Collector]]
 >
-[[Tilly]]! That's a Ranger! Why are you talking to it???
+>[[Tilly]]! That's a Ranger! Why are you talking to it???
 
 >[!quote] How do we even work this into a real quote?
 >
