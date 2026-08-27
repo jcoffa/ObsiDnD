@@ -62,10 +62,10 @@ created: 2026-08-21 19:24
 - The party takes off for [[Draskhrr]] having picked up the 200 [[Caelia|Caelians]].
 - [[NG]] rigs up one of those Dairy Queen-style dishes that you can put coins in to have it slowly spin around before falling into the coin slot on the [[Box With a Coin Slot]]. [[The Collector]] puts in a GP and watches it spin into the box. *Kerplunk!*
 - Arriving at [[Draskhrr]], the party runs into [[Cline Daffenborn|Cline]]! Looks like they made it to [[Draskhrr]] since the last time the party saw them. They notice that he's wearing a silver medallion, resembling a crescent moon with two emeralds in it that look like eyes.
-- [[The Collector]] could not care less about any of this and books it to [[Grit Coalbelly]]'s place to go collect their 25% profit share from [[The Deep Forge]]. Turns out it's been doing EXTREMELY well, so the party receives 330 GP (55 GP each, including [[Garrison]] who is not here).
+- [[The Collector]] could not care less about any of this and books it to [[Grit Coalbelly]]'s place to go collect their 25% profit share from [[The Deep Forge]]. Turns out it's been doing EXTREMELY well, and it's been a month since they last collected, so the party receives 330 GP (55 GP each, including [[Garrison]] who is not here).
 - [[NG]], [[Tilly]], [[Zrandovorski]], and [[Kolvar]] go to see [[Toran the Red]] and discuss what to do with the refugees from [[Caelia]]. [[The Collector]], [[Son]], and [[Cline Daffenborn|Cline]] go check on [[The Baby]].
 
-### [[The Baby]] is Back!
+### [[The Baby]] is Back! (Let's Goooooo)
 
 - Team Baby heads to [[The Everburning Chalice]] and see Theresa making drinks, and she points them to Arvind in the kitchen. He has a backpack on with [[The Baby]] swaddled in, looking very comfortable and quite happy.
 - Arvind hands over the backpack swaddle with the baby in it. He explains that the baby has started eating solid food.
@@ -75,7 +75,7 @@ created: 2026-08-21 19:24
 
 - Team [[Toran the Red|Toran]] heads over to the longhouse and ask if her people are ready to leave.
 - [[NG]] asks if she knows a potentially safe place to drop them off once they're in the [[Utopian Empire]]'s territory. The party knows that the Southern regions of the continent aren't controlled by [[Utopia]], but that's far. [[Toran the Red|Toran]] muses that a place perceived as dangerous will not have much [[Utopia|Utopian]] presence even if it's *technically* within the [[Utopian Empire]]'s control. But it also needs to be survivable for the people who have to continue, you know, *surviving* wherever the party drops them off. She suggests that the actual people themselves might have places they want to go and would also have a better idea of what might be good places.
-- [[Toran the Red|Toran]] reaches into her pouch and places it into [[Kolvar]]'s fist. *"Keep this safe. You will know to use it when you need to."*
+- [[Toran the Red|Toran]] reaches into her pouch and places something small into [[Kolvar]]'s fist. *"Keep this safe. You will know to use it when you need to."*
 - [[NG]] is itching to start a bar fight so the party leaves and heads back to [[The Everburning Chalice]].
 
 ### Bar Fight?
@@ -128,14 +128,28 @@ created: 2026-08-21 19:24
 	- *[[Draskhrr]]* means *City* in Goblin.
 - The party flies South to [[Landon's Lamp]] with their new guests onboard, and cross over the mountain range that has kept them trapped in [[The Frozen March]] for 28 sessions. As they crest over the peak, the sun rises on a new arc of their adventure.
 
-**END OF ARC 1***
-
 The party gains 170 XP, for a total of 9,070 XP!
+
+![[End of the First Arc_2026-08-26T20-35-32.webp]]
+
+[DUNN DUNN](https://youtu.be/JsOPHyuAuT0)
 
 ## Recap
 
-*What do you want to remember at the start of next session?*
+Having just landed in [[The Hearth of Hope]] with their shiny new airship, [[Polaris]], and picked up some 200 [[Caelia|Caelians]], The Reconstellators continue their plan to leave [[The Frozen March]]. But before they leave, [[Zrandovorski]] and [[Tilly]] find a 400 GP diamond on a brooch belonging to [[The Golden Gauntlet]], [[Kolvar]] does some sleuthing and hears rumours that [[Utopia]] has doubled the guard around the exit to [[The Frozen March]], and [[NG]] accepts 14 GP from [[Tilly]] to craft a scroll of *Comprehend Languages* instead of performing some grave robbing for petty change. They christen [[Polaris]] with a tankard of *Snow Rat Shit* ([[The Everburning Chalice#Offerings|the alcoholic beverage]]) a-la that one scene from Shrek the Third, and they're off to their final pit stop; [[Draskhrr]].
 
-...
+The party fucks around with the [[Box With a Coin Slot]] before giving up again, and swing by [[The Deep Forge]] to collect their 25% profit share. Turns out [[Grit Coalbelly]] is the muthafuckin' GOAT and has earned 1320 GP in the last month, netting the party 330 GP to split between them or 55 GP each (*which [[Garrison]] should add to his inventory since he wasn't here this session!*) Also surprising them in [[Draskhrr]] is [[Cline Daffenborn]]; the teal-haired elven man they met back in [[Session 11]]. When they last parted ways, [[Cline Daffenborn|Cline]] was given warm clothing and directions to [[Draskhrr]] by The Reconstellators, so they're quite pleased to see that their religiously-confounding acquaintance has made it to one of the few beacons of civilization that [[The Frozen March]] has to offer.
 
-Oh, and [[Garrison]] needs to add 55 GP to his inventory thanks to the party's profit share from [[The Deep Forge]].
+After their reunion, [[The Collector]] and [[Son]] waste no time heading back to [[The Everburning Chalice]] to check on Arvind and [[The Baby]], and [[Cline Daffenborn|Cline]] tags along as well. Arvind has been a wonderful babysitter (despite his highly suspicious history pre-[[The Frozen March|March]]) and politely declines [[The Collector]]'s offer to join them on [[Polaris]] as a hireling. Seems like he's quite content with his simple life and has no ambition to give it up. Respecting his decision, Team Baby waits around the bar to meet up with...
+
+Team [[Toran the Red|Toran]], consisting of [[NG]], [[Tilly]], [[Kolvar]], and [[Zrandovorski]], head over to the Longhouse to let [[Toran the Red|Toran]] know what's up and pick up the [[Draskhrr]] citizens who want to leave [[The Frozen March]]. After their discussion ends and they move to leave, [[Toran the Red|Toran]] takes something small from her pouch and pushes it into [[Kolvar]]'s hand and tells them *"Keep this safe. You will know to use it when you need to."* Not ones to question the Main Character, the rest of Team [[Toran the Red|Toran]] let the moment pass and [[NG]] quickly itches to start a bar fight, so they head back to [[The Everburning Chalice]] to meet up with the rest of the party.
+
+The bar fight ends up being quite one-sided however, as the most fighting that happened was [[Tilly]] attempting to pet a `<barfing noise>` Ranger's animal companion, a half-serpent half-chicken Cockatrice, and almost becomes paralyzed from its poisonous bite. There's also a brief interaction between [[NG]] and the brown-cloaked man they've run into a few times. The man hasn't found whatever he's been looking for, asks about what happened to [[Caelia]] (gulp), and he hands a note for [[NG]] to read before he leaves. Curiously, the man insists on collecting the note before he leaves, as if he'll need it later for himself or someone else. Beyond that, the party talks to the [[Draskhrr]]ites who want to leave, and decide that a town called [[Landon's Lamp]] would be a decent place to drop everyone off at due to its relatively low presence of [[Utopian Empire|Utopian military]].
+
+They drink away the rest of the night before going to bed on [[Polaris]], parked just outside the city walls. [[Tilly]] drunkenly asks the stars what the name of her other half is, and receives no reply before passing out. The party wakes up the next morning to fuck around with the [[Box With a Coin Slot]] even more before giving up after way more attempts this time. Even [[Son]] wanted to give it a go this time!
+
+The session ends with [[Tilly]] finally enacting her [[Session 20#Downtime Time|sweet plan]] to cast *Continuous Flame* on the walls of [[Draskhrr]] and rebrand the city as *The Everburning [[Draskhrr]]*. The [[Draskhrr]]ites love it, and they cheer on The Reconstellators as they fly off with some 300 civilians in tow. As they crest over the enormous mountain range that has kept them trapped in [[The Frozen March|this frozen prison]] for 28 session, the sun rises to bring a new dawn of their adventure.
+
+![[End of the First Arc_2026-08-26T20-35-32.webp]]
+
+[DUNN DUNN](https://youtu.be/JsOPHyuAuT0)
