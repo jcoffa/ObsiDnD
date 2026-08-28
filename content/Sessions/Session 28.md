@@ -22,9 +22,23 @@ created: 2026-08-21 19:24
 
 ## Quotes
 
+>[!quote] The CEO of Racism
+>
+>Joseph: Passive income, but the income is racism.
+>
+>Sage: Ooooo, can I have that?
+>
+>Everyone: Don't worry, you've already got it.
+
 >[!quote] Cameron, making fun of [[Tilly]]
 >
 >"What are Sessions?" says the person from [[The Hexes]]...
+
+>[!quote] Fast Travel Unlocked?
+>
+>[[Tilly]]: [[Son]], you're back!
+>
+>[[Son]]: I'm wherever's funniest in the moment.
 
 >[!quote] 18 btw
 >
@@ -40,10 +54,17 @@ created: 2026-08-21 19:24
 >
 >[[Tilly]]! That's a Ranger! Why are you talking to it???
 
+>[!quote] [Another!!](https://tenor.com/view/another-thor-chrishemsworth-gif-4736083)
+>
+>[[Cline Daffenborn|Cline]]: Is it an acquired taste?
+>
+>[[Zrandovorski]]: Yeah, you acquire the taste instantly.
+
 >[!quote] How do we even work this into a real quote?
 >
 >- OrbHub
 >- Pondering the Orb
+>- The teens are Pondering the Orb, it's an epidemic
 >- Post-orb Clairvoyance
 >- "There's no such thing as *Cerulean Orbing*; it's just a way for men to manipulate people."
 >- "When I die, clear my *Scrying* history..."
