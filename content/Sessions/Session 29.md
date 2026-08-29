@@ -46,7 +46,7 @@ created: 2026-08-28 18:27
 
 ### Master Gave The Party an Airship, The Party is Free!!
 
-- As the [[Polaris]] crosses the mountain at sunrise, The Reconstellators and their 300 civilians see the Utopian Empire, warm air brushing their skin for the first time in forever.
+- As the [[Polaris]] crosses the mountain at sunrise, The Reconstellators and their 30 civilians see the [[Utopian Empire]], warm air brushing their skin for the first time in forever.
 - They land the ship in what would normally be a swampy clearing to the East of [[Landon's Lamp]], but has since solidified a bit in the cold weather (a balmy 5°C instead of the -25°C of [[The Frozen March]]).
 - The party debates whether they should go to [[Landon's Lamp]] for anything; [[Tilly]] mentions the idea of finding fuel, and [[The Collector]] is curious about getting an update about what has been happening on the continent since their arrests. [[NG]] and [[Garrison]] can't recall their being anything of note in the town, but they could have found some fuel in the mines there since the last visit.
 - They decide to head into town to scope out the getting-immediately-arrested situation for the [[Draskhrr]]ites, leaving them to guard the boat and leaving [[The Baby]] with the scariest motherfucker they could find on board.
@@ -109,6 +109,7 @@ created: 2026-08-28 18:27
 
 - [[Tilly]] and [[The Collector]] decide to head to the general store to investigate the ancient texts quest, where an older half-Elven man is running the shop. He claims to have a lead to some ancient texts, and shows a map leading directly to the Church of Annam they were just visiting. He says he would love to acquire some knowledge from there, and will pay 500 GP per book they acquire and bring back.
 - He asks if they would like anything from the store and [[The Collector]], naturally, asks for any magic items. He DID have some previously, but they were recently confiscated by the Utopian Guards. He'd also pay a handsome sum to someone who could return some 'similar' magic items (a goblet, a flute, and a flag) to him.
+- Before they leave, [[Tilly]] purchases a new, lighter leather coat for the warmer weather.
 - [[NG]] and [[Garrison]] arrive at the slag pile, seeing a person humming to themselves as they dig through the slag pile. As [[NG]] approaches the hooded woman immediately goes on guard, but he manages to talk her down and ask what she's looking for.
 - She questions if they're here for the Seers, the metal ball robots that are running around town. No one else in town believes they exist, but she's seen 3 or 4 of them. Sher reveals she has managed to catch one and discovered their inventor based on their maker's mark, and it is someone who resides in a factory in the Southern Isles (uh-oh).
 - She believes there's some sort of conspiracy at play, because why would a tinkerer in the Southern Isles care what she is doing up here, and [[NG]] is wondering the same thing. She invites him over and opens her bag, dropping a very stabbed machine in front of him, and asks him if he's seen his own symbol before on the other machines (UH-oh), and he admits he has.
