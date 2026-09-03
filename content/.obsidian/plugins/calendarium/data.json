@@ -221,7 +221,7 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 13,
+        "day": 16,
         "month": 6,
         "year": 133
       },
@@ -763,6 +763,23 @@
           },
           "id": "ID_fbfb39e8983a",
           "note": "Sessions/Session 28.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Reconstellators arrive at Landon's Lamp",
+          "description": null,
+          "date": {
+            "day": 16,
+            "month": 6,
+            "year": 133
+          },
+          "id": "ID_0bab3a6b0bca",
+          "note": "Sessions/Session 29.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,

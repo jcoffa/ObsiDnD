@@ -17,3 +17,5 @@ While more of a fortress than a city, [[Draskhrr]] is the largest example of civ
 Officially run by The Marquis of [[Draskhrr]], but he disappears for long periods of time and is rarely around to govern. More practically governed by The Count of [[Draskhrr]], [[Kaz the Cold]], and his second in command, [[Rykor Steelhand]], who controls a powerful military faction called [[The Iron Fang]]. The city started as a collection of Hobgoblin refugees who were displaced by their loss against [[Utopia]] in the [[Clerical War]].
 
 There were plans in motion by [[The Iron Fang]] to have the people of [[Draskhrr]] attack the gates leading out of [[The Frozen March]], but these plans were ultimately thwarted by The Reconstellators. They killed both [[Kaz the Cold]] and [[Rykor Steelhand]] and became heroes of the city, but ultimately left its rule to [[Toran the Red]] while they continued their journey to find a way out of [[The Frozen March]].
+
+Citizens of [[Draskhrr]] are called "[[Draskhrr]]ites".
