@@ -9,7 +9,7 @@ created: 2026-02-16 22:43
 - **Played By:** Kaitlin
 - **Class:** Cleric
 - **Species:** Wood Elf
-- **Sessions Active:** [[Session 6]] (temporary PC played for one session)
+- **Sessions Active:** [[Session 6]] (guest)
 - **Age:** N/A
 
 A mysterious and shady wood elf with ties to [[The Toppelgangers]] and a cult that they were hunting for unknown reasons. Not much is known about her, save for [[Session 6#Heart to Heart|a few cryptic questions she asked a former leader of this cult]]:

@@ -69,7 +69,7 @@ Due to real-life scheduling concerns (you may notice only 3 full-time party memb
 - The party debates where to go next, deciding that this is an opportune moment to go investigate [[The Scar of the Plane]]. They plan a 2.333-day route off the eastern mountain range into the ocean, which is then a 15-day sail to a place near some kind of settlement (with 4 towers?) in the desert near [[The Scar of the Plane|The Scar]].
 - On the first day of their journey, [[Son]] sees a man crying for help in the mountains. [[NG]] stops the ship and uses a rope with a bolt and tackle to hoist him up.
 - The man is thankful that he has been rescued. [[The Collector]] tries to ascertain *what* he is, but he is so malnourished that it's actually not clear whether he's human or not.
-	- He attempts to use *Healing Light* on the man, but oddly enough it doesn't appear to work.
+	- He attempts to use *Healing Light* on the ma[[Barony of Bison LeManso]]n, but oddly enough it doesn't appear to work.
 	- [[Big Bill]] offers him a bowl of porridge with some fruit in it, and he eats a spoonful and thanks the party.
 - He says he escaped from *"the [[Barony of Bison LeManso]]"*. [[The Collector]] has heard of this before, and asks the man what he was doing there. He replies that he was an indentured servant.
 	- Supposedly, the [[Barony of Bison LeManso]] are a group in [[The Scar of the Plane]] who farm chaos magic from the fumes emanating from.
@@ -93,9 +93,9 @@ Due to real-life scheduling concerns (you may notice only 3 full-time party memb
 	- The heart enlarges as it beats harder and harder as [[The Collector]] loses feeling in his arm. Then his chest. Then all of his body.
 	- He drops to the ground, and begins making death saving throws. The DM asks the party to roll initiative. What the fuck is happening here?
 
-#### Downedtime
+### Downedtime
 
-##### Round 1
+#### Round 1
 
 - [[NG]] hears some nefarious shit going on from the stockhold and watches the engorged heart grow in size on top of [[The Collector]] lifeless body as a large demon vulture-like creature tears out of the heart and unleashes a terrible screech. It appears uncomfortable to be below decks; anxious that it can't see the sky above it. Is it... trying to go somewhere?
 	- [[NG]] attempts to throw a net at the creature. It fails the DC 13 Dex save (narrwoly missing with a 12!) and is now restrained by the net.
@@ -111,7 +111,7 @@ Due to real-life scheduling concerns (you may notice only 3 full-time party memb
 - [[Son]] can't do anything as he's both stunned and a familiar.
 - [[Mike Spon]] takes one look at what's happening and retreats upstairs.
 
-##### Round 2
+#### Round 2
 
 - [[NG]] stammers *"I... I... Idea..."* and stumbles twards the stairs that [[Mike Spon]] went up.
 - [[Zrandovorski]], not really having much else to do and needing to kill the creature, casts *Chromatic Orb* at 3rd level again to deal 19 more thunder damage. He leaves the door open and backs up 10 feet.
@@ -121,7 +121,7 @@ Due to real-life scheduling concerns (you may notice only 3 full-time party memb
 - [[Son]] attempts to stabilize [[The Collector]] by succeeding on the normal DC 10 Wisdom (Medicine) check. Unfortunately he rolls an 8, ending his turn.
 - [[Mike Spon]] does... something on the top deck. None of the party can see him!
 
-##### Round 3
+#### Round 3
 
 - [[NG]] teleports 15 feet straight up to the top deck. He sees [[Mike Spon]] throwing a rope overboard to escape the ship and swim. [[NG]] makes it to the steering wheel and brings [[Polaris]] 100 feet up, out of the water. He is then able to cast *Faerie Fire* on the creature since it's the first time it's not been within 5 feet of an ally. The creature narrowly fails the DC 14 Dex save with a 13.
 - [[The Collector]] opts to *not* take [[Zrandovorski]]'s *Foretelling Roll* of a 15 and rolls his death save, despite a 5% chance of instantly dying upon rolling a 1. He rolls a 9, which is a failure but not an insatnt death. 0S/2F
@@ -162,13 +162,14 @@ Due to real-life scheduling concerns (you may notice only 3 full-time party memb
 - [[Zrandovorski]] looks to the stars, and he notices the stars... aren't visible here. Even though the prime moon is a new moon and the secondary moon is a small sliver, they are also not visible. This seems odd.
 - The watch ends with [[The Collector]] asking [[Zrandovorski]] if he ever quickly forgets things that happened recently. [[Zrandovorski]] remarks that he may be experiencing dimentia, and he should do some puzzles to keep his mind sharp. He hands him a 12-sided puzzle cube for him "to start with".
 
-### Towards the [[Barony of Bison LeManso|Barony]]
+### Some Sick Sleuthing
 
 - In the morning, [[The Collector]] summons [[Son]] back to relay what he found.
 	- The guards beat [[Mike Spon]]'s ass for "spilling the beans". When they got to the barony, they threw him onto a farm for him to work.
 	- There were many farmers working the land, like [[Mike Spon]]. They *ALL* looked very malnourished. The plants that they were farming looked like really big dandelions with actual lion faces on them.
 	- There were 4 towers that were wiry, like not fully solid. There was a huge spike in the middle of each tower that would rise and then plummet into the ground (like a pump?)
 	- The guards and [[Mike Spon]] didn't really rest at all during their 1.5-day journey besides a quick 10 minute rest.
+	- There was a large central tower with a red gem at the top of it. The red fog from [[The Scar of the Plane|The Scar]] may have twisted downwards into this gem, but [[Son]] wasn't sure.
 - [[The Collector]] wonders if [[Mike Spon]] was a vampire spawn. In addition to the whole "not resting" thing, he also recalls him not eating very much and the *Healing Light* didn't work on him.
 - The party slowly puts the puzzle pieces together using the following realizations:
 	- A malnourished man getting his ass beat and then being immediately sent to work farming, which he *actually performs successfully and does not seem terribly injured*.
