@@ -22,7 +22,7 @@ A patchy leather bag with a face sewn into it. This was [[Session 17#The Party L
 - Scroll of [*Blindness/Deafness*](https://5e.tools/spells.html#blindness%2fdeafness_xphb)
 - Scroll of [*Water Breathing*](https://5e.tools/spells.html#water%20breathing_xphb)
 - [[Iron Flask]]
-- Still beating heart in a jar
+- Still beating heart in a jar ([[Session 6#Heart to Heart|from Session 6]])
 - [[Cursed Amulet of the Farsighted One]]
 - Impression of *"[[Gobbo]] was here"*; charcoal on parchment
 - Scroll of *[Ice Storm](https://5e.tools/spells.html#ice%20storm_xphb)*

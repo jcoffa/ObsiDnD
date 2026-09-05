@@ -221,8 +221,8 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 16,
-        "month": 6,
+        "day": 1,
+        "month": 7,
         "year": 133
       },
       "events": [
@@ -780,6 +780,40 @@
           },
           "id": "ID_0bab3a6b0bca",
           "note": "Sessions/Session 29.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Collector opens a heart-in-a-jar",
+          "description": null,
+          "date": {
+            "day": 20,
+            "month": 6,
+            "year": 133
+          },
+          "id": "ID_2ada18a96919",
+          "note": "Sessions/Session 30.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Reconstellators Arrive in the LeManso Desert",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 7,
+            "year": 133
+          },
+          "id": "ID_69e92b2869ab",
+          "note": "Sessions/Session 30.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,

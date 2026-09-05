@@ -139,6 +139,16 @@ created: 2026-08-28 18:27
 - Back with [[Garrison]], his creator is shocked that she hasn't killed [[NG]] and asks why, and [[Garrison]] is convinced he was controlled and not directly responsible for the destruction of the factory. 
 - She says that it doesn't matter, her family died in there, innocents lost their lives, all of their work and automatons were destroyed. She tells [[Garrison]] that she won't stop her mission to kill [[NG]], no matter what he says.
 
+The party gains 360 XP, for a total of 9,430 XP!
+
 ## Recap
 
-*What do you want to remember at the start of next session?*
+The Reconstellators, having successfuly acquired [[poolar]], make their way out of [[The Frozen March]] cresting over the mountains on a new... Arc? Era? Unclear. They land 2 hexes to the right of [[Landon's Lamp]] to avoid making a huge scene as they arrive in town.
+
+They leave [[The Baby]], [[BD]], and the biggest motherfucker they have so they can scope out the city and make sure it's safe. They try to walk to [[Landon's Lamp]] for 6 hours but [[Garrison]] feels "rustbumps" (goosebumps?) and feel divine energy. The party heads towards the energy and finds a church devoted to [[Annam All-Father]] as manned by [[Vornak]]. The church is also a library and is full of old books and exposition! The party learns various things, including that being a herald of Hadar is really bad. Good thing there aren't any here! [[The Collector|At all!]]
+
+They get into [[Landon's Lamp]] and [[NG]] finds a tiny robot ball that's spying on them. He destroys it and quickly ushers the party to forget it ever happened. They head to the bar, see some dudes fighting over mining rights, and tell [[NG]] that he's more than welcome to check out the mining slag for usable materials. The party splits up; half going to the slag and the other half going to the general store to follow up on a quest.
+
+[[Tilly]] and [[The Collector]] go to the general store for [[Inquire About Ancient Lore and Texts|a quest]]. Turns out he wants the party to steal books from [[Vornak]] which the party immediately dismiss the notion of. He follows up that three of his magic items were stolen by [[Utopia|Utopian]] guard and he wants them back ([[Find Magic Items for a General Store Owner|another quest!]]). The party finds this suspicious, but also the money seems nice so they at least go to scope it out. They develop a plan to steal the items from the barracks.
+
+Meanwhile at the slag pile. [[Garrison]] and [[NG]] arrive to see a hooded woman digging through the pile. She is angsty and snaps at them, immediately threatening the strangers. Apparently some inventor destroyed [[Landon's Lamp]] and the factory she used to work on, and she has a maker's mark of [[NG]] (though she doesn't know it). She asks if she can confess something, and [[NG]] says "fuck no, but you can trust [[Garrison]]". The woman takes him to... his creator! She asks how [[Garrison]]'s mission has been, and he confesses ***EVERYTHING***, including that he forgot his mission, re-learned it, has been travelling with [[NG]] the entire time, and wants to abandon his mission and that [[NG]] deserves to live. His creator couldn't disagree more and demands that he is killed.
