@@ -143,7 +143,7 @@ The party gains 360 XP, for a total of 9,430 XP!
 
 ## Recap
 
-The Reconstellators, having successfuly acquired [[poolar]], make their way out of [[The Frozen March]] cresting over the mountains on a new... Arc? Era? Unclear. They land 2 hexes to the right of [[Landon's Lamp]] to avoid making a huge scene as they arrive in town.
+The Reconstellators, having successfuly acquired [[Polaris]], make their way out of [[The Frozen March]] cresting over the mountains on a new... Arc? Era? Unclear. They land 2 hexes to the right of [[Landon's Lamp]] to avoid making a huge scene as they arrive in town.
 
 They leave [[The Baby]], [[BD]], and the biggest motherfucker they have so they can scope out the city and make sure it's safe. They try to walk to [[Landon's Lamp]] for 6 hours but [[Garrison]] feels "rustbumps" (goosebumps?) and feel divine energy. The party heads towards the energy and finds a church devoted to [[Annam All-Father]] as manned by [[Vornak]]. The church is also a library and is full of old books and exposition! The party learns various things, including that being a herald of Hadar is really bad. Good thing there aren't any here! [[The Collector|At all!]]
 
