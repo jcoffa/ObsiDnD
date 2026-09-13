@@ -17,3 +17,5 @@ Friends and academic partners with [[Luca]], the Sphinx of Wonder, who is notabl
 
 - [[Visit Volo's Laboratory]]
 - Apparently this guy's power level changes wildly, depending on where he is and who is around him.
+- [[Vornak]] says that he would know way more about [[The Far Realm]] than he does.
+- [[Garrison]]'s creator was getting his assistance with finding [[NG]], and recommended The Reconstellators go visit him for information about [[The Factory]] and [[The Great Reset]].

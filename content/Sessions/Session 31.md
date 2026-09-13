@@ -80,7 +80,7 @@ created: 2026-09-11 16:10
 - She reveals what little she knows about the [[Barony of Bison LeManso|Barony]]. She knows that they have chaos brokers, who are known to have the only method of extracting and exporting the magic fumes coming out of [[The Scar of the Plane|The Scar]].
 - She's also heard that if exposed to the scar for a long time without proper protection, most creatures experience extreme negative side effects. Very few people could survive building a settlement this close to [[The Scar of the Plane|The Scar]], and most do it as protection.
 - [[Tilly]] shows passing interest towards going to the [[Barony of Bison LeManso|Barony]] but is repeatedly struck down. She tries appealing to [[The Collector]]'s sense of heroism, [[NG]]'s need for fuel and [[Kolvar]]'s interest in new places and people, but still gets shot down.
-- She asks where they intend to go if not there, which they've heard has Airship Fuel. Everyone agrees they should head south, but the question is where. They ask [[NG]] if they should return to the factory, but he says it's nigh on impossible. It is overrun with myconid spores in the air, meaning only [[Garrison]] could get through, if not for the copper rot also spread throughout the region.
+- She asks where they intend to go if not there, which they've heard has Airship Fuel. Everyone agrees they should head south, but the question is where. They ask [[NG]] if they should return to the factory, but he says it's nigh on impossible. It is overrun with myconid spores in the air, meaning only [[Garrison]] could get through, if not for the [[Copper Rot]] also spread throughout the region.
 - He does reveal he also has a home there, where him and his family lives, and this shocks the party members. He says he's had 700 years to get over it so it's fine. Either way, his house is also likely overrun.
 - After consulting the map, they decide to head to a large city near the lowest point of the Southern Isles. It will take approximately 17 days to get there using water boat travel (assuming it has the same speed as flying since only Joseph knows for sure)
 
@@ -117,13 +117,14 @@ created: 2026-09-11 16:10
 	- [[Garrison]] decides to spend time training on his mounted combat. Even though nothing comes out of it, his bond with [[Furret]] deepens.
 - [[Garrison]] approaches the party with some very important information pertaining to the factory, and we go back...
 
-### Ok, How Much Retconning Do We Need?
+### Back To The Future
 
-- ... to [[Garrison]],  standing inside the abandoned warhouse, a shield guardian armed in front of him and his creator, standing in its protection.
+- ... to [[Garrison]], standing inside the abandoned warehouse, a shield guardian armed in front of him and his creator, standing in its protection.
 - [[Garrison]] doubles down on the greatness of [[NG]]'s character, that he has done nothing but try to fix what has happened to the factory and it must have been the mushrooms, saying he believes it with everything he's made of.
 - His creator asks if he's willing to bet his oath and this and he gives the quickest 'absolutely' in the west. He says that channeling her energy into killing [[NG]] is a waste, that the greater threat is still out there and it seems to persuade her a bit.
-- She asks if [[NG]] is aware of the countdown they're on, and [[Garrison]] is confused. His creator explains that the factory was made to resist a creature that was coming to start "The Great Reset". The machines in the factories were weapons meant to stop this monster. There was once many such factories, but that one was the last one left. 
+- She asks if [[NG]] is aware of the countdown they're on, and [[Garrison]] is confused. His creator explains that the factory was made to resist a creature that was coming to start "[[The Great Reset]]". The machines in the factories were weapons meant to stop this monster. There was once many such factories, but that one was the last one left. 
 - [[Garrison]] says that if they need the factory to stop it then [[NG]] is the one person working harder than anyone to make that happen, and they need [[NG]] if they want to succeed. She tells the Shield Guardian to stand down, returning the sword to its back. She says that if [[Garrison]] trusts [[NG]] with his life and his oath, then she does too, and she's willing to put aside her vengeance for now.
+	- Quest: [[Restore The Factory]]
 - She says they have maybe a year or two before this threat arrives, and she'll try to do something to help, but getting the factory back online is the most important.
 - She tells him to go to ~~Cleveland~~ [[Weavewind]] to find a great researcher named [[Volo]], who has been helping her find [[NG]]. She warns that The Great Reset IS coming, and if they fail she won't have to kill [[NG]].
 - [[Garrison]] asks if she knows what this creature is, but she remembers little. Her parents told her that this monster was a creation of the gods, meant to wipe the slate clean or clear the palette before building again.
