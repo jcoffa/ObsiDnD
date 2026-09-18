@@ -168,4 +168,16 @@ The party earns 390 XP, for a total of 10,320 XP!
 
 ## Recap
 
-*What do you want to remember at the start of next session?*
+After a brief, hour-long debate with [[Tilly]] on why going to the [[Barony of Bison LeManso|vampire city]] might not be the best idea, The Reconstellators head back onto the [[Polaris]], deciding to head South to a city located on the southern tip of the southern island.
+
+They're not done with these nightwalkers yet though, as one day into their voyage they encounter another ship heading back towards the [[Barony of Bison LeManso|Barony]] who seem very interested in making contact with them. [[NG]] and [[Kolvar]] bravely venture into a meetup with its captain, [[Admiral Vazimir]] of the [[Barony of Bison LeManso]]. [[NG]] expert bullshittery manages to convince the captain that they're on a mission from The Baron to find some holy relics before the winter solstice, even though [[Admiral Vazimir|Vazimir]] offered them another job. However he does give them an ID card made with [[NG]]'s blood to allow their ship to port in the [[Barony of Bison LeManso|Barony]] should they return.
+
+The remainder of their 16 day journey passes uneventfully, with everyone taking some downtime; [[NG]] Light Yagami's the shit out of the [[Admiral Vazimir|Admiral]]'s signature, [[Kolvar]] puts on an incredible one-man show, [[The Collector]] looks at the sky, [[BD]] learns some tricks, and [[Garrison]] and [[Furret]] deepen their bond. 
+
+Speaking of [[Garrison]], now that he's had time to reflect on his time in [[Landon's Lamp]], he can tell us what he learned from his creator. Apparently [[NG]]'s factory was actually making weapons (or was a weapon) meant to stop a creature that starts [[The Great Reset]], an apocalyptic event that is coming in 1-2 years and bringing the factory back online might be the only way to stop it. [[Garrison]] confidently asserts that [[NG]] is the man for the job and is better off alive than dead, which convinces his creator to back down and leave The Reconstellators with the responsibility to [[Restore The Factory]]. 
+
+Meanwhile, back with [[Tilly]] and [[The Collector]] (featuring [[Kolvar]]), the 100% fool-proof plan turned out to be only 98% fool-proof. The guards hear invisible [[Tilly]] collecting the magic items so she asks for a distraction, which lead to [[The Collector]] and [[Kolvar]] convincing the guards of the Seer robots' existence, who decide the best way to deal with the problem is to escort the pair to safety... in the guard barracks [[Tilly]] just broke out of.
+
+A variety of shenanigans including 3 casts of *Invisibility*, 1 cast of *Suggestion* and a *Fly* manages to get the crew out of [[Landon's Lamp]] safely, with 3 of the most valuable magic items ever found and no retcons needed.
+
+...I guess except for that part where we said we for sure can't go to [[The Factory]] under any circumstances due to the everything happening there. Guess they'll have to figure it out after they're land-locked again. The session ends with The Reconstellators arriving in [[Kota-Ken]], the city of Gnomish Industry.
