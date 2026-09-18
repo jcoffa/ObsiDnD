@@ -72,6 +72,7 @@ created: 2026-09-11 16:10
 >[[The Collector]]/Brodie: And where are the airships coming from?
 >
 >[[NG]]/Thomas: From the sky, dumbass.
+
 ## Notes
 
 ### To Thrall Or Not To Thrall

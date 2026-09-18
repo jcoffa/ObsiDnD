@@ -10,7 +10,8 @@ created: 2026-05-31 02:50
 
 ## Abilities
 
-- **Fetch** (Command Word: ): (pin in Action or Bonus Action) - will retrieve an item within 30 ft. by blinking to grab
+Thanks to [[Tilly]]'s training, he can now do a few tricks that will trigger any time the command word is said:
+- **Fetch** (Command Word: TBD): (pin in Action or Bonus Action) - will retrieve an item within 30 ft. by blinking to grab
 - **Speak**: He can run up to 30 feet away and bark as a distraction, then teleport back
 - **Flee**: He can take an object and teleport up to 30 feet away before running away.
 

@@ -10,6 +10,7 @@ created: 2026-01-08 19:25
 - **Species:** Human *(Allegedly)* [[Session 0]] - [[Session 13]], Kalashtar [[Session 13]] - present
 - **Sessions Active:** [[Session 0]] - present
 - **Age:** 18 years old!
+- **Birthday**: Heat's Dusk, Week 4 (Under the 1st Lunar Eclipse)
 - **Height:** 5'6" [[Session 0]] - [[Session 7]], 6'1" [[Session 7]] - present
 ##### Appearance
 Looks to have spent all her time outside. Sun-kissed, ruffled hair woven with leaves and flowers, wearing a light tunic. Around her neck is a 10-sided prism that looks to contain a galaxy. Her wooden shield is the cross section of a large tree trunk.
