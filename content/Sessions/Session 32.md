@@ -56,7 +56,7 @@ created: 2026-09-18 18:17
 
 > [!quote] Sage
 >
->I wanna shoot myself in the head and get powers from it
+>I wanna shoot myself in the head and get powers from it.
 
 > [!quote] He JUST got here
 >
@@ -80,16 +80,16 @@ created: 2026-09-18 18:17
 >
 >Thomas: That's all it takes for you!?
 
+
 ## Notes
 
 ### [[NG]] Wants a Training Arc
 
 - The [[Polaris]] moves into the docks of [[Kota-Ken]], a bustling port town, with tons of ships already docked. There's a large shipwright's building with people moving in and out. There are a couple of gryphons flying out of the city with people riding them, and people sitting on the docks drinking from bottles and generally milling about.
 - There are ships from all over; there's a couple Utopian vessels, and many, many more flags they don't recognize. As they dock, some Orcish workers approach and ask if they need any repairs, which they decline. They tell them it's 10G/day that they're docked to be paid to the portmaster when they leave, and they tie down the ship with an arcane lock.
-- They ask the Orcish workers a variety of questions about [[Kota-Ken]]:
-	- [[NG]] 
+- They ask the Orcish workers a variety of questions about [[Kota-Ken]] (sorry team, this part here is my weakest notes section):
 	- [[The Collector]] asks about anything happening around town, and they haven't heard of much down at the docks, but lots of adventurers come in and out and there's a bar, [[The Golden Goose]] where they could find quests.
-	- [[The Collector]] asks about [[The Golden Gauntlet]]. They're said to be 'unkillable and indestructable'. They don't have any particular political leaning, they're mainly known for being heroic. They operate out of one of the large towers in the city.
+	- [[The Collector]] also asks about [[The Golden Gauntlet]]. They're said to be 'unkillable and indestructable'. They don't have any particular political leaning, they're mainly known for being heroic. They operate out of one of the large towers in the city.
 	- [[Tilly]] asks if there's anywhere to buy airship fuel, and they say there aren't any sellers they know in the city, but there are certainly plenty of boats with airship fuel. The ships travel all over the place, to places like [[Sygil]], The City of Doors, and there may be fuel there.
 	- There's also the entrance to [[The Underdark]], which you need special access for, like a ticket, to get down for the day.
 - First, they head to the shipwright's building to pay for their docking. They enter and there's a man, tall in a sailor's suit with a bowtie on one arm and a nice curly mustache. This is the Head shipwright, [[Zip]]. [[NG]] asks what exactly a shipwright does, and he says his role is primarily interior redesign of adventurer's ships, since most come 'acquired'. 
