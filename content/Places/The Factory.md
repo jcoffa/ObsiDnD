@@ -3,7 +3,7 @@ aliases:
 created: 2026-09-13 17:40
 marker:
   - mapName: Teradin
-    coordinates: 421, 676
+    coordinates: 525, 554
     icon: lucide-factory
     colour: "#039c4b"
     minZoom: -0.5
