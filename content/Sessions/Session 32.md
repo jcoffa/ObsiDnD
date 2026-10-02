@@ -95,7 +95,7 @@ created: 2026-09-18 18:17
 - First, they head to the shipwright's building to pay for their docking. They enter and there's a man, tall in a sailor's suit with a bowtie on one arm and a nice curly mustache. This is the Head shipwright, [[Zip]]. [[NG]] asks what exactly a shipwright does, and he says his role is primarily interior redesign of adventurer's ships, since most come 'acquired'. 
 - [[NG]] requests to be taught his shipwright-ing ways, and [[Zip]] says he could teach him but it would take a month to master the skills. Their current time crunch on [[Restore The Factory|restoring the factory]] prevents him from accepting the offer now, but [[NG]] assures him that he will be back to learn his ways.
 - [[Tilly]] asks again about airship fuel, and he says he knows no sellers but there are definitely a lot of people WITH airship fuel. There's a possibility some of them may have extra, or some could be acquired through less savory means, but [[Tilly]] turns down that option for now since it would make [[Garrison]] sad.
-- [[The Collector]] asks where they get people from, mentioning all the unkown flags he spotted when they arrived. [[Zip]] says they come from all over the place, with a few even being from other continents like Aen and Glazobaen.
+- [[The Collector]] asks where they get people from, mentioning all the unknown flags he spotted when they arrived. [[Zip]] says they come from all over the place, with a few even being from other continents like Aen and Glazobaen.
 
 ### Gonna Be, Gonna Be Golden (Gauntlet Initiates)
 
