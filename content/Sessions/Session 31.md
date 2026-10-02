@@ -150,7 +150,9 @@ created: 2026-09-11 16:10
 - [[Kolvar]] quickly casts *Invisibility* on the pair, narrowly missing the guards' line of sight, but they still have to make a break for it to avoid these new guards. [[Kolvar]] successfully escapes but [[The Collector]] trips and falls to the ground, making a dust cloud appear.
 - The guards shout "there he is!" as they spot their invisible 'thief', and it's not looking great for [[The Collector|Linus]], but he casts *Fly* on himself to prevent his capture. He takes one opportunity attack as he floats up, leaving a single drop of solidified blood on the ground, and the entire party returns to the ship.
 - On their way to the desert, [[NG]] identifies their 3 new magic items:
-	- 
+	- **Flute of Deafening** - deafens the user while playing the instrument
+	- **Flag of many colours** - spend 10 minutes and you may change the colour of this flag to any solid colour of your choice
+	- **Chalice of many flavours** - this chalice when filled with water can taste like any of the following options when you use a magic action on it. Milk, wine, water, beer
 
 ### Back To The Future: Part 2 (The One Where They Go To The Future)
 

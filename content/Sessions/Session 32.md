@@ -180,9 +180,9 @@ The Reconstellators dock in [[Kota-Ken]], the city of Gnomish Industry, and marv
 They speak with a pair of guards outside of one of the towers that acts as [[The Golden Gauntlet]]'s base, and learn they're having a mixer in a few days for new recruits if they're interested, since they're always looking for new adventurers in their line of work. They weren't always the glittering gold-gilded gryphon-galivanting group they are now, but they are known for being a heroic group with no political leanings, and may have acted under different names in the past when they did things less... renown-worthy.
 
 The Reconstellators decide they'd like to attend the mixer to learn more about the guild, but need to kill some time first, so they head to [[The Golden Goose]], the local adventuring hub. When they go to order drinks from the bar they discover they're selling some Fizzy's Soda, so everyone orders this new, strange beverage while [[NG]] consults the quest board for something to do:
-	[[Destroy the Swamp Mummies]]
-	[[Dispose of Natives for the Gnomish Industrial Complex]]
-	[[Remove The Kaiju Nest]]
+- [[Destroy the Swamp Mummies]]
+- [[Dispose of Natives for the Gnomish Industrial Complex]]
+- [[Remove The Kaiju Nest]]
 
 Since killing natives would depress the local paladin, and kaiju nest destruction seems to good to be true, they decide to deal with the swamp mummies, but first drop off [[The Baby|Baby Null]] at a nearby daycare, Tyke Tycoons.
 
