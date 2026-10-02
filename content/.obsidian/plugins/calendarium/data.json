@@ -221,7 +221,7 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 1,
+        "day": 20,
         "month": 7,
         "year": 133
       },
@@ -814,6 +814,108 @@
           },
           "id": "ID_69e92b2869ab",
           "note": "Sessions/Session 30.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Reconstellators Leave The Le Manso Desert",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 7,
+            "year": 133
+          },
+          "id": "ID_6bb85af9699a",
+          "note": "Sessions/Session 31.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Reconstellators meet Admiral Vazimir",
+          "description": null,
+          "date": {
+            "day": 3,
+            "month": 7,
+            "year": 133
+          },
+          "id": "ID_68eb4888fa98",
+          "note": "Sessions/Session 31.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Reconstellators arrive in Kota-Ken",
+          "description": null,
+          "date": {
+            "day": 19,
+            "month": 7,
+            "year": 133
+          },
+          "id": "ID_194a7b5a0ba9",
+          "note": "Sessions/Session 32.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Golden Gauntlet Mixer",
+          "description": null,
+          "date": {
+            "day": 22,
+            "month": 7,
+            "year": 133
+          },
+          "id": "ID_290808b92919",
+          "note": "Sessions/Session 32.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Garrison Meets His Creator",
+          "description": null,
+          "date": {
+            "day": 16,
+            "month": 6,
+            "year": 133
+          },
+          "id": "ID_39288a180a59",
+          "note": "Sessions/Session 31.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Reconstellators Enter the Mummy's Hole",
+          "description": null,
+          "date": {
+            "day": 20,
+            "month": 7,
+            "year": 133
+          },
+          "id": "ID_fb4b5869a8fa",
+          "note": "Sessions/Session 32.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,
