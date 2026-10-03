@@ -1,6 +1,12 @@
 ---
 aliases: []
 created: 2026-09-19 00:53
+marker:
+  - coordinates: 576, 737
+    mapName: Teradin
+    colour: "#f44546"
+    icon: lucide-skull
+    minZoom: -0.5
 ---
 
 #  [[Remove The Kaiju Nest]]

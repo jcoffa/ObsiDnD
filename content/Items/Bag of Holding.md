@@ -46,3 +46,4 @@ A patchy leather bag with a face sewn into it. This was [[Session 17#The Party L
 - [[Box With a Coin Slot]]
 - [[Gem of the Night Sky]]
 - Seer Robot in a Net ([[Session 29#Garrison 's Back!|From Session 29]])
+- Scroll of *Animate Dead*.
