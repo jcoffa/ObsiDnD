@@ -22,9 +22,23 @@ created: 2026-10-02 18:22
 
 ## Quotes
 
+>[!quote] Sage, firing strays
+>
+>Make stupid decisions, get paid to leave, isn't that basically what Jason does?
+
+>[!quote] Brodie
+>
+>You saw Asian!
+
 >[!quote] Dani, completely unprompted
 >
 >Cup size? I mean, boobs?
+
+>[!quote] What damage type is green?
+>
+>[[Kolvar]]: *uses Necrotic Damage against The Priest, it is not effective*
+>
+>[[NG]]: That's your fault for using poison damage!
 
 >[!quote] The party at 100% power
 >
@@ -49,6 +63,12 @@ created: 2026-10-02 18:22
 >[!quote] Dani
 >
 >I want to go see the back room. Jingle jingle jingle.
+
+>[!quote] How are we gonna be legendary at this rate?
+>
+>[[The Collector]]: You want to put down our name?
+>
+>Cameron: You don't???
 
 >[!quote] DT
 >
