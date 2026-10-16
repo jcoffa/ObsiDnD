@@ -211,4 +211,27 @@ The party gains 1,000 XP, for a total of 11,920 XP!
 
 ## Recap
 
-*What do you want to remember at the start of next session?*
+The Reconstellators continue their penetration of Mummy's Hole, finding themselves at the threshold of a room, seeing a floating figure above a pedestal at the center of the room. [[Tilly]] connects psychically with her to attempt to communicate without entering the room, and non-consensually has a third presence enter her body, using [[Tilly]] as a vessel to tell the party to leave
+
+After pogging about it being a woman for a bit, they find out she is The Priest of this Celestial Citadel, and they are either here to take her artifacts (so they have to die) or they're here to become the new guardians (so they have to kill her). Some more visions blast into [[Tilly]]'s head, of a decapitated corpse wearing the same necklace as The Priest, looking at some black orb and then being disintegrated.
+
+Despite their efforts to talk their way into the temple without having to fight, they enter combat, with [[Son]] immediately exploding into a pile of viscera upon entering the temple. RIP [[Son]] Session 25 - Session 33. Everyone else manages to enter the room with little to no explosions though, and they manage to defeat The Priest and her zombie minions, presumably destroying the zombie spawner.
+
+They learn the necklace she was wearing is the [[Talisman of the Sphere]], a legendary magical artifact capable of controlling The Sphere of Annihilation, if they can find it. They also get a [[Cloak of Levitation]] and some more spell scrolls (happy Wizard). 
+
+In the backroom, they find a map of [[Teradin]] that [[Zrandovorski]] copies down diligently (we canonically have a map now?), but it's very old, like before recorded history old, because [[The Scar of the Plane]] isn't there, as well as the volcanic island west of [[Utopia]].
+
+[[NG]] investigates the walls and discovers a secret room deeper in the temple; it has several scrying orbs surveilling the temple, a ladder leading up to a sealed exit at surface level, and a blueprint for a crab-like mech signed [[Kwalish]]. [[NG]] is hyped and immediately packs it away while they discuss if someone has been in here recently.
+
+[[Zrandovorski]] tries to *Detect Magic* on the blueprints to see if they're magically preserved, but notices there's someone else in the room, invisibly hiding under the table. They decide to leave a note for the guy, with [[Garrison]] and [[NG]] going up the ladder while the rest of the party heads back into the map room (in hindsight separating the party was a bad start).
+
+[[Garrison]] and [[NG]] find themselves in what seems to be an abandoned factory, nothing like the surface they saw before entering the temple. There are several walls that appear destroyed by some large creature. Undisturbed, they head into a room and find 4 massive stone eggs, and a large red eye peering through the delapidated walls. Disturbed.
+
+Back with the rest of the party, the mystery man introduces himself. His name is [[Squail Bigglebottom]], and he is an apprentice of [[Kwalish]]. He was stationed here to report to [[Kwalish]] when the artifact was stolen. The party asks what's up with the ladder since [[NG]] and [[Garrison]] aren't back, and he reveals that it's a portable hole that goes to one of [[Kwalish]]'s factories. Unfortunately, this one has been overrun by a giant kaiju.
+
+Hearing this, The Reconstellators head up the ladder, just in time to see [[NG]] carrying [[Garrison]]'s downed body into a rope trick and sending them into their second combat of the day! [[Son]] the 9th puts up an epic performance, scaring the scorpion creature with his sheer presence (and [[Kolvar]]'s illusion) to prevent [[Garrison]] from being killed. 
+
+[[Tilly]] decides to try and redirect its efforts to protect its eggs, casting ~~orbital laser~~ Moonbeam on the eggs to get its attention. Noticing that this must be [[Remove The Kaiju Nest|the Kaiju Nest the quest mentioned]], [[The Collector]] comes up with a plan so crazy that it's upsetting it worked. He has [[Zrandovorski]] use his final portent roll of 4 to put the kaiju under the effects of his Dissonant Whispers and force it to flee, allowing him to collect some the remnants of the destroyed eggs to prove their completion of the quest (cha-mutha-fuckin-ching). 
+
+[[Kolvar]] stays to finish off the final eggs before fleeing down the portable hole with the rest of the party, tanking the final hit from the kaiju with his sheer aura (Note: he did take damage), and the party ends back in Mummy's Hole, 1000 XP richer.
+
