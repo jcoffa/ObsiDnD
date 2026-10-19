@@ -41,11 +41,11 @@ created: 2026-10-16 18:05
 >Thomas: Good luck with your mom wife.
 
 >[!quote] Incognito Mode
-[[NG]]: Would you like any of the rolls?
+>[[NG]]: Would you like any of the rolls?
 >
-[[The Collector]]: God no, not after that reaction.
+>[[The Collector]]: God no, not after that reaction.
 >
-[[NG]]: Come on, people are Linus-ing up for them.
+>[[NG]]: Come on, people are Linus-ing up for them.
 
 >[!quote] Son (theoretically)
 >
