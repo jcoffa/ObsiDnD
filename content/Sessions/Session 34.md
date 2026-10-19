@@ -55,7 +55,7 @@ created: 2026-10-16 18:05
 >
 > (Leaned over, boobs pressed together) Who wants to play 'Box with A Coin Slot'?
 
->[!quote] 
+>[!quote] When's Election Day Again?
 >
 >Sage: I don't think babies' lives should be worth more
 >
