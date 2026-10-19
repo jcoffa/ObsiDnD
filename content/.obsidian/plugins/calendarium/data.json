@@ -221,7 +221,7 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 20,
+        "day": 22,
         "month": 7,
         "year": 133
       },
@@ -873,7 +873,7 @@
           "type": "Date"
         },
         {
-          "name": "The Golden Gauntlet Mixer",
+          "name": "The Reconstellators attend The Golden Gauntlet Mixer",
           "description": null,
           "date": {
             "day": 22,
@@ -881,7 +881,7 @@
             "year": 133
           },
           "id": "ID_290808b92919",
-          "note": "Sessions/Session 32.md",
+          "note": "Sessions/Session 34.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,
@@ -933,6 +933,40 @@
           },
           "id": "ID_e91b5b887808",
           "note": "Sessions/Session 33.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Reconstellators encounter the Jawbog Clan Hill Giants",
+          "description": null,
+          "date": {
+            "day": 21,
+            "month": 7,
+            "year": 133
+          },
+          "id": "ID_08d93be81988",
+          "note": "Sessions/Session 34.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Baby Null is kidnapped",
+          "description": null,
+          "date": {
+            "day": 22,
+            "month": 7,
+            "year": 133
+          },
+          "id": "ID_c88ae9a89aaa",
+          "note": "Sessions/Session 34.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,

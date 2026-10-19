@@ -211,7 +211,7 @@ The party gains 1,000 XP, for a total of 11,920 XP!
 
 ## Recap
 
-The Reconstellators continue their penetration of Mummy's Hole, finding themselves at the threshold of a room, seeing a floating figure above a pedestal at the center of the room. [[Tilly]] connects psychically with her to attempt to communicate without entering the room, and non-consensually has a third presence enter her body, using [[Tilly]] as a vessel to tell the party to leave
+The Reconstellators continue their penetration of Mummy's Hole, finding themselves at the threshold of a room, seeing a floating figure above a pedestal at the center of the room. [[Tilly]] connects psychically with her to attempt to communicate without entering the room, and non-consensually has a third presence enter her body, using [[Tilly]] as a vessel to tell the party to leave.
 
 After pogging about it being a woman for a bit, they find out she is The Priest of this Celestial Citadel, and they are either here to take her artifacts (so they have to die) or they're here to become the new guardians (so they have to kill her). Some more visions blast into [[Tilly]]'s head, of a decapitated corpse wearing the same necklace as The Priest, looking at some black orb and then being disintegrated.
 
