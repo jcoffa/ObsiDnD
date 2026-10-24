@@ -17,15 +17,10 @@ A patchy leather bag with a face sewn into it. This was [[Session 17#The Party L
 ## Contents
 
 - Black emerald (value unknown)
-- Scroll of [*Hunger of Hadar*](https://5e.tools/spells.html#hunger%20of%20hadar_xphb) (now held by [[The Collector]])
-- Scroll of [*Darkness*](https://5e.tools/spells.html#darkness_xphb)
-- Scroll of [*Blindness/Deafness*](https://5e.tools/spells.html#blindness%2fdeafness_xphb)
-- Scroll of [*Water Breathing*](https://5e.tools/spells.html#water%20breathing_xphb)
 - [[Iron Flask]]
 - Still beating heart in a jar ([[Session 6#Heart to Heart|from Session 6]])
 - [[Cursed Amulet of the Farsighted One]]
 - Impression of *"[[Gobbo]] was here"*; charcoal on parchment
-- Scroll of *[Ice Storm](https://5e.tools/spells.html#ice%20storm_xphb)*
 - The metal arm of [[Rykor Steelhand]]
 - Marquis *Speak With Dead* pendant
 - Sapphire (50 GP) - [[Garrison]]
@@ -40,10 +35,18 @@ A patchy leather bag with a face sewn into it. This was [[Session 17#The Party L
 - *A dozen jars with rocks in them* ([[Session 26#The Utopian Spectator|from Session 26]])
 	- *[[The Collector]] and [[Son]] are the only ones who know this is in the bag.*
 - *Severed head of half-mummified hobgoblin* ([[Session 26#The Utopian Spectator|from Session 26]])
-	- *[[The Collector]] and [[Son]] are the only ones who know this is in the bag.*
 - [[Iocane Potion]]
 - [[Cloak of the Crowd]]
 - [[Box With a Coin Slot]]
 - [[Gem of the Night Sky]]
 - Seer Robot in a Net ([[Session 29#Garrison 's Back!|From Session 29]])
-- Scroll of *Animate Dead*.
+
+### Scrolls
+
+- Scroll of [*Hunger of Hadar*](https://5e.tools/spells.html#hunger%20of%20hadar_xphb) (now held by [[The Collector]])
+- Scroll of [*Darkness*](https://5e.tools/spells.html#darkness_xphb)
+- Scroll of [*Blindness/Deafness*](https://5e.tools/spells.html#blindness%2fdeafness_xphb)
+- Scroll of [*Water Breathing*](https://5e.tools/spells.html#water%20breathing_xphb)
+- Scroll of *[Ice Storm](https://5e.tools/spells.html#ice%20storm_xphb)*
+- Scroll of *[Animate Dead](https://5e.tools/spells.html#animate%20dead_xphb)*
+- Scroll of *[Protection from Evil and Good](https://5e.tools/spells.html#protection%20from%20evil%20and%20good_xphb)*

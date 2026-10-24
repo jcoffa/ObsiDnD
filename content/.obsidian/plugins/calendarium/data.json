@@ -221,7 +221,7 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 22,
+        "day": 23,
         "month": 7,
         "year": 133
       },
@@ -967,6 +967,23 @@
           },
           "id": "ID_c88ae9a89aaa",
           "note": "Sessions/Session 34.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Reconstellators find a pair of dream eaters in The Underdark",
+          "description": null,
+          "date": {
+            "day": 23,
+            "month": 7,
+            "year": 133
+          },
+          "id": "ID_ab4aa80be828",
+          "note": "Sessions/Session 35.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,

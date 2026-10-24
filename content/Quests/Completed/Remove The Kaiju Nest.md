@@ -11,7 +11,9 @@ marker:
 
 #  [[Remove The Kaiju Nest]]
 
-- **Status:** #pending 
+- **Status:** #completed
+	- Killed: [[Session 33#Stony Gaze]]
+	- Delivered: [[Session 35#Triple G (Golden Gauntlet G)]]
 - **Given by:** [[The Golden Gauntlet]], through the quest board in [[The Golden Goose]]
 - **Location:** ???
 - **Reward(s):** 10,000GP

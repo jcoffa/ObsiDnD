@@ -11,10 +11,12 @@ marker:
 
 #  [[Destroy the Swamp Mummies]]
 
-- **Status:** #ongoing 
+- **Status:** #completed
+	- Completed: [[Session 33#Are we the Guardians Now?]]
+	- Turned in: [[Session 35#Rexamillion's]]
 - **Given by:** [[Rexamillion One-Billion]], through the quest board at [[The Golden Goose]]
 - **Location:** The Mummy's Hole located to the west of [[Kota-Ken]]
-- **Reward(s):** 1000 GP
+- **Reward(s):** 1,000 GP
 
 ## Details
 
