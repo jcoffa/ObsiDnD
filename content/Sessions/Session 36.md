@@ -20,19 +20,27 @@ created: 2026-10-30 18:20
 
 ## Quotes
 
-This is why you're so much more dangerous working for the enemy, they'll make good combat decisions  - Thomas about Brodie
+>[!quote] Thomas, about Brodie
+>
+>This is why you're so much more dangerous working for the enemy, they'll make good combat decisions.
 
-This is a lap, short for lapulator - Justin
+>[!quote] Justin
+>
+>This is a lap, short for lapulator.
 
-If you've got 30 acorn-sized testicles, your chances for testicular torsion looks WAY up. - Justin
+>[!quote] Justin
+>
+>If you've got 30 acorn-sized testicles, your chances for testicular torsion looks WAY up.
 
-NG: Tilly, what's that?
-
-Tilly: It's my Snail Flail Mail Veil!
-
-NG: Oh, mail as in chain mail.
-
-Son: No, mail as in the letter.
+>[!quote] Like, of the alphabet?
+>
+>[[NG]]: [[Tilly]], what's that?
+>
+>[[Tilly]]: It's my Snail Flail Mail Veil!
+>
+>[[NG]]: Oh, mail as in chain mail.
+>
+>[[Son]]: No, mail as in the letter.
 
 ## Notes
 
