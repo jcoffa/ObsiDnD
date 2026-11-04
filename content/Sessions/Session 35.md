@@ -38,6 +38,24 @@ created: 2026-10-23 18:26
 >
 >The elf is fent-folding. Anyone have narcan?
 
+>[!quote] Thomas
+>
+>There are 9/11s everywhere if you know where to look.
+
+>[!quote] Brodie
+>
+>I now have reason to be racist.
+
+>[!quote] Deliciously unfunny
+>
+>Thomas: Dildo is long for diljulator.
+
+>[!quote] The Father, The Dog, and the Holy Spirit
+>
+>Dani: Dude, this Clifford Dog is massive!
+>
+>Joseph: Bro, I be worshipping Clifford the Big Red God.
+
 ## Notes
 
 ### I Want to Catch a Drowsee
@@ -95,7 +113,7 @@ created: 2026-10-23 18:26
 ### The All-Faith Shrine
 
 - The church looks a bit run-down. The ground floor seems relatively fine, but the upper floors are noticeably less well-kept. There are quite a few people present, around 50% capacity, all doing separate prayers. There's room available to put down faith-specific equipment if needed.
-- At the front of the church is a dragonborn woman who appears to be in charge. She's reading out of a book and writing down notes in the margins, putting it away when [[NG]] calls out to her.
+- At the front of the church is a silver dragonborn woman who appears to be in charge. She's reading out of a book and writing down notes in the margins, putting it away when [[NG]] calls out to her.
 - [[NG]] asks if anyone here knows *Greater Restoration*, but it's too high a level for anyone to have it prepared. Maybe someone has a scroll for it, she muses, but otherwise it's too advanced for the people in [[Kota-Ken]].
 - [[Tilly]] explains the situation with their dreams while [[NG]] stares *daggers* into the dragonborn. He rolls well on an Insight check and gets a secret message from the DM. [[Tilly]] notices and mind links, [[NG]] urges her to not move her head. He strongly suspects an elf in the corner is the dream eater due to their glowing eyes and he senses the psychic energy.
 	- [[Tilly]] links to [[Son]] and relays the info, telling him to go notify [[The Collector]]. He is invisible but wearing a turtleneck so he very obviously runs out the church in a hurry. [[NG]] notices that the elf walks out of the church, and then slumps over shortly after. The party suspects that the dream eater can possess people temporarily and leave their mind at will.
