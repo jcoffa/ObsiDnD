@@ -119,4 +119,16 @@ The party receives 600 XP, for a total of 13,330 XP! They're only 670 XP away fr
 
 ## Recap
 
-*What do you want to remember at the start of next session?*
+We return to the Reconstellators, still sleepless in [[Kota-Ken]], getting ready to head into battle with the Dream Eaters, uncertain if [[The Collector]] is still whipped, I mean charmed. He casts Remove Curse on himself to no visible effects, and they charge into battle.
+
+The pair are an Incubus and Succubus, which is incredible news to the local paladin, [[Garrison]]. He basically jumps into solo combat against the pair and takes them both down on the same turn, dealing a record 68 damage with a single attack. Killing the pair frees the civilians in the cave from their control, and The Reconstellators lead them out and successfully collect yet another reward from [[The Golden Gauntlet]]. Man, they are rolling in it!
+
+Guess it's time to figure out what to do next, and [[The Collector]] is not keen to leave the city before getting some leads on [[The Baby|Baby Null]]. Their freshly lined pockets also open up the opportunity for bastion upgrades to the [[Polaris]], so The Reconstellators take 8 days of downtime while they wait for their upgrades.
+
+Here's what they got:
+- [[NG]] gets 8 days of progress on his 30 day shipwrighting apprenticeship
+- [[Tilly]] makes a Snail Flail Mail Veil and does some map stuff
+- [[The Collector]] posts a bounty for information on the mercenary and manticore who stole [[The Baby]]. A man comes forward who saw someone matching the description using a water portal outside of [[Kota-Ken]], but he doesn't know where he went or how he activated the portal.
+- [[Garrison]] goes looking for information on the myconids and [[Copper Rot]] at [[The Factory]]. He learns that both originated from the Feywild, and while the myconids were present in the [[The Underdark|Underdark]] before coming up to the Southern Isles, the [[Copper Rot]] would have to have been brought here on purpose.
+
+With bastion facilities built (Library and Storehouse) and more fuel overpriced fuel provided by another large ship, The Reconstellators get ready to set out to [[The Factory]], making a quick pit stop at the Water Portal to get any leads on [[The Baby]].
