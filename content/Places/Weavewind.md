@@ -11,3 +11,7 @@ marker:
 # [[Weavewind]]
 
 A large city located on the Northern part of the Southern Island. Not much is currently known of this city, other then that it is the largest city in [[Teradin]] and [[Volo]] resides there. 
+
+[[Bardryn Garnetbeard]] is the Thane of this place, and they owe [[Kolvar]] a favour.[^1]
+
+[^1]: [[Session 37#Downtime]]

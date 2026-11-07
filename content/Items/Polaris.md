@@ -9,7 +9,7 @@ created: 2026-08-23 23:26
 - **Currently Carried By:** N/A
 - **Requires Attunement?** No
 - **Travel Speed:** 3 hexes per day
-- **Fuel Remaining:** 36 hexes (12 days of travel)
+- **Fuel Remaining:** 49 hexes
 
 ---
 

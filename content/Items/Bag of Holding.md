@@ -40,13 +40,17 @@ A patchy leather bag with a face sewn into it. This was [[Session 17#The Party L
 - [[Box With a Coin Slot]]
 - [[Gem of the Night Sky]]
 - Seer Robot in a Net ([[Session 29#Garrison 's Back!|From Session 29]])
+- 12-pack of variety Globon Chill ([[Session 37#Dungeons and Drinking|From Session 37]])
+	- Includes a single *Euphoria*-flavour bottle
 
 ### Scrolls
+
+*Scrolls that end with **(!`<lvl>`)** are both copy-able by [[Zrandovorski#Extra Spell Sources|Zrandovorski]] and he hasn't already added it to his spellbook yet.*
 
 - Scroll of [*Hunger of Hadar*](https://5e.tools/spells.html#hunger%20of%20hadar_xphb) (now held by [[The Collector]])
 - Scroll of [*Darkness*](https://5e.tools/spells.html#darkness_xphb)
 - Scroll of [*Blindness/Deafness*](https://5e.tools/spells.html#blindness%2fdeafness_xphb)
 - Scroll of [*Water Breathing*](https://5e.tools/spells.html#water%20breathing_xphb)
-- Scroll of *[Ice Storm](https://5e.tools/spells.html#ice%20storm_xphb)*
-- Scroll of *[Animate Dead](https://5e.tools/spells.html#animate%20dead_xphb)*
-- Scroll of *[Protection from Evil and Good](https://5e.tools/spells.html#protection%20from%20evil%20and%20good_xphb)*
+- Scroll of [*Ice Storm*](https://5e.tools/spells.html#ice%20storm_xphb) **(!4)**
+- Scroll of [*Animate Dead*](https://5e.tools/spells.html#animate%20dead_xphb)
+- Scroll of [*Protection from Evil and Good*](https://5e.tools/spells.html#protection%20from%20evil%20and%20good_xphb)

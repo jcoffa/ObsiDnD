@@ -31,7 +31,11 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 
 ## Notes
 
+### ...
+
 <% tp.file.cursor() %>
+
+The party receives ??? XP, for a total of ??? XP! They're only ??? XP away from level ???!
 
 ## Recap
 
