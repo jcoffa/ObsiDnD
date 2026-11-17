@@ -180,4 +180,6 @@ The party receives 450 XP, for a total of 13,780 XP! They're only 220 XP away fr
 
 ## Recap
 
-*What do you want to remember at the start of next session?*
+The Reconstellators, aiing themselves into the new year, sailed towards the location where they last knew [[The Baby]] to be at. But they find a floating door on their travels, a door that the players know well but that their characters know well. This is [[The Angled Arrow]]; an interdimensional bar with many doors to traverse the planes. The party does drugs and talks to some Wood Woads who serve [[Tilly]] as the Goddess she is. The party learns a bit about the [[Unseelie Queen]], and [[Zrandovorski]] shows the Wood Woads how to get back home. They leave the tavern and depart for 
+
+high priestess in [[Weavewind]]. Collect ohas visions of his past, and party spends 2 hours digging up a corpse that they got nothing from.

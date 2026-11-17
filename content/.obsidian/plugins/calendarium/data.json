@@ -221,7 +221,7 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 6,
+        "day": 16,
         "month": 0,
         "year": 134
       },
@@ -1035,6 +1035,40 @@
           },
           "id": "ID_e86a1bf9eb3b",
           "note": "Sessions/Session 37.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Reconstellators Meet Theodore",
+          "description": null,
+          "date": {
+            "day": 11,
+            "month": 0,
+            "year": 134
+          },
+          "id": "ID_f8cb89fba90a",
+          "note": "Sessions/Session 38.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Reconstellators arrive at The Factory",
+          "description": null,
+          "date": {
+            "day": 16,
+            "month": 0,
+            "year": 134
+          },
+          "id": "ID_29eacb7a0ad9",
+          "note": "Sessions/Session 38.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,

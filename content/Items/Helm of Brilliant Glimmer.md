@@ -25,4 +25,10 @@ You gain the following benefits while wearing the helm.
 	- [Daylight](https://5e.tools/spells.html#daylight_xphb) (opal)
 	- [Fireball](https://5e.tools/spells.html#fireball_xphb) (diamond)
 	- [Wall of Fire](https://5e.tools/spells.html#wall%20of%20fire_xphb) (ruby)
-- ***These Flaming Spells!*** If you fail a saving throw against a spell, you take 1d6 Fire damage in addition to the normal effects of the spell.
+- ***These Flaming Spells!*** If you fail a saving throw against a spell, you take 2d6 Fire damage in addition to the normal effects of the spell.
+
+## Gemstone Tracking
+
+- **Diamonds:** 3
+- **Fire Opals:** 6
+- **Rubies:** 4

@@ -82,12 +82,16 @@ created: 2026-10-30 18:20
 - [[The Collector]] talks with the party in the morning about his conversation with [[Hadar]], and admits he offered him a deal: if [[The Collector]] promises to do the next thing he commands, no questions asked, he'll protect [[The Baby|Baby Null]] for a month.
 - Everybody is against the deal immediately, including [[The Collector]]. He seems pretty confident that if they wanted [[The Baby|Baby Null]] dead they could've killed him already, but [[NG]] points out the likely use of the baby for ritualistic sacrifice, which is not helpful for [[The Collector]]'s sanity.
 - They debate what they should do next: they've got to start heading towards the factory, but [[The Collector]] wants to be sure to exhaust every lead on [[The Baby|Baby Null]] before they go, and all of their new funds mean they can FINALLY start turning the [[Polaris]] into a proper bastion.
-- Much IRL conversing about bastion rules and mechanics happen:
-	- The [[Polaris]] already has 1 cramped room
-	- There is space to expand that cramped room to a roomy room, and construct 2 more roomy rooms below deck.
-	- Since they're in the city with a shipwright, it will take 7 days to create/expand existing rooms, and 1 additional day to convert those rooms into bastion facilities.
-	- Since they're hiring a shipwright to makes these expansions on a shorter timeframe, the normal 500GP/25 day upgrade is raised to 750GP/8 days per room.
-	- Since they are level 5, they can have 2 bastion facilities. They decide on the [Library](https://5e.scrunko.monster/bastions.html#library_xdmg) and the [Storehouse](https://5e.scrunko.monster/bastions.html#storehouse_xdmg).
+
+#### Bastioning
+
+Much IRL conversing about bastion rules and mechanics happen.
+
+- The [[Polaris]] already has 1 cramped room
+- There is space to expand that cramped room to a roomy room, and construct 2 more roomy rooms below deck.
+- Since they're in the city with a shipwright, it will take 7 days to create/expand existing rooms, and 1 additional day to convert those rooms into bastion facilities.
+- Since they're hiring a shipwright to makes these expansions on a shorter timeframe, the normal 500GP/25 day upgrade is raised to 750GP/8 days per room.
+- Since they are level 5, they can have 2 bastion facilities. They decide on the [Library](https://5e.scrunko.monster/bastions.html#library_xdmg) and the [Storehouse](https://5e.scrunko.monster/bastions.html#storehouse_xdmg).
 
 ### Downtime
 

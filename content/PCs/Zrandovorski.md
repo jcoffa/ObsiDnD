@@ -23,8 +23,8 @@ created: 2026-01-08 18:18
 
 Every **Long Rest**, roll 2d20 and replace the numbers that are here with those new rolls.
 
-- [ ] 7
-- [ ] 18
+- [x] 4
+- [x] 6
 
 ## Spellcasting
 
@@ -33,7 +33,7 @@ Every **Long Rest**, roll 2d20 and replace the numbers that are here with those 
 - **Spell Slots (Used/Total):**
 	1. 1/4
 		- Usually begins the day with 1 used due to *[Mage Armour](https://5e.tools/spells.html#mage%20armor_xphb)*.
-	2. 0/3
+	2. 3/3
 	3. 0/2
 - [ ] **Used free [*Shield*](https://5e.tools/spells.html#shield_xphb) spell from [Magic Initiate](https://5e.tools/feats.html#magic%20initiate_xphb)?**
 
@@ -116,6 +116,8 @@ Every **Long Rest**, roll 2d20 and replace the numbers that are here with those 
 ![[Booyahg Staff]]
 
 ![[Orb of Golden Heat]]
+
+![[Talisman of the Sphere]]
 
 ## Secret Stuff
 
