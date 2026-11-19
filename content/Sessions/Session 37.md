@@ -22,6 +22,16 @@ created: 2026-11-06 18:32
 
 ## Quotes
 
+>[!quote] Cameron
+>
+>I love baby.
+
+>[!quote] Showboating
+>
+>[[NG]]: Is it deep enough for the boat?
+>
+>[[Son]]: I don't know, I'm not a boat.
+
 >[!quote] He has something of an obsession
 >
 >[[The Collector]]: How deep is the water?
@@ -32,9 +42,29 @@ created: 2026-11-06 18:32
 >
 >[[Son]]: 354.57 exactly.
 
+>[!quote] Is the [[Utopia|Utopian]] Measuring System Imperial?
+>
+>[[Zrandovorski]]: What the hell is a centimetre?
+>
+>[[Son]]: It's like a foot, but a lot less!
+>
+>[[Zrandovorski]]: Oh, so it's nothing like a foot at all.
+
+>[!quote] Cameron
+>
+>[[Bastrilixia]] is a blue state, bro. 
+
 >[!quote] [[Garrison]]
 >
 >Of course I have games installed; I've been speedrunning DOOM since we met.
+
+>[!quote] Can't get a sentence out in this crowd!
+>
+>[[Tilly]]: [[Kolvar]], do you ever think about--
+>
+>[[Zrandovorski]]: Death?
+>
+>[[Kolvar]]: Yeah.
 
 >[!quote] Your hands should be at 10-and-2 at all times!
 >
@@ -42,11 +72,25 @@ created: 2026-11-06 18:32
 >
 >[[NG]]: It's a *boat*, [[Garrison]].
 
+>[!quote] Serving Gunt, Part 2
+>
+>Sage: Oh my god, the [[Helm of Brilliant Glimmer|Infinity Helmet]].
+>
+>Thomas: It's from Thanos and the Marvels.
+
+>[!quote] [[Zrandovorski]]
+>
+>Oh my god, my fucking spaghetti!!
+
 >[!quote] Actually, [[The Baby]] is a *Companion* and not a *Magic Item*
 >
 >Brodie: I'm sure I won't find any [[Hadar]]-themed magic items when we get to [[Weavewind]]
 >
 >Dani: Motherfucker, you *had* one and let it get stolen from a daycare!
+
+>[!quote] [[Son]]
+>
+>I figured out how the [[Bag of Holding]] works. You just think of a meatball and one comes out!
 
 ## Notes
 
