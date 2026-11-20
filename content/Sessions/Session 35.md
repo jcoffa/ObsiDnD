@@ -94,16 +94,18 @@ created: 2026-10-23 18:26
 	- [[Kolvar]] asks their guard to rate their exhaustion on a scale from 1-6 and he says "10". He remarks that he feels like he's been suffering from insomnia; none of his nights have been restful. During the mixer, he recalls someone he was talking to and she had kind of weirdly purple eyes [[Session 34#^coin-slot|talking about a "coin slot"]]. [[NG]] lies to him about 1/2-price breakfast across the street to mark that his responses were not particularly restful.
 	- [[The Collector]]'s guard had "a lot of dreams, actually". Some of which contained marauders, and a man with glowing purple eyes (whom he may or may not have *smashed*). He was positioned in *The Deep*, the entrance to [[The Underdark]] in/near town.
 	- [[Garrison]]'s guard slept terribly last night and was otherwise fine in previous nights. Last night, he dreamt of mercenaries or something. He was positioned in [[The Golden Goose]] for the past week. [[Garrison]] tells there's free breakfast across the street.
-	- [[Zrandovorski]]
+	- [[Zrandovorski]] whips out a clipboard and does an official exit interview without even bothering to look up at the guard he's interviewing. What a professional.
 		- Jacob Jacobson
 		- Sleep quality: 1/5
-		- Dreamt about his dad and was disappointed. *Pressed for more details, used his [[Zrandovorski#Foretelling Rolls|foretelling roll of 20]] to succeed on Persuasion*. His father told him he was disappointed in him because he decided to join the city guard. He thinks all guards are bastards, and disowned him. Very traumatic. His dad got in a lot of trouble last year and he had to bust this massive drug operation. Dad has green eyes, but in his dream they were purple. Last night he was stationed in the mixer, but his normal route is to do "The Rounds"; goes through most of the city (including by *The Deep*; the entrance to [[The Underdark]] in/near town). [[Zrandovorski]] continues the lie and says that the breakfast spot across the street will pay you to eat breakfast there.
+		- Dreamt about his dad and was disappointed. *Pressed for more details, used his [[Zrandovorski#Foretelling Rolls|foretelling roll of 20]] to succeed on Persuasion*. His father told him he was disappointed in him because he decided to join the city guard. He thinks all guards are bastards, and disowned him. Very traumatic. His dad got in a lot of trouble last year and he had to bust this massive drug operation. Dad has green eyes, but in his dream they were purple. Last night he was stationed in the mixer, but his normal route is to do "The Rounds"; goes through most of the city (including by *The Deep*; the entrance to [[The Underdark]] in/near town).
+		- Verdict: Needs therapy. Not useful for hunting the dream eater.
+		- [[Zrandovorski]] continues the lie and says that the breakfast spot across the street will pay you to eat breakfast there.
 - The party makes a plan to divide and conquer a bit. [[Zrandovorski]], [[Garrison]], and [[The Collector]] stick around at the library here in [[The Golden Goose]]. [[NG]], [[Kolvar]], [[Tilly]], and [[Son]] head to the all-faith shrine to hopefully purify themselves of their exhaustion from a high cleric.
 
 ### Golden Golem Glibrary
 
-- An iron golem made entirely of gold (gold golem?) appears to man the library. A few others are reading various manuscripts about the room.
-- [[The Collector]] approaches the golem, who shouts *"WELCOME TO THE LIBRARY! WHAT CAN I HELP YOU WITH?"*, the other patrons flinch. [[The Collector]] asks about books on monsters of [[The Underdark]], and the golem shouts "*RE-CALIBRATING. DOWN THIS HALLWAY!*" as he swings an enormous sword down a hallway.
+- An iron golem made entirely of gold (gold golem?) appears to staff the library. A few civilians are reading various manuscripts about the room.
+- [[The Collector]] approaches the golem, who shouts *"WELCOME TO THE LIBRARY! WHAT CAN I HELP YOU WITH?"*, and the other patrons flinch. [[The Collector]] asks about books on monsters of [[The Underdark]], and the golem shouts "*RE-CALIBRATING. DOWN THIS HALLWAY!*" as it swings an enormous sword to point down a nearby hallway. It almost cuts off [[The Collector]]'s head when it does this.
 	- [[Garrison]] asks for books on dreams, and the golem violently swivels around to point down a different hallway.
 	- [[The Collector]] asks for materials on Old Gods, and is pointed to the back of the library.
 - The readers make Intelligence checks to see how much info they can gather from their books.
