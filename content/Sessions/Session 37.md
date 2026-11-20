@@ -60,7 +60,7 @@ created: 2026-11-06 18:32
 
 >[!quote] Can't get a sentence out in this crowd!
 >
->[[Tilly]]: [[Kolvar]], do you ever think about-
+>[[Tilly]]: [[Kolvar]], do you ever think about--
 >
 >[[Zrandovorski]]: Death?
 >
