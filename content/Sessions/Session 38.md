@@ -137,6 +137,13 @@ That is, technically, the end of the encounter!
 
 *The party forgets to re-issue a Research command to the Library after learning about the [[Unseelie Queen]], effectively losing 3 days of progress on their next potential research topic.*
 
+#### Happy Birthday! (Tomorrow)
+
+- [[NG]] drops that his birthday is **Growth's Dawn 17**, which is the day after the party arrives at [[The Factory]]!
+- [[The Collector]] didn't know it was [[NG]]'s birthday, so [[Zrandovorski]] and [[Garrison]] shame him for being a bad friend. The two of them obviously have gifts prepared for [[NG]] already (like the good friends they are), while [[The Collector]] has to scramble for something suitable in under 24 hours with no access to civilization. Can't wait to see what he comes up with!
+	- The little shits purposefully didn't tell [[Kolvar]] and [[Tilly]] who were, uh, not present for this conversation.
+	- *They even go so far as to intentionally omit this entire section out of the first version of these published notes so that [[Kolvar]] and [[Tilly]] will also be surprised when they arrive for the next session! Those bastards!*
+
 ### Factory-Oh
 
 - [[The Factory]] is a marshy area full of tall dead grass, muddy fields, uneven ground, and many colourful varieties of mushrooms. A large clearing, evidently man-made, houses the actual factory building itself along with other small buildings even further off in the distance. A small area in the middle of the clearing is vibrant and healthy grass, a stark contrast to the surrounding environment. A wrought-iron staircase on the outside of the factory leads directly up to the second floor. A large stone the size of a medium boulder is blocking the entrance to the main factory building; a double-door of solid iron at ground-level.
