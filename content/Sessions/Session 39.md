@@ -42,7 +42,7 @@ created: 2026-11-20 17:48
 >
 >[[NG]]: If I was gonna stab you in the back, I'd do it with a gun.
 >
->[[Garrison]]: I was gonna stab you in the back, I'd turn to face you.
+>[[Garrison]]: If I was gonna stab you in the back, I'd turn to face you.
 
 >[!quote] Cameron
 >

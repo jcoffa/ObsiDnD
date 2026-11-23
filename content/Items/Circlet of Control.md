@@ -5,7 +5,7 @@ created: 2026-11-20 20:54
 
 #  [[Circlet of Control]]
 
-- **Type:** *Mundane/Ring/Armour (Chain Mail)/Weapon (Sword)/Wondrous Item/Monster Parts/etc.*
+- **Type:** Item
 - **Source:** Found in the office in [[The Factory]]
 - **Currently Carried By:** [[Bag of Holding]]
 - **Requires Attunement?** Yes
